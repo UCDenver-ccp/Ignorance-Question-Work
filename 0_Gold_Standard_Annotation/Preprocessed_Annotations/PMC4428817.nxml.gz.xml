@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC4428817.nxml.gz" text-file="PMC4428817.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-1" type="identity">
+         <class id="associated"/>
+         <span end="2071" id="PMC4428817.nxml.gz-2" start="2061">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-3" type="identity">
+         <class id="associated"/>
+         <span end="2382" id="PMC4428817.nxml.gz-4" start="2372">associated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-5" type="identity">
+         <class id="despite"/>
+         <span end="1855" id="PMC4428817.nxml.gz-6" start="1848">despite</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-7" type="identity">
+         <class id="first"/>
+         <span end="522" id="PMC4428817.nxml.gz-8" start="517">first</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-9" type="identity">
+         <class id="have...been"/>
+         <span end="413" id="PMC4428817.nxml.gz-10" start="404">have been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-11" type="identity">
+         <class id="if"/>
+         <span end="469" id="PMC4428817.nxml.gz-12" start="467">if</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-13" type="identity">
+         <class id="is"/>
+         <span end="476" id="PMC4428817.nxml.gz-14" start="474">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-15" type="identity">
+         <class id="may_be"/>
+         <span end="373" id="PMC4428817.nxml.gz-16" start="367">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-17" type="identity">
+         <class id="no...available"/>
+         <span end="1620" id="PMC4428817.nxml.gz-18" start="1618">no</span>
+         <span end="1675" id="PMC4428817.nxml.gz-19" start="1666">available</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-20" type="identity">
+         <class id="only"/>
+         <span end="500" id="PMC4428817.nxml.gz-21" start="496">only</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-22" type="identity">
+         <class id="point"/>
+         <span end="2358" id="PMC4428817.nxml.gz-23" start="2353">point</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-24" type="identity">
+         <class id="potential"/>
+         <span end="439" id="PMC4428817.nxml.gz-25" start="430">potential</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-26" type="identity">
+         <class id="potential"/>
+         <span end="2371" id="PMC4428817.nxml.gz-27" start="2362">potential</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-28" type="identity">
+         <class id="problem"/>
+         <span end="366" id="PMC4428817.nxml.gz-29" start="359">problem</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-30" type="identity">
+         <class id="suggest"/>
+         <span end="353" id="PMC4428817.nxml.gz-31" start="346">suggest</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-32" type="identity">
+         <class id="suggest"/>
+         <span end="1989" id="PMC4428817.nxml.gz-33" start="1982">suggest</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-34" type="identity">
+         <class id="trend"/>
+         <span end="1792" id="PMC4428817.nxml.gz-35" start="1787">trend</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4428817.nxml.gz-36" type="identity">
+         <class id="variation"/>
+         <span end="2312" id="PMC4428817.nxml.gz-37" start="2303">variation</span>
+      </annotation>
+   </document>
+</knowtator-project>

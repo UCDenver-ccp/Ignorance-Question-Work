@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC1533075.nxml.gz" text-file="PMC1533075.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-1" type="identity">
+         <class id="while"/>
+         <span end="1058" id="PMC1533075.nxml.gz-2" start="1053">while</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-3" type="identity">
+         <class id="than"/>
+         <span end="1015" id="PMC1533075.nxml.gz-4" start="1011">than</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-5" type="identity">
+         <class id="role"/>
+         <span end="84" id="PMC1533075.nxml.gz-6" start="80">role</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-7" type="identity">
+         <class id="effects"/>
+         <span end="1823" id="PMC1533075.nxml.gz-8" start="1816">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-9" type="identity">
+         <class id="to_determine"/>
+         <span end="1793" id="PMC1533075.nxml.gz-10" start="1781">to determine</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-11" type="identity">
+         <class id="although"/>
+         <span end="475" id="PMC1533075.nxml.gz-12" start="467">Although</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-13" type="identity">
+         <class id="impossible"/>
+         <span end="1780" id="PMC1533075.nxml.gz-14" start="1770">impossible</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-15" type="identity">
+         <class id="less"/>
+         <span end="703" id="PMC1533075.nxml.gz-16" start="699">less</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-17" type="identity">
+         <class id="may"/>
+         <span end="592" id="PMC1533075.nxml.gz-18" start="589">may</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-19" type="identity">
+         <class id="no...available"/>
+         <span end="250" id="PMC1533075.nxml.gz-20" start="248">no</span>
+         <span end="326" id="PMC1533075.nxml.gz-21" start="317">available</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-22" type="identity">
+         <class id="potential"/>
+         <span end="1803" id="PMC1533075.nxml.gz-23" start="1794">potential</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-24" type="identity">
+         <class id="rather"/>
+         <span end="1010" id="PMC1533075.nxml.gz-25" start="1004">rather</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-26" type="identity">
+         <class id="suggest"/>
+         <span end="539" id="PMC1533075.nxml.gz-27" start="532">suggest</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-28" type="identity">
+         <class id="trend"/>
+         <span end="695" id="PMC1533075.nxml.gz-29" start="690">trend</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-30" type="identity">
+         <class id="trend"/>
+         <span end="745" id="PMC1533075.nxml.gz-31" start="740">trend</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-32" type="identity">
+         <class id="vary"/>
+         <span end="940" id="PMC1533075.nxml.gz-33" start="936">vary</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-34" type="identity">
+         <class id="view"/>
+         <span end="220" id="PMC1533075.nxml.gz-35" start="216">view</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1533075.nxml.gz-36" type="identity">
+         <class id="where"/>
+         <span end="1146" id="PMC1533075.nxml.gz-37" start="1141">where</span>
+      </annotation>
+   </document>
+</knowtator-project>

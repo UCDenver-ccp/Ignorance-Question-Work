@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC4683322.nxml.gz" text-file="PMC4683322.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-1" type="identity">
+         <class id="could_be"/>
+         <span end="1954" id="PMC4683322.nxml.gz-2" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-3" type="identity">
+         <class id="has...been"/>
+         <span end="206" id="PMC4683322.nxml.gz-4" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-5" type="identity">
+         <class id="has...been"/>
+         <span end="1186" id="PMC4683322.nxml.gz-6" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-7" type="identity">
+         <class id="has...been"/>
+         <span end="2907" id="PMC4683322.nxml.gz-8" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-9" type="identity">
+         <class id="has...been"/>
+         <span end="5758" id="PMC4683322.nxml.gz-10" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-11" type="identity">
+         <class id="here"/>
+         <span end="573" id="PMC4683322.nxml.gz-12" start="569">Here</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-13" type="identity">
+         <class id="important"/>
+         <span end="243" id="PMC4683322.nxml.gz-14" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-15" type="identity">
+         <class id="important"/>
+         <span end="2944" id="PMC4683322.nxml.gz-16" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-17" type="identity">
+         <class id="is"/>
+         <span end="5416" id="PMC4683322.nxml.gz-18" start="5414">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-19" type="identity">
+         <class id="may_be"/>
+         <span end="2102" id="PMC4683322.nxml.gz-20" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-21" type="identity">
+         <class id="mixed"/>
+         <span end="4718" id="PMC4683322.nxml.gz-22" start="4713">mixed</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-23" type="identity">
+         <class id="new"/>
+         <span end="2020" id="PMC4683322.nxml.gz-24" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-25" type="identity">
+         <class id="new"/>
+         <span end="2577" id="PMC4683322.nxml.gz-26" start="2574">New</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-27" type="identity">
+         <class id="previously"/>
+         <span end="217" id="PMC4683322.nxml.gz-28" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-29" type="identity">
+         <class id="previously"/>
+         <span end="2918" id="PMC4683322.nxml.gz-30" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-31" type="identity">
+         <class id="which"/>
+         <span end="1177" id="PMC4683322.nxml.gz-32" start="1172">which</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-33" type="identity">
+         <class id="which"/>
+         <span end="5464" id="PMC4683322.nxml.gz-34" start="5459">which</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-35" type="identity">
+         <class id="which"/>
+         <span end="5749" id="PMC4683322.nxml.gz-36" start="5744">which</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-37" type="identity">
+         <class id="weight"/>
+         <span end="2684" id="PMC4683322.nxml.gz-38" start="2678">weight</span>
+      </annotation>
+   </document>
+</knowtator-project>

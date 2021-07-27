@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC1247630.nxml.gz" text-file="PMC1247630.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-1" type="identity">
+         <class id="asked"/>
+         <span end="1606" id="PMC1247630.nxml.gz-2" start="1601">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-3" type="identity">
+         <class id="can"/>
+         <span end="540" id="PMC1247630.nxml.gz-4" start="537">can</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-5" type="identity">
+         <class id="can"/>
+         <span end="1538" id="PMC1247630.nxml.gz-6" start="1535">can</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-7" type="identity">
+         <class id="can"/>
+         <span end="2390" id="PMC1247630.nxml.gz-8" start="2387">can</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-9" type="identity">
+         <class id="confirm"/>
+         <span end="525" id="PMC1247630.nxml.gz-10" start="518">confirm</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-11" type="identity">
+         <class id="correlated"/>
+         <span end="2007" id="PMC1247630.nxml.gz-12" start="1997">correlated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-13" type="identity">
+         <class id="even"/>
+         <span end="690" id="PMC1247630.nxml.gz-14" start="686">even</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-15" type="identity">
+         <class id="even"/>
+         <span end="740" id="PMC1247630.nxml.gz-16" start="736">even</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-17" type="identity">
+         <class id="few...studies"/>
+         <span end="858" id="PMC1247630.nxml.gz-18" start="847">few studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-19" type="identity">
+         <class id="first_study"/>
+         <span end="1087" id="PMC1247630.nxml.gz-20" start="1076">first study</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-21" type="identity">
+         <class id="has...been"/>
+         <span end="813" id="PMC1247630.nxml.gz-22" start="810">has</span>
+         <span end="822" id="PMC1247630.nxml.gz-23" start="818">been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-24" type="identity">
+         <class id="have...been"/>
+         <span end="873" id="PMC1247630.nxml.gz-25" start="864">have been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-26" type="identity">
+         <class id="have...been"/>
+         <span end="946" id="PMC1247630.nxml.gz-27" start="937">have been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-28" type="identity">
+         <class id="influence"/>
+         <span end="90" id="PMC1247630.nxml.gz-29" start="81">Influence</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-30" type="identity">
+         <class id="is"/>
+         <span end="334" id="PMC1247630.nxml.gz-31" start="332">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-32" type="identity">
+         <class id="is"/>
+         <span end="966" id="PMC1247630.nxml.gz-33" start="964">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-34" type="identity">
+         <class id="is"/>
+         <span end="1071" id="PMC1247630.nxml.gz-35" start="1069">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-36" type="identity">
+         <class id="linked"/>
+         <span end="2202" id="PMC1247630.nxml.gz-37" start="2196">linked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-38" type="identity">
+         <class id="may"/>
+         <span end="80" id="PMC1247630.nxml.gz-39" start="77">May</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-40" type="identity">
+         <class id="may"/>
+         <span end="675" id="PMC1247630.nxml.gz-41" start="672">may</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-42" type="identity">
+         <class id="may_be"/>
+         <span end="2512" id="PMC1247630.nxml.gz-43" start="2506">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-44" type="identity">
+         <class id="mixed"/>
+         <span end="952" id="PMC1247630.nxml.gz-45" start="947">mixed</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-46" type="identity">
+         <class id="new"/>
+         <span end="565" id="PMC1247630.nxml.gz-47" start="562">New</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-48" type="identity">
+         <class id="perhaps"/>
+         <span end="1920" id="PMC1247630.nxml.gz-49" start="1913">perhaps</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-50" type="identity">
+         <class id="prudent"/>
+         <span end="2464" id="PMC1247630.nxml.gz-51" start="2457">prudent</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-52" type="identity">
+         <class id="question"/>
+         <span end="1340" id="PMC1247630.nxml.gz-53" start="1332">question</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-54" type="identity">
+         <class id="question"/>
+         <span end="1595" id="PMC1247630.nxml.gz-55" start="1587">question</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-56" type="identity">
+         <class id="recent_research"/>
+         <span end="513" id="PMC1247630.nxml.gz-57" start="498">Recent research</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-58" type="identity">
+         <class id="relate"/>
+         <span end="1143" id="PMC1247630.nxml.gz-59" start="1137">relate</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-60" type="identity">
+         <class id="relationship"/>
+         <span end="2386" id="PMC1247630.nxml.gz-61" start="2374">relationship</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-62" type="identity">
+         <class id="remains"/>
+         <span end="2456" id="PMC1247630.nxml.gz-63" start="2449">remains</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-64" type="identity">
+         <class id="should_be"/>
+         <span end="2301" id="PMC1247630.nxml.gz-65" start="2292">should be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-66" type="identity">
+         <class id="this...study"/>
+         <span end="2423" id="PMC1247630.nxml.gz-67" start="2413">this study</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-68" type="identity">
+         <class id="vary"/>
+         <span end="1543" id="PMC1247630.nxml.gz-69" start="1539">vary</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-70" type="identity">
+         <class id="when"/>
+         <span end="1529" id="PMC1247630.nxml.gz-71" start="1525">when</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-72" type="identity">
+         <class id="however"/>
+         <span end="2432" id="PMC1247630.nxml.gz-73" start="2425">However</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC1247630.nxml.gz-74" type="identity">
+         <class id="focus"/>
+         <span end="889" id="PMC1247630.nxml.gz-75" start="884">focus</span>
+      </annotation>
+   </document>
+</knowtator-project>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC5501061.nxml.gz" text-file="PMC5501061.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-1" type="identity">
+         <class id="differ"/>
+         <span end="897" id="PMC5501061.nxml.gz-2" start="891">differ</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-3" type="identity">
+         <class id="first"/>
+         <span end="385" id="PMC5501061.nxml.gz-4" start="380">first</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-5" type="identity">
+         <class id="have...been"/>
+         <span end="1268" id="PMC5501061.nxml.gz-6" start="1259">have been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-7" type="identity">
+         <class id="have...been"/>
+         <span end="1528" id="PMC5501061.nxml.gz-8" start="1519">have been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-9" type="identity">
+         <class id="how"/>
+         <span end="1420" id="PMC5501061.nxml.gz-10" start="1417">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-11" type="identity">
+         <class id="is"/>
+         <span end="1091" id="PMC5501061.nxml.gz-12" start="1089">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-13" type="identity">
+         <class id="needs"/>
+         <span end="113" id="PMC5501061.nxml.gz-14" start="108">needs</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-15" type="identity">
+         <class id="variety"/>
+         <span end="197" id="PMC5501061.nxml.gz-16" start="190">variety</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-17" type="identity">
+         <class id="will"/>
+         <span end="1032" id="PMC5501061.nxml.gz-18" start="1028">will</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-19" type="identity">
+         <class id="will"/>
+         <span end="1620" id="PMC5501061.nxml.gz-20" start="1616">will</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-21" type="identity">
+         <class id="would"/>
+         <span end="1258" id="PMC5501061.nxml.gz-22" start="1253">would</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-23" type="identity">
+         <class id="would"/>
+         <span end="1518" id="PMC5501061.nxml.gz-24" start="1513">would</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-25" type="identity">
+         <class id="while"/>
+         <span end="1279" id="PMC5501061.nxml.gz-26" start="1274">while</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-27" type="identity">
+         <class id="focus"/>
+         <span end="55" id="PMC5501061.nxml.gz-28" start="50">focus</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-29" type="identity">
+         <class id="role"/>
+         <span end="533" id="PMC5501061.nxml.gz-30" start="529">role</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC5501061.nxml.gz-31" type="identity">
+         <class id="some"/>
+         <span end="1295" id="PMC5501061.nxml.gz-32" start="1291">some</span>
+      </annotation>
+   </document>
+</knowtator-project>

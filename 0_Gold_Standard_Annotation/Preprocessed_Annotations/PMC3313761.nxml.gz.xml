@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3313761.nxml.gz" text-file="PMC3313761.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-1" type="identity">
+         <class id="while"/>
+         <span end="519" id="PMC3313761.nxml.gz-2" start="514">while</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-3" type="identity">
+         <class id="while"/>
+         <span end="839" id="PMC3313761.nxml.gz-4" start="834">While</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-5" type="identity">
+         <class id="while"/>
+         <span end="3341" id="PMC3313761.nxml.gz-6" start="3336">While</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-7" type="identity">
+         <class id="role"/>
+         <span end="2591" id="PMC3313761.nxml.gz-8" start="2587">role</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-9" type="identity">
+         <class id="role"/>
+         <span end="2729" id="PMC3313761.nxml.gz-10" start="2725">role</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-11" type="identity">
+         <class id="effects"/>
+         <span end="2423" id="PMC3313761.nxml.gz-12" start="2416">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-13" type="identity">
+         <class id="effects"/>
+         <span end="2521" id="PMC3313761.nxml.gz-14" start="2514">effects</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-15" type="identity">
+         <class id="weight"/>
+         <span end="165" id="PMC3313761.nxml.gz-16" start="159">weight</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-17" type="identity">
+         <class id="due_to"/>
+         <span end="2035" id="PMC3313761.nxml.gz-18" start="2029">due to</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-19" type="identity">
+         <class id="may_be"/>
+         <span end="3587" id="PMC3313761.nxml.gz-20" start="3581">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-21" type="identity">
+         <class id="appeared"/>
+         <span end="1185" id="PMC3313761.nxml.gz-22" start="1177">appeared</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-23" type="identity">
+         <class id="call"/>
+         <span end="1404" id="PMC3313761.nxml.gz-24" start="1400">call</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-25" type="identity">
+         <class id="call"/>
+         <span end="1423" id="PMC3313761.nxml.gz-26" start="1419">call</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-27" type="identity">
+         <class id="consider"/>
+         <span end="3430" id="PMC3313761.nxml.gz-28" start="3422">consider</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-29" type="identity">
+         <class id="differ"/>
+         <span end="671" id="PMC3313761.nxml.gz-30" start="665">differ</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-31" type="identity">
+         <class id="has...been"/>
+         <span end="1719" id="PMC3313761.nxml.gz-32" start="1716">has</span>
+         <span end="1729" id="PMC3313761.nxml.gz-33" start="1725">been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-34" type="identity">
+         <class id="has...been"/>
+         <span end="2226" id="PMC3313761.nxml.gz-35" start="2223">has</span>
+         <span end="2236" id="PMC3313761.nxml.gz-36" start="2232">been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-37" type="identity">
+         <class id="has...been"/>
+         <span end="2333" id="PMC3313761.nxml.gz-38" start="2325">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-39" type="identity">
+         <class id="has...been"/>
+         <span end="2390" id="PMC3313761.nxml.gz-40" start="2382">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-41" type="identity">
+         <class id="has...been"/>
+         <span end="3298" id="PMC3313761.nxml.gz-42" start="3295">has</span>
+         <span end="3308" id="PMC3313761.nxml.gz-43" start="3304">been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-44" type="identity">
+         <class id="here"/>
+         <span end="2802" id="PMC3313761.nxml.gz-45" start="2798">here</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-46" type="identity">
+         <class id="importance"/>
+         <span end="3021" id="PMC3313761.nxml.gz-47" start="3011">importance</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-48" type="identity">
+         <class id="interact"/>
+         <span end="374" id="PMC3313761.nxml.gz-49" start="366">interact</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-50" type="identity">
+         <class id="investigations"/>
+         <span end="626" id="PMC3313761.nxml.gz-51" start="612">Investigations</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-52" type="identity">
+         <class id="is"/>
+         <span end="1603" id="PMC3313761.nxml.gz-53" start="1601">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-54" type="identity">
+         <class id="is"/>
+         <span end="2110" id="PMC3313761.nxml.gz-55" start="2108">is</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-56" type="identity">
+         <class id="issue"/>
+         <span end="737" id="PMC3313761.nxml.gz-57" start="732">issue</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-58" type="identity">
+         <class id="only"/>
+         <span end="2952" id="PMC3313761.nxml.gz-59" start="2948">only</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-60" type="identity">
+         <class id="prudent"/>
+         <span end="3418" id="PMC3313761.nxml.gz-61" start="3411">prudent</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-62" type="identity">
+         <class id="rarely"/>
+         <span end="2020" id="PMC3313761.nxml.gz-63" start="2014">rarely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-64" type="identity">
+         <class id="revealed"/>
+         <span end="635" id="PMC3313761.nxml.gz-65" start="627">revealed</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-66" type="identity">
+         <class id="usually"/>
+         <span end="3531" id="PMC3313761.nxml.gz-67" start="3524">usually</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-68" type="identity">
+         <class id="view"/>
+         <span end="1035" id="PMC3313761.nxml.gz-69" start="1031">view</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-70" type="identity">
+         <class id="when"/>
+         <span end="3459" id="PMC3313761.nxml.gz-71" start="3455">when</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-72" type="identity">
+         <class id="which"/>
+         <span end="1161" id="PMC3313761.nxml.gz-73" start="1156">which</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3313761.nxml.gz-74" type="identity">
+         <class id="would_be"/>
+         <span end="3410" id="PMC3313761.nxml.gz-75" start="3402">would be</span>
+      </annotation>
+   </document>
+</knowtator-project>

@@ -1,0 +1,3327 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance">
+    <Prefix name="" IRI="http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#incomplete_evidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Not_Ignorance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Barriers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#location/context"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#time_points"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#distinction_between_things"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#structure_consistency/uniformity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#production"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#timing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#global_organization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anomaly_curious_finding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#molecular_nature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#explicit_question"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#superficial_relationship_old"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#communication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mobilization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#options/specific_hypotheses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#characteristics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#model"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#activities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#duration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#methodology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#future_prediction"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#positiveExample"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#confused_with"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#problem_complication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Future_Opportunities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#black_box_topic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Epistemics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#life_span"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Retired_Concepts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sex"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#safety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#controversy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#structures/entities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#regulation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#dummy_property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#body_location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#full_unknown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#unexpected_observation"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#roles"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#function"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#possible_understanding"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#non_urgent_recommendation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#start_time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Subject"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#end_time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#morphology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#risk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#difficult_task"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#abilities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#new_scope"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pathway"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0_sample"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#etiology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#model/animal_system"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#scope_widening"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ignorance"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#negativeExample"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#automaticExtraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#reproducibility"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#magnitude/amount/size"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#disruption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#possible_explanation_old"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasSynonymType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#comparison"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#components"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#establishes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sr_partner"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#question_answered_by_this_work"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_about"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#claim"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#probable_understanding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#independent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#superficial_relationship"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#future_work"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#urgent_call_to_action"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#alternative_options"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sustains"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Barriers"/>
+        <Class IRI="#Epistemics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Epistemics"/>
+        <Class IRI="#Ignorance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Future_Opportunities"/>
+        <Class IRI="#Epistemics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Levels_Of_Evidence"/>
+        <Class IRI="#Epistemics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Subject"/>
+        <Class IRI="#Ignorance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Type"/>
+        <Class IRI="#Retired_Concepts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#abilities"/>
+        <Class IRI="#function"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#activities"/>
+        <Class IRI="#function"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#age"/>
+        <Class IRI="#timing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#alternative_options"/>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anomaly_curious_finding"/>
+        <Class IRI="#Epistemics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#black_box_topic"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#body_location"/>
+        <Class IRI="#location/context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#characteristics"/>
+        <Class IRI="#structures/entities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#claim"/>
+        <Class IRI="#Retired_Concepts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#communication"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#comparison"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#components"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#controversy"/>
+        <Class IRI="#Barriers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#difficult_task"/>
+        <Class IRI="#Barriers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#disruption"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#distinction_between_things"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#duration"/>
+        <Class IRI="#timing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#end_time"/>
+        <Class IRI="#timing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#environment"/>
+        <Class IRI="#location/context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#establishes"/>
+        <Class IRI="#production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#etiology"/>
+        <Class IRI="#Retired_Concepts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#explicit_question"/>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#full_unknown"/>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#function"/>
+        <Class IRI="#Subject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#future_prediction"/>
+        <Class IRI="#Future_Opportunities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#future_work"/>
+        <Class IRI="#Future_Opportunities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#global_organization"/>
+        <Class IRI="#Subject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#incomplete_evidence"/>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#independent"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#life_span"/>
+        <Class IRI="#timing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#methodology"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mobilization"/>
+        <Class IRI="#production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#model"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#molecular_nature"/>
+        <Class IRI="#structures/entities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#morphology"/>
+        <Class IRI="#structures/entities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#new_scope"/>
+        <Class IRI="#scope_widening"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#non_urgent_recommendation"/>
+        <Class IRI="#Retired_Concepts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pathway"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#possible_explanation_old"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#possible_understanding"/>
+        <Class IRI="#Retired_Concepts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#probable_understanding"/>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#problem_complication"/>
+        <Class IRI="#Barriers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#production"/>
+        <Class IRI="#Subject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#question_answered_by_this_work"/>
+        <Class IRI="#Epistemics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#regulation"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#reproducibility"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#risk"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#roles"/>
+        <Class IRI="#function"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#safety"/>
+        <Class IRI="#global_organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#scope_widening"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sex"/>
+        <Class IRI="#location/context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sr_partner"/>
+        <Class IRI="#superficial_relationship_old"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#start_time"/>
+        <Class IRI="#timing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#superficial_relationship"/>
+        <Class IRI="#Levels_Of_Evidence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#superficial_relationship_old"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sustains"/>
+        <Class IRI="#production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#time_points"/>
+        <Class IRI="#timing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#timing"/>
+        <Class IRI="#Subject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#unexpected_observation"/>
+        <Class IRI="#Retired_Concepts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#urgent_call_to_action"/>
+        <Class IRI="#Future_Opportunities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0_sample"/>
+        <Class IRI="#alternative_options"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#location/context"/>
+        <Class IRI="#Subject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#magnitude/amount/size"/>
+        <Class IRI="#structures/entities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#model/animal_system"/>
+        <Class IRI="#location/context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#options/specific_hypotheses"/>
+        <Class IRI="#Type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#structure_consistency/uniformity"/>
+        <Class IRI="#structures/entities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#structures/entities"/>
+        <Class IRI="#Subject"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#abilities"/>
+        <Class IRI="#activities"/>
+        <Class IRI="#roles"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#age"/>
+        <Class IRI="#duration"/>
+        <Class IRI="#end_time"/>
+        <Class IRI="#start_time"/>
+        <Class IRI="#time_points"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#black_box_topic"/>
+        <Class IRI="#components"/>
+        <Class IRI="#distinction_between_things"/>
+        <Class IRI="#possible_explanation_old"/>
+        <Class IRI="#scope_widening"/>
+        <Class IRI="#superficial_relationship_old"/>
+        <Class IRI="#options/specific_hypotheses"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#body_location"/>
+        <Class IRI="#environment"/>
+        <Class IRI="#sex"/>
+        <Class IRI="#model/animal_system"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#characteristics"/>
+        <Class IRI="#molecular_nature"/>
+        <Class IRI="#morphology"/>
+        <Class IRI="#magnitude/amount/size"/>
+        <Class IRI="#structure_consistency/uniformity"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#establishes"/>
+        <Class IRI="#sustains"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#function"/>
+        <Class IRI="#global_organization"/>
+        <Class IRI="#production"/>
+        <Class IRI="#timing"/>
+        <Class IRI="#location/context"/>
+        <Class IRI="#structures/entities"/>
+    </DisjointClasses>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#Barriers</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">an obstacle preventing research from moving forward that needs to be overcome</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#Epistemics</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">indicates a statement of ignorance</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#Future_Opportunities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">an explicit statement of future needs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#Levels_Of_Evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">how much evidence do we have? How confident are we in that evidence?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#Subject</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">specific part or feature about the system or its components within the type of ignorance</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#Type</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Overarching type of ignorance</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#abilities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the skills and potential to act</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#abilities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What can things do/not do in the relvant circumstances?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#activities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the realization of abilities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#activities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What actions occur at different time points?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#age</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">length of time a thing has existed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#age</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the age?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of multiple (at least 2) choices or actions (NCIT_C25374) with no stated disagreements, including statements with an implied second option such as &quot;whether&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#automaticExtraction"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">an explicit statement of multiple (at least 2) choices, actions, approaches, or methods that needs to be experimentally determined, with no stated disagreements, including statements with an implied second option, such as “whether”. Presenting multiple options or seeking other options which implies the best option has not yet been chosen. The next actionable step is to determine the correct option or a better option. The template is: “multiple options presented including: &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#alternative_options</IRI>
+        <IRI>#controversy</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">alternatively/alternative/other</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">and/or</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">beliefs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">both/several</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">cannot be ruled out/ cannot rule out</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">hypotheses/theories/claims/perspectives/beliefs/models</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">though</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">two</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">which</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">either...or</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">whether...or/ if</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#alternative_options</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determine the correct option or a better option</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of a surprising result, conclusion, observation or situation; the researchers were not expecting the result, conclusion, observation or situation but are intrigued by it. The next actionable steps are to explore the surprising result, conclusion, or situation more and determine if the result, conclusion, observation, or situation are repeatable. The template is: “a curious finding that &lt;subject&gt;, (given that…)”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">although</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">curious</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">despite/in spite</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">even</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">importantly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">interestingly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ironically</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">moreover</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">notably</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">on the other hand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">rather (than)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">remarkably</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">strikingly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">surprisingly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">suspected</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">though</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unanticipated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unexpectedly/unexpected</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unusual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">yet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">however</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#anomaly_curious_finding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">explore the surprising result/conclusion more</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#black_box_topic</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance about one specific topic that is not known or researched yet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#black_box_topic</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Explore/investigate the topic to begin to generate hypotheses and questions to ask about it</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#body_location</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">located in a specific part of the organism (like a body part or organ) instead of referring to the whole organism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#body_location</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Where in the organism?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#characteristics</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">an other category for structures and entities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#characteristics</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">what are structural or entity characteristics?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of a proposed explanation for a phenomenon (SIO_000284) on the basis of limited evidence as a starting point for further investigation 
+
+only one explanation proposed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#automaticExtraction"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Extract one claim/hypothesis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#claim</IRI>
+        <IRI>#alternative_options</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">argued/argues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">attempt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">belief/believe/believed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">claim/claimed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">conjecture</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">hypothesis/hypothesize/hypothesised</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">idea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">interpretation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">model</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">notion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">philosophy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">premise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">propose(s)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">speculate/speculative/speculation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">theory/theorized/theoretically</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">thought</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">view</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#claim</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">gather more evidence to support or refute the claim</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#communication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">contact between at least two things</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#communication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Do these things communicate with each other? How do they communicate?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#comparison</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determining similarities and differences between at least two things</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#comparison</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">classification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#comparison</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">match</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#comparison</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">How are these things similar and different?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#components</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance about the pieces involved in a mechanism or schema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#components</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What are the components of a scheme? Are we missing any?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of disagreement amongst researchers OR a lack of consensus OR at least two possible answers are presented as results from different researchers - usually in reference to previous results and stated when results disagree with each other OR contradictions. The next actionable step is to determine the truth to break any disagreements. The template is: “need to resolve disagreements between/about &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#controversy</IRI>
+        <IRI>#alternative_options</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">assumption</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">but others</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">calls into question/ has been questioned</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">cannot agree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">conflict/conflicting/conflicted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">contrary/countervailing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">contrasting/in contrast</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">controversial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">convincingly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">corroborate and/or dispute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">counterintuitive</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">criticized</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">debate/debated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">differ/discrepancy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">dilemma</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">disconnect/discord</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">disparities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">do not agree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">does not typically</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">doubt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">dueling tensions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">fairly consistent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">had long been believed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">has been challenged</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">have been variably</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">imprecise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">inconclusive/ not conclusive</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">inconsistency/not consistently/ inconsistent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mixed/ mixed results</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">most studies... but</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no conclusion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not settled/ not yet settled/ unsettled</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not univocal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">opposing/opposing findings/ opposite to our findings/ completely oppositie</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">paradox/paradoxically</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">previously thought/predicted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">questioned</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">refutes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">scrutiny</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">several explanations</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">some but not all</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">some but not other studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">split</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">subject of numerous studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">thought to be... but/ initially thought</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uncritical/ uncritically adopted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unorthodox</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unresolved issues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">varied widely</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">vary/varies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">wide range</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">have been implicated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#controversy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">break the disagreements by finding the truth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of something not easily done, accomplished, comprehended, solved, or complicated with a multitude of underlying pieces or parts; heterogeneity; not medical complications. The next actionable step is to create methods to study the complicated system and to better understand any piece of the complicated system; potentially overall field development needed. The template is: “a difficult task to &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">challenge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">complex/complexity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">complicated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">confused/ easily confused</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">could not be/cannot be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">difficult</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">hard</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">has not occurred</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">heterogeneous</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">impossible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ominous</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">spectrum</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">struggle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">variability/ variety/ vary/ varies/ vary substantially/ variation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#difficult_task</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">create methods to study the complicated system and to better understand any piece of the complicated system; Potentially needs overall field developments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#disruption</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">disturbance or problems or alterations that interrupt an event, activity, or process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#disruption</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is disrupted? How is it disrupted?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#distinction_between_things</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance about a distinction between multiple things</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#distinction_between_things</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What makes these things/phenomenon distinct from each other?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#duration</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the length of time for a process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#duration</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">How long is the process?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#end_time</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the termination time of a process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#end_time</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">When does the process end?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#environment</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the outside surroundings of the system</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#environment</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">lifestyle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#environment</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What are the surroundings? What role do the surroundings play?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#establishes</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">information about establishment including formation and signaling</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#establishes</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">development</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#establishes</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">program/programming</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#establishes</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What establishes it? How is it established? What forms it? What signals it?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement about an incomplete underlying cause or mechanism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">aetiology</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">cause/causality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">consequences</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">establish</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">explain/explanation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">investigate/investigating</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mechanism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">underlie/underlying mechanism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">underpinning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">understand/understanding</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#etiology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">complete and discover the missing underlying cause or explanation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">an explicit statement of inquiry (with a question mark or question word such as how, where, what, why). The next actionable step is to find answers to the questions and/or discover methodologies that will help answer the question. The template is: “a specific research question: &lt;question/subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Is</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ask/asked</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">does</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">how</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">question</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">what</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">when</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">where</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">why</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">wonder/wondered</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#explicit_question</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">find answers to the question; discover methodologies that will help answer the question</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement that indicates something is not known (a lack of information), or information is presented for the first time (new or novel) and a significant amount of research is needed; not a statement about the absence of something. The next actionable step is to explore the unknown further to gain any insights. The template is: “&lt;subject&gt; is unknown”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">could further help to clarify</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">did not</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">eludes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">gap in knowledge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">gap in the literature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">has not (have not) been determined/investigated/studied/thoroughly (rigourously) assessed/established/elucidated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it is not known</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">lack of knowledge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">lacking</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">less clear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">little is known</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">new</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no data are available</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no data exists</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no definitively established</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no previous study</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not defined</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not well defined</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not well understood</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">novel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">obscure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">open question</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">out of reach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">poorly understood</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">remain to be determined</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">remains to be established</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">remains unclear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">uncertain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unclear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">undetermined</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unexplored possibility</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">unrecognized</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it is not clear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#full_unknown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">explore the unknown further to gain any insights</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#function</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">abilities, activies, and roles</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#function</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What are the roles?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of extrapolation of given data into the future and/or from past observations; no reference to next steps. The next actionable step is to run the simulation or experiment to determine if the prediction is correct; publicize the outcomes of the study to the correct people. The template is: “the prediction is &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#future_prediction</IRI>
+        <IRI>#future_work</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">are expected to be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">expect/expected/expectation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">if confirmed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">if real</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">implication</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it is feasible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">should</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">supposed to</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the future</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ultimately</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">until</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">will</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">would</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#future_prediction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">run the simulation or experiment to determine if the prediction is correct; publicize the outcomes of the study to the correct people</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of extensions, including next steps, directions, opportunities, approaches, or considerations of the described work that may be implemented at some future time point. Also, this includes a statement of suggestion or a proposal as to the next best course of action, especially one put forward by an authoritative body; advice telling someone what the best thing to do is. The next actionable step is to determine the next course of action based on this future work proposal. The template is: “the next steps are &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#future_work</IRI>
+        <IRI>#future_prediction</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#future_work</IRI>
+        <IRI>#urgent_call_to_action</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">additional studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">candidate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">detailed studies are needed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">further studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future approach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future consideration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future direction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future research</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future work</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">more detailed studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">more information... is needed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">need to be investigated</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">needed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">needed to verify</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">needs to be assessed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">opportunities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">should be explored</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future investigation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">future strategies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#future_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determine the next course of action based on this future work proposal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#global_organization</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a complete system with global information about it</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#global_organization</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the overall organization of the system? Does it contain forks and joins or feedback loops? How do the components globally all work together in the system?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a positive or negative statement proposing a possible/feasible explanation for a phenomenon on the basis of limited evidence as a starting point for further investigation OR a statement that information is needed to support an assertion or claim, including both positive and negative statements. Either a statement that some evidence already exists, explaining how current findings support previous work, adding confidence to a claim OR a statement that information is limited, more research is needed or is ongoing including limitations – biases or short comings related to the study design and execution. The next actionable step is to gather more evidence to support the claim OR conduct more research to determine the validity of the claim; Complete the partial picture; Consider the short comings and biases for the next experiment and how it can be addressed. Due to this being the largest category, we split up the linguistic cues into 4 categories based on the stage of the research: early, middle, late, reflection. You do not need to classify these when you are annotating. This is only to provide a little more categorization when going through examples. The template is: “need more evidence for &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">agree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">argued/argues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">arguing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">attempt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">be examined</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">belief/believe/believed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">better understand/understanding/ far from understanding/ a good understanding</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">claim/claimed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">clues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">confirm findings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">conjecture</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">consistent/consistently</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">credited</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">defining</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">do not fully/ does not straightforwardly explain/ not explained</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">emerging knowledge/field/ evidences are growing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">few studies/ has not been widely studied/ no studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">first</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">hypothesis/hypothesize/hypothesised</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">idea/insight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">in agreement with this finding</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">in agreement with this result</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">in support of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">increasing interest</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">indicate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">interpretation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">lacks efficacy/ lacks evidence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">limitations/ limits/ (remains) limited (evidence/data/studies)/ less</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">little/no (conclusive) evidence/ evidence was much weaker/ little insight/ absence of evidence/ insufficient evidence/ preliminary evidence/ no clear evidence/ lack of evidence/ little support/ little focus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">model</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">modest sample size</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">more attention/ not received sufficient attention/ research attention/ center of attention</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">need more information/ need to identify/ need for validation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">neglected topic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">no existing guidelines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">none has been conducted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not fully ( adequately) explored/understood/described has</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not proven</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">not specifically designed to</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">notion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">only</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">paucity/ still very scarce</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">philosophy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">points to/point</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">preliminary/ not previously</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">premise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">previously</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">propose(s)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">rare/rarely/ remain scarce/sparse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">recent emergence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">recent evidence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">recently</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">remain/ remain understudied</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">reveals</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">rough indicator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">set a precedent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">speculate/speculative/speculation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">study is ongoing/ ongoing research/ studies are underway</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">suggest/suggesting/suggests/suggestions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the need</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">theory/theorized/theoretically</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">this is in agreement</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">thought</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">trend</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">usually</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">view</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">well documented</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">current research</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">have been</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#incomplete_evidence</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">gather more evidence to support the claim or conduct more research to determine the validity of the claim; complete the partial picture; Consider the short comings and biases for the next experiment and how it can be addressed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#independent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">at least two things are disjoint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#independent</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Are these things independent? Why are they independent?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#life_span</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">full life course</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#life_span</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">How is the full life span affected?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#methodology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">instrumentation or methodologic information</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#methodology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Is the instrumentation appropriate? Does it fulfill all its needs?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#mobilization</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">movement and/or usage of stored material waiting for use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#mobilization</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Why are the stores mobilized now?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#model</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">overall large picture organization of a system</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#model</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Does the model work with all situations mentioned? Are there any exceptions or edge cases?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#molecular_nature</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">genetic and chemical underpinnings of the structure or entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#molecular_nature</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the molecular nature?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#morphology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">form of the entity or structure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#morphology</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the morphology?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#new_scope</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the new possibly applicable scope</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#new_scope</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Does the information apply to the new scope or not?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of suggestion or a proposal as to the best course of action, especially one put forward by an authoritative body
+
+advice telling someone what the best thing to do is (NCIT_C25197)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">advocate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">considerations</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">encourage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">guideline</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">is warranted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it is important that</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">must be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">prudent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">require</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">should be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the need</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#non_urgent_recommendation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determine the validity of the suggestion or proposal; publicize the suggestion or proposal to the correct group of people</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#pathway</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a path between at least two things</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#pathway</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the path between at least two things?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#possible_explanation_old</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance about a possible explanation for something</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#possible_explanation_old</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Is this explanation true or false? Are there other explanations?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of a feasible explanation, relationship, or phenomenon
+
+no claim to the correct explanation, relationship, or phenomenon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#possible_understanding</IRI>
+        <IRI>#probable_understanding</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ability</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">can</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">can be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">could</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">could be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">could possibly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">could potentially</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">have potential</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it is possible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it may be possible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">may be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">might</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">perhaps</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">possibilities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">possible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">possibly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">prospect</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">viable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">alternatively</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">if</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#possible_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determine the most feasible or correct explanation, relationship or phenomenon either mentioned or not</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement staking a claim to the most likely explanation, relationship, or phenomenon; there is a good chance this understanding is correct. The next actionable step is to determine if the most likely option is correct of if it’s another option. The template is: “staking a claim that &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#probable_understanding</IRI>
+        <IRI>#incomplete_evidence</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">at least</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">great promise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">it is becoming increasingly clear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">likelihood</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">likely</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mainly</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">plausible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">presumably</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">promising</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#probable_understanding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determine if the most likely option is correct or if it&apos;s another option</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of issues, problems, mistakes, or medical complications that are cause for anxiety and/or worry. The next actionable step is to determine the gravity of the concern and determine if it needs to be dealt with before the next experiment or study. The template is: “problems/complications include &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#problem_complication</IRI>
+        <IRI>#difficult_task</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">burden(s)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">concern</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">error</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">medical complications</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">misclassification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">mistake</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">myths</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">problem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">taboo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">issues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#problem_complication</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">determine the gravity of the concern and determine if it needs to be dealt with before the next experiment or study</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#production</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the action of making or manufacturing from components or raw materials, or the process of being so manufactured.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#production</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What gave rise to or is given rise to by everything? What is the productive chain of the system?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of a goal or objective of a study that is attempted or completed during the study. The next actionable step is to find the answer(s) in the article; determine if the question(s) is (are) fully answered in the article. The template is: “the goal of the study is &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#automaticExtraction"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Past tense or infinitive form of the verb</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">aimed/aim(s)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">designed to</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">goal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">here</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">infinitive form of a verb (to examine/to investigate)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">objective(s)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">past tense form of a verb (assessed/investigated)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">present study/this study/this paper/this investigation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">purpose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">sought/set out</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">wished</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#question_answered_by_this_work</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">find the answer(s) in the article; Determine if the question(s) is (are) fully answered in the article</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#regulation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">constraints on entities or processes from outside the process or entity itself; includes preventative measures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#regulation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">How is the process regulated?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#reproducibility</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Multiple sources/studies have come to the same conclusion or results</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#reproducibility</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">clarify</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#reproducibility</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Are the same results or conclusions reached when the study or a similar one is done?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#risk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">either a chance with a possibility of being wrong or right with no gaurantee either way or hazardous/potentially harmful/no guarantee of benefits</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#risk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">sensitive</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#risk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">susceptibility</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#risk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Is something a real risk? How big of a risk is it?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#roles</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the reason for the activity or entity with respect to the system</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#roles</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the functional role of the entity or activity in the context of the system? What does it contribute to the behavior of the system as a whole?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#safety</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">efficacy concerns or focus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#safety</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Is the experiment safe?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#scope_widening</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance about a narrow idea that may or may not apply in a wider more general case</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#scope_widening</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Does this narrow idea apply in the general case?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#sex</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">societal sex assignment (male or female typically)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#sex</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the gender/sex? Does the gender/sex make a difference in the system?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#start_time</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the beginning time of a process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#start_time</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">onset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#start_time</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">When does the process start?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement about a connection, link, or association between at least 2 variables; connectedness between entities and/or interactions representing their relatedness or influence. The next actionable step is to confirm the connection, link, or association between variables; determine the full underlying relationship between variables. The template is: “need to determine the full underlying mechanistic relationship between &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">accompany/accompanied</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">correlated/correlation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">corresponded</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">depends</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">effects of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">impact</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">impose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">influences/influenced</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">interacts/interaction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">interplay</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">intersect</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">involved</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">linked</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">relationship</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">trend</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#superficial_relationship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">confirm the connection/link/association between variables; Determine the full underlying relationship between variables</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#superficial_relationship_old</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance about a relationship between multiple things</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#superficial_relationship_old</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What is the relationship between these things? Explore/investigate this relationship.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#sustains</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">information about its maintenance including reduction, loss, and retention</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#sustains</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What sustains it? Is it sustained?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#time_points</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">specific time points during the process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#time_points</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">When does a specific event occur?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#timing</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the choice, judgment, or control of when something is done</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#timing</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What are the orders, rates, and durations?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of a judgement or inference from an observable phenomenon that the researchers did not expect; an element of surprise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#unexpected_observation</IRI>
+        <IRI>#curious_finding</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">apparently</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">appear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">appears</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">appears to be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">does not appear to</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">does not appear to be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">incidentally</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">observation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">seems</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">seems to be</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#unexpected_observation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">repeat the experiment or simulation to make sure observation is repeatable
+
+think about next steps with the results</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement calling for immediate attention including an action needed to be taken immediately or information that needs to be disseminated immediately OR critical: being in or verging on a state of crisis or emergency OR urgently needed OR absolutely necessary. The next actionable step is to take the urgent action ASAP or distribute the knowledge ASAP. The template is: “urgent call is to &lt;subject&gt;”.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#confused_with"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <IRI>#future_work</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">call</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">call to act</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">cause for concern</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">critical</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">crucial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">emphasis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">essential</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">high priority</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">imperative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">influential</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">necessary</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">needed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">pressing need</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">significant public health burden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">upmost importance</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">vital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#urgent_call_to_action</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">take the urgent action ASAP or distribute the knowledge ASAP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <IRI>#0_sample</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ADDITIONAL HYPOTHESES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#negativeExample"/>
+        <IRI>#0_sample</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">“we further explored the plausibility of various hypotheses through a combination of methods described below that allowed room for ADDITIONAL HYPOTHESES to emerge or existing hypotheses to strengthen as cases accrued.” 
+
+[a description of the methodology of hypotheses, no statement of alternative options that needs research to determine]</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#positiveExample"/>
+        <IRI>#0_sample</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">“additionally, these large data sets enable exploration of &lt;ADDITIONAL HYPOTHESES that hitherto remain unanswered (e.g., which evolutionary forces drive the fixation of duplicates at the species-wide level)&gt; and test key theoretical predictions for gene duplicate evolution that were established in the pre-genomic era [1,2,3].” 
+
+[multiple options presented to test: evolutionary forces]</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#location/context</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a particular place/position or the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#location/context</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Where is everything? How is everything spatially with respect to one another? What is the environment or circumstances?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#magnitude/amount/size</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the size, extent, or amount</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#magnitude/amount/size</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">How big? How much?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#model/animal_system</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the whole organism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#model/animal_system</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What organism?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#options/specific_hypotheses</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a statement of ignorance with multiple specific options/hypotheses presented</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#options/specific_hypotheses</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What option/hypothesis is correct or is there an alternate hypothesis?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#structure_consistency/uniformity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the overall stability of the structure or the entity over time and location</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#structure_consistency/uniformity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Is the structure consistent or uniform?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.owl-ontologies.com/unnamed_updated.owl#definition"/>
+        <IRI>#structures/entities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">the arrangement of and relations between the parts or elements of something complex and the elements or parts themselves</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <IRI>#structures/entities</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">What are the sizes, shapes, and orientations of everything?</Literal>
+    </AnnotationAssertion>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#hasExactSynonym"/>
+        <AbbreviatedIRI>xsd:string</AbbreviatedIRI>
+    </AnnotationPropertyRange>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#hasRelatedSynonym"/>
+        <AbbreviatedIRI>xsd:string</AbbreviatedIRI>
+    </AnnotationPropertyRange>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#hasSynonymType"/>
+        <AbbreviatedIRI>xsd:string</AbbreviatedIRI>
+    </AnnotationPropertyRange>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#knowledgeGoal/Question"/>
+        <AbbreviatedIRI>xsd:string</AbbreviatedIRI>
+    </AnnotationPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

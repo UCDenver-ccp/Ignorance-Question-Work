@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC1474522.nxml.gz" text-file="PMC1474522.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC1474522.nxml.gz-1" type="identity">
+         <class id="associated"/>
+         <span end="43" id="PMC1474522.nxml.gz-2" start="33">associated</span>
+      </annotation>
+   </document>
+</knowtator-project>

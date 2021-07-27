@@ -1,0 +1,11 @@
+difficult_task
+NUM SENTENCES WITH DISCONTINUITIES	0
+NUM TOTAL DISCONTINUITIES:	0
+
+           precision    recall  f1-score   support
+
+        B       1.00      1.00      1.00        16
+        I       1.00      1.00      1.00         3
+
+micro avg       1.00      1.00      1.00        19
+macro avg       1.00      1.00      1.00        19

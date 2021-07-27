@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2396486.nxml.gz" text-file="PMC2396486.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="207" id="PMC2396486.nxml.gz-1" start="122">Developmental vitamin D (DVD) deficiency is a candidate risk factor for schizophrenia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-10" type="identity">
+      <class id="the_current_study" label=""/>
+      <span end="465" id="PMC2396486.nxml.gz-10" start="448">the current study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-101" type="identity">
+      <class id="would_be" label=""/>
+      <span end="13503" id="PMC2396486.nxml.gz-101" start="13495">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-102" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="13519" id="PMC2396486.nxml.gz-102" start="13504">false positives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17025" id="PMC2396486.nxml.gz-103" start="16762">Several of the components of the network converge on MAPK1, a MAP kinase that serves to integrate multiple biochemical signals (previously known as ERK2), that was found to be significantly down-regulated in the proteomics study.10.1371/journal.pone.0002383.g002
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-104" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="16811" id="PMC2396486.nxml.gz-104" start="16803">converge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-105" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="16937" id="PMC2396486.nxml.gz-105" start="16926">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-106" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17544" id="PMC2396486.nxml.gz-106" start="17353">Developmental vitamin D deficiency is associated with a subtle alteration in the expression of protein involved in functions related to calcium binding proteins, and mitochondrial functioning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-107" type="identity">
+      <class id="associated" label=""/>
+      <span end="17401" id="PMC2396486.nxml.gz-107" start="17391">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-10705" type="identity">
+      <class id="problem_complication"/>
+      <span end="20141" id="PMC2396486.nxml.gz-10706" start="20134">disrupt</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-10707" type="identity">
+      <class id="difficult_task"/>
+      <span end="22910" id="PMC2396486.nxml.gz-10708" start="22907">too</span>
+      <span end="22920" id="PMC2396486.nxml.gz-10709" start="22915">to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-10710" type="identity">
+      <class id="subject_scope"/>
+      <span end="22958" id="PMC2396486.nxml.gz-10711" start="22826">The small fold changes found in the study, while statistically significant, were too low to be reliably confirmed via immunoblot[49]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-108" type="identity">
+      <class id="involved" label=""/>
+      <span end="17464" id="PMC2396486.nxml.gz-108" start="17456">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-109" type="identity">
+      <class id="related" label=""/>
+      <span end="17485" id="PMC2396486.nxml.gz-109" start="17478">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-11" type="identity">
+      <class id="examined" label=""/>
+      <span end="477" id="PMC2396486.nxml.gz-11" start="469">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17721" id="PMC2396486.nxml.gz-110" start="17546">Calcium binding proteins have been of interest to schizophrenia research for some time[27], in particular with respect to the expression in cortical GABAergic interneurons[28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-111" type="identity">
+      <class id="interest" label=""/>
+      <span end="17592" id="PMC2396486.nxml.gz-111" start="17584">interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-112" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17632" id="PMC2396486.nxml.gz-112" start="17619">for some time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-113" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-115" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18072" id="PMC2396486.nxml.gz-116" start="17913">Calcium binding proteins are central to a wide range of cellular functions, of which calcium sequestration and buffering are particularly important for neurons</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-117" type="identity">
+      <class id="wide_range" label=""/>
+      <span end="17965" id="PMC2396486.nxml.gz-117" start="17955">wide range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-118" type="identity">
+      <class id="important" label=""/>
+      <span end="18060" id="PMC2396486.nxml.gz-118" start="18051">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18324" id="PMC2396486.nxml.gz-119" start="18074">Amongst other functions, it is thought that this family of diffuse cytoplasmic proteins provides a ‘sink’ allowing cells to rapidly buffer intracellular calcium after actions potentials, thus allowing the cell to rapidly repolarise for further firing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1410" id="PMC2396486.nxml.gz-12" start="1300">Other proteins associated with DVD deficiency related to mitochondrial function, and the dynamin-like proteins</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-120" type="identity">
+      <class id="other" label=""/>
+      <span end="18087" id="PMC2396486.nxml.gz-120" start="18082">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-121" type="identity">
+      <class id="it_is_thought" label=""/>
+      <span end="18112" id="PMC2396486.nxml.gz-121" start="18099">it is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-122" type="identity">
+      <class id="thus" label=""/>
+      <span end="18265" id="PMC2396486.nxml.gz-122" start="18261">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18494" id="PMC2396486.nxml.gz-123" start="18326">Calbindin is strongly induced by vitamin D[29], and thus it is feasible that the reduction in this protein may be a consequence of the early life reduction in vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-124" type="identity">
+      <class id="thus" label=""/>
+      <span end="18382" id="PMC2396486.nxml.gz-124" start="18378">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-125" type="identity">
+      <class id="feasible" label=""/>
+      <span end="18397" id="PMC2396486.nxml.gz-125" start="18389">feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-126" type="identity">
+      <class id="may_be" label=""/>
+      <span end="18439" id="PMC2396486.nxml.gz-126" start="18433">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-127" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18617" id="PMC2396486.nxml.gz-127" start="18496">The potential links between vitamin D and neuronal calcium binding proteins has been noted in a recent review article[30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-128" type="identity">
+      <class id="potential" label=""/>
+      <span end="18509" id="PMC2396486.nxml.gz-128" start="18500">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-129" type="identity">
+      <class id="links" label=""/>
+      <span end="18515" id="PMC2396486.nxml.gz-129" start="18510">links</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-13" type="identity">
+      <class id="associated" label=""/>
+      <span end="1325" id="PMC2396486.nxml.gz-13" start="1315">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-130" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18586" id="PMC2396486.nxml.gz-130" start="18572">has been noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18871" id="PMC2396486.nxml.gz-131" start="18732">These proteins are essential for clathrin-mediated endocytosis, a role of particular importance in neurons for neurotransmitter release[31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-132" type="identity">
+      <class id="essential" label=""/>
+      <span end="18760" id="PMC2396486.nxml.gz-132" start="18751">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-133" type="identity">
+      <class id="role" label=""/>
+      <span end="18802" id="PMC2396486.nxml.gz-133" start="18798">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-134" type="identity">
+      <class id="importance" label=""/>
+      <span end="18827" id="PMC2396486.nxml.gz-134" start="18817">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19033" id="PMC2396486.nxml.gz-135" start="18873">Apart from this function, these proteins are essential for the insertion of dopamine receptor 2 (DRD2) into the nonsynaptic membrane of dopaminergic neurons[32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-136" type="identity">
+      <class id="essential" label=""/>
+      <span end="18927" id="PMC2396486.nxml.gz-136" start="18918">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19249" id="PMC2396486.nxml.gz-137" start="19127">These findings suggest that proteins involved in SNAP and SNARE mediated vesicle release may be disrupted in the DVD model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-138" type="identity">
+      <class id="suggest" label=""/>
+      <span end="19149" id="PMC2396486.nxml.gz-138" start="19142">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-139" type="identity">
+      <class id="involved" label=""/>
+      <span end="19172" id="PMC2396486.nxml.gz-139" start="19164">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-14" type="identity">
+      <class id="related" label=""/>
+      <span end="1353" id="PMC2396486.nxml.gz-14" start="1346">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-140" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19222" id="PMC2396486.nxml.gz-140" start="19216">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-141" type="identity">
+      <class id="0_model" label=""/>
+      <span end="19249" id="PMC2396486.nxml.gz-141" start="19244">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19481" id="PMC2396486.nxml.gz-142" start="19375">These findings suggest that cellular energics may be altered in this brain region in the DVD-deficient rat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-143" type="identity">
+      <class id="suggest" label=""/>
+      <span end="19397" id="PMC2396486.nxml.gz-143" start="19390">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-144" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19427" id="PMC2396486.nxml.gz-144" start="19421">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-145" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="19492" id="PMC2396486.nxml.gz-145" start="19483">Curiously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19619" id="PMC2396486.nxml.gz-146" start="19483">Curiously, it has recently been shown that dynamin 1-like protein is also important for mitochondrial fission and general morphology[33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-147" type="identity">
+      <class id="has_recently_been" label=""/>
+      <span end="19514" id="PMC2396486.nxml.gz-147" start="19497">has recently been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-148" type="identity">
+      <class id="important" label=""/>
+      <span end="19566" id="PMC2396486.nxml.gz-148" start="19557">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19835" id="PMC2396486.nxml.gz-149" start="19621">It is known that down-regulation of calcium binding proteins shift essential calcium buffering requirements to the mitochondrial compartment, which, in turn, leads to compromised mitochondrial energy production[34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1541" id="PMC2396486.nxml.gz-15" start="1425">Developmental vitamin D deficiency was associated with subtle changes in protein expression in the nucleus accumbens</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-150" type="identity">
+      <class id="it_is_known" label=""/>
+      <span end="19632" id="PMC2396486.nxml.gz-150" start="19621">It is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-151" type="identity">
+      <class id="essential" label=""/>
+      <span end="19697" id="PMC2396486.nxml.gz-151" start="19688">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-152" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-153" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20071" id="PMC2396486.nxml.gz-153" start="19837">With respect to the nucleus accumbens, calcium-binding proteins such as calbindin are often used to demarcate discrete neuroanatomical boundaries, inferring that these proteins confer selective functional properties to these cells[35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-154" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="19993" id="PMC2396486.nxml.gz-154" start="19984">inferring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20178" id="PMC2396486.nxml.gz-155" start="20073">Compromised calcium buffering in the nucleus accumbens could disrupt adaptive and goal-directed behaviors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-156" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-157" type="identity">
+      <class id="could" label=""/>
+      <span end="20133" id="PMC2396486.nxml.gz-157" start="20128">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20369" id="PMC2396486.nxml.gz-158" start="20180">In the core region of the nucleus accumbens, neurons have dense spines, which may reflect the degree of synaptic plasticity required for the integrative function of cells in this region[36]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-159" type="identity">
+      <class id="may" label=""/>
+      <span end="20261" id="PMC2396486.nxml.gz-159" start="20258">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-16" type="identity">
+      <class id="associated" label=""/>
+      <span end="1474" id="PMC2396486.nxml.gz-16" start="1464">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-160" type="identity">
+      <class id="required" label=""/>
+      <span end="20312" id="PMC2396486.nxml.gz-160" start="20304">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20662" id="PMC2396486.nxml.gz-161" start="20493">The protein with the greatest fold change in this study was thimet oligopeptidase (down-regulated 1.67), which is involved in the degradation of these small proteins[37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-162" type="identity">
+      <class id="this_study" label=""/>
+      <span end="20548" id="PMC2396486.nxml.gz-162" start="20538">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-163" type="identity">
+      <class id="involved" label=""/>
+      <span end="20615" id="PMC2396486.nxml.gz-163" start="20607">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20825" id="PMC2396486.nxml.gz-164" start="20664">Neuropeptides such as neurotensin can indirectly influence dopaminergic transmission in the nucleus accumbens via glutamate and GABA-ergic mediated processes[38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-165" type="identity">
+      <class id="influence" label=""/>
+      <span end="20722" id="PMC2396486.nxml.gz-165" start="20713">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-166" type="identity">
+      <class id="thus" label=""/>
+      <span end="20831" id="PMC2396486.nxml.gz-166" start="20827">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-167" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20929" id="PMC2396486.nxml.gz-167" start="20827">Thus, these neuropeptides are of interest as potential targets for novel antipsychotic agents[39],[40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-168" type="identity">
+      <class id="interest" label=""/>
+      <span end="20868" id="PMC2396486.nxml.gz-168" start="20860">interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-169" type="identity">
+      <class id="potential" label=""/>
+      <span end="20881" id="PMC2396486.nxml.gz-169" start="20872">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1743" id="PMC2396486.nxml.gz-17" start="1543">Disruptions in pathways related to calcium-binding proteins and mitochondrial function may underlie some of the behavioural features associated with animal models of developmental vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-170" type="identity">
+      <class id="targets" label=""/>
+      <span end="20889" id="PMC2396486.nxml.gz-170" start="20882">targets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-171" type="identity">
+      <class id="novel" label=""/>
+      <span end="20899" id="PMC2396486.nxml.gz-171" start="20894">novel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-172" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="20940" id="PMC2396486.nxml.gz-172" start="20931">Curiously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21152" id="PMC2396486.nxml.gz-173" start="20931">Curiously, it has been shown that calcium concentration is an important modulator of thimet oligopeptidase activity[41], thus the disruption of this protein may also be down-stream consequence of altered calcium buffering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-174" type="identity">
+      <class id="has...been" label=""/>
+      <span end="20953" id="PMC2396486.nxml.gz-174" start="20945">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-175" type="identity">
+      <class id="important" label=""/>
+      <span end="21002" id="PMC2396486.nxml.gz-175" start="20993">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-176" type="identity">
+      <class id="thus" label=""/>
+      <span end="21056" id="PMC2396486.nxml.gz-176" start="21052">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-177" type="identity">
+      <class id="may" label=""/>
+      <span end="21091" id="PMC2396486.nxml.gz-177" start="21088">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21330" id="PMC2396486.nxml.gz-178" start="21154">With respect to schizophrenia, several of proteins identified in this study have also been reported to be disrupted in post-mortem brain tissue from patients with schizophrenia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-179" type="identity">
+      <class id="this_study" label=""/>
+      <span end="21229" id="PMC2396486.nxml.gz-179" start="21219">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-18" type="identity">
+      <class id="related" label=""/>
+      <span end="1574" id="PMC2396486.nxml.gz-18" start="1567">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-180" type="identity">
+      <class id="have...been" label=""/>
+      <span end="21234" id="PMC2396486.nxml.gz-180" start="21230">have</span>
+      <span end="21244" id="PMC2396486.nxml.gz-181" start="21240">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-182" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21523" id="PMC2396486.nxml.gz-182" start="21332">A range of studies (proteomics, genomics, gene association studies) have linked schizophrenia with alterations in malate dehydrogenase cytoplasmic (MDHC, now known as malic enzyme 2)[42]–[47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-183" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21350" id="PMC2396486.nxml.gz-183" start="21332">A range of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-185" type="identity">
+      <class id="linked" label=""/>
+      <span end="21411" id="PMC2396486.nxml.gz-185" start="21405">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-186" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21744" id="PMC2396486.nxml.gz-186" start="21525">Similarly, mitogen-activated protein kinase 1, significantly down-regulated in this study, has been found to be down-regulated at both the mRNA and protein levels in post-mortem schizophrenia brain tissue (thalamus)[48]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-187" type="identity">
+      <class id="this_study" label=""/>
+      <span end="21614" id="PMC2396486.nxml.gz-187" start="21604">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-188" type="identity">
+      <class id="has_been_found" label=""/>
+      <span end="21630" id="PMC2396486.nxml.gz-188" start="21616">has been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-189" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="21636" id="PMC2396486.nxml.gz-189" start="21625">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-19" type="identity">
+      <class id="may" label=""/>
+      <span end="1633" id="PMC2396486.nxml.gz-19" start="1630">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-190" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21762" id="PMC2396486.nxml.gz-190" start="21745">Like the previous</span>
+      <span end="21778" id="PMC2396486.nxml.gz-191" start="21773">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21857" id="PMC2396486.nxml.gz-192" start="21745">Like the previous proteomic study[18], we found no alterations in proteins directly associated with DA signaling</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-193" type="identity">
+      <class id="associated" label=""/>
+      <span end="21839" id="PMC2396486.nxml.gz-193" start="21829">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-194" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22036" id="PMC2396486.nxml.gz-194" start="21859">This suggests that baseline DA signaling may be normal in this model and abnormalities only become unmasked in the presence of drugs that alter DA/glutamate balance in the brain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-195" type="identity">
+      <class id="suggests" label=""/>
+      <span end="21872" id="PMC2396486.nxml.gz-195" start="21864">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-196" type="identity">
+      <class id="may_be" label=""/>
+      <span end="21906" id="PMC2396486.nxml.gz-196" start="21900">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-197" type="identity">
+      <class id="0_model" label=""/>
+      <span end="21927" id="PMC2396486.nxml.gz-197" start="21922">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-198" type="identity">
+      <class id="only" label=""/>
+      <span end="21950" id="PMC2396486.nxml.gz-198" start="21946">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22222" id="PMC2396486.nxml.gz-199" start="22038">It is conceivable that a slight reduction in calcium buffering proteins may affect the ability of neurons within the nucleus accumbens to repolarise in response to psychomimetic agents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-2" type="identity">
+      <class id="candidate" label=""/>
+      <span end="177" id="PMC2396486.nxml.gz-2" start="168">candidate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-20" type="identity">
+      <class id="some" label=""/>
+      <span end="1647" id="PMC2396486.nxml.gz-20" start="1643">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-200" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="22055" id="PMC2396486.nxml.gz-200" start="22044">conceivable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-201" type="identity">
+      <class id="may" label=""/>
+      <span end="22113" id="PMC2396486.nxml.gz-201" start="22110">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-202" type="identity">
+      <class id="affect" label=""/>
+      <span end="22120" id="PMC2396486.nxml.gz-202" start="22114">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-203" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="22235" id="PMC2396486.nxml.gz-203" start="22224">Alternately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22357" id="PMC2396486.nxml.gz-204" start="22224">Alternately, any reduction in cellular energetics within this region may delay the integration of cortical and/or sub-cortical inputs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-205" type="identity">
+      <class id="may" label=""/>
+      <span end="22296" id="PMC2396486.nxml.gz-205" start="22293">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-206" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22490" id="PMC2396486.nxml.gz-206" start="22359">Disappointingly, we found no overlap with the proteins identified in the current study versus those in the previous publication[18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-207" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-208" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="22374" id="PMC2396486.nxml.gz-208" start="22359">Disappointingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-209" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="22395" id="PMC2396486.nxml.gz-209" start="22385">no overlap</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-21" type="identity">
+      <class id="associated" label=""/>
+      <span end="1686" id="PMC2396486.nxml.gz-21" start="1676">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-210" type="identity">
+      <class id="the_current_study" label=""/>
+      <span end="22445" id="PMC2396486.nxml.gz-210" start="22428">the current study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-211" type="identity">
+      <class id="however" label=""/>
+      <span end="22499" id="PMC2396486.nxml.gz-211" start="22492">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22686" id="PMC2396486.nxml.gz-212" start="22492">However, the previous study was based on cortical and hippocampal tissue from adult female animals, whereas the current study was based on tissue from the nucleus accumbens in adult male animals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-213" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="22519" id="PMC2396486.nxml.gz-213" start="22505">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-214" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="22599" id="PMC2396486.nxml.gz-214" start="22592">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-215" type="identity">
+      <class id="the_current_study" label=""/>
+      <span end="22617" id="PMC2396486.nxml.gz-215" start="22600">the current study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-216" type="identity">
+      <class id="interpretation" label=""/>
+      <span end="22702" id="PMC2396486.nxml.gz-216" start="22688">Interpretation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-217" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22824" id="PMC2396486.nxml.gz-217" start="22688">Interpretation of the current study is also limited because of the lack of immunoblot confirmation of the differentially expressed spots</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-218" type="identity">
+      <class id="the_current_study" label=""/>
+      <span end="22723" id="PMC2396486.nxml.gz-218" start="22706">the current study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-219" type="identity">
+      <class id="limited" label=""/>
+      <span end="22739" id="PMC2396486.nxml.gz-219" start="22732">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-22" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="1705" id="PMC2396486.nxml.gz-22" start="1699">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-220" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="22762" id="PMC2396486.nxml.gz-220" start="22755">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-222" type="identity">
+      <class id="while" label=""/>
+      <span end="22874" id="PMC2396486.nxml.gz-222" start="22869">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-223" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23156" id="PMC2396486.nxml.gz-224" start="22960">Based on the behavioural findings in DVD-deficient rats, there is a case to explore proteomic dysregulation in rats after exposure to drugs known to disrupt dopaminergic and glutaminergic pathways</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-225" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-226" type="identity">
+      <class id="future_work" label=""/>
+      <span end="23032" id="PMC2396486.nxml.gz-226" start="23017">there is a case</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-227" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23349" id="PMC2396486.nxml.gz-227" start="23158">For example, we have shown that while habituated DVD rats have normal locomotion activity in the open field at baseline, they have pronounced hyperlocomotion after exposure to MK-801[10],[12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-228" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="23184" id="PMC2396486.nxml.gz-228" start="23174">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-229" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1899" id="PMC2396486.nxml.gz-23" start="1758">Based on clues from epidemiology, we have proposed that low prenatal vitamin D may be a risk factor for later development of schizophrenia[1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-230" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="23195" id="PMC2396486.nxml.gz-230" start="23190">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23404" id="PMC2396486.nxml.gz-231" start="23351">We plan to explore these issues in future experiments</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-232" type="identity">
+      <class id="future_work" label=""/>
+      <span end="23361" id="PMC2396486.nxml.gz-232" start="23354">plan to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-233" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="23382" id="PMC2396486.nxml.gz-233" start="23376">issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-234" type="identity">
+      <class id="issues" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-235" type="identity">
+      <class id="future" label=""/>
+      <span end="23392" id="PMC2396486.nxml.gz-235" start="23386">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23537" id="PMC2396486.nxml.gz-236" start="23406">In conclusion, developmental vitamin D deficiency is associated with subtle changes in a range of proteins in the nucleus accumbens</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-237" type="identity">
+      <class id="associated" label=""/>
+      <span end="23469" id="PMC2396486.nxml.gz-237" start="23459">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-238" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23730" id="PMC2396486.nxml.gz-238" start="23539">These findings suggest that pathways involved in calcium binding and mitochondrial function may underpin the behavioural features associated with this particular animal model of schizophrenia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-239" type="identity">
+      <class id="suggest" label=""/>
+      <span end="23561" id="PMC2396486.nxml.gz-239" start="23554">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-24" type="identity">
+      <class id="clues" label=""/>
+      <span end="1772" id="PMC2396486.nxml.gz-24" start="1767">clues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-240" type="identity">
+      <class id="involved" label=""/>
+      <span end="23584" id="PMC2396486.nxml.gz-240" start="23576">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-241" type="identity">
+      <class id="may" label=""/>
+      <span end="23634" id="PMC2396486.nxml.gz-241" start="23631">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-242" type="identity">
+      <class id="associated" label=""/>
+      <span end="23679" id="PMC2396486.nxml.gz-242" start="23669">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-243" type="identity">
+      <class id="0_model" label=""/>
+      <span end="23713" id="PMC2396486.nxml.gz-243" start="23708">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23922" id="PMC2396486.nxml.gz-244" start="23732">Combined with other experimental findings, the current study lends further credibility to the notion that developmental vitamin D deficiency impacts adversely on normal brain development[30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-245" type="identity">
+      <class id="other" label=""/>
+      <span end="23751" id="PMC2396486.nxml.gz-245" start="23746">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-246" type="identity">
+      <class id="the_current_study" label=""/>
+      <span end="23792" id="PMC2396486.nxml.gz-246" start="23775">the current study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-247" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23818" id="PMC2396486.nxml.gz-247" start="23793">lends further credibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-248" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-249" type="identity">
+      <class id="notion" label=""/>
+      <span end="23832" id="PMC2396486.nxml.gz-249" start="23826">notion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-25" type="identity">
+      <class id="proposed" label=""/>
+      <span end="1808" id="PMC2396486.nxml.gz-25" start="1800">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-250" type="identity">
+      <class id="impacts" label=""/>
+      <span end="23880" id="PMC2396486.nxml.gz-250" start="23873">impacts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-26" type="identity">
+      <class id="may_be" label=""/>
+      <span end="1843" id="PMC2396486.nxml.gz-26" start="1837">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-27" type="identity">
+      <class id="many_studies" label=""/>
+      <span end="1913" id="PMC2396486.nxml.gz-27" start="1901">Many studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2116" id="PMC2396486.nxml.gz-28" start="1901">Many studies have shown that those born in winter and spring have a significantly increased risk of developing schizophrenia[2], and that those born at higher latitudes are also at increased risk of schizophrenia[3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-29" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="1924" id="PMC2396486.nxml.gz-29" start="1914">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="362" id="PMC2396486.nxml.gz-3" start="209">Animal models have confirmed that DVD deficiency is associated with a range of altered genomic, proteomic, structural and behavioural outcomes in the rat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2363" id="PMC2396486.nxml.gz-30" start="2118">Given that vitamin D levels in the population fluctuate across the seasons and decrease across higher latitude[4], low prenatal vitamin D ‘fits’ these key environmental features and is therefore a plausible candidate risk factor for this disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-31" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2261" id="PMC2396486.nxml.gz-31" start="2257">fits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-32" type="identity">
+      <class id="therefore" label=""/>
+      <span end="2312" id="PMC2396486.nxml.gz-32" start="2303">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-33" type="identity">
+      <class id="plausible" label=""/>
+      <span end="2324" id="PMC2396486.nxml.gz-33" start="2315">plausible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-34" type="identity">
+      <class id="candidate" label=""/>
+      <span end="2334" id="PMC2396486.nxml.gz-34" start="2325">candidate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-35" type="identity">
+      <class id="in_order_to" label=""/>
+      <span end="2376" id="PMC2396486.nxml.gz-35" start="2365">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2504" id="PMC2396486.nxml.gz-36" start="2365">In order to explore the biological plausibility of this candidate, we have a rat model that we call the Developmental Vitamin D (DVD) model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-37" type="identity">
+      <class id="plausibility" label=""/>
+      <span end="2412" id="PMC2396486.nxml.gz-37" start="2400">plausibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-38" type="identity">
+      <class id="candidate" label=""/>
+      <span end="2430" id="PMC2396486.nxml.gz-38" start="2421">candidate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-39" type="identity">
+      <class id="0_model" label=""/>
+      <span end="2451" id="PMC2396486.nxml.gz-39" start="2446">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-4" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="222" id="PMC2396486.nxml.gz-4" start="216">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-40" type="identity">
+      <class id="0_model" label=""/>
+      <span end="2504" id="PMC2396486.nxml.gz-40" start="2499">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2639" id="PMC2396486.nxml.gz-41" start="2506">Rats exposed to low prenatal vitamin D have a broad range of neurobiological outcomes that are informative for schizophrenia research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-42" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2612" id="PMC2396486.nxml.gz-42" start="2601">informative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3284" id="PMC2396486.nxml.gz-43" start="3181">DVD-deficient rats also have altered attentional processing indicated by impaired latent inhibition[11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-44" type="identity">
+      <class id="indicated" label=""/>
+      <span end="3250" id="PMC2396486.nxml.gz-44" start="3241">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-45" type="identity">
+      <class id="some" label=""/>
+      <span end="3290" id="PMC2396486.nxml.gz-45" start="3286">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3402" id="PMC2396486.nxml.gz-46" start="3286">Some of the most robust and consistent findings in the DVD model have emerged in behavioural pharmacological studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-47" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3309" id="PMC2396486.nxml.gz-47" start="3303">robust</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-48" type="identity">
+      <class id="consistent" label=""/>
+      <span end="3324" id="PMC2396486.nxml.gz-48" start="3314">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-49" type="identity">
+      <class id="0_model" label=""/>
+      <span end="3350" id="PMC2396486.nxml.gz-49" start="3345">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-5" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="237" id="PMC2396486.nxml.gz-5" start="228">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-50" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3559" id="PMC2396486.nxml.gz-51" start="3404">For example, we have shown that DVD-deficient rats have enhanced locomotion in response to the psychomimetic agents such as NMDA antagonist MK-801[10],[12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-52" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="3430" id="PMC2396486.nxml.gz-52" start="3420">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-53" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3836" id="PMC2396486.nxml.gz-53" start="3738">Dysfunction of DA signalling has been strongly implicated in the pathogenesis of schizophrenia[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-54" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3775" id="PMC2396486.nxml.gz-54" start="3767">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-55" type="identity">
+      <class id="implicated" label=""/>
+      <span end="3795" id="PMC2396486.nxml.gz-55" start="3785">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4037" id="PMC2396486.nxml.gz-56" start="3838">Dopamine projections involve a range of cortical and subcortical regions, however its role in the nucleus accumbens has been of particular interest with respect to neuropsychiatric disorders[14]–[16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-57" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="3919" id="PMC2396486.nxml.gz-57" start="3912">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-58" type="identity">
+      <class id="role" label=""/>
+      <span end="3928" id="PMC2396486.nxml.gz-58" start="3924">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-59" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3962" id="PMC2396486.nxml.gz-59" start="3954">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-6" type="identity">
+      <class id="associated" label=""/>
+      <span end="271" id="PMC2396486.nxml.gz-6" start="261">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-60" type="identity">
+      <class id="interest" label=""/>
+      <span end="3985" id="PMC2396486.nxml.gz-60" start="3977">interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-61" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4180" id="PMC2396486.nxml.gz-61" start="4039">In the nucleus accumbens, dopamine influences the integration of inputs from the ventral hippocampus, the amygdala, and the prefrontal cortex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-62" type="identity">
+      <class id="influences" label=""/>
+      <span end="4084" id="PMC2396486.nxml.gz-62" start="4074">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-63" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4364" id="PMC2396486.nxml.gz-63" start="4182">Grace and colleagues have suggested that dopamine may modulate a range of limbic and cortical functions relevant to the pathophysiology of schizophrenia via the nucleus accumbens[17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-64" type="identity">
+      <class id="suggested" label=""/>
+      <span end="4217" id="PMC2396486.nxml.gz-64" start="4208">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-65" type="identity">
+      <class id="may" label=""/>
+      <span end="4235" id="PMC2396486.nxml.gz-65" start="4232">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-66" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="4297" id="PMC2396486.nxml.gz-66" start="4286">relevant to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-67" type="identity">
+      <class id="previously" label=""/>
+      <span end="4376" id="PMC2396486.nxml.gz-67" start="4366">Previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4498" id="PMC2396486.nxml.gz-68" start="4366">Previously we explored the genomic and proteomic characteristics of frontal cortex and the hippocampus in the adult DVD rat[18],[19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-69" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4857" id="PMC2396486.nxml.gz-69" start="4656">These proteins are associated with several biological pathways including oxidative phosphorylation, cytoskeleton maintenance, calcium homeostasis, chaperoning, synaptic plasticity and neurotransmission</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="551" id="PMC2396486.nxml.gz-7" start="364">Because the nucleus accumbens has been implicated in neuropsychiatric disorders, in the current study we examined protein expression in this region in adult rats exposed to DVD deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-70" type="identity">
+      <class id="associated" label=""/>
+      <span end="4685" id="PMC2396486.nxml.gz-70" start="4675">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5044" id="PMC2396486.nxml.gz-71" start="4859">A computational analysis of these data revealed that many of the proteins dysregulated in the DVD model have also been shown to be altered in schizophrenia post-mortem brain studies[18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-72" type="identity">
+      <class id="revealed" label=""/>
+      <span end="4906" id="PMC2396486.nxml.gz-72" start="4898">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-73" type="identity">
+      <class id="0_model" label=""/>
+      <span end="4962" id="PMC2396486.nxml.gz-73" start="4957">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-74" type="identity">
+      <class id="have...been" label=""/>
+      <span end="4967" id="PMC2396486.nxml.gz-74" start="4963">have</span>
+      <span end="4977" id="PMC2396486.nxml.gz-75" start="4973">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5166" id="PMC2396486.nxml.gz-76" start="5046">In order to further explore the impact of DVD on brain function, we undertook a proteomic study of the nucleus accumbens</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-77" type="identity">
+      <class id="in_order_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-78" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="5073" id="PMC2396486.nxml.gz-78" start="5055">to further explore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-79" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-8" type="identity">
+      <class id="has...been" label=""/>
+      <span end="402" id="PMC2396486.nxml.gz-8" start="394">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-80" type="identity">
+      <class id="impact" label=""/>
+      <span end="5084" id="PMC2396486.nxml.gz-80" start="5078">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6143" id="PMC2396486.nxml.gz-81" start="5987">Female rats were not used in these experiments, because the estrous cycle can introduce variability in protein expression in the region of interest[20],[21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-82" type="identity">
+      <class id="variability" label=""/>
+      <span end="6086" id="PMC2396486.nxml.gz-82" start="6075">variability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-83" type="identity">
+      <class id="generally" label=""/>
+      <span end="11303" id="PMC2396486.nxml.gz-83" start="11294">Generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11526" id="PMC2396486.nxml.gz-84" start="11294">Generally, a peptide match with at least 30% total sequence coverage was required for confidence in identification, but very low and high mass protein, and those resulting from protein fragmentation may not always meet the criterion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-85" type="identity">
+      <class id="at_least" label=""/>
+      <span end="11334" id="PMC2396486.nxml.gz-85" start="11326">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-86" type="identity">
+      <class id="required" label=""/>
+      <span end="11375" id="PMC2396486.nxml.gz-86" start="11367">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-87" type="identity">
+      <class id="may" label=""/>
+      <span end="11496" id="PMC2396486.nxml.gz-87" start="11493">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-88" type="identity">
+      <class id="although" label=""/>
+      <span end="11676" id="PMC2396486.nxml.gz-88" start="11668">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11835" id="PMC2396486.nxml.gz-89" start="11668">Although many proteins were found to be significantly altered in DVD-deficient adults, the fold-change level was insufficient for confirmation analysis by western blot</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-9" type="identity">
+      <class id="implicated" label=""/>
+      <span end="413" id="PMC2396486.nxml.gz-9" start="403">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-90" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="11707" id="PMC2396486.nxml.gz-90" start="11696">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-91" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="11793" id="PMC2396486.nxml.gz-91" start="11781">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12563" id="PMC2396486.nxml.gz-92" start="12509">Finally, proteomic analyses are prone to Type I errors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-93" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="12546" id="PMC2396486.nxml.gz-93" start="12541">prone</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-94" type="identity">
+      <class id="errors" label=""/>
+      <span end="12563" id="PMC2396486.nxml.gz-94" start="12557">errors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-95" type="identity">
+      <class id="while" label=""/>
+      <span end="12570" id="PMC2396486.nxml.gz-95" start="12565">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12800" id="PMC2396486.nxml.gz-96" start="12565">While we did not adjust the p value for the number of comparisons undertaken, we report the false discovery rate, which provides an estimate of the proportion of significantly different proteins (p&lt;0.05) that may be truly null[25],[26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-97" type="identity">
+      <class id="may_be" label=""/>
+      <span end="12780" id="PMC2396486.nxml.gz-97" start="12774">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-98" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13554" id="PMC2396486.nxml.gz-98" start="13419">Based on a False Discovery Rate of 28%, we predict that nine of these spots would be false positives.10.1371/journal.pone.0002383.g001
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2396486.nxml.gz-99" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13469" id="PMC2396486.nxml.gz-99" start="13462">predict</span>
+    </annotation>
+  </document>
+</knowtator-project>

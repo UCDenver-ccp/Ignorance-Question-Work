@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5501061.nxml.gz" text-file="PMC5501061.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="170" id="PMC5501061.nxml.gz-1" start="61">the various nutritional aspects of the current needs of the society at large and for the health practitioners</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-11" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1720" id="PMC5501061.nxml.gz-12" start="1606">this book will be of benefit to postgraduates in the field of nutrition, nutritionists in hospitals and physicians</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-13" type="identity">
+      <class id="will" label=""/>
+      <span end="1620" id="PMC5501061.nxml.gz-13" start="1616">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-2" type="identity">
+      <class id="needs" label=""/>
+      <span end="113" id="PMC5501061.nxml.gz-2" start="108">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1084" id="PMC5501061.nxml.gz-4" start="922">The chapters on nutrition in pregnancy, exercise, food allergies and intolerance, etc are informative and will be a good read for students in the respective field</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-5" type="identity">
+      <class id="will" label=""/>
+      <span end="1032" id="PMC5501061.nxml.gz-5" start="1028">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1595" id="PMC5501061.nxml.gz-6" start="1250">It would have been worthwhile to include some more topics such as management of severely acute malnutrition, examples of high, low and moderate glycaemic index foods, how to read food labels (with examples), etc and also additional references for further reading would have been beneficial as the chapters are a quick guide to appraise the topic</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-934" type="identity">
+      <class id="future_work"/>
+      <span end="1279" id="PMC5501061.nxml.gz-935" start="1253">would have been worthwhile</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-936" type="identity">
+      <class id="future_work"/>
+      <span end="1539" id="PMC5501061.nxml.gz-937" start="1513">would have been beneficial</span>
+    </annotation>
+  </document>
+</knowtator-project>

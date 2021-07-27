@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4122855.nxml.gz" text-file="PMC4122855.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="116" id="PMC4122855.nxml.gz-1" start="0">Translation of a gestational diabetes nutrition model of care into practice: results from an implementation project
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-12" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="454" id="PMC4122855.nxml.gz-12" start="440">does not occur</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-13" type="identity">
+      <class id="this_paper" label=""/>
+      <span end="479" id="PMC4122855.nxml.gz-13" start="469">This paper</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="634" id="PMC4122855.nxml.gz-14" start="469">This paper evaluates a theory-informed implementation plan to translate a dietetic model of care based on the American guidelines in an Australian maternity hospital</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-15" type="identity">
+      <class id="theory" label=""/>
+      <span end="498" id="PMC4122855.nxml.gz-15" start="492">theory</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-16" type="identity">
+      <class id="0_model" label=""/>
+      <span end="557" id="PMC4122855.nxml.gz-16" start="552">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-2" type="identity">
+      <class id="0_model" label=""/>
+      <span end="53" id="PMC4122855.nxml.gz-2" start="48">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1203" id="PMC4122855.nxml.gz-25" start="1170">Both phases only ran for 7 months</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-26" type="identity">
+      <class id="only" label=""/>
+      <span end="1186" id="PMC4122855.nxml.gz-26" start="1182">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1336" id="PMC4122855.nxml.gz-27" start="1236">Pre-intervention, only one of the 91 women with GDM seen received ≥ 1 dietetic follow-up appointment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-28" type="identity">
+      <class id="only" label=""/>
+      <span end="1258" id="PMC4122855.nxml.gz-28" start="1254">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1615" id="PMC4122855.nxml.gz-29" start="1451">due to heavy clinical demand, only 31.5 % of the 162 women seen after the change in practice received best-practice individual dietitian review at their first visit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="325" id="PMC4122855.nxml.gz-3" start="128">Reduced need for insulin therapy in Gestational Diabetes Mellitus (GDM) has been documented in a study validating American Nutrition Practice Guidelines, which recommend at least 3 dietitian visits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-30" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="1457" id="PMC4122855.nxml.gz-30" start="1451">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-31" type="identity">
+      <class id="only" label=""/>
+      <span end="1485" id="PMC4122855.nxml.gz-31" start="1481">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1780" id="PMC4122855.nxml.gz-32" start="1617">Clinically-relevant trends were seen in changes in medication requirements; the percentage of women requiring pharmacologic treatment decreased from 31.1% to 26.9%</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-33" type="identity">
+      <class id="trend" label=""/>
+      <span end="1643" id="PMC4122855.nxml.gz-33" start="1637">trends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-34" type="identity">
+      <class id="only" label=""/>
+      <span end="1882" id="PMC4122855.nxml.gz-34" start="1878">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2023" id="PMC4122855.nxml.gz-35" start="1878">Only a small change in glycemic index of women’s diet occurred after seeing a dietitian, pre- to post- implementation (-2.0 ± 4.4 vs. -3.0 ± 5.0)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-37" type="identity">
+      <class id="alternative_options" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-39" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-4" type="identity">
+      <class id="has...been" label=""/>
+      <span end="208" id="PMC4122855.nxml.gz-4" start="200">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2717" id="PMC4122855.nxml.gz-44" start="2660">Service limitations impaired the delivery of optimal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-45" type="identity">
+      <class id="limitations" label=""/>
+      <span end="2679" id="PMC4122855.nxml.gz-45" start="2668">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-46" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="2688" id="PMC4122855.nxml.gz-46" start="2680">impaired</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2833" id="PMC4122855.nxml.gz-47" start="2719">Partial adherence to the model of care may have attenuated changes in medication requirements and dietary patterns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-48" type="identity">
+      <class id="0_model" label=""/>
+      <span end="2749" id="PMC4122855.nxml.gz-48" start="2744">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-49" type="identity">
+      <class id="may" label=""/>
+      <span end="2761" id="PMC4122855.nxml.gz-49" start="2758">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-5" type="identity">
+      <class id="recommend" label=""/>
+      <span end="297" id="PMC4122855.nxml.gz-5" start="288">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2891" id="PMC4122855.nxml.gz-50" start="2835">Full adherence may have resulted in even greater changes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-51" type="identity">
+      <class id="may" label=""/>
+      <span end="2853" id="PMC4122855.nxml.gz-51" start="2850">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-52" type="identity">
+      <class id="even" label=""/>
+      <span end="2875" id="PMC4122855.nxml.gz-52" start="2871">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-6" type="identity">
+      <class id="at_least" label=""/>
+      <span end="306" id="PMC4122855.nxml.gz-6" start="298">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="467" id="PMC4122855.nxml.gz-7" start="327">No Australian GDM Nutrition Practice Guidelines exist and systematic delivery of dietetic care to women with GDM does not occur in Australia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4122855.nxml.gz-8" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="329" id="PMC4122855.nxml.gz-8" start="327">No</span>
+      <span end="380" id="PMC4122855.nxml.gz-9" start="375">exist</span>
+    </annotation>
+  </document>
+</knowtator-project>

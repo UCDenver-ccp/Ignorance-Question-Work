@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3914197.nxml.gz" text-file="PMC3914197.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="77" id="PMC3914197.nxml.gz-1" start="0">Gestational Diabetes Insipidus Associated with HELLP Syndrome: A Case Report
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-10" type="identity">
+      <class id="required" label=""/>
+      <span end="338" id="PMC3914197.nxml.gz-10" start="330">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="688" id="PMC3914197.nxml.gz-11" start="571">The newborn in this case also had hypernatremia thereby raising possibilities of vasopressinase crossing the placenta</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-12" type="identity">
+      <class id="possibilities" label=""/>
+      <span end="648" id="PMC3914197.nxml.gz-12" start="635">possibilities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="826" id="PMC3914197.nxml.gz-13" start="707">Gestational diabetes insipidus is a rare complication of pregnancy, and it is related to excess vasopressinase activity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-14" type="identity">
+      <class id="rare" label=""/>
+      <span end="747" id="PMC3914197.nxml.gz-14" start="743">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-15" type="identity">
+      <class id="complication" label=""/>
+      <span end="760" id="PMC3914197.nxml.gz-15" start="748">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-16" type="identity">
+      <class id="related" label=""/>
+      <span end="792" id="PMC3914197.nxml.gz-16" start="785">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1028" id="PMC3914197.nxml.gz-17" start="828">Measurement of the vasopressinase serum concentrations is not available commercially, and the diagnosis is usually established based on the clinical presentation and the appropriate laboratory studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-18" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="899" id="PMC3914197.nxml.gz-18" start="886">not available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-19" type="identity">
+      <class id="not_available" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-2" type="identity">
+      <class id="associated" label=""/>
+      <span end="41" id="PMC3914197.nxml.gz-2" start="31">Associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-20" type="identity">
+      <class id="usually" label=""/>
+      <span end="942" id="PMC3914197.nxml.gz-20" start="935">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1128" id="PMC3914197.nxml.gz-21" start="1030">We are describing a unique case of gestational diabetes insipidus in a patient with HELLP syndrome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-22" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1056" id="PMC3914197.nxml.gz-22" start="1050">unique</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4167" id="PMC3914197.nxml.gz-25" start="4032">Gestational diabetes insipidus is a rare complication of pregnancy that occurs in 4 out of 100,000 pregnancies as discussed by Durr [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-26" type="identity">
+      <class id="rare" label=""/>
+      <span end="4072" id="PMC3914197.nxml.gz-26" start="4068">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-27" type="identity">
+      <class id="complication" label=""/>
+      <span end="4085" id="PMC3914197.nxml.gz-27" start="4073">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4299" id="PMC3914197.nxml.gz-28" start="4169">Symptoms usually develop over a few days and include polyuria, polydipsia, fatigue, nausea, weight loss, and decreased skin turgor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-29" type="identity">
+      <class id="usually" label=""/>
+      <span end="4185" id="PMC3914197.nxml.gz-29" start="4178">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="175" id="PMC3914197.nxml.gz-3" start="87">Gestational diabetes insipidus is a rare, but well recognized, complication of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4442" id="PMC3914197.nxml.gz-30" start="4301">Its pathophysiology is thought to result from increased degradation of arginine vasopressin (AVP) by a placental enzyme called vasopressinase</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-31" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="4331" id="PMC3914197.nxml.gz-31" start="4321">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-32" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="4334" id="PMC3914197.nxml.gz-32" start="4324">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-34" type="identity">
+      <class id="usually" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5086" id="PMC3914197.nxml.gz-35" start="4942">The primary known action of vasopressinase is in vivo as well as in vitro degradation of vasopressin by removing amino acids from the N-terminus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-36" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4959" id="PMC3914197.nxml.gz-36" start="4946">primary known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5331" id="PMC3914197.nxml.gz-37" start="5088">Since the exogenous desmopressin is deaminated at the N-terminus, it can escape the degrading effect of the vasopressinase and is considered the treatment of choice in patients with gestational diabetes insipidus as demonstrated by Schrier [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-38" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-39" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5228" id="PMC3914197.nxml.gz-39" start="5215">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-4" type="identity">
+      <class id="rare" label=""/>
+      <span end="127" id="PMC3914197.nxml.gz-4" start="123">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5521" id="PMC3914197.nxml.gz-40" start="5333">Vasopressinase is metabolized in the liver, which may explain higher concentrations of the enzyme in patients with fatty liver, hepatitis and preeclampsia as discussed by Barbey et al. [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-41" type="identity">
+      <class id="may" label=""/>
+      <span end="5386" id="PMC3914197.nxml.gz-41" start="5383">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5578" id="PMC3914197.nxml.gz-42" start="5523">HELLP syndrome is considered a spectrum of preeclampsia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-43" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5551" id="PMC3914197.nxml.gz-43" start="5538">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5858" id="PMC3914197.nxml.gz-45" start="5580">The pathophysiology is not well understood but has been hypothesized to result from excessive stimulation of V1 receptors by vasopressinase-altered AVP leading to platelet aggregation, vasospasm, endothelial constriction, and brain stimulation as discussed by Krege and Katz [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-46" type="identity">
+      <class id="not_well_understood" label=""/>
+      <span end="5622" id="PMC3914197.nxml.gz-46" start="5603">not well understood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-47" type="identity">
+      <class id="has_been" label=""/>
+      <span end="5635" id="PMC3914197.nxml.gz-47" start="5627">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-48" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="5648" id="PMC3914197.nxml.gz-48" start="5636">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-49" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="5877" id="PMC3914197.nxml.gz-49" start="5860">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-5" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="148" id="PMC3914197.nxml.gz-5" start="133">well recognized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6013" id="PMC3914197.nxml.gz-50" start="5860">On the other hand, liver dysfunction in patients with HELLP syndrome decreases the degradation of the vasopressinase as described by Ellidokuz et al. [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-51" type="identity">
+      <class id="therefore" label=""/>
+      <span end="6138" id="PMC3914197.nxml.gz-51" start="6129">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6294" id="PMC3914197.nxml.gz-52" start="6129">Therefore, it is possible that vasopressinase could have crossed the placenta thereby causing infant's hypernatremia and subsequently could have benefited from dDAVP</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-53" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="6154" id="PMC3914197.nxml.gz-53" start="6140">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-54" type="identity">
+      <class id="could" label=""/>
+      <span end="6180" id="PMC3914197.nxml.gz-54" start="6175">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-55" type="identity">
+      <class id="could" label=""/>
+      <span end="6268" id="PMC3914197.nxml.gz-55" start="6263">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6572" id="PMC3914197.nxml.gz-56" start="6296">In light of the above case, we recommend maintaining a high index of suspicion of gestational diabetes insipidus in patients who present with typical symptoms and signs especially in the presence of other risk factors such as preeclampsia, HELLP syndrome, and twin pregnancies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-57" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="6307" id="PMC3914197.nxml.gz-57" start="6296">In light of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-58" type="identity">
+      <class id="recommend" label=""/>
+      <span end="6336" id="PMC3914197.nxml.gz-58" start="6327">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-5898" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="292" id="PMC3914197.nxml.gz-5899" start="269">high index of suspicion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-59" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6667" id="PMC3914197.nxml.gz-59" start="6574">In addition, treating the infant with DDAVP besides intravenous fluids may also be beneficial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-6" type="identity">
+      <class id="complication" label=""/>
+      <span end="162" id="PMC3914197.nxml.gz-6" start="150">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-60" type="identity">
+      <class id="may" label=""/>
+      <span end="6648" id="PMC3914197.nxml.gz-60" start="6645">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="265" id="PMC3914197.nxml.gz-7" start="177">It is related to excess vasopressinase enzyme activity which is metabolized in the liver</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-8" type="identity">
+      <class id="related" label=""/>
+      <span end="190" id="PMC3914197.nxml.gz-8" start="183">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3914197.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="476" id="PMC3914197.nxml.gz-9" start="267">A high index of suspicion of gestational diabetes insipidus is required in a correct clinical setting especially in the presence of other risk factors such as preeclampsia, HELLP syndrome, and twin pregnancies</span>
+    </annotation>
+  </document>
+</knowtator-project>

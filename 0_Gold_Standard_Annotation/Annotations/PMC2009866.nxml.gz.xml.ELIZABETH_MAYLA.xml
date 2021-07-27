@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2009866.nxml.gz" text-file="PMC2009866.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="309" id="PMC2009866.nxml.gz-1" start="185">The main aim was to study factors identified in a previous study as potentially causally related to cancer of the oesophagus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1209" id="PMC2009866.nxml.gz-10" start="1125">The use of opium, bread and tea could not be assessed in the retrospective framework</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-11" type="identity">
+      <class id="could_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-12" type="identity">
+      <class id="assessed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1338" id="PMC2009866.nxml.gz-13" start="1211">Strongly associated with risk of oesophageal cancer were low socio-economic status and low intake of fresh fruit and vegetables</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-14" type="identity">
+      <class id="associated" label=""/>
+      <span end="1230" id="PMC2009866.nxml.gz-14" start="1220">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-2" type="identity">
+      <class id="aim" label=""/>
+      <span end="197" id="PMC2009866.nxml.gz-2" start="194">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-3" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="249" id="PMC2009866.nxml.gz-3" start="235">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-4" type="identity">
+      <class id="potentially" label=""/>
+      <span end="264" id="PMC2009866.nxml.gz-4" start="253">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-5" type="identity">
+      <class id="related" label=""/>
+      <span end="281" id="PMC2009866.nxml.gz-5" start="274">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="683" id="PMC2009866.nxml.gz-6" start="544">to verify that expected associations, such as between lung cancer and cigarette smoking, would emerge under the prevailing field conditions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-7" type="identity">
+      <class id="expected" label=""/>
+      <span end="567" id="PMC2009866.nxml.gz-7" start="559">expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-8" type="identity">
+      <class id="associations" label=""/>
+      <span end="580" id="PMC2009866.nxml.gz-8" start="568">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-9" type="identity">
+      <class id="would" label=""/>
+      <span end="638" id="PMC2009866.nxml.gz-9" start="633">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2009866.nxml.gz-922" type="identity">
+      <class id="difficult_task"/>
+      <span end="1178" id="PMC2009866.nxml.gz-923" start="1157">could not be assessed</span>
+    </annotation>
+  </document>
+</knowtator-project>

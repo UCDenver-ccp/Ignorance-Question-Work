@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6011374.nxml.gz" text-file="PMC6011374.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="99" id="PMC6011374.nxml.gz-1" start="0">Vitamin D levels in an Australian and New Zealand cohort and the association with pregnancy outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="482" id="PMC6011374.nxml.gz-10" start="288">We aimed to compare vitamin D status in two distinct populations of pregnant women in Australia and New Zealand and to investigate the relationship between vitamin D status and pregnancy outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-100" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="8057" id="PMC6011374.nxml.gz-100" start="8051">Unlike</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8257" id="PMC6011374.nxml.gz-101" start="8051">Unlike the previously published data on vitamin D in the Auckland cohort [20], serum 25(OH)D was measured using the IDS-iSYS chemiluminescent-based assay (Abacus, ALS) as per the manufacturer’s instructions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-102" type="identity">
+      <class id="previously" label=""/>
+      <span end="8072" id="PMC6011374.nxml.gz-102" start="8062">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9026" id="PMC6011374.nxml.gz-103" start="8800">Given that the month in which the serum was sampled heavily influences vitamin D status, “standardised” serum 25(OH)D concentrations were calculated as previously described [34] in order to normalise against seasonal variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-104" type="identity">
+      <class id="influences" label=""/>
+      <span end="8870" id="PMC6011374.nxml.gz-104" start="8860">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-105" type="identity">
+      <class id="variation" label=""/>
+      <span end="9026" id="PMC6011374.nxml.gz-105" start="9017">variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-106" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10388" id="PMC6011374.nxml.gz-106" start="9942">Maternal age, BMI, SEI, alcohol consumption at 15 ± 1 weeks’ gestation (never/former vs. current), recreational walking (1–3 times/week and ≥ 4 times/week vs. never), ethnicity (Caucasian vs. non-Caucasian) and recruitment site (Adelaide vs. Auckland) were significantly associated with serum 25(OH)D and along with smoking status at 15 ± 1 weeks’ gestation (never/former vs. current) included as main effects within the generalised linear models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-107" type="identity">
+      <class id="associated" label=""/>
+      <span end="10223" id="PMC6011374.nxml.gz-107" start="10213">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-108" type="identity">
+      <class id="effects" label=""/>
+      <span end="10351" id="PMC6011374.nxml.gz-108" start="10344">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10704" id="PMC6011374.nxml.gz-109" start="10552">We also stratified based on fetal sex to evaluate possible effect measure modifications according to whether the mother was carry a male or female fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-11" type="identity">
+      <class id="aimed" label=""/>
+      <span end="296" id="PMC6011374.nxml.gz-11" start="291">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-110" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="10601" id="PMC6011374.nxml.gz-110" start="10590">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-111" type="identity">
+      <class id="possible" label=""/>
+      <span end="10610" id="PMC6011374.nxml.gz-111" start="10602">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-112" type="identity">
+      <class id="effect" label=""/>
+      <span end="10617" id="PMC6011374.nxml.gz-112" start="10611">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-113" type="identity">
+      <class id="whether...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-115" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11287" id="PMC6011374.nxml.gz-115" start="11055">Compared to women who were recruited at the Adelaide site, women recruited in Auckland were older, had a lower BMI, less likely to smoke or drink alcohol during pregnancy and more likely to eat fruit and undertake recreational walks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-116" type="identity">
+      <class id="likely" label=""/>
+      <span end="11182" id="PMC6011374.nxml.gz-116" start="11176">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-117" type="identity">
+      <class id="likely" label=""/>
+      <span end="11241" id="PMC6011374.nxml.gz-117" start="11235">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11668" id="PMC6011374.nxml.gz-118" start="11452">Given that all these factors significantly influenced serum 25(OH)D in the linear regression model, it was unsurprising that vitamin D status of the women was significantly different between the two recruitment sites</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-119" type="identity">
+      <class id="influenced" label=""/>
+      <span end="11505" id="PMC6011374.nxml.gz-119" start="11495">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-12" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="418" id="PMC6011374.nxml.gz-12" start="404">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-120" type="identity">
+      <class id="however" label=""/>
+      <span end="11677" id="PMC6011374.nxml.gz-120" start="11670">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-121" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12114" id="PMC6011374.nxml.gz-121" start="11670">However, after adjusting for maternal age, BMI, SEI, smoking status and alcohol consumption at 15 ± 1 weeks’ gestation, ethnicity, recreational walking and season, the women recruited in Adelaide still had significantly lower serum 25(OH)D when compared with those in Auckland (Adelaide: 58.4 ± 50.3 vs. Auckland: 70.2 ± 54.5 nmol/L, P &lt; 0.001) indicating the influence of other confounders not measured as part of the study on vitamin D status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-123" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="11871" id="PMC6011374.nxml.gz-123" start="11866">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-124" type="identity">
+      <class id="indicating" label=""/>
+      <span end="12025" id="PMC6011374.nxml.gz-124" start="12015">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-125" type="identity">
+      <class id="influence" label=""/>
+      <span end="12039" id="PMC6011374.nxml.gz-125" start="12030">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-126" type="identity">
+      <class id="other" label=""/>
+      <span end="12048" id="PMC6011374.nxml.gz-126" start="12043">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-127" type="identity">
+      <class id="confounders" label=""/>
+      <span end="12060" id="PMC6011374.nxml.gz-127" start="12049">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-13" type="identity">
+      <class id="relationship" label=""/>
+      <span end="435" id="PMC6011374.nxml.gz-13" start="423">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-130" type="identity">
+      <class id="influence" label=""/>
+      <span end="13908" id="PMC6011374.nxml.gz-130" start="13899">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-131" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15738" id="PMC6011374.nxml.gz-131" start="15731">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15936" id="PMC6011374.nxml.gz-132" start="15731">However, when each pregnancy complication was analysed separately, a 53% decreased risk for GDM was observed with high vitamin D status when compared to moderate-high status (aRR: 0.47; 95% CI: 0.23, 0.96)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16433" id="PMC6011374.nxml.gz-133" start="16189">Although, the point estimates indicated a marginal increased risk for developing any pregnancy complication with severe (&lt; 25 nmol/L) vitamin D deficiency compared to those who had levels between 50 and 75 nmol/L (aRR: 1.10; 95% CI: 0.89, 1.36)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-134" type="identity">
+      <class id="although" label=""/>
+      <span end="16197" id="PMC6011374.nxml.gz-134" start="16189">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-135" type="identity">
+      <class id="indicated" label=""/>
+      <span end="16228" id="PMC6011374.nxml.gz-135" start="16219">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18901" id="PMC6011374.nxml.gz-136" start="18663">As there is evidence to suggest that vitamin D metabolism within the placenta may differ with respect to fetal sex [35] thus, we assessed the effect of “standardised” vitamin D status on pregnancy outcome stratified by fetal sex (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-137" type="identity">
+      <class id="there_is_evidence" label=""/>
+      <span end="18683" id="PMC6011374.nxml.gz-137" start="18666">there is evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-138" type="identity">
+      <class id="suggest" label=""/>
+      <span end="18694" id="PMC6011374.nxml.gz-138" start="18687">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-139" type="identity">
+      <class id="may" label=""/>
+      <span end="18744" id="PMC6011374.nxml.gz-139" start="18741">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="569" id="PMC6011374.nxml.gz-14" start="484">This included evaluating possible effect measure modifications according to fetal sex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-140" type="identity">
+      <class id="differ" label=""/>
+      <span end="18751" id="PMC6011374.nxml.gz-140" start="18745">differ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-141" type="identity">
+      <class id="thus" label=""/>
+      <span end="18787" id="PMC6011374.nxml.gz-141" start="18783">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-142" type="identity">
+      <class id="assessed" label=""/>
+      <span end="18800" id="PMC6011374.nxml.gz-142" start="18792">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-143" type="identity">
+      <class id="effect" label=""/>
+      <span end="18811" id="PMC6011374.nxml.gz-143" start="18805">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19136" id="PMC6011374.nxml.gz-144" start="18903">Although not statistically significant, point estimates for women carrying a male fetus indicated decreased risk of having any pregnancy complication with high serum 25(OH)D compared to moderately-high (aRR: 0.86; 9%% CI: 0.71, 1.04)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-145" type="identity">
+      <class id="although" label=""/>
+      <span end="18911" id="PMC6011374.nxml.gz-145" start="18903">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-146" type="identity">
+      <class id="indicated" label=""/>
+      <span end="19000" id="PMC6011374.nxml.gz-146" start="18991">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-147" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19366" id="PMC6011374.nxml.gz-147" start="19138">This was largely driven by a 55% decreased risk of GDM in women with a male fetus with high standardised serum 25(OH)D when compared to those carrying a male fetus with moderate-high serum 25(OH)D (aRR: 0.45; 95% CI: 0.15, 1.38)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-148" type="identity">
+      <class id="largely_driven_by" label=""/>
+      <span end="19164" id="PMC6011374.nxml.gz-148" start="19147">largely driven by</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-149" type="identity">
+      <class id="conversely" label=""/>
+      <span end="19378" id="PMC6011374.nxml.gz-149" start="19368">Conversely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-15" type="identity">
+      <class id="possible" label=""/>
+      <span end="517" id="PMC6011374.nxml.gz-15" start="509">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19595" id="PMC6011374.nxml.gz-150" start="19368">Conversely, if a woman was carrying a female fetus, there was generally no effect of having low, low-moderate or high standardised serum 25(OH)D on developing any pregnancy complication compared to moderate-high levels (Table3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-151" type="identity">
+      <class id="if" label=""/>
+      <span end="19382" id="PMC6011374.nxml.gz-151" start="19380">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-152" type="identity">
+      <class id="generally" label=""/>
+      <span end="19439" id="PMC6011374.nxml.gz-152" start="19430">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-153" type="identity">
+      <class id="although" label=""/>
+      <span end="19605" id="PMC6011374.nxml.gz-153" start="19597">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19812" id="PMC6011374.nxml.gz-154" start="19597">Although, a 56% decreased risk for GDM was observed in those with low-moderate levels of standardised vitamin D when compared to moderate-high levels for women carrying a female fetus (aRR: 0.44; 95% CI: 0.20, 0.97)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-156" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22081" id="PMC6011374.nxml.gz-156" start="22070">adds to the</span>
+      <span end="22108" id="PMC6011374.nxml.gz-8150" start="22098">literature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-157" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-158" type="identity">
+      <class id="insight" label=""/>
+      <span end="22210" id="PMC6011374.nxml.gz-158" start="22203">insight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22579" id="PMC6011374.nxml.gz-159" start="22273">It is the largest prospective cohort study to assess vitamin D status within the international SCOPE cohort, comparing and combining two distinct populations of pregnant women living at similar latitude and provides a greater understanding of vitamin D deficiency and the risk of adverse pregnancy outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-16" type="identity">
+      <class id="effect" label=""/>
+      <span end="524" id="PMC6011374.nxml.gz-16" start="518">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-160" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="22325" id="PMC6011374.nxml.gz-160" start="22316">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-161" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-162" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22512" id="PMC6011374.nxml.gz-162" start="22491">greater understanding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22736" id="PMC6011374.nxml.gz-163" start="22581">We found, despite being at similar latitudes, circulating 25(OH)D was different between women recruited in Adelaide compared to women recruited in Auckland</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-164" type="identity">
+      <class id="despite" label=""/>
+      <span end="22598" id="PMC6011374.nxml.gz-164" start="22591">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-165" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="22660" id="PMC6011374.nxml.gz-165" start="22651">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22917" id="PMC6011374.nxml.gz-166" start="22738">This was independent of diet and lifestyles factors including BMI and SEI and highlights the difficulty in understanding the role of vitamin D in pregnancy in human cohort studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-167" type="identity">
+      <class id="difficulty" label=""/>
+      <span end="22841" id="PMC6011374.nxml.gz-167" start="22831">difficulty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-168" type="identity">
+      <class id="role" label=""/>
+      <span end="22867" id="PMC6011374.nxml.gz-168" start="22863">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-169" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23073" id="PMC6011374.nxml.gz-169" start="22919">However, there was a protective association of having high vitamin D at 15 ± 1 weeks’ gestation and GDM once standardised based on month serum was sampled</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2061" id="PMC6011374.nxml.gz-17" start="1958">High serum 25(OH)D at 15 ± 1 weeks’ gestation was shown to be protective against the development of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-170" type="identity">
+      <class id="however" label=""/>
+      <span end="22926" id="PMC6011374.nxml.gz-170" start="22919">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-171" type="identity">
+      <class id="association" label=""/>
+      <span end="22962" id="PMC6011374.nxml.gz-171" start="22951">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23196" id="PMC6011374.nxml.gz-172" start="23075">Furthermore, there may be possible fetal sex specific differences in vitamin D status worth considering in future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-173" type="identity">
+      <class id="may_be" label=""/>
+      <span end="23100" id="PMC6011374.nxml.gz-173" start="23094">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-174" type="identity">
+      <class id="possible" label=""/>
+      <span end="23109" id="PMC6011374.nxml.gz-174" start="23101">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-175" type="identity">
+      <class id="differences" label=""/>
+      <span end="23140" id="PMC6011374.nxml.gz-175" start="23129">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-176" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-177" type="identity">
+      <class id="future_studies" label=""/>
+      <span end="23196" id="PMC6011374.nxml.gz-177" start="23182">future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-178" type="identity">
+      <class id="despite" label=""/>
+      <span end="23205" id="PMC6011374.nxml.gz-178" start="23198">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-179" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23353" id="PMC6011374.nxml.gz-179" start="23198">Despite the similar latitudes of Adelaide and Auckland (Adelaide: 34.93°S and Auckland 36.85°S), serum 25(OH)D was lower in the women recruited in Adelaide</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-18" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2030" id="PMC6011374.nxml.gz-18" start="2020">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23486" id="PMC6011374.nxml.gz-180" start="23355">Given the significant number of characteristic and lifestyle differences between the two populations, this is not overly surprising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-181" type="identity">
+      <class id="differences" label=""/>
+      <span end="23427" id="PMC6011374.nxml.gz-181" start="23416">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-183" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="23496" id="PMC6011374.nxml.gz-183" start="23488">Previous</span>
+      <span end="23504" id="PMC6011374.nxml.gz-184" start="23497">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-185" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23629" id="PMC6011374.nxml.gz-185" start="23488">Previous studies have shown a positive association between socioeconomic status and vitamin D in both pregnant and non-pregnant women [36,37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-186" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="23515" id="PMC6011374.nxml.gz-186" start="23505">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-187" type="identity">
+      <class id="association" label=""/>
+      <span end="23538" id="PMC6011374.nxml.gz-187" start="23527">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23782" id="PMC6011374.nxml.gz-188" start="23631">The lower SEI of the Adelaide women could therefore make them more susceptible to lower circulating 25(OH)D because of factors relating to disadvantage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-189" type="identity">
+      <class id="could" label=""/>
+      <span end="23672" id="PMC6011374.nxml.gz-189" start="23667">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-190" type="identity">
+      <class id="therefore" label=""/>
+      <span end="23682" id="PMC6011374.nxml.gz-190" start="23673">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-191" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23926" id="PMC6011374.nxml.gz-191" start="23784">Furthermore, increased BMI is known to be associated with reduced serum 25(OH)D [38–40] as adipose tissue is thought to sequester 25(OH)D [41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-192" type="identity">
+      <class id="associated" label=""/>
+      <span end="23836" id="PMC6011374.nxml.gz-192" start="23826">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-193" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="23900" id="PMC6011374.nxml.gz-193" start="23890">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-194" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="23903" id="PMC6011374.nxml.gz-194" start="23893">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-195" type="identity">
+      <class id="however" label=""/>
+      <span end="23935" id="PMC6011374.nxml.gz-195" start="23928">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24243" id="PMC6011374.nxml.gz-196" start="23928">However, after adjusting for factors shown to be associated with vitamin D status including BMI and recreational walking, serum 25(OH)D remained significantly lower in the women recruited in Adelaide suggesting the influence of other factors not measured as part of SCOPE for example, hours spent outside in the sun</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-197" type="identity">
+      <class id="associated" label=""/>
+      <span end="23987" id="PMC6011374.nxml.gz-197" start="23977">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-198" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="24138" id="PMC6011374.nxml.gz-198" start="24128">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-199" type="identity">
+      <class id="influence" label=""/>
+      <span end="24152" id="PMC6011374.nxml.gz-199" start="24143">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-2" type="identity">
+      <class id="association" label=""/>
+      <span end="76" id="PMC6011374.nxml.gz-2" start="65">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-20" type="identity">
+      <class id="possible" label=""/>
+      <span end="2073" id="PMC6011374.nxml.gz-20" start="2065">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-200" type="identity">
+      <class id="other" label=""/>
+      <span end="24161" id="PMC6011374.nxml.gz-200" start="24156">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-201" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24512" id="PMC6011374.nxml.gz-201" start="24245">As indicated by the seasonal variation in serum 25(OH)D, amongst women recruited in Adelaide, vitamin D status declined significantly from February to April whilst in the women recruited in Auckland, serum 25(OH)D in March and April remained elevated before declining</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-202" type="identity">
+      <class id="indicated" label=""/>
+      <span end="24257" id="PMC6011374.nxml.gz-202" start="24248">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-203" type="identity">
+      <class id="variation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-204" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="24408" id="PMC6011374.nxml.gz-204" start="24402">whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24692" id="PMC6011374.nxml.gz-205" start="24514">Vitamin D deficiency has previously been associated with insulin resistance and type 2 diabetes given its role in supporting insulin secretion and pancreatic β-cell function [42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-206" type="identity">
+      <class id="previously" label=""/>
+      <span end="24549" id="PMC6011374.nxml.gz-206" start="24539">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-207" type="identity">
+      <class id="associated" label=""/>
+      <span end="24565" id="PMC6011374.nxml.gz-207" start="24555">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-208" type="identity">
+      <class id="role" label=""/>
+      <span end="24624" id="PMC6011374.nxml.gz-208" start="24620">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24872" id="PMC6011374.nxml.gz-209" start="24694">Furthermore, inverse relationships between serum 25(OH)D and both fasting glucose and fasting insulin have been shown during pregnancy indicating poorer glycaemic control [19,43]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-21" type="identity">
+      <class id="association" label=""/>
+      <span end="2085" id="PMC6011374.nxml.gz-21" start="2074">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-210" type="identity">
+      <class id="relationships" label=""/>
+      <span end="24728" id="PMC6011374.nxml.gz-210" start="24715">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-211" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="24811" id="PMC6011374.nxml.gz-211" start="24796">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-212" type="identity">
+      <class id="indicating" label=""/>
+      <span end="24839" id="PMC6011374.nxml.gz-212" start="24829">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-213" type="identity">
+      <class id="therefore" label=""/>
+      <span end="24883" id="PMC6011374.nxml.gz-213" start="24874">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25141" id="PMC6011374.nxml.gz-214" start="24874">Therefore, the protective role of high 25(OH)D 15 ± 1 weeks’ gestation against GDM, as seen with a decreased risk of GDM in women within the ‘high’ quartile of standardised vitamin D compared to moderate-high, is consistent with knowledge about vitamin D and diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-215" type="identity">
+      <class id="role" label=""/>
+      <span end="24904" id="PMC6011374.nxml.gz-215" start="24900">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-216" type="identity">
+      <class id="consistent" label=""/>
+      <span end="25097" id="PMC6011374.nxml.gz-216" start="25087">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-217" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25437" id="PMC6011374.nxml.gz-217" start="25143">This is also consistent with another study that observed an increased risk of GDM with vitamin D deficiency in early pregnancy (aOR: 3.40; 95% CI: 2.03–4.98 [17]) and offers potential physiological connections between vitamin D status and the progression of insulin resistance in pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-218" type="identity">
+      <class id="consistent" label=""/>
+      <span end="25166" id="PMC6011374.nxml.gz-218" start="25156">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-219" type="identity">
+      <class id="potential" label=""/>
+      <span end="25326" id="PMC6011374.nxml.gz-219" start="25317">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-22" type="identity">
+      <class id="further" label=""/>
+      <span end="2146" id="PMC6011374.nxml.gz-22" start="2139">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-220" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="25352" id="PMC6011374.nxml.gz-220" start="25341">connections</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25662" id="PMC6011374.nxml.gz-221" start="25439">Furthermore, studies have shown that vitamin D supports early placental development [44,45] in which, abnormal placentation can be a characteristic of a number of pregnancy complications including GDM, PE, sPTB and SGA [46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-222" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="25470" id="PMC6011374.nxml.gz-222" start="25460">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-223" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25566" id="PMC6011374.nxml.gz-223" start="25563">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25966" id="PMC6011374.nxml.gz-224" start="25837">Vitamin D metabolism in the placenta has been shown to be influenced by testosterone production and thus varies by fetal sex [35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-225" type="identity">
+      <class id="influenced" label=""/>
+      <span end="25905" id="PMC6011374.nxml.gz-225" start="25895">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-226" type="identity">
+      <class id="thus" label=""/>
+      <span end="25941" id="PMC6011374.nxml.gz-226" start="25937">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-227" type="identity">
+      <class id="varies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-228" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26143" id="PMC6011374.nxml.gz-228" start="25968">Furthermore, sex specific differences in pregnancy outcome have also been reported whereby the risk of sPTB, PE and GDM are all higher in pregnancies with a male fetus [48–50]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-229" type="identity">
+      <class id="have...been" label=""/>
+      <span end="26031" id="PMC6011374.nxml.gz-229" start="26027">have</span>
+      <span end="26041" id="PMC6011374.nxml.gz-230" start="26037">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-23" type="identity">
+      <class id="questions" label=""/>
+      <span end="2156" id="PMC6011374.nxml.gz-23" start="2147">questions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26413" id="PMC6011374.nxml.gz-231" start="26145">In this study, we observed marginal sex-specific differences between early pregnancy vitamin D status and pregnancy outcome where by high vitamin D status and carrying a male fetus was moderately associated with decreasing the risk of having any pregnancy complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-232" type="identity">
+      <class id="this_study" label=""/>
+      <span end="26158" id="PMC6011374.nxml.gz-232" start="26148">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-233" type="identity">
+      <class id="differences" label=""/>
+      <span end="26205" id="PMC6011374.nxml.gz-233" start="26194">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-234" type="identity">
+      <class id="associated" label=""/>
+      <span end="26351" id="PMC6011374.nxml.gz-234" start="26341">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-235" type="identity">
+      <class id="conversely" label=""/>
+      <span end="26425" id="PMC6011374.nxml.gz-235" start="26415">Conversely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26555" id="PMC6011374.nxml.gz-236" start="26415">Conversely, high vitamin D status and carrying a female fetus was not associated with changing the risk of having any pregnancy complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-237" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-238" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26678" id="PMC6011374.nxml.gz-238" start="26557">Indeed, for the risk of GDM an opposite effect of vitamin D status in early pregnancy was observed depending on fetal sex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-239" type="identity">
+      <class id="opposite" label=""/>
+      <span end="26596" id="PMC6011374.nxml.gz-239" start="26588">opposite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-24" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-240" type="identity">
+      <class id="effect" label=""/>
+      <span end="26603" id="PMC6011374.nxml.gz-240" start="26597">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-241" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="26668" id="PMC6011374.nxml.gz-241" start="26656">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26935" id="PMC6011374.nxml.gz-242" start="26680">This is similar to that which has previously been shown in the relationship between vitamin D status at ≤26 weeks’ gestation and placental pathology in pregnancy [51] suggesting that male and female fetuses respond differently to maternal vitamin D status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-243" type="identity">
+      <class id="previously" label=""/>
+      <span end="26724" id="PMC6011374.nxml.gz-243" start="26714">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-244" type="identity">
+      <class id="relationship" label=""/>
+      <span end="26755" id="PMC6011374.nxml.gz-244" start="26743">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-245" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="26857" id="PMC6011374.nxml.gz-245" start="26847">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-246" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27234" id="PMC6011374.nxml.gz-246" start="26937">Lack of statistically significant associations with other pregnancy complications may reflect the fact that this was a largely vitamin D-replete population (&gt; 72% with serum 25(OH)D &gt; 50 nmol/L) likely due to their residence latitude as low serum 25(OH)D was found in the SCOPE Ireland cohort [52]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-247" type="identity">
+      <class id="lack_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-248" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-249" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-25" type="identity">
+      <class id="role" label=""/>
+      <span end="2219" id="PMC6011374.nxml.gz-25" start="2215">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-250" type="identity">
+      <class id="may" label=""/>
+      <span end="27022" id="PMC6011374.nxml.gz-250" start="27019">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-251" type="identity">
+      <class id="likely" label=""/>
+      <span end="27138" id="PMC6011374.nxml.gz-251" start="27132">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-252" type="identity">
+      <class id="due_to" label=""/>
+      <span end="27145" id="PMC6011374.nxml.gz-252" start="27139">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-253" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27482" id="PMC6011374.nxml.gz-253" start="27236">Indeed many of the studies that have assessed the association between vitamin D status and adverse pregnancy outcome that have reported statistically significant differences have been in populations with higher rates of vitamin D deficiency [2,4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-254" type="identity">
+      <class id="assessed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-255" type="identity">
+      <class id="association" label=""/>
+      <span end="27297" id="PMC6011374.nxml.gz-255" start="27286">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-256" type="identity">
+      <class id="have...been" label=""/>
+      <span end="27419" id="PMC6011374.nxml.gz-256" start="27410">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27601" id="PMC6011374.nxml.gz-257" start="27484">High dose (&gt; 2000 IU) vitamin D supplementation is associated with decreasing risk of pregnancy complications [23–25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-258" type="identity">
+      <class id="associated" label=""/>
+      <span end="27545" id="PMC6011374.nxml.gz-258" start="27535">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-259" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2721" id="PMC6011374.nxml.gz-26" start="2477">With an increasing prevalence of vitamin D deficiency and insufficiency reported both in Australia and New Zealand, as well as worldwide [1], there is continuing interest in determining how vitamin D deficiency may influence health in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-260" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-261" type="identity">
+      <class id="the_current_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-262" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27925" id="PMC6011374.nxml.gz-262" start="27730">Furthermore, multivitamin supplements available during the study period contained very little (maximum 50 IU), if any, vitamin D and thus are an unlikely source of variation within the population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-263" type="identity">
+      <class id="thus" label=""/>
+      <span end="27867" id="PMC6011374.nxml.gz-263" start="27863">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-264" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="27883" id="PMC6011374.nxml.gz-264" start="27875">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-265" type="identity">
+      <class id="variation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-266" type="identity">
+      <class id="inconsistencies" label=""/>
+      <span end="27942" id="PMC6011374.nxml.gz-266" start="27927">Inconsistencies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-267" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28034" id="PMC6011374.nxml.gz-267" start="27927">Inconsistencies in the literature may also reflect other causative factors in which vitamin D is a mediator</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-268" type="identity">
+      <class id="may" label=""/>
+      <span end="27964" id="PMC6011374.nxml.gz-268" start="27961">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-269" type="identity">
+      <class id="other" label=""/>
+      <span end="27983" id="PMC6011374.nxml.gz-269" start="27978">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-27" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2647" id="PMC6011374.nxml.gz-27" start="2628">continuing interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-270" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28408" id="PMC6011374.nxml.gz-270" start="28230">During gestation, fetal demand for calcium increases and it is imperative that maternal vitamin D status remain adequate to support increased calcium absorption from the gut [54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-271" type="identity">
+      <class id="imperative" label=""/>
+      <span end="28303" id="PMC6011374.nxml.gz-271" start="28293">imperative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-272" type="identity">
+      <class id="therefore" label=""/>
+      <span end="28419" id="PMC6011374.nxml.gz-272" start="28410">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-273" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28563" id="PMC6011374.nxml.gz-273" start="28410">Therefore, vitamin D status may be important in populations where dietary calcium intake is low which is unlikely in the population of women studied here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-274" type="identity">
+      <class id="may_be" label=""/>
+      <span end="28444" id="PMC6011374.nxml.gz-274" start="28438">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-275" type="identity">
+      <class id="important" label=""/>
+      <span end="28454" id="PMC6011374.nxml.gz-275" start="28445">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-276" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="28523" id="PMC6011374.nxml.gz-276" start="28515">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-277" type="identity">
+      <class id="here" label=""/>
+      <span end="28563" id="PMC6011374.nxml.gz-277" start="28559">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28699" id="PMC6011374.nxml.gz-278" start="28578">In conclusion, once standardised against month of sampling, we demonstrate a protective effect of high vitamin D with GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-279" type="identity">
+      <class id="effect" label=""/>
+      <span end="28672" id="PMC6011374.nxml.gz-279" start="28666">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-28" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-280" type="identity">
+      <class id="however" label=""/>
+      <span end="28708" id="PMC6011374.nxml.gz-280" start="28701">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28900" id="PMC6011374.nxml.gz-281" start="28701">However, differences in vitamin D status between the women recruited in Adelaide and those recruited in Auckland reflect obvious difficulties in studying how vitamin D may support healthy pregnancies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-282" type="identity">
+      <class id="differences" label=""/>
+      <span end="28721" id="PMC6011374.nxml.gz-282" start="28710">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-283" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-284" type="identity">
+      <class id="difficulties" label=""/>
+      <span end="28842" id="PMC6011374.nxml.gz-284" start="28830">difficulties</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-285" type="identity">
+      <class id="how" label=""/>
+      <span end="28858" id="PMC6011374.nxml.gz-285" start="28855">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-286" type="identity">
+      <class id="may" label=""/>
+      <span end="28872" id="PMC6011374.nxml.gz-286" start="28869">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-287" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-288" type="identity">
+      <class id="possible" label=""/>
+      <span end="28912" id="PMC6011374.nxml.gz-288" start="28904">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-289" type="identity">
+      <class id="connection" label=""/>
+      <span end="28923" id="PMC6011374.nxml.gz-289" start="28913">connection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-29" type="identity">
+      <class id="how" label=""/>
+      <span end="2666" id="PMC6011374.nxml.gz-29" start="2663">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-290" type="identity">
+      <class id="complications" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-291" type="identity">
+      <class id="reveals" label=""/>
+      <span end="28995" id="PMC6011374.nxml.gz-291" start="28988">reveals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-292" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-293" type="identity">
+      <class id="questions" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-294" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-295" type="identity">
+      <class id="role" label=""/>
+      <span end="29076" id="PMC6011374.nxml.gz-295" start="29072">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="192" id="PMC6011374.nxml.gz-3" start="122">Pregnant women are at increased susceptibility to vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-30" type="identity">
+      <class id="may" label=""/>
+      <span end="2691" id="PMC6011374.nxml.gz-30" start="2688">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-31" type="identity">
+      <class id="influence" label=""/>
+      <span end="2701" id="PMC6011374.nxml.gz-31" start="2692">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2929" id="PMC6011374.nxml.gz-32" start="2723">Evidence suggests that vitamin D deficiency is associated with a number of pregnancy complications including preeclampsia (PE), gestational diabetes mellitus (GDM) and spontaneous preterm birth (sPTB) [2–4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-33" type="identity">
+      <class id="suggests" label=""/>
+      <span end="2740" id="PMC6011374.nxml.gz-33" start="2732">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-34" type="identity">
+      <class id="associated" label=""/>
+      <span end="2780" id="PMC6011374.nxml.gz-34" start="2770">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-35" type="identity">
+      <class id="complications" label=""/>
+      <span end="2821" id="PMC6011374.nxml.gz-35" start="2808">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-36" type="identity">
+      <class id="however" label=""/>
+      <span end="2938" id="PMC6011374.nxml.gz-36" start="2931">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3064" id="PMC6011374.nxml.gz-37" start="2931">However, inconsistencies between studies reflect uncertainty about the true effect of vitamin D deficiency on pregnancy outcome [5,6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-38" type="identity">
+      <class id="inconsistencies" label=""/>
+      <span end="2955" id="PMC6011374.nxml.gz-38" start="2940">inconsistencies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-39" type="identity">
+      <class id="uncertainty" label=""/>
+      <span end="2991" id="PMC6011374.nxml.gz-39" start="2980">uncertainty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-4" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="168" id="PMC6011374.nxml.gz-4" start="144">increased susceptibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-40" type="identity">
+      <class id="effect" label=""/>
+      <span end="3013" id="PMC6011374.nxml.gz-40" start="3007">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3295" id="PMC6011374.nxml.gz-41" start="3066">This may be explained, in part, by inadequate control of related risk factors and confounders in statistical analyses, variations between assays that measure vitamin D and significant heterogeneity between studied populations [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-42" type="identity">
+      <class id="may_be" label=""/>
+      <span end="3077" id="PMC6011374.nxml.gz-42" start="3071">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-43" type="identity">
+      <class id="in_part" label=""/>
+      <span end="3096" id="PMC6011374.nxml.gz-43" start="3089">in part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-44" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="3111" id="PMC6011374.nxml.gz-44" start="3101">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-45" type="identity">
+      <class id="related" label=""/>
+      <span end="3130" id="PMC6011374.nxml.gz-45" start="3123">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-46" type="identity">
+      <class id="confounders" label=""/>
+      <span end="3159" id="PMC6011374.nxml.gz-46" start="3148">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-47" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-48" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="3195" id="PMC6011374.nxml.gz-48" start="3185">variations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-49" type="identity">
+      <class id="heterogeneity" label=""/>
+      <span end="3263" id="PMC6011374.nxml.gz-49" start="3250">heterogeneity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="286" id="PMC6011374.nxml.gz-5" start="194">Hence, there is continuing interest in determining how vitamin D influences pregnancy health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3612" id="PMC6011374.nxml.gz-50" start="3405">In Australia and New Zealand, the deficiency cut-offs are based on the role of vitamin D in bone health where serum 25(OH)D ≥ 50 nmol/L at the end of winter is required for optimal musculoskeletal health [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-51" type="identity">
+      <class id="role" label=""/>
+      <span end="3480" id="PMC6011374.nxml.gz-51" start="3476">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-52" type="identity">
+      <class id="required" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-53" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3731" id="PMC6011374.nxml.gz-53" start="3614">Furthermore, it has been established that serum 25(OH)D ≥ 50 nmol/L is recommended during pregnancy and lactation [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-54" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3638" id="PMC6011374.nxml.gz-54" start="3630">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-55" type="identity">
+      <class id="recommended" label=""/>
+      <span end="3696" id="PMC6011374.nxml.gz-55" start="3685">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3916" id="PMC6011374.nxml.gz-56" start="3733">The incidence of vitamin D deficiency (˂50 nmol/L) is frequent among pregnant women even in areas such as Australia and the North Island of New Zealand where sunlight exposure is high</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-57" type="identity">
+      <class id="even" label=""/>
+      <span end="3821" id="PMC6011374.nxml.gz-57" start="3817">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-58" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4222" id="PMC6011374.nxml.gz-58" start="4108">Reports from lower-risk groups have indicated that vitamin D deficiency occurs in 25–55% of pregnant women [11–13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-59" type="identity">
+      <class id="indicated" label=""/>
+      <span end="4153" id="PMC6011374.nxml.gz-59" start="4144">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-6" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4423" id="PMC6011374.nxml.gz-60" start="4224">There are numerous studies which have shown that vitamin D deficiency is associated with adverse pregnancy outcomes (Most recent: [14–17]), particularly in populations that reside at higher latitudes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-61" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="4267" id="PMC6011374.nxml.gz-61" start="4257">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-62" type="identity">
+      <class id="associated" label=""/>
+      <span end="4307" id="PMC6011374.nxml.gz-62" start="4297">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-63" type="identity">
+      <class id="however" label=""/>
+      <span end="4432" id="PMC6011374.nxml.gz-63" start="4425">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4501" id="PMC6011374.nxml.gz-64" start="4425">However, studies in women from Australia and New Zealand are less consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-65" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-66" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="4501" id="PMC6011374.nxml.gz-66" start="4486">less consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-67" type="identity">
+      <class id="consistent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-68" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="4511" id="PMC6011374.nxml.gz-68" start="4503">Previous</span>
+      <span end="4519" id="PMC6011374.nxml.gz-69" start="4512">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-7" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4854" id="PMC6011374.nxml.gz-70" start="4503">Previous studies on pregnant Australian and New Zealand women have reported that while circulating 25(OH)D was significantly lower in women with PE, sPTB, GDM and those who delivered a small-for gestational age (SGA) infant, no association between vitamin D deficiency and these pregnancy complications was found after adjusting for covariates [18–20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-71" type="identity">
+      <class id="while" label=""/>
+      <span end="4589" id="PMC6011374.nxml.gz-71" start="4584">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5056" id="PMC6011374.nxml.gz-72" start="4856">Differences in ethnicity [21], solar exposure and geographical location, as well as genetics [22] and supplementation [23–25], are known to affect 25(OH)D status and therefore influence study outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-73" type="identity">
+      <class id="differences" label=""/>
+      <span end="4867" id="PMC6011374.nxml.gz-73" start="4856">Differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-74" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="4867" id="PMC6011374.nxml.gz-74" start="4856">Differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-75" type="identity">
+      <class id="affect" label=""/>
+      <span end="5002" id="PMC6011374.nxml.gz-75" start="4996">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-76" type="identity">
+      <class id="therefore" label=""/>
+      <span end="5031" id="PMC6011374.nxml.gz-76" start="5022">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-77" type="identity">
+      <class id="influence" label=""/>
+      <span end="5041" id="PMC6011374.nxml.gz-77" start="5032">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5134" id="PMC6011374.nxml.gz-78" start="5058">Furthermore, the gestation at which vitamin D was measured is also important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-79" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8" type="identity">
+      <class id="how" label=""/>
+      <span end="248" id="PMC6011374.nxml.gz-8" start="245">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-80" type="identity">
+      <class id="important" label=""/>
+      <span end="5134" id="PMC6011374.nxml.gz-80" start="5125">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5305" id="PMC6011374.nxml.gz-81" start="5136">In the case of preterm delivery, vitamin D status measured closer to the delivery date was more significantly associated with preterm delivery than earlier measures [26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8137" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="229" id="PMC6011374.nxml.gz-8138" start="210">continuing interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8139" type="identity">
+      <class id="future_work"/>
+      <span end="2171" id="PMC6011374.nxml.gz-8140" start="2161">encourages</span>
+      <span end="2190" id="PMC6011374.nxml.gz-8141" start="2182">research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8142" type="identity">
+      <class id="subject_scope"/>
+      <span end="2292" id="PMC6011374.nxml.gz-8143" start="2063">A possible association between fetal sex, vitamin D status and GDM provides further questions and encourages continual research and discussion into the role of vitamin D in pregnancy, particularly in vitamin D replete populations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8144" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="13876" id="PMC6011374.nxml.gz-8145" start="13865">As expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8146" type="identity">
+      <class id="thus"/>
+      <span end="13934" id="PMC6011374.nxml.gz-8147" start="13930">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8148" type="identity">
+      <class id="subject_scope"/>
+      <span end="14036" id="PMC6011374.nxml.gz-8149" start="13865">As expected, there was a seasonal influence on serum 25(OH)D and thus, “standardised” vitamin D concentrations were calculated to account for the month of serum collection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8151" type="identity">
+      <class id="subject_scope"/>
+      <span end="22271" id="PMC6011374.nxml.gz-8152" start="22059">This study adds to the current body of literature on vitamin D status in a population of pregnant Australian and New Zealand women and provides insight into normal circulating levels of 25(OH)D in early pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8153" type="identity">
+      <class id="important_consideration"/>
+      <span end="23178" id="PMC6011374.nxml.gz-8154" start="23161">worth considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8155" type="identity">
+      <class id="future_work"/>
+      <span end="29013" id="PMC6011374.nxml.gz-8156" start="28996">further questions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8157" type="identity">
+      <class id="future_work"/>
+      <span end="29028" id="PMC6011374.nxml.gz-8158" start="29018">encourages</span>
+      <span end="29047" id="PMC6011374.nxml.gz-8159" start="29039">research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-8160" type="identity">
+      <class id="subject_scope"/>
+      <span end="29149" id="PMC6011374.nxml.gz-8161" start="28902">A possible connection between fetal sex, vitamin D status and pregnancy complications reveals further questions and encourages continual research and discussion into the role of vitamin D in pregnancy, particularly in vitamin D replete populations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-82" type="identity">
+      <class id="associated" label=""/>
+      <span end="5256" id="PMC6011374.nxml.gz-82" start="5246">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-83" type="identity">
+      <class id="however" label=""/>
+      <span end="5314" id="PMC6011374.nxml.gz-83" start="5307">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5505" id="PMC6011374.nxml.gz-84" start="5307">However, measuring circulating 25(OH)D in early pregnancy is common and potentially clinically useful as this is prior to when many of the pregnancy complications that affect late gestation manifest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-85" type="identity">
+      <class id="potentially" label=""/>
+      <span end="5390" id="PMC6011374.nxml.gz-85" start="5379">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-86" type="identity">
+      <class id="complications" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-87" type="identity">
+      <class id="affect" label=""/>
+      <span end="5481" id="PMC6011374.nxml.gz-87" start="5475">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5756" id="PMC6011374.nxml.gz-88" start="5507">Using a robust, validated chemiluminescent-based assay to measure serum 25(OH)D [27], we aimed to investigate the differences between vitamin D status in early pregnancy in two distinct populations of nulliparous women from Australia and New Zealand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-89" type="identity">
+      <class id="aimed" label=""/>
+      <span end="5601" id="PMC6011374.nxml.gz-89" start="5596">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-9" type="identity">
+      <class id="influences" label=""/>
+      <span end="269" id="PMC6011374.nxml.gz-9" start="259">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-90" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="5616" id="PMC6011374.nxml.gz-90" start="5602">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-91" type="identity">
+      <class id="differences" label=""/>
+      <span end="5632" id="PMC6011374.nxml.gz-91" start="5621">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6030" id="PMC6011374.nxml.gz-92" start="5758">We also aimed to examine the relationship between serum 25(OH)D at 15 ± 1 weeks’ gestation and the risk of an adverse pregnancy outcome and included determining the effect modification of fetal sex on the association between maternal vitamin D status and pregnancy outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-93" type="identity">
+      <class id="aimed" label=""/>
+      <span end="5771" id="PMC6011374.nxml.gz-93" start="5766">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-94" type="identity">
+      <class id="to_examine" label=""/>
+      <span end="5782" id="PMC6011374.nxml.gz-94" start="5772">to examine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-95" type="identity">
+      <class id="relationship" label=""/>
+      <span end="5799" id="PMC6011374.nxml.gz-95" start="5787">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-96" type="identity">
+      <class id="effect" label=""/>
+      <span end="5929" id="PMC6011374.nxml.gz-96" start="5923">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-97" type="identity">
+      <class id="association" label=""/>
+      <span end="5974" id="PMC6011374.nxml.gz-97" start="5963">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-98" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6011374.nxml.gz-99" type="identity">
+      <class id="complications" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

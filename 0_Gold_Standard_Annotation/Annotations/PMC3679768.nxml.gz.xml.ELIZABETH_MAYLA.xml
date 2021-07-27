@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3679768.nxml.gz" text-file="PMC3679768.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="135" id="PMC3679768.nxml.gz-1" start="71">Aortic dissection is a relatively rare yet often fatal condition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-10" type="identity">
+      <class id="paucity" label=""/>
+      <span end="549" id="PMC3679768.nxml.gz-10" start="542">paucity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1025" id="PMC3679768.nxml.gz-11" start="900">Aortic dissection is a rare complication of pregnancy with significant morbidity and mortality for both the mother and infant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-12" type="identity">
+      <class id="rare" label=""/>
+      <span end="927" id="PMC3679768.nxml.gz-12" start="923">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-13" type="identity">
+      <class id="complication" label=""/>
+      <span end="940" id="PMC3679768.nxml.gz-13" start="928">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1134" id="PMC3679768.nxml.gz-14" start="1027">In the general population, aortic dissection has an estimated incidence of 2.9 per 100,000 person years [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-15" type="identity">
+      <class id="estimated" label=""/>
+      <span end="1088" id="PMC3679768.nxml.gz-15" start="1079">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1796" id="PMC3679768.nxml.gz-16" start="1657">Acute aortic dissection during the third trimester of pregnancy has been attributed to hemodynamic alterations that occur in late pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-17" type="identity">
+      <class id="has...been" label=""/>
+      <span end="1729" id="PMC3679768.nxml.gz-17" start="1721">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-18" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1740" id="PMC3679768.nxml.gz-18" start="1730">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2221" id="PMC3679768.nxml.gz-19" start="2001">A high index of suspicion by the emergency physician in addition to successful coordination of care between the emergency physician, obstetrician, and cardiothoracic/vascular surgeon is necessary for a successful outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-2" type="identity">
+      <class id="rare" label=""/>
+      <span end="109" id="PMC3679768.nxml.gz-2" start="105">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-20" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2196" id="PMC3679768.nxml.gz-20" start="2187">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4414" id="PMC3679768.nxml.gz-21" start="4307">We obtained a CT angiography of the chest due to our high index of suspicion for an acute aortic dissection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-22" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4383" id="PMC3679768.nxml.gz-22" start="4360">high index of suspicion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5237" id="PMC3679768.nxml.gz-23" start="5112">Aortic dissection is a rare complication of pregnancy with significant morbidity and mortality for both the mother and infant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-24" type="identity">
+      <class id="rare" label=""/>
+      <span end="5139" id="PMC3679768.nxml.gz-24" start="5135">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-25" type="identity">
+      <class id="complication" label=""/>
+      <span end="5152" id="PMC3679768.nxml.gz-25" start="5140">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5635" id="PMC3679768.nxml.gz-26" start="5440">A recent 2011 population-based study of acute type A aortic dissection in pregnancy revealed an overall incidence of 0.4 cases per 100,000 person-years and a prehospital mortality rate of 53% [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-27" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5448" id="PMC3679768.nxml.gz-27" start="5442">recent</span>
+      <span end="5476" id="PMC3679768.nxml.gz-28" start="5471">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-29" type="identity">
+      <class id="revealed" label=""/>
+      <span end="5532" id="PMC3679768.nxml.gz-29" start="5524">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-3" type="identity">
+      <class id="yet" label=""/>
+      <span end="113" id="PMC3679768.nxml.gz-3" start="110">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6017" id="PMC3679768.nxml.gz-30" start="5837">A longitudinal study over a period of 27 years discovered that aortic dissection was the initial clinical diagnosis in only 15% of patients presenting with an aortic dissection [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-31" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5894" id="PMC3679768.nxml.gz-31" start="5884">discovered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-32" type="identity">
+      <class id="only" label=""/>
+      <span end="5960" id="PMC3679768.nxml.gz-32" start="5956">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-33" type="identity">
+      <class id="while" label=""/>
+      <span end="6201" id="PMC3679768.nxml.gz-33" start="6196">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6448" id="PMC3679768.nxml.gz-34" start="6196">While there are no firmly established practice guidelines, it has been suggested that before 28 weeks of gestation, aortic repair should proceed without cesarean section and after 32 weeks gestation, emergency cesarean section precede aortic repair [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-35" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="6233" id="PMC3679768.nxml.gz-35" start="6212">no firmly established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-36" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="6276" id="PMC3679768.nxml.gz-36" start="6258">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-37" type="identity">
+      <class id="should" label=""/>
+      <span end="6332" id="PMC3679768.nxml.gz-37" start="6326">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6536" id="PMC3679768.nxml.gz-38" start="6450">Between 28 and 32 weeks, the risks and benefits of early delivery should be considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-39" type="identity">
+      <class id="should_be" label=""/>
+      <span end="6525" id="PMC3679768.nxml.gz-39" start="6516">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="193" id="PMC3679768.nxml.gz-4" start="137">Early recognition and treatment are crucial for survival</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-40" type="identity">
+      <class id="considered" label=""/>
+      <span end="6536" id="PMC3679768.nxml.gz-40" start="6526">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-41" type="identity">
+      <class id="although" label=""/>
+      <span end="6546" id="PMC3679768.nxml.gz-41" start="6538">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6700" id="PMC3679768.nxml.gz-42" start="6538">Although relatively rare, clinicians must maintain a high index of suspicion for aortic dissection in any pregnant female who presents with acute onset chest pain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-43" type="identity">
+      <class id="rare" label=""/>
+      <span end="6562" id="PMC3679768.nxml.gz-43" start="6558">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-44" type="identity">
+      <class id="must" label=""/>
+      <span end="6579" id="PMC3679768.nxml.gz-44" start="6575">must</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-45" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="6614" id="PMC3679768.nxml.gz-45" start="6591">high index of suspicion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6914" id="PMC3679768.nxml.gz-46" start="6702">Early recognition by the emergency physician in addition to successful coordination of care between the emergency physician, obstetrician, and cardiothoracic/vascular surgeon is necessary for a successful outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-47" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="6889" id="PMC3679768.nxml.gz-47" start="6880">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-5" type="identity">
+      <class id="crucial" label=""/>
+      <span end="180" id="PMC3679768.nxml.gz-5" start="173">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-5896" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="2026" id="PMC3679768.nxml.gz-5897" start="2003">high index of suspicion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-6" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="682" id="PMC3679768.nxml.gz-8" start="504">A review of the literature revealed a paucity of published cases describing the successful, emergent repair of acute type A aortic dissections in third- trimester gravid patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3679768.nxml.gz-9" type="identity">
+      <class id="revealed" label=""/>
+      <span end="539" id="PMC3679768.nxml.gz-9" start="531">revealed</span>
+    </annotation>
+  </document>
+</knowtator-project>

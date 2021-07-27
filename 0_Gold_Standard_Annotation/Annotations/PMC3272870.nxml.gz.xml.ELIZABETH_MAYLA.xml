@@ -1,0 +1,3007 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3272870.nxml.gz" text-file="PMC3272870.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-10" type="identity">
+      <class id="however" label=""/>
+      <span end="633" id="PMC3272870.nxml.gz-10" start="626">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-100" type="identity">
+      <class id="mainly" label=""/>
+      <span end="4107" id="PMC3272870.nxml.gz-100" start="4101">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4267" id="PMC3272870.nxml.gz-101" start="4132">Finally, thyroid cancer patients often undergo total thyroidectomy and thus need adequate supplementation of both calcium and thyroxine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-102" type="identity">
+      <class id="often" label=""/>
+      <span end="4170" id="PMC3272870.nxml.gz-102" start="4165">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-103" type="identity">
+      <class id="thus" label=""/>
+      <span end="4207" id="PMC3272870.nxml.gz-103" start="4203">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-104" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4212" id="PMC3272870.nxml.gz-104" start="4208">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-105" type="identity">
+      <class id="thus" label=""/>
+      <span end="4273" id="PMC3272870.nxml.gz-105" start="4269">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-106" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4348" id="PMC3272870.nxml.gz-106" start="4269">Thus, pregnancy following thyroid cancer needs both maternal and foetal control</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-107" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4315" id="PMC3272870.nxml.gz-107" start="4310">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4718" id="PMC3272870.nxml.gz-108" start="4350">The main problems are: i) to reach an adequate balance of maternal thyroid hormones that is absolutely required by the foetal central nervous system for normal maturation7, ii) to maintain maternal levels of l-thyroxin to avoid possible recurrence or spread of disease, and iii) to perform safe follow-up controls for the mother and to plan further therapy when needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-109" type="identity">
+      <class id="problems" label=""/>
+      <span end="4367" id="PMC3272870.nxml.gz-109" start="4359">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="905" id="PMC3272870.nxml.gz-11" start="626">However, thyroid cancer detected during pregnancy may cause anxiety about the optimal timing of recommended treatments and about both maternal and neonatal morbidity, as weel as pregnancy following a diagnosis of thyroid cancer obviously needs both maternal and foetal management</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-110" type="identity">
+      <class id="required" label=""/>
+      <span end="4461" id="PMC3272870.nxml.gz-110" start="4453">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-111" type="identity">
+      <class id="possible" label=""/>
+      <span end="4586" id="PMC3272870.nxml.gz-111" start="4578">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-112" type="identity">
+      <class id="safe" label=""/>
+      <span end="4644" id="PMC3272870.nxml.gz-112" start="4640">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-113" type="identity">
+      <class id="future_work" label=""/>
+      <span end="4690" id="PMC3272870.nxml.gz-113" start="4683">to plan</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-114" type="identity">
+      <class id="needed" label=""/>
+      <span end="4718" id="PMC3272870.nxml.gz-114" start="4712">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-115" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5302" id="PMC3272870.nxml.gz-115" start="5029">Thyroid hormones are major factors for the normal development of foetal brain, and until the end of the first trimester, when the hypothalamic-pituitary- thyroid axis becomes functional, the foetal brain is strictly dependent on local deiodination of maternal thyroxine7-12</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-116" type="identity">
+      <class id="major" label=""/>
+      <span end="5055" id="PMC3272870.nxml.gz-116" start="5050">major</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-117" type="identity">
+      <class id="factors" label=""/>
+      <span end="5063" id="PMC3272870.nxml.gz-117" start="5056">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5512" id="PMC3272870.nxml.gz-118" start="5304">Thyroid hormone deficiency may cause severe neurologic disorders, resulting from defects in neuronal cell differentiation and migration, axonal and dendritic outgrowth, myelin formation and synaptogenesis7913</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-119" type="identity">
+      <class id="may" label=""/>
+      <span end="5334" id="PMC3272870.nxml.gz-119" start="5331">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-12" type="identity">
+      <class id="may" label=""/>
+      <span end="679" id="PMC3272870.nxml.gz-12" start="676">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-120" type="identity">
+      <class id="severe" label=""/>
+      <span end="5347" id="PMC3272870.nxml.gz-120" start="5341">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-121" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5701" id="PMC3272870.nxml.gz-121" start="5514">The offspring of women with a serum-free thyroxine (fT4) concentration in the lowest decile of the reference range at 12 weeks of gestation may have significant delays in neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-122" type="identity">
+      <class id="may" label=""/>
+      <span end="5657" id="PMC3272870.nxml.gz-122" start="5654">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6055" id="PMC3272870.nxml.gz-125" start="5865">During pregnancy, the mother's thyroid physiology undergoes many well-defined changes, leading to an increase in thyroid volume which is often associated with higher urinary iodine excretion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-126" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5942" id="PMC3272870.nxml.gz-126" start="5930">well-defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-127" type="identity">
+      <class id="often" label=""/>
+      <span end="6007" id="PMC3272870.nxml.gz-127" start="6002">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-128" type="identity">
+      <class id="associated" label=""/>
+      <span end="6018" id="PMC3272870.nxml.gz-128" start="6008">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-129" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6174" id="PMC3272870.nxml.gz-129" start="6057">It is also associated with the formation of new thyroid nodules with the histological features of nodular hyperplasia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-13" type="identity">
+      <class id="recommended" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-130" type="identity">
+      <class id="associated" label=""/>
+      <span end="6078" id="PMC3272870.nxml.gz-130" start="6068">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6394" id="PMC3272870.nxml.gz-131" start="6176">Very early in pregnancy, the increase in oestrogen levels causes an approximate doubling in thyroxine-binding globulin (TBG) that can lead to an increases in total T4 concentration and a reduced free fraction (Table I)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-132" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="6255" id="PMC3272870.nxml.gz-132" start="6244">approximate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-133" type="identity">
+      <class id="can" label=""/>
+      <span end="6309" id="PMC3272870.nxml.gz-133" start="6306">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-134" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="6317" id="PMC3272870.nxml.gz-134" start="6310">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6529" id="PMC3272870.nxml.gz-135" start="6396">In healthy women, the final effect consists of a significant increase in the total thyroxine pool, mainly in the first trimester17-19</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-136" type="identity">
+      <class id="effect" label=""/>
+      <span end="6430" id="PMC3272870.nxml.gz-136" start="6424">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-137" type="identity">
+      <class id="mainly" label=""/>
+      <span end="6501" id="PMC3272870.nxml.gz-137" start="6495">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-138" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6698" id="PMC3272870.nxml.gz-138" start="6531">This increment may be brought about largely by thyroid stimulation induced by human chorionic gonadotropin (HCG) through its structural affinity with thyrotropin (TSH)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-139" type="identity">
+      <class id="may_be" label=""/>
+      <span end="6552" id="PMC3272870.nxml.gz-139" start="6546">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-14" type="identity">
+      <class id="obviously" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-140" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="6574" id="PMC3272870.nxml.gz-140" start="6567">largely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6897" id="PMC3272870.nxml.gz-141" start="6700">It can be observed that a slight increase in fT4 and a reduction in TSH occur between the 9thand 12thweeks of gestation; subsequently, HCG levels decrease and TSH reaches normal non-pregnant levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-142" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-143" type="identity">
+      <class id="observed" label=""/>
+      <span end="6718" id="PMC3272870.nxml.gz-143" start="6710">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6995" id="PMC3272870.nxml.gz-144" start="6899">The TSH concentration generally lies within the normal range after the 16th to 18th week11171920</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-145" type="identity">
+      <class id="generally" label=""/>
+      <span end="6930" id="PMC3272870.nxml.gz-145" start="6921">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7097" id="PMC3272870.nxml.gz-146" start="6997">In hypothyroid or thyroidectomized pregnant women, such physiological changes obviously cannot occur</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-147" type="identity">
+      <class id="obviously" label=""/>
+      <span end="7084" id="PMC3272870.nxml.gz-147" start="7075">obviously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-148" type="identity">
+      <class id="cannot" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7358" id="PMC3272870.nxml.gz-149" start="7099">Both during suppressive or substitutive therapy, L-T4 requirement increases very early during pregnancy, reaching a plateau after 16thto 20thweeks of gestation, with a required L-T4 dosage approximately 30 to 50% higher than that administered before pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-15" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="863" id="PMC3272870.nxml.gz-15" start="854">obviously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-150" type="identity">
+      <class id="required" label=""/>
+      <span end="7275" id="PMC3272870.nxml.gz-150" start="7267">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-151" type="identity">
+      <class id="approximately" label=""/>
+      <span end="7301" id="PMC3272870.nxml.gz-151" start="7288">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8038" id="PMC3272870.nxml.gz-152" start="7620">Besides the well-known association between gestational hypothyroidism and impaired intellectual and cognitive development in offspring, untreated or inadequately treated and subclinical hypothyroidism is associated with foetal loss, anaemia, gestational hypertension and preeclampsia, abruption placentae, increased risk of miscarriage, foetal growth retardation, perinatal mortality and neonatal morbidity91315-172122</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-153" type="identity">
+      <class id="well-known" label=""/>
+      <span end="7642" id="PMC3272870.nxml.gz-153" start="7632">well-known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-154" type="identity">
+      <class id="association" label=""/>
+      <span end="7654" id="PMC3272870.nxml.gz-154" start="7643">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-155" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="7702" id="PMC3272870.nxml.gz-155" start="7694">impaired</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-156" type="identity">
+      <class id="inadequately" label=""/>
+      <span end="7781" id="PMC3272870.nxml.gz-156" start="7769">inadequately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-157" type="identity">
+      <class id="associated" label=""/>
+      <span end="7834" id="PMC3272870.nxml.gz-157" start="7824">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8133" id="PMC3272870.nxml.gz-158" start="8040">Finally, for thyroid cancer patients, hypothyroidism can rise the maternal risk of recurrence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-159" type="identity">
+      <class id="can" label=""/>
+      <span end="8096" id="PMC3272870.nxml.gz-159" start="8093">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-16" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="869" id="PMC3272870.nxml.gz-16" start="864">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-160" type="identity">
+      <class id="thus" label=""/>
+      <span end="8139" id="PMC3272870.nxml.gz-160" start="8135">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8320" id="PMC3272870.nxml.gz-161" start="8135">Thus, hypothyroidism must be absolutely avoided in all pregnant woman, especially in thyroid cancer patients, and therefore correct supplementation of thyroxine is of extreme importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-162" type="identity">
+      <class id="must...be" label=""/>
+      <span end="8163" id="PMC3272870.nxml.gz-162" start="8156">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-163" type="identity">
+      <class id="therefore" label=""/>
+      <span end="8258" id="PMC3272870.nxml.gz-163" start="8249">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-164" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="8320" id="PMC3272870.nxml.gz-164" start="8302">extreme importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-165" type="identity">
+      <class id="importance" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8548" id="PMC3272870.nxml.gz-166" start="8362">Thyroidectomised patients often need calcium and D vitamin supplementation, and the treatment needs frequent adjustment during the pregnancy to prevent maternal and neonatal hypocalcemia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-167" type="identity">
+      <class id="often" label=""/>
+      <span end="8393" id="PMC3272870.nxml.gz-167" start="8388">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-168" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="8398" id="PMC3272870.nxml.gz-168" start="8394">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-169" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="8461" id="PMC3272870.nxml.gz-169" start="8456">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-17" type="identity">
+      <class id="needs" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8722" id="PMC3272870.nxml.gz-170" start="8550">During pregnancy vitamin D and calcium metabolism undergo significant changes to provide the calcium needed for maternal skeletal preservation and foetal skeletal formation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-171" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="8657" id="PMC3272870.nxml.gz-171" start="8651">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8962" id="PMC3272870.nxml.gz-172" start="8724">Increased intestinal calcium absorption seems to be the primary mechanism for obtaining extra calcium in physiological pregnancy, but frequent nausea and vomiting or sometimes diarrhea reduce the amount of calcium absorbed by the mother23</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-173" type="identity">
+      <class id="seems" label=""/>
+      <span end="8769" id="PMC3272870.nxml.gz-173" start="8764">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-174" type="identity">
+      <class id="but" label=""/>
+      <span end="8857" id="PMC3272870.nxml.gz-174" start="8854">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-175" type="identity">
+      <class id="sometimes" label=""/>
+      <span end="8899" id="PMC3272870.nxml.gz-175" start="8890">sometimes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-177" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="9044" id="PMC3272870.nxml.gz-177" start="9029">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-178" type="identity">
+      <class id="although" label=""/>
+      <span end="9113" id="PMC3272870.nxml.gz-178" start="9105">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-179" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="9138" id="PMC3272870.nxml.gz-179" start="9127">undoubtedly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1348" id="PMC3272870.nxml.gz-18" start="907">The main objectives in clinical monitoring of pregnant thyroid cancer patients are: 1) to reach an adequate balance of maternal calcium and thyroid hormones that is absolutely required by the foetal central nervous system for normal maturation; 2) to maintain optimal levels of maternal thyroxin to avoid possible recurrence or spread of disease; and 3) to perform safe follow-up visits for the mother and to plan further therapy when needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-180" type="identity">
+      <class id="important" label=""/>
+      <span end="9148" id="PMC3272870.nxml.gz-180" start="9139">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-181" type="identity">
+      <class id="know" label=""/>
+      <span end="9185" id="PMC3272870.nxml.gz-181" start="9181">know</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-182" type="identity">
+      <class id="role" label=""/>
+      <span end="9217" id="PMC3272870.nxml.gz-182" start="9213">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-183" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="9262" id="PMC3272870.nxml.gz-183" start="9252">Not really</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9356" id="PMC3272870.nxml.gz-184" start="9252">Not really a vitamin, D3is a pro-prehormone made in the skin in response to ultraviolet-B light exposure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-187" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9782" id="PMC3272870.nxml.gz-187" start="9551">1,25(OH)2D may interfere with many functions beyond calcium metabolism, such as foetal "imprinting" that may affect neurodevelopment, immune function and chronic disease susceptibility later in life, as well as soon after birth2425</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-188" type="identity">
+      <class id="may" label=""/>
+      <span end="9565" id="PMC3272870.nxml.gz-188" start="9562">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-189" type="identity">
+      <class id="may" label=""/>
+      <span end="9659" id="PMC3272870.nxml.gz-189" start="9656">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-19" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="926" id="PMC3272870.nxml.gz-19" start="916">objectives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-190" type="identity">
+      <class id="affect" label=""/>
+      <span end="9666" id="PMC3272870.nxml.gz-190" start="9660">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-191" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10161" id="PMC3272870.nxml.gz-191" start="10010">Vitamin D and calcium deficiency can lead to maternal anorexia with poor weight gain, and impaired bone ossification or osteopenia among newborn infant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-192" type="identity">
+      <class id="can" label=""/>
+      <span end="10046" id="PMC3272870.nxml.gz-192" start="10043">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-193" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="10054" id="PMC3272870.nxml.gz-193" start="10047">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-194" type="identity">
+      <class id="poor" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-195" type="identity">
+      <class id="impaired" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10246" id="PMC3272870.nxml.gz-196" start="10164">Neonatal hypocalcemia with seizures is not uncommon in D-vitamin deficient mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-197" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10215" id="PMC3272870.nxml.gz-197" start="10203">not uncommon</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-198" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10470" id="PMC3272870.nxml.gz-198" start="10248">Vitamin D is likely safe during pregnancy and breast feeding when taken by mouth in recommended amounts, that is 10 mcg (400 USP units) of vitamin D daily in normal pregnancy. but sometimes thyroidectomised women need more</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-199" type="identity">
+      <class id="likely" label=""/>
+      <span end="10267" id="PMC3272870.nxml.gz-199" start="10261">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-2" type="identity">
+      <class id="often" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-20" type="identity">
+      <class id="required" label=""/>
+      <span end="1091" id="PMC3272870.nxml.gz-20" start="1083">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-200" type="identity">
+      <class id="safe" label=""/>
+      <span end="10272" id="PMC3272870.nxml.gz-200" start="10268">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-201" type="identity">
+      <class id="recommended" label=""/>
+      <span end="10343" id="PMC3272870.nxml.gz-201" start="10332">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-202" type="identity">
+      <class id="but" label=""/>
+      <span end="10427" id="PMC3272870.nxml.gz-202" start="10424">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-203" type="identity">
+      <class id="sometimes" label=""/>
+      <span end="10437" id="PMC3272870.nxml.gz-203" start="10428">sometimes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-204" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="10465" id="PMC3272870.nxml.gz-204" start="10461">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10694" id="PMC3272870.nxml.gz-205" start="10472">Dosage in excess of 50 mcg (2000 units) per day are not recommended, thus the treatment of postsurgical hypoparatithyroid patient calcium supplementation may be required at dosage as high as 4 g/day together with D vitamin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-206" type="identity">
+      <class id="recommended" label=""/>
+      <span end="10539" id="PMC3272870.nxml.gz-206" start="10528">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-207" type="identity">
+      <class id="thus" label=""/>
+      <span end="10545" id="PMC3272870.nxml.gz-207" start="10541">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-208" type="identity">
+      <class id="may_be" label=""/>
+      <span end="10632" id="PMC3272870.nxml.gz-208" start="10626">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-209" type="identity">
+      <class id="required" label=""/>
+      <span end="10641" id="PMC3272870.nxml.gz-209" start="10633">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-21" type="identity">
+      <class id="possible" label=""/>
+      <span end="1220" id="PMC3272870.nxml.gz-21" start="1212">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10813" id="PMC3272870.nxml.gz-210" start="10696">The range between therapeutic and toxic doses is narrow, and vitamin D toxicity, when it occurs, is a serious problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-211" type="identity">
+      <class id="serious" label=""/>
+      <span end="10805" id="PMC3272870.nxml.gz-211" start="10798">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-212" type="identity">
+      <class id="problem" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-213" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="10813" id="PMC3272870.nxml.gz-213" start="10806">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10920" id="PMC3272870.nxml.gz-214" start="10815">The first sign is a rise in the ratio of calcium to creatinine in the urine, which precedes hypercalcemia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-215" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10829" id="PMC3272870.nxml.gz-215" start="10825">sign</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11067" id="PMC3272870.nxml.gz-216" start="10922">Hypervitaminosis D is thought to be associated with a rare infant disease with supravalvular aortic stenosis, elfin facies and mental retardation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-217" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="10951" id="PMC3272870.nxml.gz-217" start="10941">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-218" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="10954" id="PMC3272870.nxml.gz-218" start="10944">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-219" type="identity">
+      <class id="associated" label=""/>
+      <span end="10968" id="PMC3272870.nxml.gz-219" start="10958">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-22" type="identity">
+      <class id="safe" label=""/>
+      <span end="1276" id="PMC3272870.nxml.gz-22" start="1272">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-220" type="identity">
+      <class id="rare" label=""/>
+      <span end="10980" id="PMC3272870.nxml.gz-220" start="10976">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-221" type="identity">
+      <class id="thus" label=""/>
+      <span end="11073" id="PMC3272870.nxml.gz-221" start="11069">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-222" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11241" id="PMC3272870.nxml.gz-222" start="11069">Thus doses of D vitamin and calcium supplementation, which may differ from those recommended in normal pregnancy, need to be carefully tailored in thyroidectomised patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-223" type="identity">
+      <class id="may" label=""/>
+      <span end="11131" id="PMC3272870.nxml.gz-223" start="11128">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-224" type="identity">
+      <class id="differ" label=""/>
+      <span end="11138" id="PMC3272870.nxml.gz-224" start="11132">differ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-225" type="identity">
+      <class id="recommended" label=""/>
+      <span end="11161" id="PMC3272870.nxml.gz-225" start="11150">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-226" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="11193" id="PMC3272870.nxml.gz-226" start="11183">need to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-227" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11414" id="PMC3272870.nxml.gz-227" start="11273">Treatment and follow-up of thyroid cancer in pregnant women are the same as in non-pregnant patients except for the use of radioactive iodine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-228" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="11348" id="PMC3272870.nxml.gz-228" start="11341">same as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-229" type="identity">
+      <class id="as_in" label=""/>
+      <span end="11351" id="PMC3272870.nxml.gz-229" start="11346">as in</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1666" id="PMC3272870.nxml.gz-23" start="1350">Data from a review of the literature and the authors' own experience show that in patients undergoing either suppressive or substitutive thyroxine therapy foetal thyroid growth is normal at ultrasound study, newborn thyroid status is normal, and the incidence of maternal morbidity is not influenced by the pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-230" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="11384" id="PMC3272870.nxml.gz-230" start="11374">except for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-232" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-233" type="identity">
+      <class id="differences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-234" type="identity">
+      <class id="important" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-235" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-236" type="identity">
+      <class id="mostly" label=""/>
+      <span end="11768" id="PMC3272870.nxml.gz-236" start="11762">Mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-237" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12000" id="PMC3272870.nxml.gz-237" start="11762">Mostly diagnosed in young people, DTC usually has a good prognosis with an overall 90-95% long-term disease-free survival for early stage or low risk tumours, which represent the vast majority of tumours diagnosed below 40-45 years of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-238" type="identity">
+      <class id="usually" label=""/>
+      <span end="11807" id="PMC3272870.nxml.gz-238" start="11800">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-239" type="identity">
+      <class id="represent" label=""/>
+      <span end="11936" id="PMC3272870.nxml.gz-239" start="11927">represent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-24" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="1386" id="PMC3272870.nxml.gz-24" start="1362">review of the literature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-240" type="identity">
+      <class id="majority" label=""/>
+      <span end="11954" id="PMC3272870.nxml.gz-240" start="11946">majority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-241" type="identity">
+      <class id="according_to" label=""/>
+      <span end="12014" id="PMC3272870.nxml.gz-241" start="12002">According to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12217" id="PMC3272870.nxml.gz-242" start="12002">According to the current staging score, DTCs of any dimension, even with nodal invasion, for patients below 45 years of age, are classified as Stage I tumours, and usually pregnant patients are below 45 years of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-243" type="identity">
+      <class id="even" label=""/>
+      <span end="12069" id="PMC3272870.nxml.gz-243" start="12065">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-244" type="identity">
+      <class id="as" label=""/>
+      <span end="12144" id="PMC3272870.nxml.gz-244" start="12142">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-245" type="identity">
+      <class id="usually" label=""/>
+      <span end="12173" id="PMC3272870.nxml.gz-245" start="12166">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-246" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12375" id="PMC3272870.nxml.gz-246" start="12219">Genetic alterations activating a common pathway of the RET-RAS-BRAF signalling cascade and other chromosomal rearrangements have been identified in most DTC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-247" type="identity">
+      <class id="other" label=""/>
+      <span end="12315" id="PMC3272870.nxml.gz-247" start="12310">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-248" type="identity">
+      <class id="have...been" label=""/>
+      <span end="12352" id="PMC3272870.nxml.gz-248" start="12343">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-249" type="identity">
+      <class id="identified" label=""/>
+      <span end="12363" id="PMC3272870.nxml.gz-249" start="12353">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-25" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="1418" id="PMC3272870.nxml.gz-25" start="1404">own experience</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-250" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="12371" id="PMC3272870.nxml.gz-250" start="12367">most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12663" id="PMC3272870.nxml.gz-251" start="12377">The existence of common genomic changes between DTC and anaplastic carcinoma may provide convincing proof of the multi-step carcinogenesis hypothesis in which cancer cells are produced from well-differentiated benign cells by transformation caused by accumulating damage to their genome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-252" type="identity">
+      <class id="may" label=""/>
+      <span end="12457" id="PMC3272870.nxml.gz-252" start="12454">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-253" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="12476" id="PMC3272870.nxml.gz-253" start="12466">convincing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-254" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="12482" id="PMC3272870.nxml.gz-254" start="12477">proof</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-255" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="12526" id="PMC3272870.nxml.gz-255" start="12516">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-256" type="identity">
+      <class id="although" label=""/>
+      <span end="12672" id="PMC3272870.nxml.gz-256" start="12664">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13017" id="PMC3272870.nxml.gz-257" start="12664">Although gene expression in thyroid cancer reveals highly consistent profiles, a second hypothesis has been proposed, which can possibly explain other "non-RET" tumours: namely foetal cell carcinogenesis, according to which cancer cells are derived from the remnants of foetal thyroid cells, or from stem cells instead of differentiated follicular cells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-258" type="identity">
+      <class id="reveals" label=""/>
+      <span end="12714" id="PMC3272870.nxml.gz-258" start="12707">reveals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-259" type="identity">
+      <class id="consistent" label=""/>
+      <span end="12732" id="PMC3272870.nxml.gz-259" start="12722">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-26" type="identity">
+      <class id="show" label=""/>
+      <span end="1423" id="PMC3272870.nxml.gz-26" start="1419">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-260" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="12762" id="PMC3272870.nxml.gz-260" start="12752">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-261" type="identity">
+      <class id="has...been" label=""/>
+      <span end="12771" id="PMC3272870.nxml.gz-261" start="12763">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-262" type="identity">
+      <class id="proposed" label=""/>
+      <span end="12780" id="PMC3272870.nxml.gz-262" start="12772">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-263" type="identity">
+      <class id="can" label=""/>
+      <span end="12791" id="PMC3272870.nxml.gz-263" start="12788">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-264" type="identity">
+      <class id="possibly" label=""/>
+      <span end="12800" id="PMC3272870.nxml.gz-264" start="12792">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-265" type="identity">
+      <class id="explain" label=""/>
+      <span end="12808" id="PMC3272870.nxml.gz-265" start="12801">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-266" type="identity">
+      <class id="other" label=""/>
+      <span end="12814" id="PMC3272870.nxml.gz-266" start="12809">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-267" type="identity">
+      <class id="according_to" label=""/>
+      <span end="12881" id="PMC3272870.nxml.gz-267" start="12869">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-268" type="identity">
+      <class id="instead" label=""/>
+      <span end="12982" id="PMC3272870.nxml.gz-268" start="12975">instead</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-269" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13161" id="PMC3272870.nxml.gz-269" start="13019">Both hypotheses can be valid and coexist, and the second (foetal-cell carcinogenesis) could explain some cases of unusual, rapidly growing DTC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-27" type="identity">
+      <class id="either...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-270" type="identity">
+      <class id="hypotheses" label=""/>
+      <span end="13034" id="PMC3272870.nxml.gz-270" start="13024">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-271" type="identity">
+      <class id="can" label=""/>
+      <span end="13038" id="PMC3272870.nxml.gz-271" start="13035">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-272" type="identity">
+      <class id="valid" label=""/>
+      <span end="13047" id="PMC3272870.nxml.gz-272" start="13042">valid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-273" type="identity">
+      <class id="could" label=""/>
+      <span end="13110" id="PMC3272870.nxml.gz-273" start="13105">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-274" type="identity">
+      <class id="explain" label=""/>
+      <span end="13118" id="PMC3272870.nxml.gz-274" start="13111">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-275" type="identity">
+      <class id="some" label=""/>
+      <span end="13123" id="PMC3272870.nxml.gz-275" start="13119">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-276" type="identity">
+      <class id="unusual" label=""/>
+      <span end="13140" id="PMC3272870.nxml.gz-276" start="13133">unusual</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-277" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13366" id="PMC3272870.nxml.gz-277" start="13163">Both hypotheses would suggest a higher thyroid neoplasm proliferation in stimulated thyroid tissue during pregnancy or adolescence, though even in growing tissues these cancers show a very good prognosis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-278" type="identity">
+      <class id="hypotheses" label=""/>
+      <span end="13178" id="PMC3272870.nxml.gz-278" start="13168">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-279" type="identity">
+      <class id="would" label=""/>
+      <span end="13184" id="PMC3272870.nxml.gz-279" start="13179">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-280" type="identity">
+      <class id="suggest" label=""/>
+      <span end="13192" id="PMC3272870.nxml.gz-280" start="13185">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-281" type="identity">
+      <class id="though" label=""/>
+      <span end="13301" id="PMC3272870.nxml.gz-281" start="13295">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-282" type="identity">
+      <class id="even" label=""/>
+      <span end="13306" id="PMC3272870.nxml.gz-282" start="13302">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-283" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13450" id="PMC3272870.nxml.gz-283" start="13368">The best treatment for nearly all identified malignant thyroid neoplasm is surgery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-284" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="13376" id="PMC3272870.nxml.gz-284" start="13372">best</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-285" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="13401" id="PMC3272870.nxml.gz-285" start="13391">nearly all</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-287" type="identity">
+      <class id="considerable" label=""/>
+      <span end="13576" id="PMC3272870.nxml.gz-287" start="13564">Considerable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-288" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13655" id="PMC3272870.nxml.gz-288" start="13564">Considerable controversy still exists over the optimal extent of primary surgical resection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-289" type="identity">
+      <class id="controversy" label=""/>
+      <span end="13588" id="PMC3272870.nxml.gz-289" start="13577">controversy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2001" id="PMC3272870.nxml.gz-29" start="1668">In this review, the authors underline that regular adjustment of levo-thyroxine and calcium therapy is of outmost importance for both maternal and foetal well-being and offer some insight, very interesting from a practical point of view, to provide a clear and simple pathway for the management of pregnancy-associated thyroid cancer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-290" type="identity">
+      <class id="still" label=""/>
+      <span end="13594" id="PMC3272870.nxml.gz-290" start="13589">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-291" type="identity">
+      <class id="as" label=""/>
+      <span end="13756" id="PMC3272870.nxml.gz-291" start="13754">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-292" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14009" id="PMC3272870.nxml.gz-292" start="13754">As nodal spread is relatively common, initial surgical exploration should include careful examination of the central compartment nodes (paratracheal and tracheoesophageal) as well as dissection of clinically suspicious nodes for frozen section examination</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-293" type="identity">
+      <class id="should" label=""/>
+      <span end="13827" id="PMC3272870.nxml.gz-293" start="13821">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-294" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14141" id="PMC3272870.nxml.gz-294" start="14011">Nodes in the jugular chains should also be carefully examined with US before surgery and, when suspicious, FNAB should be obtained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-295" type="identity">
+      <class id="should" label=""/>
+      <span end="14045" id="PMC3272870.nxml.gz-295" start="14039">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-297" type="identity">
+      <class id="should_be" label=""/>
+      <span end="14132" id="PMC3272870.nxml.gz-297" start="14123">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-298" type="identity">
+      <class id="if" label=""/>
+      <span end="14145" id="PMC3272870.nxml.gz-298" start="14143">If</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-299" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14248" id="PMC3272870.nxml.gz-299" start="14143">If nodal involvement is confirmed, total thyroidectomy and modified radical neck dissection are indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-3" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30" type="identity">
+      <class id="this...review" label=""/>
+      <span end="1682" id="PMC3272870.nxml.gz-30" start="1671">this review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-300" type="identity">
+      <class id="confirmed" label=""/>
+      <span end="14176" id="PMC3272870.nxml.gz-300" start="14167">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-301" type="identity">
+      <class id="indicated" label=""/>
+      <span end="14248" id="PMC3272870.nxml.gz-301" start="14239">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-302" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14609" id="PMC3272870.nxml.gz-302" start="14269">Thyroid hormones – Endocrine therapy: post-operative oral administration of supraphysiologic oral doses of levothyroxine are used assuming that the suppression of endogenous production of TSH deprives TSH-dependent DTC cells of an important growth-promoting influence and the goal for basal serum TSH should be in the 0.1 to 0.4 mIU/L range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-304" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="14407" id="PMC3272870.nxml.gz-304" start="14399">assuming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-307" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="14549" id="PMC3272870.nxml.gz-307" start="14545">goal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-308" type="identity">
+      <class id="should_be" label=""/>
+      <span end="14579" id="PMC3272870.nxml.gz-308" start="14570">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30891" type="identity">
+      <class id="important_consideration"/>
+      <span end="109" id="PMC3272870.nxml.gz-30892" start="98">most common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30893" type="identity">
+      <class id="subject_scope"/>
+      <span end="174" id="PMC3272870.nxml.gz-30894" start="78">Thyroid cancer, the most common endocrine malignancy, is often detected in young female patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30895" type="identity">
+      <class id="subject_scope"/>
+      <span end="9105" id="PMC3272870.nxml.gz-30896" start="9009">Moreover, the usual recommendations to avoid sun exposure reduces dermal synthesis of vitamin D3</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30897" type="identity">
+      <class id="subject_scope"/>
+      <span end="9250" id="PMC3272870.nxml.gz-30898" start="9105">Although vitamin D is undoubtedly important for foetal bone development, we know that it plays a much wider role in health and disease prevention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30899" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="21031" id="PMC3272870.nxml.gz-30900" start="21019">several ways</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-309" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15191" id="PMC3272870.nxml.gz-309" start="14867">This adjunctive therapy is supposed to destroy occult microscopic carcinoma within the thyroid remnant by being actively trapped both by normal and pathological thyroid cells, and to facilitate follow-up because serum thyroglobulin (HTG) measurements are more reliable after the destruction of residual normal thyroid tissue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30901" type="identity">
+      <class id="important_consideration"/>
+      <span end="24254" id="PMC3272870.nxml.gz-30902" start="24243">not require</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30903" type="identity">
+      <class id="important_consideration"/>
+      <span end="32035" id="PMC3272870.nxml.gz-30904" start="32025">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30905" type="identity">
+      <class id="subject_scope"/>
+      <span end="32943" id="PMC3272870.nxml.gz-30906" start="32870">When treating thyroid cancer in pregnancy, 3 factors should be considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-30907" type="identity">
+      <class id="subject_scope"/>
+      <span end="33025" id="PMC3272870.nxml.gz-30908" start="32945">The effect of cancer on pregnancy: No metastasis to placenta or foetus – no IUGR</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-31" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="1705" id="PMC3272870.nxml.gz-31" start="1696">underline</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-311" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="14905" id="PMC3272870.nxml.gz-311" start="14894">supposed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-312" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="15078" id="PMC3272870.nxml.gz-312" start="15071">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-313" type="identity">
+      <class id="reliable" label=""/>
+      <span end="15135" id="PMC3272870.nxml.gz-313" start="15127">reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-317" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15402" id="PMC3272870.nxml.gz-317" start="15306">All patients should undergo neck ultrasound and serum assay for HTG, HTG antibodies, fT4 and TSH</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-318" type="identity">
+      <class id="should" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-319" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="15325" id="PMC3272870.nxml.gz-319" start="15319">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-32" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="1792" id="PMC3272870.nxml.gz-32" start="1774">outmost importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-320" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15681" id="PMC3272870.nxml.gz-320" start="15404">For thyroidectomized high-risk, non-pregnant patients, I-131 scan is also indicated, and serum HTG measurements – performed both with thyroxine deprivation or under rTSH (recombinant human TSH) stimulation – is a useful and reliable marker of disease progression or persistence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-321" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="15487" id="PMC3272870.nxml.gz-321" start="15478">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-322" type="identity">
+      <class id="reliable" label=""/>
+      <span end="15636" id="PMC3272870.nxml.gz-322" start="15628">reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-323" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="15643" id="PMC3272870.nxml.gz-323" start="15637">marker</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-324" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="15700" id="PMC3272870.nxml.gz-324" start="15683">In our experience</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-325" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15970" id="PMC3272870.nxml.gz-325" start="15683">In our experience, the best follow-up method to detect loco-regional recurrences is, without question, neck sonography, followed by a meticulous physical examination by experienced personnel and, when indicated, ultrasound-guided FNA to confirm clinical suspicion of neck recurrence41-45</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-326" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="15710" id="PMC3272870.nxml.gz-326" start="15706">best</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-327" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-328" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="15784" id="PMC3272870.nxml.gz-328" start="15768">without question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-329" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="15893" id="PMC3272870.nxml.gz-329" start="15879">when indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-33" type="identity">
+      <class id="some" label=""/>
+      <span end="1847" id="PMC3272870.nxml.gz-33" start="1843">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-330" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-331" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-332" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16325" id="PMC3272870.nxml.gz-332" start="16083">Medullary carcinoma of the thyroid (MTC) constitutes approximately 5-10% of thyroid cancers, although there are no precise figures for incidence and survival rates because of the large geographic variations, mainly due to its familial pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-333" type="identity">
+      <class id="approximately" label=""/>
+      <span end="16149" id="PMC3272870.nxml.gz-333" start="16136">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-334" type="identity">
+      <class id="although" label=""/>
+      <span end="16184" id="PMC3272870.nxml.gz-334" start="16176">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-335" type="identity">
+      <class id="there_are_no" label=""/>
+      <span end="16197" id="PMC3272870.nxml.gz-335" start="16185">there are no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-336" type="identity">
+      <class id="because" label=""/>
+      <span end="16254" id="PMC3272870.nxml.gz-336" start="16247">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-337" type="identity">
+      <class id="variations" label=""/>
+      <span end="16289" id="PMC3272870.nxml.gz-337" start="16279">variations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-338" type="identity">
+      <class id="mainly" label=""/>
+      <span end="16297" id="PMC3272870.nxml.gz-338" start="16291">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-339" type="identity">
+      <class id="due...to" label=""/>
+      <span end="16304" id="PMC3272870.nxml.gz-339" start="16298">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-34" type="identity">
+      <class id="insight" label=""/>
+      <span end="1855" id="PMC3272870.nxml.gz-34" start="1848">insight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-340" type="identity">
+      <class id="pattern" label=""/>
+      <span end="16325" id="PMC3272870.nxml.gz-340" start="16318">pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-341" type="identity">
+      <class id="although" label=""/>
+      <span end="16335" id="PMC3272870.nxml.gz-341" start="16327">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-342" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16556" id="PMC3272870.nxml.gz-342" start="16327">Although uncommon, MTC is interesting because of its biochemical and genetic features and clinical association, both in autosomal-dominant inherited syndromes with incomplete penetrance (MEN IIA and IIB), and in the non-MEN forms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-343" type="identity">
+      <class id="uncommon" label=""/>
+      <span end="16344" id="PMC3272870.nxml.gz-343" start="16336">uncommon</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-344" type="identity">
+      <class id="interesting" label=""/>
+      <span end="16364" id="PMC3272870.nxml.gz-344" start="16353">interesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-345" type="identity">
+      <class id="association" label=""/>
+      <span end="16437" id="PMC3272870.nxml.gz-345" start="16426">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-346" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16602" id="PMC3272870.nxml.gz-346" start="16558">Familial cases account for about 30% of MTCs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-347" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="16584" id="PMC3272870.nxml.gz-347" start="16573">account for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-348" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16590" id="PMC3272870.nxml.gz-348" start="16585">about</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-349" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-35" type="identity">
+      <class id="interesting" label=""/>
+      <span end="1873" id="PMC3272870.nxml.gz-35" start="1862">interesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-352" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16846" id="PMC3272870.nxml.gz-352" start="16751">First, patients with MTC should always be suspected of carrying the genetic form of the disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-355" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="16782" id="PMC3272870.nxml.gz-355" start="16776">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-356" type="identity">
+      <class id="suspected" label=""/>
+      <span end="16802" id="PMC3272870.nxml.gz-356" start="16793">suspected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-357" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16996" id="PMC3272870.nxml.gz-357" start="16848">Secondly, the possible presence of associated conditions, such as pheochromocytoma, should be recognized before submitting patients to thyroidectomy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-358" type="identity">
+      <class id="possible" label=""/>
+      <span end="16870" id="PMC3272870.nxml.gz-358" start="16862">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-359" type="identity">
+      <class id="associated" label=""/>
+      <span end="16893" id="PMC3272870.nxml.gz-359" start="16883">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-36" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="1904" id="PMC3272870.nxml.gz-36" start="1891">point of view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-360" type="identity">
+      <class id="should_be" label=""/>
+      <span end="16941" id="PMC3272870.nxml.gz-360" start="16932">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-362" type="identity">
+      <class id="recognized" label=""/>
+      <span end="16952" id="PMC3272870.nxml.gz-362" start="16942">recognized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-363" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17116" id="PMC3272870.nxml.gz-363" start="16998">Lastly, since the clinical behaviour of MTC is extremely variable, this tumour represents a true therapeutic challenge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-364" type="identity">
+      <class id="since" label=""/>
+      <span end="17011" id="PMC3272870.nxml.gz-364" start="17006">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-365" type="identity">
+      <class id="variable" label=""/>
+      <span end="17063" id="PMC3272870.nxml.gz-365" start="17055">variable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-366" type="identity">
+      <class id="represents" label=""/>
+      <span end="17087" id="PMC3272870.nxml.gz-366" start="17077">represents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-367" type="identity">
+      <class id="true" label=""/>
+      <span end="17094" id="PMC3272870.nxml.gz-367" start="17090">true</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-368" type="identity">
+      <class id="challenge" label=""/>
+      <span end="17116" id="PMC3272870.nxml.gz-368" start="17107">challenge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-369" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17323" id="PMC3272870.nxml.gz-369" start="17118">MTC arises from C cells secreting calcitonin, a 32-amino acid peptide. Calcitonin is the most clinically useful biochemical marker for these tumours, and C cell hyperplasia represents a pre-cancerous stage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-37" type="identity">
+      <class id="associated" label=""/>
+      <span end="1986" id="PMC3272870.nxml.gz-37" start="1976">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-370" type="identity">
+      <class id="represents" label=""/>
+      <span end="17301" id="PMC3272870.nxml.gz-370" start="17291">represents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-371" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17476" id="PMC3272870.nxml.gz-371" start="17325">These neuroendocrine cells are believed to be of neural crest origin, thus having a separate lineage from the endoderm-derived follicular thyroid cells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-372" type="identity">
+      <class id="believed" label=""/>
+      <span end="17364" id="PMC3272870.nxml.gz-372" start="17356">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-373" type="identity">
+      <class id="thus" label=""/>
+      <span end="17399" id="PMC3272870.nxml.gz-373" start="17395">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-374" type="identity">
+      <class id="for_this_reason" label=""/>
+      <span end="17493" id="PMC3272870.nxml.gz-374" start="17478">For this reason</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-375" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17889" id="PMC3272870.nxml.gz-375" start="17478">For this reason, in addition to calcitonin-gene products, such as calcitonin CGRP (calcitonin-generelated- peptide) and C-CAP (katacalcin), MTC cells express several other biochemical markers that reflect the features of diffuse neuroendocrine system, implicated in the pathogenesis of the symptoms (flushing, diarrhoea, carcinoid syndrome or Cushing's syndrome) that may occur in patients with advanced disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-376" type="identity">
+      <class id="other" label=""/>
+      <span end="17649" id="PMC3272870.nxml.gz-376" start="17644">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-377" type="identity">
+      <class id="reflect" label=""/>
+      <span end="17682" id="PMC3272870.nxml.gz-377" start="17675">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-378" type="identity">
+      <class id="implicated" label=""/>
+      <span end="17740" id="PMC3272870.nxml.gz-378" start="17730">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-379" type="identity">
+      <class id="may" label=""/>
+      <span end="17849" id="PMC3272870.nxml.gz-379" start="17846">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-380" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18072" id="PMC3272870.nxml.gz-380" start="17891">These cells can also produce prostaglandins and other neuroendocrine markers such as chromogranin A, sometimes used together with calcitonin and CEA in MTC patients during follow-up</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-381" type="identity">
+      <class id="can" label=""/>
+      <span end="17906" id="PMC3272870.nxml.gz-381" start="17903">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-382" type="identity">
+      <class id="other" label=""/>
+      <span end="17944" id="PMC3272870.nxml.gz-382" start="17939">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-383" type="identity">
+      <class id="sometimes" label=""/>
+      <span end="18001" id="PMC3272870.nxml.gz-383" start="17992">sometimes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-384" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18311" id="PMC3272870.nxml.gz-384" start="18074">When dealing with MTC, we should always bear in mind that these patients may be the index-case for one of the familial forms of the disease: presymptomatic screening of relatives of MTC patients enables early diagnosis of this malignancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-385" type="identity">
+      <class id="should" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-386" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="18106" id="PMC3272870.nxml.gz-386" start="18100">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-387" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="18126" id="PMC3272870.nxml.gz-387" start="18114">bear in mind</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-388" type="identity">
+      <class id="may_be" label=""/>
+      <span end="18153" id="PMC3272870.nxml.gz-388" start="18147">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-389" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18470" id="PMC3272870.nxml.gz-389" start="18313">Early diagnosis rather than more extensive surgery may improve survival and reduce recurrences, mostly in the MEN IIB form of MTC, which is highly aggressive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-39" type="identity">
+      <class id="often" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-390" type="identity">
+      <class id="rather" label=""/>
+      <span end="18335" id="PMC3272870.nxml.gz-390" start="18329">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-391" type="identity">
+      <class id="may" label=""/>
+      <span end="18367" id="PMC3272870.nxml.gz-391" start="18364">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-392" type="identity">
+      <class id="mostly" label=""/>
+      <span end="18415" id="PMC3272870.nxml.gz-392" start="18409">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-393" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-394" type="identity">
+      <class id="may" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-395" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18889" id="PMC3272870.nxml.gz-395" start="18635">In inherited forms, the initial germline mutation produces multiple foci of cells – the so-called C-cell hyperplasia – that are susceptible to tumour formation, and each MTC is the result of a second cell transformation in one of these susceptible clones</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-396" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="18732" id="PMC3272870.nxml.gz-396" start="18723">so-called</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-397" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18982" id="PMC3272870.nxml.gz-397" start="18891">Primary MTC lesions become visible at echography as solid masses, often with calcifications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-398" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="18925" id="PMC3272870.nxml.gz-398" start="18911">become visible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-399" type="identity">
+      <class id="often" label=""/>
+      <span end="18962" id="PMC3272870.nxml.gz-399" start="18957">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2343" id="PMC3272870.nxml.gz-40" start="2222">For these reasons, differentiated thyroid cancer (DTC) is one of the most common cancers in women in the reproductive age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-400" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19158" id="PMC3272870.nxml.gz-400" start="18984">Fine needle aspiration shows a mixture of round, polyhedral and spindle-shaped cells that may seem undifferentiated, and look like a variable amount of extra-cellular amyloid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-401" type="identity">
+      <class id="shows" label=""/>
+      <span end="19012" id="PMC3272870.nxml.gz-401" start="19007">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-402" type="identity">
+      <class id="may" label=""/>
+      <span end="19077" id="PMC3272870.nxml.gz-402" start="19074">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-403" type="identity">
+      <class id="seem" label=""/>
+      <span end="19082" id="PMC3272870.nxml.gz-403" start="19078">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-404" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="19114" id="PMC3272870.nxml.gz-404" start="19105">look like</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-405" type="identity">
+      <class id="variable" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-406" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-407" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-408" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-409" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-41" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-410" type="identity">
+      <class id="suspected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-411" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-412" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-413" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-414" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-415" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-416" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19608" id="PMC3272870.nxml.gz-416" start="19538">MTC is somewhat more aggressive than papillary or follicular carcinoma</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-417" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="19553" id="PMC3272870.nxml.gz-417" start="19545">somewhat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-418" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19776" id="PMC3272870.nxml.gz-418" start="19610">It locally extends into lymph nodes and into the surrounding muscles and trachea, and may invade lymphatic and blood vessels and metastasize in lungs, bones and liver</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-419" type="identity">
+      <class id="may" label=""/>
+      <span end="19699" id="PMC3272870.nxml.gz-419" start="19696">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-42" type="identity">
+      <class id="reasons" label=""/>
+      <span end="2239" id="PMC3272870.nxml.gz-42" start="2232">reasons</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-420" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19922" id="PMC3272870.nxml.gz-420" start="19778">Sporadic MTC tumours are often monolateral with a single localization, while familial forms are mostly bilateral and often multifocal or diffuse</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-421" type="identity">
+      <class id="often" label=""/>
+      <span end="19808" id="PMC3272870.nxml.gz-421" start="19803">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-422" type="identity">
+      <class id="while" label=""/>
+      <span end="19854" id="PMC3272870.nxml.gz-422" start="19849">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-423" type="identity">
+      <class id="mostly" label=""/>
+      <span end="19880" id="PMC3272870.nxml.gz-423" start="19874">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-424" type="identity">
+      <class id="often" label=""/>
+      <span end="19900" id="PMC3272870.nxml.gz-424" start="19895">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-425" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20008" id="PMC3272870.nxml.gz-425" start="19924">For these reasons, total thyroidectomy appears to be the appropriate approach to MTC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-426" type="identity">
+      <class id="reasons" label=""/>
+      <span end="19941" id="PMC3272870.nxml.gz-426" start="19934">reasons</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-427" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="19976" id="PMC3272870.nxml.gz-427" start="19963">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-428" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="19992" id="PMC3272870.nxml.gz-428" start="19981">appropriate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-429" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20171" id="PMC3272870.nxml.gz-429" start="20010">Central neck and upper mediastinum clearance and, in addition, mono or bilateral node dissection (depending on the extent of nodal involvement) is also advisable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-43" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2302" id="PMC3272870.nxml.gz-43" start="2291">most common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-431" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="20171" id="PMC3272870.nxml.gz-431" start="20162">advisable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-432" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20380" id="PMC3272870.nxml.gz-432" start="20173">The most appropriate treatment for clinical N0 tumours is still a matter of debate, but most surgeons prefer prophylactic node dissection because MTC metastasize in regional lymph nodes at a very early stage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-433" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="20193" id="PMC3272870.nxml.gz-433" start="20182">appropriate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-434" type="identity">
+      <class id="still" label=""/>
+      <span end="20236" id="PMC3272870.nxml.gz-434" start="20231">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-435" type="identity">
+      <class id="debate" label=""/>
+      <span end="20255" id="PMC3272870.nxml.gz-435" start="20249">debate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-436" type="identity">
+      <class id="but" label=""/>
+      <span end="20260" id="PMC3272870.nxml.gz-436" start="20257">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-438" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="20318" id="PMC3272870.nxml.gz-438" start="20311">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-439" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20500" id="PMC3272870.nxml.gz-439" start="20382">Surgery is the only treatment which is considered potentially curative for metastatic or recurrent medullary carcinoma</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-44" type="identity">
+      <class id="hence" label=""/>
+      <span end="2350" id="PMC3272870.nxml.gz-44" start="2345">Hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-440" type="identity">
+      <class id="only" label=""/>
+      <span end="20401" id="PMC3272870.nxml.gz-440" start="20397">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-441" type="identity">
+      <class id="is_considered" label=""/>
+      <span end="20431" id="PMC3272870.nxml.gz-441" start="20418">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-442" type="identity">
+      <class id="potentially" label=""/>
+      <span end="20443" id="PMC3272870.nxml.gz-442" start="20432">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-443" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20598" id="PMC3272870.nxml.gz-443" start="20502">The role of radiotherapy is controversial as MTC is generally not believed to be radio-sensitive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-444" type="identity">
+      <class id="role" label=""/>
+      <span end="20510" id="PMC3272870.nxml.gz-444" start="20506">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-445" type="identity">
+      <class id="controversial" label=""/>
+      <span end="20543" id="PMC3272870.nxml.gz-445" start="20530">controversial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-446" type="identity">
+      <class id="as" label=""/>
+      <span end="20546" id="PMC3272870.nxml.gz-446" start="20544">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-447" type="identity">
+      <class id="generally" label=""/>
+      <span end="20563" id="PMC3272870.nxml.gz-447" start="20554">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-448" type="identity">
+      <class id="believed" label=""/>
+      <span end="20576" id="PMC3272870.nxml.gz-448" start="20568">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-449" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20731" id="PMC3272870.nxml.gz-449" start="20600">Therapy with long-acting somatostatin analogues has been tested in metastatic disease, with some positive benefots in most patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2504" id="PMC3272870.nxml.gz-45" start="2345">Hence, thyroid cancer ranks among the most common cancers during pregnancy, with a prevalence of 3.6-14 per 100,000 live births, mirroring the its incidence1-4</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-450" type="identity">
+      <class id="has...been" label=""/>
+      <span end="20656" id="PMC3272870.nxml.gz-450" start="20648">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-451" type="identity">
+      <class id="some" label=""/>
+      <span end="20696" id="PMC3272870.nxml.gz-451" start="20692">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-454" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20882" id="PMC3272870.nxml.gz-454" start="20816">No reliably effective chemotherapeutic regimen has been identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-455" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-457" type="identity">
+      <class id="no...identified" label=""/>
+      <span end="20818" id="PMC3272870.nxml.gz-457" start="20816">No</span>
+      <span end="20882" id="PMC3272870.nxml.gz-458" start="20872">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-459" type="identity">
+      <class id="has_been" label=""/>
+      <span end="20871" id="PMC3272870.nxml.gz-459" start="20863">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-46" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2394" id="PMC3272870.nxml.gz-46" start="2383">most common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-461" type="identity">
+      <class id="new" label=""/>
+      <span end="20887" id="PMC3272870.nxml.gz-461" start="20884">New</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-462" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20992" id="PMC3272870.nxml.gz-462" start="20884">New drugs with anti-angiogenetic, anti-tyrosine kinase and anti-VEGF effects are currently under observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-463" type="identity">
+      <class id="effects" label=""/>
+      <span end="20960" id="PMC3272870.nxml.gz-463" start="20953">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-464" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="20992" id="PMC3272870.nxml.gz-464" start="20975">under observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-466" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21260" id="PMC3272870.nxml.gz-466" start="20994">In conclusion, there are several ways to expedite the diagnosis of MTC and to follow-up patients after surgery: biochemical markers (e.g. CEA, calcitonin, katacalcin, chromogranin-A according to tumour staining), and scanning with specific ligands such as octreotide</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-467" type="identity">
+      <class id="conclusion" label=""/>
+      <span end="21007" id="PMC3272870.nxml.gz-467" start="20997">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-47" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-470" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21367" id="PMC3272870.nxml.gz-470" start="21262">Furthermore, there are new therapeutic approaches under validation for advanced or recurrent disease46-48</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-471" type="identity">
+      <class id="new" label=""/>
+      <span end="21288" id="PMC3272870.nxml.gz-471" start="21285">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-472" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21328" id="PMC3272870.nxml.gz-472" start="21312">under validation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-474" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21555" id="PMC3272870.nxml.gz-474" start="21369">Thyroid nodules in pregnancy are often misdiagnosed because of physiological thyroid increases during pregnancy, but clinical and ultrasound findings are sufficient to suspect malignancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-475" type="identity">
+      <class id="often" label=""/>
+      <span end="21407" id="PMC3272870.nxml.gz-475" start="21402">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-476" type="identity">
+      <class id="misdiagnosed" label=""/>
+      <span end="21420" id="PMC3272870.nxml.gz-476" start="21408">misdiagnosed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-477" type="identity">
+      <class id="because" label=""/>
+      <span end="21428" id="PMC3272870.nxml.gz-477" start="21421">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-478" type="identity">
+      <class id="but" label=""/>
+      <span end="21485" id="PMC3272870.nxml.gz-478" start="21482">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-480" type="identity">
+      <class id="suspect" label=""/>
+      <span end="21544" id="PMC3272870.nxml.gz-480" start="21537">suspect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-481" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21782" id="PMC3272870.nxml.gz-481" start="21557">Skilled examiners and good quality images with grey-scale and power Doppler US seem more reliable than other techniques in detecting and differentiating malignant and benign solid thyroid nodules, especially for small lesions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-482" type="identity">
+      <class id="seem" label=""/>
+      <span end="21640" id="PMC3272870.nxml.gz-482" start="21636">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-483" type="identity">
+      <class id="reliable" label=""/>
+      <span end="21654" id="PMC3272870.nxml.gz-483" start="21646">reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-484" type="identity">
+      <class id="other" label=""/>
+      <span end="21665" id="PMC3272870.nxml.gz-484" start="21660">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-485" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21689" id="PMC3272870.nxml.gz-485" start="21680">detecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-486" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21709" id="PMC3272870.nxml.gz-486" start="21694">differentiating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-487" type="identity">
+      <class id="even" label=""/>
+      <span end="21788" id="PMC3272870.nxml.gz-487" start="21784">Even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-488" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21925" id="PMC3272870.nxml.gz-488" start="21784">Even during pregnancy, US guided fine-needle aspiration biopsy (FNA) is the investigation of choice, thanks to its reliability and safety1926</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-489" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="21883" id="PMC3272870.nxml.gz-489" start="21874">of choice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-49" type="identity">
+      <class id="some" label=""/>
+      <span end="2710" id="PMC3272870.nxml.gz-49" start="2706">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-490" type="identity">
+      <class id="reliability" label=""/>
+      <span end="21910" id="PMC3272870.nxml.gz-490" start="21899">reliability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-491" type="identity">
+      <class id="safety" label=""/>
+      <span end="21921" id="PMC3272870.nxml.gz-491" start="21915">safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-492" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22191" id="PMC3272870.nxml.gz-492" start="21927">Papillary thyroid cancer is the most common histological type detected in pregnant women, and in most series 90% to 95% of thyroid carcinoma diagnosed are Stage I disease, with the majority found in the first trimester of pregnancy during the first antenatal visit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-493" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="21970" id="PMC3272870.nxml.gz-493" start="21959">most common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-494" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-495" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-496" type="identity">
+      <class id="majority" label=""/>
+      <span end="22116" id="PMC3272870.nxml.gz-496" start="22108">majority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-497" type="identity">
+      <class id="found" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-498" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22477" id="PMC3272870.nxml.gz-498" start="22193">The predominance of papillary cancer may be an important factor favouring localized disease, as these cancers metastasize slowly, and mostly in the lymphatic system, whereas less common follicular cancers tend to spread via angio-invasion with a higher frequency of distant metastasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-499" type="identity">
+      <class id="may_be" label=""/>
+      <span end="22236" id="PMC3272870.nxml.gz-499" start="22230">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="624" id="PMC3272870.nxml.gz-5" start="381">Differentiated thyroid cancer (DTC) in young people generally has an excellent prognosis, and disease-free survival among women with DTC diagnosed during pregnancy may not differ from that in age-matched non-pregnant women with similar disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2838" id="PMC3272870.nxml.gz-50" start="2706">Some data suggest the importance of growth factors (mainly TSH, but also HCG) in growth, progression and spread of papillary tumours</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-500" type="identity">
+      <class id="important" label=""/>
+      <span end="22249" id="PMC3272870.nxml.gz-500" start="22240">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-501" type="identity">
+      <class id="factor" label=""/>
+      <span end="22256" id="PMC3272870.nxml.gz-501" start="22250">factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-502" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="22266" id="PMC3272870.nxml.gz-502" start="22257">favouring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-503" type="identity">
+      <class id="as" label=""/>
+      <span end="22288" id="PMC3272870.nxml.gz-503" start="22286">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-504" type="identity">
+      <class id="mostly" label=""/>
+      <span end="22333" id="PMC3272870.nxml.gz-504" start="22327">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-505" type="identity">
+      <class id="whereas" label=""/>
+      <span end="22366" id="PMC3272870.nxml.gz-505" start="22359">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-506" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22378" id="PMC3272870.nxml.gz-506" start="22367">less common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-508" type="identity">
+      <class id="tend" label=""/>
+      <span end="22402" id="PMC3272870.nxml.gz-508" start="22398">tend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-509" type="identity">
+      <class id="although" label=""/>
+      <span end="22487" id="PMC3272870.nxml.gz-509" start="22479">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-51" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2723" id="PMC3272870.nxml.gz-51" start="2716">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-510" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22667" id="PMC3272870.nxml.gz-510" start="22479">Although thyroid cancer during pregnancy may have a faster growth2728since hormonal factors (mainly HCG) may accelerate tumour progression, the real impact of pregnancy seems to be minimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-511" type="identity">
+      <class id="may" label=""/>
+      <span end="22523" id="PMC3272870.nxml.gz-511" start="22520">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-512" type="identity">
+      <class id="since" label=""/>
+      <span end="22553" id="PMC3272870.nxml.gz-512" start="22548">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-513" type="identity">
+      <class id="factors" label=""/>
+      <span end="22570" id="PMC3272870.nxml.gz-513" start="22563">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-514" type="identity">
+      <class id="mainly" label=""/>
+      <span end="22578" id="PMC3272870.nxml.gz-514" start="22572">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-515" type="identity">
+      <class id="may" label=""/>
+      <span end="22587" id="PMC3272870.nxml.gz-515" start="22584">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-516" type="identity">
+      <class id="impact" label=""/>
+      <span end="22634" id="PMC3272870.nxml.gz-516" start="22628">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-517" type="identity">
+      <class id="seems" label=""/>
+      <span end="22653" id="PMC3272870.nxml.gz-517" start="22648">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-518" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="22676" id="PMC3272870.nxml.gz-518" start="22669">In fact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-519" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22819" id="PMC3272870.nxml.gz-519" start="22669">In fact, the rates of recurrence or the disease-free period do not differ between pregnant and non-pregnant women affected by the same disease22729-32</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-52" type="identity">
+      <class id="importance" label=""/>
+      <span end="2738" id="PMC3272870.nxml.gz-52" start="2728">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-520" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22965" id="PMC3272870.nxml.gz-520" start="22821">Hod et al. reported a single case of accelerated tumour growth during pregnancy, but this would appear to be an exception rather than the rule29</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-521" type="identity">
+      <class id="reported" label=""/>
+      <span end="22840" id="PMC3272870.nxml.gz-521" start="22832">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-522" type="identity">
+      <class id="but" label=""/>
+      <span end="22905" id="PMC3272870.nxml.gz-522" start="22902">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-523" type="identity">
+      <class id="would" label=""/>
+      <span end="22916" id="PMC3272870.nxml.gz-523" start="22911">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-524" type="identity">
+      <class id="appear_to_be" label=""/>
+      <span end="22929" id="PMC3272870.nxml.gz-524" start="22917">appear to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-525" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="22942" id="PMC3272870.nxml.gz-525" start="22933">exception</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-526" type="identity">
+      <class id="rather" label=""/>
+      <span end="22949" id="PMC3272870.nxml.gz-526" start="22943">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-527" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23177" id="PMC3272870.nxml.gz-527" start="22967">In a large retrospective study on 595 pregnancy-associated thyroid cancers, Yasmeen et al. detected no difference in outcome, disease-free survival and morbidity when compared to age-matched non-pregnant women2</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-528" type="identity">
+      <class id="associated" label=""/>
+      <span end="23025" id="PMC3272870.nxml.gz-528" start="23015">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-529" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23066" id="PMC3272870.nxml.gz-529" start="23058">detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-53" type="identity">
+      <class id="mainly" label=""/>
+      <span end="2764" id="PMC3272870.nxml.gz-53" start="2758">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-530" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23312" id="PMC3272870.nxml.gz-530" start="23179">Differently from what is observed in other pregnancy-associated cancers, no metastasis of DTC to placenta or foetus has been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-531" type="identity">
+      <class id="differently" label=""/>
+      <span end="23190" id="PMC3272870.nxml.gz-531" start="23179">Differently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-532" type="identity">
+      <class id="what" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-533" type="identity">
+      <class id="observed" label=""/>
+      <span end="23212" id="PMC3272870.nxml.gz-533" start="23204">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-534" type="identity">
+      <class id="other" label=""/>
+      <span end="23221" id="PMC3272870.nxml.gz-534" start="23216">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-535" type="identity">
+      <class id="associated" label=""/>
+      <span end="23242" id="PMC3272870.nxml.gz-535" start="23232">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-536" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="23254" id="PMC3272870.nxml.gz-536" start="23252">no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-537" type="identity">
+      <class id="has_been" label=""/>
+      <span end="23303" id="PMC3272870.nxml.gz-537" start="23295">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-538" type="identity">
+      <class id="reported" label=""/>
+      <span end="23312" id="PMC3272870.nxml.gz-538" start="23304">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-539" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23462" id="PMC3272870.nxml.gz-539" start="23314">An association between thyroid cancer and parity or full-term pregnancy has been assessed in many studies without significant or conclusive results6</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-54" type="identity">
+      <class id="but" label=""/>
+      <span end="2773" id="PMC3272870.nxml.gz-54" start="2770">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-540" type="identity">
+      <class id="association" label=""/>
+      <span end="23328" id="PMC3272870.nxml.gz-540" start="23317">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-541" type="identity">
+      <class id="has...been" label=""/>
+      <span end="23394" id="PMC3272870.nxml.gz-541" start="23386">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-542" type="identity">
+      <class id="many...studies" label=""/>
+      <span end="23419" id="PMC3272870.nxml.gz-542" start="23407">many studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-545" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="23427" id="PMC3272870.nxml.gz-545" start="23420">without</span>
+      <span end="23453" id="PMC3272870.nxml.gz-546" start="23443">conclusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-547" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-548" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-549" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3112" id="PMC3272870.nxml.gz-55" start="2840">In vitro oestrogens have been shown to down-regulate the NIS (sodium iodide symporter) gene and promote the production of thyroglobulin (HTG), increasing HTG-gene expression via oestrogen receptors present in thyroid tissue, without stimulating rapid cell proliferation145</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-550" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23665" id="PMC3272870.nxml.gz-550" start="23564">Pregnancyassociated immune tolerance, designed for foetal survival, might enhance disease progression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-551" type="identity">
+      <class id="associated" label=""/>
+      <span end="23583" id="PMC3272870.nxml.gz-551" start="23573">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-552" type="identity">
+      <class id="might" label=""/>
+      <span end="23637" id="PMC3272870.nxml.gz-552" start="23632">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-553" type="identity">
+      <class id="enhance" label=""/>
+      <span end="23645" id="PMC3272870.nxml.gz-553" start="23638">enhance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-554" type="identity">
+      <class id="however" label=""/>
+      <span end="23674" id="PMC3272870.nxml.gz-554" start="23667">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-555" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23854" id="PMC3272870.nxml.gz-555" start="23667">However, according to literature data and our own experience pregnancy after thyroid cancer has been shown to have no significant effect on morbidity, disease-free period or survival time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-556" type="identity">
+      <class id="according_to" label=""/>
+      <span end="23688" id="PMC3272870.nxml.gz-556" start="23676">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-557" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23704" id="PMC3272870.nxml.gz-557" start="23689">literature data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-558" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23727" id="PMC3272870.nxml.gz-558" start="23709">our own experience</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-559" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="23773" id="PMC3272870.nxml.gz-559" start="23759">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-56" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="2875" id="PMC3272870.nxml.gz-56" start="2860">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-560" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23977" id="PMC3272870.nxml.gz-560" start="23856">Pregnant women with thyroid cancer have been shown to have favourable outcomes regardless of the timing of diagnosis13233</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-561" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="23906" id="PMC3272870.nxml.gz-561" start="23891">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-562" type="identity">
+      <class id="regardless_of" label=""/>
+      <span end="23948" id="PMC3272870.nxml.gz-562" start="23935">regardless of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-563" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24101" id="PMC3272870.nxml.gz-563" start="23979">Guidelines for evaluation and treatment of thyroid cancer must consider the gestational age but also the patients' desires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-564" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-565" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="23989" id="PMC3272870.nxml.gz-565" start="23979">Guidelines</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-566" type="identity">
+      <class id="must" label=""/>
+      <span end="24041" id="PMC3272870.nxml.gz-566" start="24037">must</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-567" type="identity">
+      <class id="consider" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-568" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24050" id="PMC3272870.nxml.gz-568" start="24042">consider</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-569" type="identity">
+      <class id="but" label=""/>
+      <span end="24074" id="PMC3272870.nxml.gz-569" start="24071">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-57" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3445" id="PMC3272870.nxml.gz-57" start="3114">This could support the hypothesis that sex hormones and, therefore, menstrual and reproductive events, may modify thyroid cancer risk in women6, although these associations – which could indicate either a causal link or a surveillance bias – may reflect an aetiology shared by both the above-mentioned factors and by thyroid cancer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-570" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24270" id="PMC3272870.nxml.gz-570" start="24103">Detecting a thyroid cancer during pregnancy should not be a reason for termination of pregnancy, and in the large majority of cases it does not require urgent surgery4</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-571" type="identity">
+      <class id="should_not_be" label=""/>
+      <span end="24160" id="PMC3272870.nxml.gz-571" start="24147">should not be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-572" type="identity">
+      <class id="majority" label=""/>
+      <span end="24225" id="PMC3272870.nxml.gz-572" start="24217">majority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-573" type="identity">
+      <class id="urgent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-574" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24358" id="PMC3272870.nxml.gz-574" start="24272">The problem of pregnancy-associated thyroid cancer can affect three groups of patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-575" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24283" id="PMC3272870.nxml.gz-575" start="24276">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-576" type="identity">
+      <class id="problem" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-577" type="identity">
+      <class id="associated" label=""/>
+      <span end="24307" id="PMC3272870.nxml.gz-577" start="24297">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-578" type="identity">
+      <class id="can" label=""/>
+      <span end="24326" id="PMC3272870.nxml.gz-578" start="24323">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-579" type="identity">
+      <class id="affect" label=""/>
+      <span end="24333" id="PMC3272870.nxml.gz-579" start="24327">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-58" type="identity">
+      <class id="could" label=""/>
+      <span end="3124" id="PMC3272870.nxml.gz-58" start="3119">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-580" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-581" type="identity">
+      <class id="suspected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-582" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24632" id="PMC3272870.nxml.gz-582" start="24496">For these patients, surgery could be safely performed during the mid-trimester or delayed until delivery without worsening prognosis3034</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-583" type="identity">
+      <class id="could_be" label=""/>
+      <span end="24532" id="PMC3272870.nxml.gz-583" start="24524">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-584" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24539" id="PMC3272870.nxml.gz-584" start="24533">safely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-585" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-586" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-588" type="identity">
+      <class id="there_are_no" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-589" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-59" type="identity">
+      <class id="support" label=""/>
+      <span end="3132" id="PMC3272870.nxml.gz-59" start="3125">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-590" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-591" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24919" id="PMC3272870.nxml.gz-591" start="24793">When surgery is planned during pregnancy, it is important to consider both gestational age and the type of general anaesthesia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-592" type="identity">
+      <class id="important" label=""/>
+      <span end="24850" id="PMC3272870.nxml.gz-592" start="24841">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-593" type="identity">
+      <class id="consider" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-594" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24862" id="PMC3272870.nxml.gz-594" start="24854">consider</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-595" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25021" id="PMC3272870.nxml.gz-595" start="24921">Whenever possible, the operation should be performed during the second trimester or after delivery37</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-596" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="24929" id="PMC3272870.nxml.gz-596" start="24921">Whenever</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-597" type="identity">
+      <class id="possible" label=""/>
+      <span end="24938" id="PMC3272870.nxml.gz-597" start="24930">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-598" type="identity">
+      <class id="should_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-599" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24963" id="PMC3272870.nxml.gz-599" start="24954">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-6" type="identity">
+      <class id="generally" label=""/>
+      <span end="442" id="PMC3272870.nxml.gz-6" start="433">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-60" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="3147" id="PMC3272870.nxml.gz-60" start="3137">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-600" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25188" id="PMC3272870.nxml.gz-600" start="25023">During the first trimester, which is the organogenesis period, general anaesthetic agents may have some teratogenic potential or may increase the risk of miscarriage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-601" type="identity">
+      <class id="may" label=""/>
+      <span end="25116" id="PMC3272870.nxml.gz-601" start="25113">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-602" type="identity">
+      <class id="some" label=""/>
+      <span end="25126" id="PMC3272870.nxml.gz-602" start="25122">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-603" type="identity">
+      <class id="potential" label=""/>
+      <span end="25148" id="PMC3272870.nxml.gz-603" start="25139">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-604" type="identity">
+      <class id="may" label=""/>
+      <span end="25155" id="PMC3272870.nxml.gz-604" start="25152">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-605" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25249" id="PMC3272870.nxml.gz-605" start="25190">In the third trimester, surgery may induce premature labour</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-606" type="identity">
+      <class id="may" label=""/>
+      <span end="25225" id="PMC3272870.nxml.gz-606" start="25222">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-607" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25507" id="PMC3272870.nxml.gz-607" start="25251">Physiological changes of pregnancy, such as increased heart rate and blood volume, may complicate general anaesthesia, and hypotension caused by vena cava compression of the uterus during a long period in the supine position may cause foetal hypoperfusion1</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-608" type="identity">
+      <class id="may" label=""/>
+      <span end="25337" id="PMC3272870.nxml.gz-608" start="25334">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-609" type="identity">
+      <class id="may" label=""/>
+      <span end="25479" id="PMC3272870.nxml.gz-609" start="25476">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-61" type="identity">
+      <class id="therefore" label=""/>
+      <span end="3180" id="PMC3272870.nxml.gz-61" start="3171">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-610" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25747" id="PMC3272870.nxml.gz-610" start="25509">Postponing surgery to at least 6-7 months after diagnosis of DTC in the first trimester does not adversely affect prognosis; on the other hand, thyroidectomy can be safely performed in the second trimester of pregnancy or after delivery15</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-611" type="identity">
+      <class id="at_least" label=""/>
+      <span end="25539" id="PMC3272870.nxml.gz-611" start="25531">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-612" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="25651" id="PMC3272870.nxml.gz-612" start="25634">on the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-613" type="identity">
+      <class id="can" label=""/>
+      <span end="25670" id="PMC3272870.nxml.gz-613" start="25667">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-614" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="25680" id="PMC3272870.nxml.gz-614" start="25674">safely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-615" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25992" id="PMC3272870.nxml.gz-615" start="25749">Thyroxin therapy should be started immediately after surgery because untreated hypothyroidism may expose the mother to a higher risk of disease recurrence and may have an adverse effect on cognitive function and regular growth of the offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-617" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="25775" id="PMC3272870.nxml.gz-617" start="25766">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-618" type="identity">
+      <class id="because" label=""/>
+      <span end="25817" id="PMC3272870.nxml.gz-618" start="25810">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-619" type="identity">
+      <class id="may" label=""/>
+      <span end="25846" id="PMC3272870.nxml.gz-619" start="25843">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-62" type="identity">
+      <class id="may" label=""/>
+      <span end="3220" id="PMC3272870.nxml.gz-62" start="3217">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-620" type="identity">
+      <class id="may" label=""/>
+      <span end="25911" id="PMC3272870.nxml.gz-620" start="25908">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-621" type="identity">
+      <class id="effect" label=""/>
+      <span end="25934" id="PMC3272870.nxml.gz-621" start="25928">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-622" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26144" id="PMC3272870.nxml.gz-622" start="25994">Regular assessments of TSH and fT4 levels every 6/8 weeks during pregnancy and breast-feeding are required to ensure an adequate dose of levothyroxine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-623" type="identity">
+      <class id="required" label=""/>
+      <span end="26100" id="PMC3272870.nxml.gz-623" start="26092">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-624" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26270" id="PMC3272870.nxml.gz-624" start="26146">Follow-up may be carried out on a regular basis with ultrasound techniques and thyroglobulin assay, as in non-pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-625" type="identity">
+      <class id="may_be" label=""/>
+      <span end="26162" id="PMC3272870.nxml.gz-625" start="26156">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-626" type="identity">
+      <class id="as_in" label=""/>
+      <span end="26251" id="PMC3272870.nxml.gz-626" start="26246">as in</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-627" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26357" id="PMC3272870.nxml.gz-627" start="26272">Radioiodine therapy, when needed, can be safely postponed until after breast- feeding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-628" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="26304" id="PMC3272870.nxml.gz-628" start="26293">when needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-629" type="identity">
+      <class id="can" label=""/>
+      <span end="26309" id="PMC3272870.nxml.gz-629" start="26306">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-63" type="identity">
+      <class id="although" label=""/>
+      <span end="3267" id="PMC3272870.nxml.gz-63" start="3259">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-630" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="26319" id="PMC3272870.nxml.gz-630" start="26313">safely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-633" type="identity">
+      <class id="whether" label=""/>
+      <span end="26540" id="PMC3272870.nxml.gz-633" start="26533">Whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-634" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26799" id="PMC3272870.nxml.gz-634" start="26533">Whether women treated for thyroid cancer should become pregnant was once a matter of concern, but current evidence suggests that DTC should not discourage intended pregnancy, with the usual recommendation to postpone it to at least 6 months after radioiodine therapy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-635" type="identity">
+      <class id="explicit_question" label=""/>
+      <span end="26580" id="PMC3272870.nxml.gz-635" start="26574">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-636" type="identity">
+      <class id="concern" label=""/>
+      <span end="26625" id="PMC3272870.nxml.gz-636" start="26618">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-637" type="identity">
+      <class id="but" label=""/>
+      <span end="26630" id="PMC3272870.nxml.gz-637" start="26627">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-638" type="identity">
+      <class id="current_evidence" label=""/>
+      <span end="26647" id="PMC3272870.nxml.gz-638" start="26631">current evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-639" type="identity">
+      <class id="suggests" label=""/>
+      <span end="26656" id="PMC3272870.nxml.gz-639" start="26648">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-64" type="identity">
+      <class id="associations" label=""/>
+      <span end="3286" id="PMC3272870.nxml.gz-64" start="3274">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-640" type="identity">
+      <class id="should" label=""/>
+      <span end="26672" id="PMC3272870.nxml.gz-640" start="26666">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-641" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="26737" id="PMC3272870.nxml.gz-641" start="26723">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-642" type="identity">
+      <class id="at_least" label=""/>
+      <span end="26764" id="PMC3272870.nxml.gz-642" start="26756">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-643" type="identity">
+      <class id="in_spite" label=""/>
+      <span end="26809" id="PMC3272870.nxml.gz-643" start="26801">In spite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-644" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26999" id="PMC3272870.nxml.gz-644" start="26801">In spite of the theoretical proliferative stimulation caused by HCG and placental growth factors, published data indicate that there is no evidence that thyroid cancer can be influenced by pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-645" type="identity">
+      <class id="theoretical" label=""/>
+      <span end="26828" id="PMC3272870.nxml.gz-645" start="26817">theoretical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-646" type="identity">
+      <class id="indicate" label=""/>
+      <span end="26922" id="PMC3272870.nxml.gz-646" start="26914">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-647" type="identity">
+      <class id="no_evidence" label=""/>
+      <span end="26948" id="PMC3272870.nxml.gz-647" start="26937">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-648" type="identity">
+      <class id="can" label=""/>
+      <span end="26972" id="PMC3272870.nxml.gz-648" start="26969">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-649" type="identity">
+      <class id="influenced" label=""/>
+      <span end="26986" id="PMC3272870.nxml.gz-649" start="26976">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-65" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-650" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27074" id="PMC3272870.nxml.gz-650" start="27001">In addition, follow-up studies have shown no significant increase in risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-651" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="27042" id="PMC3272870.nxml.gz-651" start="27032">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-652" type="identity">
+      <class id="usually" label=""/>
+      <span end="27083" id="PMC3272870.nxml.gz-652" start="27076">Usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-653" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27368" id="PMC3272870.nxml.gz-653" start="27076">Usually, patients are recommended to postpone pregnancy to 6-12 months after radioiodine (I-131) treatment to avoid a potentially higher risk of miscarriage in the first few months after radioiodine therapy and to allow time enough to exclude residual disease requiring further treatment41438</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-654" type="identity">
+      <class id="recommended" label=""/>
+      <span end="27109" id="PMC3272870.nxml.gz-654" start="27098">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-655" type="identity">
+      <class id="potentially" label=""/>
+      <span end="27205" id="PMC3272870.nxml.gz-655" start="27194">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-656" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27674" id="PMC3272870.nxml.gz-656" start="27370">Miscarriages or premature birth have raised concern about the use of radioactive iodine in a childbearing age due to the known mutagenic effect of radiation and the theoretical possibility that it may affect germ cells, thereby causing genetic damage, congenital abnormalities and malignancy in offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-657" type="identity">
+      <class id="concern" label=""/>
+      <span end="27421" id="PMC3272870.nxml.gz-657" start="27414">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-658" type="identity">
+      <class id="due...to" label=""/>
+      <span end="27486" id="PMC3272870.nxml.gz-658" start="27480">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-659" type="identity">
+      <class id="known" label=""/>
+      <span end="27496" id="PMC3272870.nxml.gz-659" start="27491">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-66" type="identity">
+      <class id="could" label=""/>
+      <span end="3300" id="PMC3272870.nxml.gz-66" start="3295">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-660" type="identity">
+      <class id="effect" label=""/>
+      <span end="27513" id="PMC3272870.nxml.gz-660" start="27507">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-661" type="identity">
+      <class id="theoretical" label=""/>
+      <span end="27546" id="PMC3272870.nxml.gz-661" start="27535">theoretical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-662" type="identity">
+      <class id="possibility" label=""/>
+      <span end="27558" id="PMC3272870.nxml.gz-662" start="27547">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-663" type="identity">
+      <class id="may" label=""/>
+      <span end="27570" id="PMC3272870.nxml.gz-663" start="27567">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-664" type="identity">
+      <class id="affect" label=""/>
+      <span end="27577" id="PMC3272870.nxml.gz-664" start="27571">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-665" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27963" id="PMC3272870.nxml.gz-665" start="27676">Virtually any person treated with any dosage of I-131 is at potential risk, but experimental evidence in animals and follow-up studies in humans has failed to reveal any statistically significant effects of I-131 on chromosomal abnormalities, congenital malformation or childhood cancers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-666" type="identity">
+      <class id="potential" label=""/>
+      <span end="27745" id="PMC3272870.nxml.gz-666" start="27736">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-667" type="identity">
+      <class id="but" label=""/>
+      <span end="27755" id="PMC3272870.nxml.gz-667" start="27752">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-668" type="identity">
+      <class id="experimental_evidence" label=""/>
+      <span end="27777" id="PMC3272870.nxml.gz-668" start="27756">experimental evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-669" type="identity">
+      <class id="failed_to_reveal" label=""/>
+      <span end="27841" id="PMC3272870.nxml.gz-669" start="27825">failed to reveal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-67" type="identity">
+      <class id="indicate" label=""/>
+      <span end="3309" id="PMC3272870.nxml.gz-67" start="3301">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-670" type="identity">
+      <class id="effects" label=""/>
+      <span end="27879" id="PMC3272870.nxml.gz-670" start="27872">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-674" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28238" id="PMC3272870.nxml.gz-674" start="28091">Among those children born from I-131 treated women, the authors found only one case of ventricular septal defect and patent ductus arteriosus223940</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-675" type="identity">
+      <class id="found" label=""/>
+      <span end="28160" id="PMC3272870.nxml.gz-675" start="28155">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-676" type="identity">
+      <class id="only" label=""/>
+      <span end="28165" id="PMC3272870.nxml.gz-676" start="28161">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-677" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28563" id="PMC3272870.nxml.gz-677" start="28240">A possible increase in the rate of miscarriages has been reported to occur in the early period after therapy, but it remains uncertain whether abortion can be caused either by I-131 itself, by the thyroid autoimmunity often associated with disease or by the hypothyroid-hyperprolactinaemic status accompanying I-131 therapy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-678" type="identity">
+      <class id="possible" label=""/>
+      <span end="28250" id="PMC3272870.nxml.gz-678" start="28242">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-679" type="identity">
+      <class id="reported" label=""/>
+      <span end="28305" id="PMC3272870.nxml.gz-679" start="28297">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-68" type="identity">
+      <class id="either...or" label=""/>
+      <span end="3316" id="PMC3272870.nxml.gz-68" start="3310">either</span>
+      <span end="3333" id="PMC3272870.nxml.gz-69" start="3331">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-680" type="identity">
+      <class id="but" label=""/>
+      <span end="28353" id="PMC3272870.nxml.gz-680" start="28350">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-681" type="identity">
+      <class id="remains" label=""/>
+      <span end="28364" id="PMC3272870.nxml.gz-681" start="28357">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-682" type="identity">
+      <class id="uncertain" label=""/>
+      <span end="28374" id="PMC3272870.nxml.gz-682" start="28365">uncertain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-683" type="identity">
+      <class id="whether" label=""/>
+      <span end="28382" id="PMC3272870.nxml.gz-683" start="28375">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-684" type="identity">
+      <class id="can" label=""/>
+      <span end="28395" id="PMC3272870.nxml.gz-684" start="28392">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-685" type="identity">
+      <class id="either...or" label=""/>
+      <span end="28412" id="PMC3272870.nxml.gz-685" start="28406">either</span>
+      <span end="28490" id="PMC3272870.nxml.gz-686" start="28488">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-687" type="identity">
+      <class id="often" label=""/>
+      <span end="28463" id="PMC3272870.nxml.gz-687" start="28458">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-688" type="identity">
+      <class id="associated" label=""/>
+      <span end="28474" id="PMC3272870.nxml.gz-688" start="28464">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-689" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28943" id="PMC3272870.nxml.gz-689" start="28565">At present, consensus has been reached on the fact that radioiodine treatment of DTC does not affect pregnancy outcome and does not appear to be associated with any genetic risk, with the usual recommendation to delay pregnancy for 6-12 months after radioiodine exposure, even if there is no evidence that pregnancy before this period could lead to a less favourable outcome2238</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-690" type="identity">
+      <class id="consensus" label=""/>
+      <span end="28586" id="PMC3272870.nxml.gz-690" start="28577">consensus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-691" type="identity">
+      <class id="has...been" label=""/>
+      <span end="28595" id="PMC3272870.nxml.gz-691" start="28587">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-693" type="identity">
+      <class id="appear_to_be" label=""/>
+      <span end="28709" id="PMC3272870.nxml.gz-693" start="28697">appear to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-694" type="identity">
+      <class id="associated" label=""/>
+      <span end="28720" id="PMC3272870.nxml.gz-694" start="28710">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-695" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="28773" id="PMC3272870.nxml.gz-695" start="28759">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-696" type="identity">
+      <class id="even" label=""/>
+      <span end="28841" id="PMC3272870.nxml.gz-696" start="28837">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-697" type="identity">
+      <class id="if" label=""/>
+      <span end="28844" id="PMC3272870.nxml.gz-697" start="28842">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-698" type="identity">
+      <class id="no_evidence" label=""/>
+      <span end="28865" id="PMC3272870.nxml.gz-698" start="28854">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-699" type="identity">
+      <class id="could" label=""/>
+      <span end="28905" id="PMC3272870.nxml.gz-699" start="28900">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-7" type="identity">
+      <class id="may" label=""/>
+      <span end="548" id="PMC3272870.nxml.gz-7" start="545">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-70" type="identity">
+      <class id="link" label=""/>
+      <span end="3330" id="PMC3272870.nxml.gz-70" start="3326">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-700" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="28913" id="PMC3272870.nxml.gz-700" start="28906">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-701" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-702" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="28931" id="PMC3272870.nxml.gz-702" start="28916">less favourable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-703" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-704" type="identity">
+      <class id="evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-705" type="identity">
+      <class id="despite" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-706" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29156" id="PMC3272870.nxml.gz-706" start="29053">Management of these patients and providing evidencebased advice are obviously extremely difficult tasks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-707" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="29109" id="PMC3272870.nxml.gz-707" start="29096">evidencebased</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-708" type="identity">
+      <class id="advice" label=""/>
+      <span end="29116" id="PMC3272870.nxml.gz-708" start="29110">advice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-709" type="identity">
+      <class id="obviously" label=""/>
+      <span end="29130" id="PMC3272870.nxml.gz-709" start="29121">obviously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-71" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="3353" id="PMC3272870.nxml.gz-71" start="3349">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-710" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="29140" id="PMC3272870.nxml.gz-710" start="29131">extremely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-711" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="29156" id="PMC3272870.nxml.gz-711" start="29141">difficult tasks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-712" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29364" id="PMC3272870.nxml.gz-712" start="29158">Patients with active DTC can be reassured that, as mentioned above, pregnancy itself does not appear to increase disease progression, and therefore a gap in treatment during pregnancy is not contraindicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-713" type="identity">
+      <class id="can" label=""/>
+      <span end="29186" id="PMC3272870.nxml.gz-713" start="29183">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-714" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="29199" id="PMC3272870.nxml.gz-714" start="29190">reassured</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-715" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="29258" id="PMC3272870.nxml.gz-715" start="29243">does not appear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-716" type="identity">
+      <class id="appear" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-717" type="identity">
+      <class id="therefore" label=""/>
+      <span end="29305" id="PMC3272870.nxml.gz-717" start="29296">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-718" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="29364" id="PMC3272870.nxml.gz-718" start="29345">not contraindicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-719" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-72" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-720" type="identity">
+      <class id="observed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-721" type="identity">
+      <class id="necessary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-722" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29687" id="PMC3272870.nxml.gz-722" start="29456">For patients with local recurrent disease, ultrasound controls by skilled hands is of outmost importance, both to help surgeons in selecting tissues for excision and to perform local therapy, such as alcoholization of small lesions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-723" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="29560" id="PMC3272870.nxml.gz-723" start="29542">outmost importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-724" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-726" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29821" id="PMC3272870.nxml.gz-726" start="29689">For patients with advanced disease, ultrasound control of tissue growth can help in therapeutic decisions, such as timing of surgery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-727" type="identity">
+      <class id="can" label=""/>
+      <span end="29764" id="PMC3272870.nxml.gz-727" start="29761">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-728" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29956" id="PMC3272870.nxml.gz-728" start="29823">Whenever possible, surgery should be carried out during the second trimester or after delivery, as for newly diagnosed thyroid cancer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-729" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="29831" id="PMC3272870.nxml.gz-729" start="29823">Whenever</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-73" type="identity">
+      <class id="may" label=""/>
+      <span end="3359" id="PMC3272870.nxml.gz-73" start="3356">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-730" type="identity">
+      <class id="possible" label=""/>
+      <span end="29840" id="PMC3272870.nxml.gz-730" start="29832">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-731" type="identity">
+      <class id="should_be" label=""/>
+      <span end="29859" id="PMC3272870.nxml.gz-731" start="29850">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-732" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-733" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-734" type="identity">
+      <class id="based_on" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-735" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30331" id="PMC3272870.nxml.gz-735" start="30148">This treatment has been widely used for more than 40 years, with the assumption that suppression of endogenous TSH deprives TSH-dependent DTC cells of the most important growth factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-736" type="identity">
+      <class id="has...been" label=""/>
+      <span end="30171" id="PMC3272870.nxml.gz-736" start="30163">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-737" type="identity">
+      <class id="assumption" label=""/>
+      <span end="30227" id="PMC3272870.nxml.gz-737" start="30217">assumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-738" type="identity">
+      <class id="important" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-739" type="identity">
+      <class id="therefore" label=""/>
+      <span end="30342" id="PMC3272870.nxml.gz-739" start="30333">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-74" type="identity">
+      <class id="reflect" label=""/>
+      <span end="3367" id="PMC3272870.nxml.gz-74" start="3360">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-740" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30459" id="PMC3272870.nxml.gz-740" start="30333">Therefore, thyroxine therapy aims at suppressing pituitary secretion of TSH, as indicated by serum TSH levels below 0.05 mIU/L</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-741" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="30366" id="PMC3272870.nxml.gz-741" start="30362">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-742" type="identity">
+      <class id="as" label=""/>
+      <span end="30412" id="PMC3272870.nxml.gz-742" start="30410">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-743" type="identity">
+      <class id="indicated" label=""/>
+      <span end="30422" id="PMC3272870.nxml.gz-743" start="30413">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-744" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30579" id="PMC3272870.nxml.gz-744" start="30461">In univariate analyses, thyroxine therapy apparently helps decrease cancer-related death rates among patients with PTC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-745" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="30513" id="PMC3272870.nxml.gz-745" start="30503">apparently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-746" type="identity">
+      <class id="related" label=""/>
+      <span end="30543" id="PMC3272870.nxml.gz-746" start="30536">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-747" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30664" id="PMC3272870.nxml.gz-747" start="30581">Many series have reported reduced rates of tumour recurrence both in PTC and in FTC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-748" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="30592" id="PMC3272870.nxml.gz-748" start="30581">Many series</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-749" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="30606" id="PMC3272870.nxml.gz-749" start="30593">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-75" type="identity">
+      <class id="factors" label=""/>
+      <span end="3423" id="PMC3272870.nxml.gz-75" start="3416">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-750" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30881" id="PMC3272870.nxml.gz-750" start="30666">Doses of L-thyroxine greater than 150/200 μg (at least 2 μg/kg/day) are usually needed to maintain maternal serum-free thyroxin concentrations within the upper third of the reference range and to suppress TSH levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-751" type="identity">
+      <class id="at_least" label=""/>
+      <span end="30720" id="PMC3272870.nxml.gz-751" start="30712">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-752" type="identity">
+      <class id="usually" label=""/>
+      <span end="30745" id="PMC3272870.nxml.gz-752" start="30738">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-754" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="30752" id="PMC3272870.nxml.gz-754" start="30746">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-755" type="identity">
+      <class id="usually" label=""/>
+      <span end="30890" id="PMC3272870.nxml.gz-755" start="30883">Usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-756" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31057" id="PMC3272870.nxml.gz-756" start="30883">Usually the dosage needs to be increased as early as during the fifth week of gestation, and fT4 TSH monitoring is recommended every 6 weeks for adequate adjustment of dosage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-757" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="30907" id="PMC3272870.nxml.gz-757" start="30902">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-758" type="identity">
+      <class id="recommended" label=""/>
+      <span end="31009" id="PMC3272870.nxml.gz-758" start="30998">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-759" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31191" id="PMC3272870.nxml.gz-759" start="31059">After delivery, thyroxine dose can be gradually reduced to pre-pregnancy levels, while TSH levels should be constantly monitored1015</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-76" type="identity">
+      <class id="however" label=""/>
+      <span end="3454" id="PMC3272870.nxml.gz-76" start="3447">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-760" type="identity">
+      <class id="can" label=""/>
+      <span end="31093" id="PMC3272870.nxml.gz-760" start="31090">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-761" type="identity">
+      <class id="while" label=""/>
+      <span end="31145" id="PMC3272870.nxml.gz-761" start="31140">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-763" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="31166" id="PMC3272870.nxml.gz-763" start="31157">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-764" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31420" id="PMC3272870.nxml.gz-764" start="31193">Patients with MTC whose tumours deriving from C cells are not TSH-dependent do not require suppressive therapy, but only thyroxine replacement therapy after surgery, and the dosages are the same as those used for hypothyroidism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-765" type="identity">
+      <class id="dependent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-766" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="31283" id="PMC3272870.nxml.gz-766" start="31272">not require</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-767" type="identity">
+      <class id="but_only" label=""/>
+      <span end="31313" id="PMC3272870.nxml.gz-767" start="31305">but only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-768" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31681" id="PMC3272870.nxml.gz-768" start="31422">Pregnancy status requires much more accuracy in assessing levothyroxine dosage to protect the foetus from maternal hypothyroidism because, as mentioned above, the mother is the only source of thyroid hormones for the embryo in the first trimester of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-769" type="identity">
+      <class id="requires" label=""/>
+      <span end="31447" id="PMC3272870.nxml.gz-769" start="31439">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-77" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3498" id="PMC3272870.nxml.gz-77" start="3447">However, such a relation has not yet been confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-770" type="identity">
+      <class id="future_work" label=""/>
+      <span end="31457" id="PMC3272870.nxml.gz-770" start="31448">much more</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-771" type="identity">
+      <class id="because" label=""/>
+      <span end="31559" id="PMC3272870.nxml.gz-771" start="31552">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-776" type="identity">
+      <class id="approximately" label=""/>
+      <span end="31788" id="PMC3272870.nxml.gz-776" start="31775">Approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-777" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31941" id="PMC3272870.nxml.gz-777" start="31775">Approximately 40-80% of the oral dose is absorbed, with peak serum levels measured within 2-4 hour, and the half-life of the administered dose is approximately 1 week</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-778" type="identity">
+      <class id="approximately" label=""/>
+      <span end="31934" id="PMC3272870.nxml.gz-778" start="31921">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-779" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32112" id="PMC3272870.nxml.gz-779" start="31943">The extent of absorption is increased in fasting status and decreased if there is inadequate intestinal absorption, often caused by other drugs, such as ferrous sulphate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-78" type="identity">
+      <class id="relation" label=""/>
+      <span end="3471" id="PMC3272870.nxml.gz-78" start="3463">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-780" type="identity">
+      <class id="if" label=""/>
+      <span end="32015" id="PMC3272870.nxml.gz-780" start="32013">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-782" type="identity">
+      <class id="often" label=""/>
+      <span end="32064" id="PMC3272870.nxml.gz-782" start="32059">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-783" type="identity">
+      <class id="other" label=""/>
+      <span end="32080" id="PMC3272870.nxml.gz-783" start="32075">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-784" type="identity">
+      <class id="therefore" label=""/>
+      <span end="32123" id="PMC3272870.nxml.gz-784" start="32114">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-785" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32215" id="PMC3272870.nxml.gz-785" start="32114">Therefore, during pregnancy, thyroxin and ferrous sulphate doses should be spaced by at least 4 hours</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-786" type="identity">
+      <class id="should_be" label=""/>
+      <span end="32188" id="PMC3272870.nxml.gz-786" start="32179">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-787" type="identity">
+      <class id="at_least" label=""/>
+      <span end="32207" id="PMC3272870.nxml.gz-787" start="32199">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-788" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32628" id="PMC3272870.nxml.gz-788" start="32217">There is limited but still important placental transfer of maternal T4 to the foetus18, while placental type III deiodinase catalyzes the conversion of T4 to the more active form reverse-T3, which crosses the placental barrier, and to the less active 3,3'-diiodothyronine (T2), representing a homeostatic mechanism for maintaining T3production in the placenta when maternal serum T4concentrations are modified18</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-789" type="identity">
+      <class id="limited" label=""/>
+      <span end="32233" id="PMC3272870.nxml.gz-789" start="32226">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-79" type="identity">
+      <class id="not_yet" label=""/>
+      <span end="3483" id="PMC3272870.nxml.gz-79" start="3476">not yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-790" type="identity">
+      <class id="but" label=""/>
+      <span end="32237" id="PMC3272870.nxml.gz-790" start="32234">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-791" type="identity">
+      <class id="still" label=""/>
+      <span end="32243" id="PMC3272870.nxml.gz-791" start="32238">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-792" type="identity">
+      <class id="important" label=""/>
+      <span end="32253" id="PMC3272870.nxml.gz-792" start="32244">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-793" type="identity">
+      <class id="while" label=""/>
+      <span end="32310" id="PMC3272870.nxml.gz-793" start="32305">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-794" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="32507" id="PMC3272870.nxml.gz-794" start="32495">representing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-795" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32855" id="PMC3272870.nxml.gz-795" start="32630">Frequent monitoring and adjustment of L-T4 dosages are very important because of large fluctuations of T4 metabolism during pregnancy; calcium and D vitamin supplementation, often indispensable, must be carefully tailored2324</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-796" type="identity">
+      <class id="important" label=""/>
+      <span end="32699" id="PMC3272870.nxml.gz-796" start="32690">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-797" type="identity">
+      <class id="because" label=""/>
+      <span end="32707" id="PMC3272870.nxml.gz-797" start="32700">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-798" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="32707" id="PMC3272870.nxml.gz-798" start="32700">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-799" type="identity">
+      <class id="often" label=""/>
+      <span end="32809" id="PMC3272870.nxml.gz-799" start="32804">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-8" type="identity">
+      <class id="differ" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-80" type="identity">
+      <class id="confirmed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-800" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="32823" id="PMC3272870.nxml.gz-800" start="32810">indispensable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-801" type="identity">
+      <class id="must...be" label=""/>
+      <span end="32832" id="PMC3272870.nxml.gz-801" start="32825">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-802" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-803" type="identity">
+      <class id="factors" label=""/>
+      <span end="32922" id="PMC3272870.nxml.gz-803" start="32915">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-804" type="identity">
+      <class id="should_be" label=""/>
+      <span end="32932" id="PMC3272870.nxml.gz-804" start="32923">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-805" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-806" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="32943" id="PMC3272870.nxml.gz-806" start="32933">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-807" type="identity">
+      <class id="effect" label=""/>
+      <span end="32955" id="PMC3272870.nxml.gz-807" start="32949">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-808" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33086" id="PMC3272870.nxml.gz-808" start="33027">Pregnancy does not seem to be compromised by thyroid cancer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-809" type="identity">
+      <class id="seem_to_be" label=""/>
+      <span end="33056" id="PMC3272870.nxml.gz-809" start="33046">seem to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3665" id="PMC3272870.nxml.gz-81" start="3500">The diagnosis of a tumour during pregnancy obviously causes anxiety about the optimal timing of recommended treatments and about both maternal and neonatal morbidity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-810" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-811" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33179" id="PMC3272870.nxml.gz-811" start="33088">The effect of pregnancy on cancer: In vitro accelerated cell growth, no effect seen in vivo</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-812" type="identity">
+      <class id="effect" label=""/>
+      <span end="33098" id="PMC3272870.nxml.gz-812" start="33092">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-813" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-814" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33348" id="PMC3272870.nxml.gz-814" start="33263">The effects of management modalities on pregnancy outcome: No I-131, tailored therapy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-815" type="identity">
+      <class id="effects" label=""/>
+      <span end="33274" id="PMC3272870.nxml.gz-815" start="33267">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-816" type="identity">
+      <class id="critical" label=""/>
+      <span end="33358" id="PMC3272870.nxml.gz-816" start="33350">Critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-817" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33454" id="PMC3272870.nxml.gz-817" start="33350">Critical monthly adjustment of levothyroxine therapy: maintain fT4 in the upper third of reference range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-82" type="identity">
+      <class id="obviously" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-83" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3552" id="PMC3272870.nxml.gz-83" start="3543">obviously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-84" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-85" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3585" id="PMC3272870.nxml.gz-85" start="3578">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-86" type="identity">
+      <class id="recommended" label=""/>
+      <span end="3607" id="PMC3272870.nxml.gz-86" start="3596">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-87" type="identity">
+      <class id="however" label=""/>
+      <span end="3674" id="PMC3272870.nxml.gz-87" start="3667">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3896" id="PMC3272870.nxml.gz-88" start="3667">However, thyroid cancer in young people has generally an excellent prognosis, and survival among women with thyroid cancer diagnosed during pregnancy may not differ from that in age-matched non-pregnant women with similar disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-89" type="identity">
+      <class id="generally" label=""/>
+      <span end="3720" id="PMC3272870.nxml.gz-89" start="3711">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-9" type="identity">
+      <class id="similar" label=""/>
+      <span end="616" id="PMC3272870.nxml.gz-9" start="609">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-90" type="identity">
+      <class id="may" label=""/>
+      <span end="3820" id="PMC3272870.nxml.gz-90" start="3817">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-91" type="identity">
+      <class id="differ" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-92" type="identity">
+      <class id="similar" label=""/>
+      <span end="3888" id="PMC3272870.nxml.gz-92" start="3881">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4017" id="PMC3272870.nxml.gz-93" start="3898">Pregnancy is a special situation in oncology: we need to control two patients at the same time, and both are vulnerable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-94" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="3920" id="PMC3272870.nxml.gz-94" start="3913">special</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-95" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3951" id="PMC3272870.nxml.gz-95" start="3947">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4130" id="PMC3272870.nxml.gz-96" start="4019">In addition, each situation must be considered in development, nothing is static, mainly in the first trimester</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-97" type="identity">
+      <class id="must...be" label=""/>
+      <span end="4054" id="PMC3272870.nxml.gz-97" start="4047">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-98" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4065" id="PMC3272870.nxml.gz-98" start="4055">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3272870.nxml.gz-99" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

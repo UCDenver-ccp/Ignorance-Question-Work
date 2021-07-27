@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4377896.nxml.gz" text-file="PMC4377896.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="190" id="PMC4377896.nxml.gz-1" start="103">Fish is a source of several nutrients that are important for healthy foetal development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-10" type="identity">
+      <class id="consideration" label=""/>
+      <span end="393" id="PMC4377896.nxml.gz-10" start="380">consideration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-100" type="identity">
+      <class id="association" label=""/>
+      <span end="13119" id="PMC4377896.nxml.gz-100" start="13108">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-102" type="identity">
+      <class id="less" label=""/>
+      <span end="13128" id="PMC4377896.nxml.gz-102" start="13124">less</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-103" type="identity">
+      <class id="only" label=""/>
+      <span end="13154" id="PMC4377896.nxml.gz-103" start="13150">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13824" id="PMC4377896.nxml.gz-104" start="13746">This association was only significant in children breastfed for up to 6 months</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-105" type="identity">
+      <class id="association" label=""/>
+      <span end="13762" id="PMC4377896.nxml.gz-105" start="13751">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-106" type="identity">
+      <class id="only" label=""/>
+      <span end="13771" id="PMC4377896.nxml.gz-106" start="13767">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-107" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13964" id="PMC4377896.nxml.gz-107" start="13898">Seafood intake weakly ( p = 0.1) correlated with motor development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-108" type="identity">
+      <class id="correlated" label=""/>
+      <span end="13941" id="PMC4377896.nxml.gz-108" start="13931">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14217" id="PMC4377896.nxml.gz-109" start="14075">Studies were heterogeneous in methodology in regard to the covariates, neurological assessment tools, length of follow up statistical analyses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-11" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-110" type="identity">
+      <class id="heterogeneous" label=""/>
+      <span end="14101" id="PMC4377896.nxml.gz-110" start="14088">heterogeneous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-111" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14301" id="PMC4377896.nxml.gz-111" start="14219">In addition, the type and amounts of fish consumed differed across study locations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-112" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="14278" id="PMC4377896.nxml.gz-112" start="14270">differed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-113" type="identity">
+      <class id="due_to" label=""/>
+      <span end="14309" id="PMC4377896.nxml.gz-113" start="14303">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14443" id="PMC4377896.nxml.gz-114" start="14303">Due to this heterogeneity a qualitative rather than quantitative approach was deemed appropriate for comparison and presentation of findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-115" type="identity">
+      <class id="heterogeneity" label=""/>
+      <span end="14328" id="PMC4377896.nxml.gz-115" start="14315">heterogeneity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-116" type="identity">
+      <class id="rather" label=""/>
+      <span end="14349" id="PMC4377896.nxml.gz-116" start="14343">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14693" id="PMC4377896.nxml.gz-117" start="14445">A study by Oken et al. tested children at six months of age using Visual Recognition Memory (VRM) paradigm and found a significant improvement of 2.8 points for each additional serving of fish (85–140 g) consumed by the mother during pregnancy [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-118" type="identity">
+      <class id="found" label=""/>
+      <span end="14561" id="PMC4377896.nxml.gz-118" start="14556">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14895" id="PMC4377896.nxml.gz-119" start="14695">Mendez et al . found that the length of breastfeeding influenced whether a significant difference was found in offspring neurodevelopment when comparing high and low fish intakes during pregnancy [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="674" id="PMC4377896.nxml.gz-12" start="470">This review critically evaluates literature on fish intake in pregnant women, with a focus on the association between neurodevelopmental outcomes in the offspring and maternal fish intake during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-120" type="identity">
+      <class id="found" label=""/>
+      <span end="14715" id="PMC4377896.nxml.gz-120" start="14710">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-121" type="identity">
+      <class id="influenced" label=""/>
+      <span end="14759" id="PMC4377896.nxml.gz-121" start="14749">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15052" id="PMC4377896.nxml.gz-125" start="14897">Authors reported that fish consumption two to three times per week during pregnancy was beneficial for children who were breastfed for less than six months</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-126" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="14913" id="PMC4377896.nxml.gz-126" start="14905">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-127" type="identity">
+      <class id="however" label=""/>
+      <span end="15061" id="PMC4377896.nxml.gz-127" start="15054">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-128" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15173" id="PMC4377896.nxml.gz-128" start="15054">However, no statistical improvement was indicated for those children who were breastfed for longer than six months [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-129" type="identity">
+      <class id="indicated" label=""/>
+      <span end="15103" id="PMC4377896.nxml.gz-129" start="15094">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-13" type="identity">
+      <class id="focus" label=""/>
+      <span end="560" id="PMC4377896.nxml.gz-13" start="555">focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15335" id="PMC4377896.nxml.gz-130" start="15175">Gale et al. demonstrated no adverse effects on offspring neurodevelopment with maternal fish consumption during pregnancy equal to or greater than once per week</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-131" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15199" id="PMC4377896.nxml.gz-131" start="15187">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15620" id="PMC4377896.nxml.gz-132" start="15337">This study reported an improved verbal Intelligence Quotient (IQ) in offspring aged nine years in children born to mothers who consumed up to two servings of fish per week compared with children born to mothers who had not consumed any fish during late pregnancy (32 weeks gestation)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-133" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15356" id="PMC4377896.nxml.gz-133" start="15348">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15807" id="PMC4377896.nxml.gz-134" start="15622">This association was not significant for fish consumption in early pregnancy (15 weeks gestation) suggesting that fish consumption may be of more benefit during the third trimester [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-135" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-136" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="15730" id="PMC4377896.nxml.gz-136" start="15720">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-137" type="identity">
+      <class id="may_be" label=""/>
+      <span end="15759" id="PMC4377896.nxml.gz-137" start="15753">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-138" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16136" id="PMC4377896.nxml.gz-138" start="15809">A report from the Avon Longitudinal Study of Parents and Children (ALSPAC) found that fish consumption during pregnancy of one to three servings per week was shown to provide a modest but significant improvement in developmental scores of the offspring for language and social activity at fifteen to eighteen months of age [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-139" type="identity">
+      <class id="found" label=""/>
+      <span end="15889" id="PMC4377896.nxml.gz-139" start="15884">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14" type="identity">
+      <class id="association" label=""/>
+      <span end="579" id="PMC4377896.nxml.gz-14" start="568">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-140" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16359" id="PMC4377896.nxml.gz-141" start="16138">A longer follow up of the ALSPAC cohort demonstrated a reduction in the percentage of children with suboptimal IQ at eight years of age amongst mothers with a high seafood intake (greater than 340 g) during pregnancy [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-142" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16190" id="PMC4377896.nxml.gz-142" start="16178">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-143" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16611" id="PMC4377896.nxml.gz-143" start="16361">A smaller ( n = 498) Japanese study did not demonstrate a positive or negative association between maternal fish intake during pregnancy and neurodevelopment as measured by the Neonatal Behavioural Assessment tool in infants at three days of age [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-144" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16404" id="PMC4377896.nxml.gz-144" start="16397">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-145" type="identity">
+      <class id="conversely" label=""/>
+      <span end="16623" id="PMC4377896.nxml.gz-145" start="16613">Conversely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14585" type="identity">
+      <class id="subject_scope"/>
+      <span end="1907" id="PMC4377896.nxml.gz-14586" start="1799">Guidelines from Australia [2], Europe [3] and the USA [4] encourage the consumption of fish during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14587" type="identity">
+      <class id="subject_scope"/>
+      <span end="2085" id="PMC4377896.nxml.gz-14588" start="1909">Recent studies indicate that pregnant women lack sufficient knowledge regarding the importance of iodine and LC n -3 PUFAs [5,6], nutrients that are present in fish and seafood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14589" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="3447" id="PMC4377896.nxml.gz-14590" start="3436">this review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14591" type="identity">
+      <class id="whether"/>
+      <span end="14767" id="PMC4377896.nxml.gz-14592" start="14760">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14593" type="identity">
+      <class id="subject_scope"/>
+      <span end="23272" id="PMC4377896.nxml.gz-14594" start="23119">No studies adjusted for maternal responsiveness which has been shown to be related to developmental outcomes independent of sociodemographic factors [28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-14595" type="identity">
+      <class id="subject_scope"/>
+      <span end="23434" id="PMC4377896.nxml.gz-14596" start="23274">An intake of fish may reflect a health conscious diet and thus the positive effects may not be directly attributed to the fish but rather to the diet as a whole</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16869" id="PMC4377896.nxml.gz-146" start="16613">Conversely, results from a US cohort study demonstrated a significant improvement in IQ with consumption of more than two maternal servings of fish intake per week as assessed via ‘milestone’ achievement in children aged six months and eighteen months [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-147" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16668" id="PMC4377896.nxml.gz-147" start="16656">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17143" id="PMC4377896.nxml.gz-148" start="16871">Results from a large Danish national birth cohort ( n = 25,446) indicated a significant improvement in motor, cognitive and total developmental scores for eighteen month old children who were born to women within the highest three quintiles of fish intake during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-149" type="identity">
+      <class id="indicated" label=""/>
+      <span end="16944" id="PMC4377896.nxml.gz-149" start="16935">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1315" id="PMC4377896.nxml.gz-15" start="1200">Due to heterogeneity in methodology and measured outcomes, a qualitative comparison of study findings was conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17316" id="PMC4377896.nxml.gz-150" start="17145">At six months, this improvement was only significant for children of women in the highest quintile of fish consumption, suggesting that age of testing may be relevant [22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-151" type="identity">
+      <class id="only" label=""/>
+      <span end="17185" id="PMC4377896.nxml.gz-151" start="17181">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-152" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="17275" id="PMC4377896.nxml.gz-152" start="17265">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-153" type="identity">
+      <class id="may_be" label=""/>
+      <span end="17302" id="PMC4377896.nxml.gz-153" start="17296">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-155" type="identity">
+      <class id="found_to_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-156" type="identity">
+      <class id="either" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17833" id="PMC4377896.nxml.gz-157" start="17633">Seven of the eight reviewed articles showed a beneficial impact on certain measures of offspring neurodevelopment with fish intake ranging from less than one to three or more servings of fish per week</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-158" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17676" id="PMC4377896.nxml.gz-158" start="17670">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-159" type="identity">
+      <class id="impact" label=""/>
+      <span end="17696" id="PMC4377896.nxml.gz-159" start="17690">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-16" type="identity">
+      <class id="due_to" label=""/>
+      <span end="1206" id="PMC4377896.nxml.gz-16" start="1200">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-160" type="identity">
+      <class id="thus" label=""/>
+      <span end="17839" id="PMC4377896.nxml.gz-160" start="17835">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17960" id="PMC4377896.nxml.gz-161" start="17835">Thus, the evidence in these cohort studies supports the current recommendations for fish consumption during pregnancy [2,3,4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-162" type="identity">
+      <class id="supports" label=""/>
+      <span end="17886" id="PMC4377896.nxml.gz-162" start="17878">supports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-163" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="17914" id="PMC4377896.nxml.gz-163" start="17899">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18155" id="PMC4377896.nxml.gz-164" start="17962">The level of this evidence is Grade C as per the ratings outlined inTable 3, adapted from Williams et al. [15] indicating that the body of evidence is supportive of fish intake during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-165" type="identity">
+      <class id="indicating" label=""/>
+      <span end="18083" id="PMC4377896.nxml.gz-165" start="18073">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-166" type="identity">
+      <class id="supportive" label=""/>
+      <span end="18123" id="PMC4377896.nxml.gz-166" start="18113">supportive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-167" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18485" id="PMC4377896.nxml.gz-167" start="18360">ConsistencyGoodSeven out of eight studies demonstrated a positive association between fish intake and foetal neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-168" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="18371" id="PMC4377896.nxml.gz-168" start="18360">Consistency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-169" type="identity">
+      <class id="association" label=""/>
+      <span end="18437" id="PMC4377896.nxml.gz-169" start="18426">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-17" type="identity">
+      <class id="heterogeneity" label=""/>
+      <span end="1220" id="PMC4377896.nxml.gz-17" start="1207">heterogeneity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18596" id="PMC4377896.nxml.gz-170" start="18486">Clinical impactSatisfactoryTrend towards improved neurodevelopment with significant results in several domains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-171" type="identity">
+      <class id="impact" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-172" type="identity">
+      <class id="trend" label=""/>
+      <span end="18518" id="PMC4377896.nxml.gz-172" start="18513">Trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18788" id="PMC4377896.nxml.gz-173" start="18647">ApplicabilityPoorA variety of populations studied from different countries where type of fish and the level of contaminants would likely vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-174" type="identity">
+      <class id="poor" label=""/>
+      <span end="18664" id="PMC4377896.nxml.gz-174" start="18660">Poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-175" type="identity">
+      <class id="variety" label=""/>
+      <span end="18673" id="PMC4377896.nxml.gz-175" start="18666">variety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-176" type="identity">
+      <class id="different" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-177" type="identity">
+      <class id="would" label=""/>
+      <span end="18776" id="PMC4377896.nxml.gz-177" start="18771">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-178" type="identity">
+      <class id="likely" label=""/>
+      <span end="18783" id="PMC4377896.nxml.gz-178" start="18777">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-179" type="identity">
+      <class id="vary" label=""/>
+      <span end="18788" id="PMC4377896.nxml.gz-179" start="18784">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1497" id="PMC4377896.nxml.gz-18" start="1317">This review indicates that the benefits of diets providing moderate amounts of fish during pregnancy outweigh potential detrimental effects in regards to offspring neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19012" id="PMC4377896.nxml.gz-180" start="18805">This systematic review of observational cohort studies demonstrates an association between consumption of one or more servings of fish per week during pregnancy and better offspring neurodevelopment outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-181" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="18809" id="PMC4377896.nxml.gz-181" start="18805">This</span>
+      <span end="18827" id="PMC4377896.nxml.gz-182" start="18821">review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-183" type="identity">
+      <class id="association" label=""/>
+      <span end="18887" id="PMC4377896.nxml.gz-183" start="18876">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19131" id="PMC4377896.nxml.gz-184" start="19014">Suzuki et al. [21] was the only study to report a neutral effect of seafood intake on all neurodevelopmental outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-185" type="identity">
+      <class id="only" label=""/>
+      <span end="19045" id="PMC4377896.nxml.gz-185" start="19041">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-186" type="identity">
+      <class id="effect" label=""/>
+      <span end="19078" id="PMC4377896.nxml.gz-186" start="19072">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-187" type="identity">
+      <class id="however" label=""/>
+      <span end="19140" id="PMC4377896.nxml.gz-187" start="19133">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19225" id="PMC4377896.nxml.gz-188" start="19133">However, in that study neurodevelopment was assessed when the infant was only three days old</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-189" type="identity">
+      <class id="only" label=""/>
+      <span end="19210" id="PMC4377896.nxml.gz-189" start="19206">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-19" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="1328" id="PMC4377896.nxml.gz-19" start="1317">This review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19354" id="PMC4377896.nxml.gz-190" start="19227">The seven studies, which demonstrated a benefit in neurodevelopment, had a follow up time ranging from six months to nine years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-191" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="19264" id="PMC4377896.nxml.gz-191" start="19252">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-192" type="identity">
+      <class id="thus" label=""/>
+      <span end="19360" id="PMC4377896.nxml.gz-192" start="19356">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19449" id="PMC4377896.nxml.gz-193" start="19356">Thus it is possible that longer follow up may be needed to determine significant associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-194" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="19375" id="PMC4377896.nxml.gz-194" start="19361">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-195" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19404" id="PMC4377896.nxml.gz-195" start="19398">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-196" type="identity">
+      <class id="needed" label=""/>
+      <span end="19411" id="PMC4377896.nxml.gz-196" start="19405">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-197" type="identity">
+      <class id="associations" label=""/>
+      <span end="19449" id="PMC4377896.nxml.gz-197" start="19437">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-198" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19695" id="PMC4377896.nxml.gz-198" start="19451">This concept is supported by Oken et al. which found an improvement in neurodevelopmental scores at six months in only the highest quintile of fish intake while this improvement was evident in the highest three quintiles at eighteen months [22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-199" type="identity">
+      <class id="supported" label=""/>
+      <span end="19476" id="PMC4377896.nxml.gz-199" start="19467">supported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-2" type="identity">
+      <class id="important" label=""/>
+      <span end="159" id="PMC4377896.nxml.gz-2" start="150">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-20" type="identity">
+      <class id="indicates" label=""/>
+      <span end="1338" id="PMC4377896.nxml.gz-20" start="1329">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-200" type="identity">
+      <class id="found" label=""/>
+      <span end="19503" id="PMC4377896.nxml.gz-200" start="19498">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-201" type="identity">
+      <class id="only" label=""/>
+      <span end="19569" id="PMC4377896.nxml.gz-201" start="19565">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-202" type="identity">
+      <class id="while" label=""/>
+      <span end="19611" id="PMC4377896.nxml.gz-202" start="19606">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-203" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19867" id="PMC4377896.nxml.gz-203" start="19697">Mendez et al. [24] found that seafood consumption that excluded fish intake had a detrimental effect on neurodevelopment, while fish intake alone led to improved outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-204" type="identity">
+      <class id="found" label=""/>
+      <span end="19721" id="PMC4377896.nxml.gz-204" start="19716">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-205" type="identity">
+      <class id="detrimental" label=""/>
+      <span end="19790" id="PMC4377896.nxml.gz-205" start="19779">detrimental</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-206" type="identity">
+      <class id="effect" label=""/>
+      <span end="19797" id="PMC4377896.nxml.gz-206" start="19791">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-207" type="identity">
+      <class id="while" label=""/>
+      <span end="19824" id="PMC4377896.nxml.gz-207" start="19819">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-208" type="identity">
+      <class id="thus" label=""/>
+      <span end="19873" id="PMC4377896.nxml.gz-208" start="19869">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20008" id="PMC4377896.nxml.gz-209" start="19869">Thus it is possible that the study of Suzuki et al. [25] may have detected a benefit had fish been considered separately from total seafood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-21" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="1426" id="PMC4377896.nxml.gz-21" start="1418">outweigh</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-210" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="19888" id="PMC4377896.nxml.gz-210" start="19874">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-211" type="identity">
+      <class id="may" label=""/>
+      <span end="19929" id="PMC4377896.nxml.gz-211" start="19926">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-212" type="identity">
+      <class id="considered" label=""/>
+      <span end="19978" id="PMC4377896.nxml.gz-212" start="19968">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-213" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20150" id="PMC4377896.nxml.gz-213" start="20010">Gale et al. [21] reported differences in outcomes associated with oily fish intake and total fish intake in early compared to late pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-214" type="identity">
+      <class id="differences" label=""/>
+      <span end="20047" id="PMC4377896.nxml.gz-214" start="20036">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-215" type="identity">
+      <class id="associated" label=""/>
+      <span end="20070" id="PMC4377896.nxml.gz-215" start="20060">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20285" id="PMC4377896.nxml.gz-216" start="20152">This suggests that the type of fish and timing of consumption during pregnancy may impact on neurodevelopmental outcomes of offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-217" type="identity">
+      <class id="suggests" label=""/>
+      <span end="20165" id="PMC4377896.nxml.gz-217" start="20157">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-218" type="identity">
+      <class id="may" label=""/>
+      <span end="20234" id="PMC4377896.nxml.gz-218" start="20231">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-219" type="identity">
+      <class id="impact" label=""/>
+      <span end="20241" id="PMC4377896.nxml.gz-219" start="20235">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-22" type="identity">
+      <class id="potential" label=""/>
+      <span end="1436" id="PMC4377896.nxml.gz-22" start="1427">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-220" type="identity">
+      <class id="however" label=""/>
+      <span end="20294" id="PMC4377896.nxml.gz-220" start="20287">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20402" id="PMC4377896.nxml.gz-221" start="20287">However, this information is limited to a single study, which was conducted in a relatively small sample ( n = 217)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-222" type="identity">
+      <class id="limited" label=""/>
+      <span end="20323" id="PMC4377896.nxml.gz-222" start="20316">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-223" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-224" type="identity">
+      <class id="more_research" label=""/>
+      <span end="20417" id="PMC4377896.nxml.gz-224" start="20404">More research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-225" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20468" id="PMC4377896.nxml.gz-225" start="20404">More research in this area is required to draw sound conclusions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-226" type="identity">
+      <class id="research_in_this_area" label=""/>
+      <span end="20430" id="PMC4377896.nxml.gz-226" start="20409">research in this area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-227" type="identity">
+      <class id="required" label=""/>
+      <span end="20442" id="PMC4377896.nxml.gz-227" start="20434">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-228" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-229" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20613" id="PMC4377896.nxml.gz-229" start="20470">It is important to note the number methodological limitations in research on diet and infant neurodevelopment that are present in these studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-23" type="identity">
+      <class id="detrimental" label=""/>
+      <span end="1448" id="PMC4377896.nxml.gz-23" start="1437">detrimental</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-230" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="20493" id="PMC4377896.nxml.gz-230" start="20476">important to note</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-231" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-232" type="identity">
+      <class id="limitations" label=""/>
+      <span end="20531" id="PMC4377896.nxml.gz-232" start="20520">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-233" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20775" id="PMC4377896.nxml.gz-233" start="20615">This prevents the conclusion of a definitive relationship without further research, preferably clinical randomised controlled trials, and a proper meta-analysis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-234" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="20628" id="PMC4377896.nxml.gz-234" start="20620">prevents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-235" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="20643" id="PMC4377896.nxml.gz-235" start="20633">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-236" type="identity">
+      <class id="relationship" label=""/>
+      <span end="20672" id="PMC4377896.nxml.gz-236" start="20660">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-237" type="identity">
+      <class id="further_research" label=""/>
+      <span end="20697" id="PMC4377896.nxml.gz-237" start="20681">further research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-238" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="20709" id="PMC4377896.nxml.gz-238" start="20699">preferably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-239" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20933" id="PMC4377896.nxml.gz-239" start="20777">Measuring dietary intake in cohort studies is problematic due to the difficulty in obtaining detailed information without causing significant subject burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-24" type="identity">
+      <class id="effects" label=""/>
+      <span end="1456" id="PMC4377896.nxml.gz-24" start="1449">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-240" type="identity">
+      <class id="problematic" label=""/>
+      <span end="20834" id="PMC4377896.nxml.gz-240" start="20823">problematic</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-241" type="identity">
+      <class id="due...to" label=""/>
+      <span end="20841" id="PMC4377896.nxml.gz-241" start="20835">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-242" type="identity">
+      <class id="difficulty" label=""/>
+      <span end="20856" id="PMC4377896.nxml.gz-242" start="20846">difficulty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-243" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="20933" id="PMC4377896.nxml.gz-243" start="20927">burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-244" type="identity">
+      <class id="no_studies" label=""/>
+      <span end="21076" id="PMC4377896.nxml.gz-244" start="21066">No studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-245" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21210" id="PMC4377896.nxml.gz-245" start="21066">No studies reported adjusting results from the FFQ for energy intake, a recommendation made by Freedman et al . 2011 [26] to prevent attenuation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-246" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-247" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-248" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="21152" id="PMC4377896.nxml.gz-248" start="21138">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-249" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21455" id="PMC4377896.nxml.gz-249" start="21212">Three studies [19,21,24] reported on the frequency of consumption without specifying the weight of fish servings while the remaining studies made assumptions based on standard serving sizes, as to the quantity of fish consumed at each occasion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1563" id="PMC4377896.nxml.gz-25" start="1499">It is important that the type of fish consumed is low in mercury</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-250" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21245" id="PMC4377896.nxml.gz-250" start="21237">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-251" type="identity">
+      <class id="while" label=""/>
+      <span end="21330" id="PMC4377896.nxml.gz-251" start="21325">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-252" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="21369" id="PMC4377896.nxml.gz-252" start="21358">assumptions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-253" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21581" id="PMC4377896.nxml.gz-253" start="21457">This limits the accuracy of a quantifiable conclusion as due to individual variability in the perception of a ‘serving size’</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-254" type="identity">
+      <class id="limits" label=""/>
+      <span end="21468" id="PMC4377896.nxml.gz-254" start="21462">limits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-255" type="identity">
+      <class id="variability" label=""/>
+      <span end="21543" id="PMC4377896.nxml.gz-255" start="21532">variability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-256" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21760" id="PMC4377896.nxml.gz-256" start="21583">Assessing cognitive development differences in infancy and childhood is fraught with difficulties due to the nature of childhood development and the accurate measurement of such</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-257" type="identity">
+      <class id="difficulties" label=""/>
+      <span end="21680" id="PMC4377896.nxml.gz-257" start="21668">difficulties</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-258" type="identity">
+      <class id="due...to" label=""/>
+      <span end="21687" id="PMC4377896.nxml.gz-258" start="21681">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-259" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21949" id="PMC4377896.nxml.gz-259" start="21762">Firstly, children develop in ‘spurts’ rather than in a continuous fashion, which means they may slip in and out of the ‘normal’ reference ranges, particularly in the earlier years [27,28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-26" type="identity">
+      <class id="important" label=""/>
+      <span end="1514" id="PMC4377896.nxml.gz-26" start="1505">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-261" type="identity">
+      <class id="may" label=""/>
+      <span end="21857" id="PMC4377896.nxml.gz-261" start="21854">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-262" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22183" id="PMC4377896.nxml.gz-262" start="21951">To combat this, it has been suggested that testing occurs at more than one time point [27] and that testing should extend beyond the first two years, preferable to school aged children in order to detect more subtle differences [28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-263" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="21988" id="PMC4377896.nxml.gz-263" start="21970">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-264" type="identity">
+      <class id="should" label=""/>
+      <span end="22065" id="PMC4377896.nxml.gz-264" start="22059">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-265" type="identity">
+      <class id="only" label=""/>
+      <span end="22189" id="PMC4377896.nxml.gz-265" start="22185">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-266" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22336" id="PMC4377896.nxml.gz-266" start="22185">Only 4 studies tested at multiple time points [18,21,22,24], four beyond two years [20,21,23,24], and only two looked at children of school age [20,21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-267" type="identity">
+      <class id="only" label=""/>
+      <span end="22291" id="PMC4377896.nxml.gz-267" start="22287">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-268" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22480" id="PMC4377896.nxml.gz-268" start="22338">Secondly, there are multiple interrelated factors which impact on neurodevelopment, and not all confounders were accounted for in all analyses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-269" type="identity">
+      <class id="interrelated" label=""/>
+      <span end="22379" id="PMC4377896.nxml.gz-269" start="22367">interrelated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1797" id="PMC4377896.nxml.gz-27" start="1582">Fish is a source of several nutrients that are important during pregnancy for healthy foetal development including iodine, long chain omega-3 polyunsaturated fatty acids (LC n- 3PUFAs), and vitamins A, D and B12 [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-270" type="identity">
+      <class id="impact" label=""/>
+      <span end="22400" id="PMC4377896.nxml.gz-270" start="22394">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-271" type="identity">
+      <class id="confounders" label=""/>
+      <span end="22445" id="PMC4377896.nxml.gz-271" start="22434">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-272" type="identity">
+      <class id="however" label=""/>
+      <span end="22613" id="PMC4377896.nxml.gz-272" start="22606">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-273" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22784" id="PMC4377896.nxml.gz-273" start="22606">However, factors including ethnicity, paternal intelligence, the home environment, drug use, dietary patterns, supplement use and maternal responsiveness were not always measured</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-274" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22784" id="PMC4377896.nxml.gz-274" start="22765">not always measured</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-275" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22924" id="PMC4377896.nxml.gz-275" start="22786">The ALSPAC study reports by Daniels et al. [18] and Hibbeln et al. [20] included the home environment as a confounder, but not paternal IQ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-276" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="22903" id="PMC4377896.nxml.gz-276" start="22893">confounder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-277" type="identity">
+      <class id="conversely" label=""/>
+      <span end="22936" id="PMC4377896.nxml.gz-277" start="22926">Conversely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23030" id="PMC4377896.nxml.gz-278" start="22926">Conversely, the two studies by Oken et al. adjusted for paternal IQ but not the home environment [22,23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-279" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23117" id="PMC4377896.nxml.gz-279" start="23032">The remaining four studies did not correct for either paternal IQ or home environment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-28" type="identity">
+      <class id="important" label=""/>
+      <span end="1638" id="PMC4377896.nxml.gz-28" start="1629">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-280" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23066" id="PMC4377896.nxml.gz-280" start="23059">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-283" type="identity">
+      <class id="no_studies" label=""/>
+      <span end="23129" id="PMC4377896.nxml.gz-283" start="23119">No studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-284" type="identity">
+      <class id="has...been" label=""/>
+      <span end="23181" id="PMC4377896.nxml.gz-284" start="23173">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-285" type="identity">
+      <class id="related" label=""/>
+      <span end="23201" id="PMC4377896.nxml.gz-285" start="23194">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-286" type="identity">
+      <class id="may" label=""/>
+      <span end="23295" id="PMC4377896.nxml.gz-286" start="23292">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-287" type="identity">
+      <class id="reflect" label=""/>
+      <span end="23303" id="PMC4377896.nxml.gz-287" start="23296">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-288" type="identity">
+      <class id="thus" label=""/>
+      <span end="23336" id="PMC4377896.nxml.gz-288" start="23332">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-289" type="identity">
+      <class id="effects" label=""/>
+      <span end="23357" id="PMC4377896.nxml.gz-289" start="23350">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-290" type="identity">
+      <class id="may" label=""/>
+      <span end="23361" id="PMC4377896.nxml.gz-290" start="23358">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-291" type="identity">
+      <class id="attributed" label=""/>
+      <span end="23388" id="PMC4377896.nxml.gz-291" start="23378">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-292" type="identity">
+      <class id="rather" label=""/>
+      <span end="23411" id="PMC4377896.nxml.gz-292" start="23405">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-293" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23552" id="PMC4377896.nxml.gz-293" start="23436">Oken et al. considered maternal diet by classifying women as following a “prudent” or “western” dietary pattern [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-294" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23458" id="PMC4377896.nxml.gz-294" start="23448">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-295" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23674" id="PMC4377896.nxml.gz-295" start="23554">Hibbeln et al. [20] also adjusted for maternal diet, while Mendez et al. [24] adjusted for both maternal and child diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-296" type="identity">
+      <class id="while" label=""/>
+      <span end="23612" id="PMC4377896.nxml.gz-296" start="23607">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-297" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23765" id="PMC4377896.nxml.gz-297" start="23676">Other studies did not effectively account for dietary intake and are thus at risk of bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-298" type="identity">
+      <class id="other" label=""/>
+      <span end="23681" id="PMC4377896.nxml.gz-298" start="23676">Other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-299" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23697" id="PMC4377896.nxml.gz-299" start="23690">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="281" id="PMC4377896.nxml.gz-3" start="192">Guidelines from Australia, Europe and the USA encourage fish consumption during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-30" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-300" type="identity">
+      <class id="thus" label=""/>
+      <span end="23749" id="PMC4377896.nxml.gz-300" start="23745">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-301" type="identity">
+      <class id="at_risk" label=""/>
+      <span end="23757" id="PMC4377896.nxml.gz-301" start="23750">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-302" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="23765" id="PMC4377896.nxml.gz-302" start="23761">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-303" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-304" type="identity">
+      <class id="Epistemics" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24047" id="PMC4377896.nxml.gz-305" start="23872">Hibbeln et al. [20] reported that only 1.7% of women consumed fish oil supplements not affecting outcomes, however, this study did not consider supplements other than fish oil</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-306" type="identity">
+      <class id="only" label=""/>
+      <span end="23910" id="PMC4377896.nxml.gz-306" start="23906">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-307" type="identity">
+      <class id="affecting" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-308" type="identity">
+      <class id="however" label=""/>
+      <span end="23986" id="PMC4377896.nxml.gz-308" start="23979">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-309" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24006" id="PMC4377896.nxml.gz-309" start="23999">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-31" type="identity">
+      <class id="encourage" label=""/>
+      <span end="1866" id="PMC4377896.nxml.gz-31" start="1857">encourage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-310" type="identity">
+      <class id="consider" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-311" type="identity">
+      <class id="other" label=""/>
+      <span end="24033" id="PMC4377896.nxml.gz-311" start="24028">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-312" type="identity">
+      <class id="only" label=""/>
+      <span end="24053" id="PMC4377896.nxml.gz-312" start="24049">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-313" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24114" id="PMC4377896.nxml.gz-313" start="24049">Only Mendez et al. [24] included supplement usage as a confounder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-314" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="24114" id="PMC4377896.nxml.gz-314" start="24104">confounder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24328" id="PMC4377896.nxml.gz-315" start="24116">There is no universal standard for which neurodevelopmental tests are most appropriate for use in children of varying ages and at what age meaningful differences in neurocognitive development can be detected [29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-316" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-317" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="24127" id="PMC4377896.nxml.gz-317" start="24125">no</span>
+      <span end="24146" id="PMC4377896.nxml.gz-318" start="24138">standard</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-319" type="identity">
+      <class id="which" label=""/>
+      <span end="24156" id="PMC4377896.nxml.gz-319" start="24151">which</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-32" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="1923" id="PMC4377896.nxml.gz-32" start="1909">Recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-320" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="24233" id="PMC4377896.nxml.gz-320" start="24226">varying</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-321" type="identity">
+      <class id="what" label=""/>
+      <span end="24250" id="PMC4377896.nxml.gz-321" start="24246">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-322" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24311" id="PMC4377896.nxml.gz-322" start="24308">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-323" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24481" id="PMC4377896.nxml.gz-323" start="24330">Performance in assessments can be significantly altered if the participant is hungry, tired or fearful of being in a strange place or being tested [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-324" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24360" id="PMC4377896.nxml.gz-324" start="24357">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-325" type="identity">
+      <class id="if" label=""/>
+      <span end="24388" id="PMC4377896.nxml.gz-325" start="24386">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-326" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24596" id="PMC4377896.nxml.gz-326" start="24483">The accuracy of the tests for the population depends on when the test was standardised and within what population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-327" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="24538" id="PMC4377896.nxml.gz-327" start="24528">depends on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-328" type="identity">
+      <class id="when" label=""/>
+      <span end="24543" id="PMC4377896.nxml.gz-328" start="24539">when</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-329" type="identity">
+      <class id="what" label=""/>
+      <span end="24585" id="PMC4377896.nxml.gz-329" start="24581">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-33" type="identity">
+      <class id="indicate" label=""/>
+      <span end="1932" id="PMC4377896.nxml.gz-33" start="1924">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-330" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24774" id="PMC4377896.nxml.gz-330" start="24598">In particular the Denver test, utilised in the ALSPAC study [18] has been criticised for its low specificity and potentially outdated ‘norm’ as it was standardised in 1980 [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-331" type="identity">
+      <class id="has_been" label=""/>
+      <span end="24671" id="PMC4377896.nxml.gz-331" start="24663">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-332" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="24682" id="PMC4377896.nxml.gz-332" start="24672">criticised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-333" type="identity">
+      <class id="potentially" label=""/>
+      <span end="24722" id="PMC4377896.nxml.gz-333" start="24711">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-334" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25089" id="PMC4377896.nxml.gz-334" start="24776">Research on the reliability of parental reports on child development is conflicting [31], Daniels et al. [18], Hibbeln et al. [20] and Oken et al. [22] used developmental testing carried out by the mother and thus results may not be as reliable as those reported by other studies, which used trained professionals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-335" type="identity">
+      <class id="conflicting" label=""/>
+      <span end="24859" id="PMC4377896.nxml.gz-335" start="24848">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-336" type="identity">
+      <class id="thus" label=""/>
+      <span end="24989" id="PMC4377896.nxml.gz-336" start="24985">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-337" type="identity">
+      <class id="may" label=""/>
+      <span end="25001" id="PMC4377896.nxml.gz-337" start="24998">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-338" type="identity">
+      <class id="other" label=""/>
+      <span end="25047" id="PMC4377896.nxml.gz-338" start="25042">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-339" type="identity">
+      <class id="due_to" label=""/>
+      <span end="25097" id="PMC4377896.nxml.gz-339" start="25091">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-34" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-340" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25380" id="PMC4377896.nxml.gz-340" start="25091">Due to the risks associated with consuming fish and seafood during pregnancy related to food safety and heavy metal contamination, pregnant women may question the necessity of including these foods in their diets, when nutrition supplements are readily accessible in Western countries [32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-341" type="identity">
+      <class id="associated" label=""/>
+      <span end="25118" id="PMC4377896.nxml.gz-341" start="25108">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-342" type="identity">
+      <class id="related" label=""/>
+      <span end="25175" id="PMC4377896.nxml.gz-342" start="25168">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-343" type="identity">
+      <class id="may" label=""/>
+      <span end="25240" id="PMC4377896.nxml.gz-343" start="25237">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-344" type="identity">
+      <class id="question" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-345" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25570" id="PMC4377896.nxml.gz-345" start="25382">A systematic review of randomised control trials examining LC n -3PUFA supplementation during pregnancy found no clear association between supplement use and infant cognitive outcomes [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-346" type="identity">
+      <class id="found" label=""/>
+      <span end="25491" id="PMC4377896.nxml.gz-346" start="25486">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-347" type="identity">
+      <class id="no_clear" label=""/>
+      <span end="25500" id="PMC4377896.nxml.gz-347" start="25492">no clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-348" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-349" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25767" id="PMC4377896.nxml.gz-349" start="25572">This may be attributable to the synergistic effects of food [34] and associated with fish being a source of other nutrients which are important for infant development such as iodine and vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-35" type="identity">
+      <class id="importance" label=""/>
+      <span end="2003" id="PMC4377896.nxml.gz-35" start="1993">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-350" type="identity">
+      <class id="may_be" label=""/>
+      <span end="25583" id="PMC4377896.nxml.gz-350" start="25577">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-351" type="identity">
+      <class id="effects" label=""/>
+      <span end="25623" id="PMC4377896.nxml.gz-351" start="25616">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-352" type="identity">
+      <class id="associated" label=""/>
+      <span end="25651" id="PMC4377896.nxml.gz-352" start="25641">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-353" type="identity">
+      <class id="other" label=""/>
+      <span end="25685" id="PMC4377896.nxml.gz-353" start="25680">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-354" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-355" type="identity">
+      <class id="important" label=""/>
+      <span end="25715" id="PMC4377896.nxml.gz-355" start="25706">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-356" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26001" id="PMC4377896.nxml.gz-356" start="25769">Presently, there have been no randomised control trials examining neurocognitive outcomes associated with prenatal multivitamin use and infant neurodevelopment, and these are unlikely to occur given ethical implications of such [35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-357" type="identity">
+      <class id="have_been" label=""/>
+      <span end="25795" id="PMC4377896.nxml.gz-357" start="25786">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-358" type="identity">
+      <class id="no...trials" label=""/>
+      <span end="25798" id="PMC4377896.nxml.gz-358" start="25796">no</span>
+      <span end="25824" id="PMC4377896.nxml.gz-359" start="25818">trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2206" id="PMC4377896.nxml.gz-36" start="2087">In addition, it appears Australian women are falling short of LC n- 3PUFA intake recommendations during pregnancy [6,7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-360" type="identity">
+      <class id="associated" label=""/>
+      <span end="25869" id="PMC4377896.nxml.gz-360" start="25859">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-361" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="25952" id="PMC4377896.nxml.gz-361" start="25944">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-362" type="identity">
+      <class id="implications" label=""/>
+      <span end="25988" id="PMC4377896.nxml.gz-362" start="25976">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-363" type="identity">
+      <class id="recent_research" label=""/>
+      <span end="26018" id="PMC4377896.nxml.gz-363" start="26003">Recent research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-364" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26127" id="PMC4377896.nxml.gz-364" start="26003">Recent research has suggested that effects of methyl-mercury on infant brain development may be mediated by LC n -3PUFA [36]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-365" type="identity">
+      <class id="suggested" label=""/>
+      <span end="26032" id="PMC4377896.nxml.gz-365" start="26023">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-366" type="identity">
+      <class id="effects" label=""/>
+      <span end="26045" id="PMC4377896.nxml.gz-366" start="26038">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-367" type="identity">
+      <class id="may_be" label=""/>
+      <span end="26098" id="PMC4377896.nxml.gz-367" start="26092">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-368" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26428" id="PMC4377896.nxml.gz-368" start="26129">Because it is possible to consume fish and seafood safely during pregnancy, through following recommendations to limit high mercury species, it is prudent to recommend that pregnant women consume these foods, rather than rely on supplementation, in order to maximise infant neurodevelopment outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-369" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="26151" id="PMC4377896.nxml.gz-369" start="26137">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-37" type="identity">
+      <class id="appears" label=""/>
+      <span end="2110" id="PMC4377896.nxml.gz-37" start="2103">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-370" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="26238" id="PMC4377896.nxml.gz-370" start="26223">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-371" type="identity">
+      <class id="prudent" label=""/>
+      <span end="26283" id="PMC4377896.nxml.gz-371" start="26276">prudent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-372" type="identity">
+      <class id="recommend" label=""/>
+      <span end="26296" id="PMC4377896.nxml.gz-372" start="26287">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-373" type="identity">
+      <class id="rather" label=""/>
+      <span end="26344" id="PMC4377896.nxml.gz-373" start="26338">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-374" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26562" id="PMC4377896.nxml.gz-374" start="26446">This review assessed the hypothesis that fish intake during pregnancy improves offspring neurodevelopmental outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-375" type="identity">
+      <class id="assessed" label=""/>
+      <span end="26466" id="PMC4377896.nxml.gz-375" start="26458">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-376" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="26481" id="PMC4377896.nxml.gz-376" start="26471">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-377" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26891" id="PMC4377896.nxml.gz-377" start="26564">A review of the available evidence indicates that intake of fish during pregnancy is associated with positive foetal neurodevelopmental outcomes, as supported by seven of eight articles reviewed, which showed a beneficial impact on foetal neurodevelopment with one or more servings of fish per week compared with no fish intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-378" type="identity">
+      <class id="available_evidence" label=""/>
+      <span end="26598" id="PMC4377896.nxml.gz-378" start="26580">available evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-379" type="identity">
+      <class id="indicates" label=""/>
+      <span end="26608" id="PMC4377896.nxml.gz-379" start="26599">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-38" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="2145" id="PMC4377896.nxml.gz-38" start="2132">falling short</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-380" type="identity">
+      <class id="associated" label=""/>
+      <span end="26659" id="PMC4377896.nxml.gz-380" start="26649">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-381" type="identity">
+      <class id="supported" label=""/>
+      <span end="26722" id="PMC4377896.nxml.gz-381" start="26713">supported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-382" type="identity">
+      <class id="impact" label=""/>
+      <span end="26792" id="PMC4377896.nxml.gz-382" start="26786">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-383" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27027" id="PMC4377896.nxml.gz-383" start="26893">Based on the results from these observational studies the current recommendation of two to three servings per week appears appropriate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-384" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="26901" id="PMC4377896.nxml.gz-384" start="26893">Based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-385" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="26973" id="PMC4377896.nxml.gz-385" start="26959">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-386" type="identity">
+      <class id="appears" label=""/>
+      <span end="27015" id="PMC4377896.nxml.gz-386" start="27008">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-387" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27165" id="PMC4377896.nxml.gz-387" start="27029">Randomised clinical trials have been conducted using fish oil supplementation in pregnancy, but not with fish considered as a whole food</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-388" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-389" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-39" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-390" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="27128" id="PMC4377896.nxml.gz-390" start="27121">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-391" type="identity">
+      <class id="existing_evidence" label=""/>
+      <span end="27184" id="PMC4377896.nxml.gz-391" start="27167">Existing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-392" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27266" id="PMC4377896.nxml.gz-392" start="27167">Existing evidence is currently insufficient to inform advice regarding fish intake during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-393" type="identity">
+      <class id="insufficient" label=""/>
+      <span end="27210" id="PMC4377896.nxml.gz-393" start="27198">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-394" type="identity">
+      <class id="further...studies" label=""/>
+      <span end="27275" id="PMC4377896.nxml.gz-394" start="27268">Further</span>
+      <span end="27297" id="PMC4377896.nxml.gz-395" start="27290">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-396" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27554" id="PMC4377896.nxml.gz-396" start="27268">Further well designed studies are required to strengthen the evidence base regarding the type and quantity of maternal fish consumption during pregnancy and associated neurodevelopmental outcomes in the offspring, while considering the contribution of mercury from fish-containing diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-397" type="identity">
+      <class id="required" label=""/>
+      <span end="27310" id="PMC4377896.nxml.gz-397" start="27302">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-398" type="identity">
+      <class id="evidence_base" label=""/>
+      <span end="27342" id="PMC4377896.nxml.gz-398" start="27329">evidence base</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-399" type="identity">
+      <class id="associated" label=""/>
+      <span end="27435" id="PMC4377896.nxml.gz-399" start="27425">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-4" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-40" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="2183" id="PMC4377896.nxml.gz-40" start="2168">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-400" type="identity">
+      <class id="while" label=""/>
+      <span end="27487" id="PMC4377896.nxml.gz-400" start="27482">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-401" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-402" type="identity">
+      <class id="future_work" label=""/>
+      <span end="27499" id="PMC4377896.nxml.gz-402" start="27488">considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-403" type="identity">
+      <class id="contribution" label=""/>
+      <span end="27516" id="PMC4377896.nxml.gz-403" start="27504">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2401" id="PMC4377896.nxml.gz-41" start="2208">On average, Australian women are consuming 33 g of fish per day and pregnant women an average of 28 g of fish per day, below Food Standards Australia New Zealand (FSANZ) recommended intakes [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-42" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-43" type="identity">
+      <class id="recommended" label=""/>
+      <span end="2389" id="PMC4377896.nxml.gz-43" start="2378">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2562" id="PMC4377896.nxml.gz-44" start="2403">As well as being a source of essential nutrients, fish are also a potential source of contaminants including mercury, polychlorinated biphenyls and dioxins [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-45" type="identity">
+      <class id="essential" label=""/>
+      <span end="2441" id="PMC4377896.nxml.gz-45" start="2432">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-46" type="identity">
+      <class id="potential" label=""/>
+      <span end="2478" id="PMC4377896.nxml.gz-46" start="2469">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2781" id="PMC4377896.nxml.gz-47" start="2564">Guidelines emphasising the health risks of methyl-mercury, with little mention of important nutrients found in fish, may be contributing to women consuming less than the recommended fish servings during pregnancy [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-48" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2586" id="PMC4377896.nxml.gz-48" start="2575">emphasising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-49" type="identity">
+      <class id="important" label=""/>
+      <span end="2655" id="PMC4377896.nxml.gz-49" start="2646">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-5" type="identity">
+      <class id="encourage" label=""/>
+      <span end="247" id="PMC4377896.nxml.gz-5" start="238">encourage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-50" type="identity">
+      <class id="may_be" label=""/>
+      <span end="2687" id="PMC4377896.nxml.gz-50" start="2681">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-51" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-52" type="identity">
+      <class id="recommended" label=""/>
+      <span end="2745" id="PMC4377896.nxml.gz-52" start="2734">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-53" type="identity">
+      <class id="thus" label=""/>
+      <span end="2787" id="PMC4377896.nxml.gz-53" start="2783">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-54" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2969" id="PMC4377896.nxml.gz-54" start="2783">Thus the risks and benefits resulting from fish consumption need to be considered and scientific evidence should direct advice given to pregnant women to help them make the safest choice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-55" type="identity">
+      <class id="need...evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-57" type="identity">
+      <class id="need_to_be" label=""/>
+      <span end="2853" id="PMC4377896.nxml.gz-57" start="2843">need to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-58" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-59" type="identity">
+      <class id="considered" label=""/>
+      <span end="2864" id="PMC4377896.nxml.gz-59" start="2854">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="468" id="PMC4377896.nxml.gz-6" start="283">The potential for contamination by heavy metals, as well as risk of listeriosis requires careful consideration of the shaping of dietary messages related to fish intake during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-60" type="identity">
+      <class id="should" label=""/>
+      <span end="2895" id="PMC4377896.nxml.gz-60" start="2889">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-61" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3175" id="PMC4377896.nxml.gz-61" start="2971">There are many documented health benefits from fish consumption with regard to foetal health, including improved neurodevelopment, increased birth weight and a reduced risk of spontaneous abortion [11,12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-62" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2996" id="PMC4377896.nxml.gz-62" start="2981">many documented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-63" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3423" id="PMC4377896.nxml.gz-63" start="3177">This review focuses on neurodevelopmental outcomes for the foetus as much of the published research into fish consumption during pregnancy has focused on methyl-mercury, LC n -3PUFAs and iodine, all known to impact foetal neurodevelopment [13,14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-64" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="3188" id="PMC4377896.nxml.gz-64" start="3177">This review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-65" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="3196" id="PMC4377896.nxml.gz-65" start="3189">focuses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-66" type="identity">
+      <class id="impact" label=""/>
+      <span end="3391" id="PMC4377896.nxml.gz-66" start="3385">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-67" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3639" id="PMC4377896.nxml.gz-67" start="3425">The aim of this review was to critically appraise literature investigating fish intake in pregnant women to assess the hypothesis that fish consumption during pregnancy positively influences foetal neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-68" type="identity">
+      <class id="aim" label=""/>
+      <span end="3432" id="PMC4377896.nxml.gz-68" start="3429">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-69" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-7" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-70" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="3539" id="PMC4377896.nxml.gz-70" start="3530">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-71" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="3554" id="PMC4377896.nxml.gz-71" start="3544">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-72" type="identity">
+      <class id="influences" label=""/>
+      <span end="3615" id="PMC4377896.nxml.gz-72" start="3605">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3796" id="PMC4377896.nxml.gz-73" start="3641">This review concludes with a discussion highlighting some of the methodological issues in researching associations between diet and infant neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-74" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="3652" id="PMC4377896.nxml.gz-74" start="3641">This review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-75" type="identity">
+      <class id="some" label=""/>
+      <span end="3698" id="PMC4377896.nxml.gz-75" start="3694">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-76" type="identity">
+      <class id="issues" label=""/>
+      <span end="3727" id="PMC4377896.nxml.gz-76" start="3721">issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-77" type="identity">
+      <class id="associations" label=""/>
+      <span end="3755" id="PMC4377896.nxml.gz-77" start="3743">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5817" id="PMC4377896.nxml.gz-78" start="5668">The search strategy did not yield any randomised controlled trials of fish intake in pregnant women and associated foetal neurodevelopmental outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-79" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5701" id="PMC4377896.nxml.gz-79" start="5688">did not yield</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-8" type="identity">
+      <class id="requires" label=""/>
+      <span end="371" id="PMC4377896.nxml.gz-8" start="363">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-80" type="identity">
+      <class id="associated" label=""/>
+      <span end="5782" id="PMC4377896.nxml.gz-80" start="5772">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9521" id="PMC4377896.nxml.gz-81" start="9426">When mercury confounder was adjusted for, this association became significant: 4.0 (1.3 to 6.7)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-82" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="9449" id="PMC4377896.nxml.gz-82" start="9439">confounder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-83" type="identity">
+      <class id="association" label=""/>
+      <span end="9484" id="PMC4377896.nxml.gz-83" start="9473">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9783" id="PMC4377896.nxml.gz-84" start="9617">Seafood intake during pregnancy was associated with a significant reduction in percentage of children with suboptimal IQ and behaviour test scores in 9 of 23 outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-85" type="identity">
+      <class id="associated" label=""/>
+      <span end="9663" id="PMC4377896.nxml.gz-85" start="9653">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-87" type="identity">
+      <class id="trend" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10327" id="PMC4377896.nxml.gz-88" start="10117">No association with fish consumption in early pregnancy and full scale IQ, however, total fish intake in late pregnancy of 1 to 2 serves per week was associated with having a child with higher IQ at age 9 years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-89" type="identity">
+      <class id="however" label=""/>
+      <span end="10199" id="PMC4377896.nxml.gz-89" start="10192">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-9" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-90" type="identity">
+      <class id="associated" label=""/>
+      <span end="10277" id="PMC4377896.nxml.gz-90" start="10267">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-92" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-94" type="identity">
+      <class id="estimated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-95" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-96" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-98" type="identity">
+      <class id="estimated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4377896.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13207" id="PMC4377896.nxml.gz-99" start="13103">This association was less obvious at 6 months (only the highest quintile showed significant improvement)</span>
+    </annotation>
+  </document>
+</knowtator-project>

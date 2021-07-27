@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6029118.nxml.gz" text-file="PMC6029118.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="212" id="PMC6029118.nxml.gz-1" start="0">A community-based cluster randomised controlled trial in rural Bangladesh to evaluate the impact of the use of iron-folic acid supplements early in pregnancy on the risk of neonatal mortality: the Shonjibon trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-10" type="identity">
+      <class id="however" label=""/>
+      <span end="525" id="PMC6029118.nxml.gz-10" start="518">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-100" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8814" id="PMC6029118.nxml.gz-100" start="8577">We also hypothesised that the early start to IFA supplements would not increase iron-related side effects, e.g. nausea &amp; vomiting in intervention clusters and will be cost-effective in reducing neonatal mortality in intervention clusters</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-101" type="identity">
+      <class id="hypothesised" label=""/>
+      <span end="8597" id="PMC6029118.nxml.gz-101" start="8585">hypothesised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-102" type="identity">
+      <class id="would" label=""/>
+      <span end="8643" id="PMC6029118.nxml.gz-102" start="8638">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-103" type="identity">
+      <class id="will" label=""/>
+      <span end="8740" id="PMC6029118.nxml.gz-103" start="8736">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10104" id="PMC6029118.nxml.gz-104" start="9834">We will also exclude three Upazilas from Gazipur because of the high number of garment industries, which would have high numbers of working women and would be difficult to follow-up and eight Upazilas from Mymensingh because of the high prevalence of malaria and kalazar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-105" type="identity">
+      <class id="would" label=""/>
+      <span end="9944" id="PMC6029118.nxml.gz-105" start="9939">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-106" type="identity">
+      <class id="would_be" label=""/>
+      <span end="9992" id="PMC6029118.nxml.gz-106" start="9984">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-107" type="identity">
+      <class id="difficult" label=""/>
+      <span end="10002" id="PMC6029118.nxml.gz-107" start="9993">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11372" id="PMC6029118.nxml.gz-108" start="11281">We will exclude areas where access is extremely difficult, for example in flood-prone areas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-109" type="identity">
+      <class id="difficult" label=""/>
+      <span end="11338" id="PMC6029118.nxml.gz-109" start="11329">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="644" id="PMC6029118.nxml.gz-11" start="518">However, most of the evidence is from observational epidemiological studies except for a very few randomised controlled trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13315" id="PMC6029118.nxml.gz-110" start="13140">The findings of the formative study suggested that introduction of IFA supplements early in pregnancy is feasible with support from BRAC or government community health workers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-111" type="identity">
+      <class id="suggested" label=""/>
+      <span end="13185" id="PMC6029118.nxml.gz-111" start="13176">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-112" type="identity">
+      <class id="feasible" label=""/>
+      <span end="13253" id="PMC6029118.nxml.gz-112" start="13245">feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13554" id="PMC6029118.nxml.gz-113" start="13317">The formative study also suggested to include culturally sensitive reasons for the use of IFA supplements during pregnancy, improvement of the community health-worker training modules and to standardise messages across all health workers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-114" type="identity">
+      <class id="suggested" label=""/>
+      <span end="13351" id="PMC6029118.nxml.gz-114" start="13342">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-115" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-116" type="identity">
+      <class id="to_test" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-118" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-119" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-12" type="identity">
+      <class id="few" label=""/>
+      <span end="615" id="PMC6029118.nxml.gz-12" start="612">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22867" id="PMC6029118.nxml.gz-120" start="22642">Assuming a crude birth rate of 23 per 1000 people, 10% loss of pregnancies before birth and 15% loss to follow up each cluster will yield 300 births over 15 months, and this will be sufficient to reach the desired sample size</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-121" type="identity">
+      <class id="will" label=""/>
+      <span end="22820" id="PMC6029118.nxml.gz-121" start="22816">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-122" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-123" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-124" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-125" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-127" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-128" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-129" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="788" id="PMC6029118.nxml.gz-13" start="646">IFA supplements have also been found to reduce the preterm delivery rate and neonatal mortality attributable to prematurity and birth asphyxia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-131" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-132" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-133" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-134" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28598" id="PMC6029118.nxml.gz-135" start="28466">The models will evaluate the impact of the interventions over time by testing for an interaction between time and intervention group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-136" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-137" type="identity">
+      <class id="will" label=""/>
+      <span end="28481" id="PMC6029118.nxml.gz-137" start="28477">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-138" type="identity">
+      <class id="impact" label=""/>
+      <span end="28501" id="PMC6029118.nxml.gz-138" start="28495">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-139" type="identity">
+      <class id="interaction" label=""/>
+      <span end="28562" id="PMC6029118.nxml.gz-139" start="28551">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-14" type="identity">
+      <class id="have_also_been_found" label=""/>
+      <span end="682" id="PMC6029118.nxml.gz-14" start="662">have also been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28761" id="PMC6029118.nxml.gz-140" start="28600">We will conduct analyses to identify the subgroups (based on household wealth, sex of infant and maternal education) that modify the response to the intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-141" type="identity">
+      <class id="to_identify" label=""/>
+      <span end="28636" id="PMC6029118.nxml.gz-141" start="28625">to identify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-143" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-144" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-145" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-146" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-147" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-149" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="994" id="PMC6029118.nxml.gz-15" start="790">These results combined indicate that IFA supplements in populations of iron-deficient pregnant women could lead to a decrease in the number of neonatal deaths mediated by reduced rates of preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-150" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-151" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-152" type="identity">
+      <class id="support" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-153" type="identity">
+      <class id="hypotheses" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-154" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-156" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-157" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32510" id="PMC6029118.nxml.gz-158" start="32300">Iron deficiency is associated with increased risk of maternal death, preterm delivery, impaired foetal growth and development, low birth weight, increased neonatal mortality and impaired infant development [17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-159" type="identity">
+      <class id="associated" label=""/>
+      <span end="32329" id="PMC6029118.nxml.gz-159" start="32319">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-16" type="identity">
+      <class id="indicate" label=""/>
+      <span end="821" id="PMC6029118.nxml.gz-16" start="813">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-160" type="identity">
+      <class id="although" label=""/>
+      <span end="32587" id="PMC6029118.nxml.gz-160" start="32579">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32756" id="PMC6029118.nxml.gz-161" start="32579">Although the importance of IFA supplements to prevent maternal anaemia and mortality is widely accepted, most antenatal IFA supplements distribution programs are of low priority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-162" type="identity">
+      <class id="importance" label=""/>
+      <span end="32602" id="PMC6029118.nxml.gz-162" start="32592">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-163" type="identity">
+      <class id="priority" label=""/>
+      <span end="32756" id="PMC6029118.nxml.gz-163" start="32748">priority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32957" id="PMC6029118.nxml.gz-164" start="32758">Evaluations of these programs using maternal anaemia as the outcome report little or no impact because of the multiple causes of maternal anaemia, low compliance, and inadequate distribution programs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-165" type="identity">
+      <class id="impact" label=""/>
+      <span end="32852" id="PMC6029118.nxml.gz-165" start="32846">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-166" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-167" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33179" id="PMC6029118.nxml.gz-167" start="32959">Recent surveys in Bangladesh indicate that only 52% of rural women reported any use of IFA supplements in their last pregnancy, but this falls to 39% for the poorest households, and to 34% for women with no education [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-168" type="identity">
+      <class id="indicate" label=""/>
+      <span end="32996" id="PMC6029118.nxml.gz-168" start="32988">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-169" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="33006" id="PMC6029118.nxml.gz-169" start="33002">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-17" type="identity">
+      <class id="could" label=""/>
+      <span end="896" id="PMC6029118.nxml.gz-17" start="891">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33330" id="PMC6029118.nxml.gz-170" start="33181">In the Projahnmo trial conducted in rural Bangladesh, only 40% of women in the baseline surveys reported any use of IFA supplements in pregnancy [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-171" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="33239" id="PMC6029118.nxml.gz-171" start="33235">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33538" id="PMC6029118.nxml.gz-172" start="33332">Access to IFA supplements is through antenatal care, however, in rural Bangladesh, the median gestation that women commence antenatal care is 5.2 months, and 44% of women report no use of antenatal care [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-173" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="33392" id="PMC6029118.nxml.gz-173" start="33385">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-174" type="identity">
+      <class id="although" label=""/>
+      <span end="33710" id="PMC6029118.nxml.gz-174" start="33702">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-175" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33854" id="PMC6029118.nxml.gz-175" start="33702">Although they did not start early, these figures indicate there is a substantial opportunity to improve IFA supplements distribution in rural Bangladesh</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-176" type="identity">
+      <class id="indicate" label=""/>
+      <span end="33759" id="PMC6029118.nxml.gz-176" start="33751">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-177" type="identity">
+      <class id="opportunity" label=""/>
+      <span end="33794" id="PMC6029118.nxml.gz-177" start="33783">opportunity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33942" id="PMC6029118.nxml.gz-178" start="33856">There is limited evidence about the optimal timing of IFA supplementation in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-179" type="identity">
+      <class id="limited_evidence" label=""/>
+      <span end="33881" id="PMC6029118.nxml.gz-179" start="33865">limited evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1185" id="PMC6029118.nxml.gz-18" start="996">In this paper, we describe the protocol of a community-based cluster randomised controlled trial that aims to evaluate the impact of maternal antenatal IFA supplements on perinatal outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-180" type="identity">
+      <class id="promising" label=""/>
+      <span end="33953" id="PMC6029118.nxml.gz-180" start="33944">Promising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34071" id="PMC6029118.nxml.gz-181" start="33944">Promising evidence came from a trial in China investigating the effects of IFA supplements in pregnancy on neonatal deaths [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-182" type="identity">
+      <class id="effects" label=""/>
+      <span end="34015" id="PMC6029118.nxml.gz-182" start="34008">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-183" type="identity">
+      <class id="however" label=""/>
+      <span end="34080" id="PMC6029118.nxml.gz-183" start="34073">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34309" id="PMC6029118.nxml.gz-184" start="34073">However, the neonatal mortality analyses were post-hoc analyses, and the sample size was small resulting in poor precision in the effect estimates, and reduced power to explore all the factors modifying the effects on neonatal mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-185" type="identity">
+      <class id="effect" label=""/>
+      <span end="34209" id="PMC6029118.nxml.gz-185" start="34203">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-186" type="identity">
+      <class id="effects" label=""/>
+      <span end="34287" id="PMC6029118.nxml.gz-186" start="34280">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-187" type="identity">
+      <class id="thus" label=""/>
+      <span end="34315" id="PMC6029118.nxml.gz-187" start="34311">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34417" id="PMC6029118.nxml.gz-188" start="34311">Thus, the impact of early IFA supplements on neonatal mortality needs confirmation in a larger scale trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-189" type="identity">
+      <class id="impact" label=""/>
+      <span end="34327" id="PMC6029118.nxml.gz-189" start="34321">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-19" type="identity">
+      <class id="this_paper" label=""/>
+      <span end="1009" id="PMC6029118.nxml.gz-19" start="999">this paper</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-190" type="identity">
+      <class id="needs" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-191" type="identity">
+      <class id="future_work" label=""/>
+      <span end="34393" id="PMC6029118.nxml.gz-191" start="34375">needs confirmation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-192" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34650" id="PMC6029118.nxml.gz-193" start="34419">This project will determine if antenatal IFA supplements commenced in the first trimester of pregnancy, rather than later, will significantly reduce neonatal deaths in the first month of life, and if this approach is cost-effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-194" type="identity">
+      <class id="will" label=""/>
+      <span end="34436" id="PMC6029118.nxml.gz-194" start="34432">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-195" type="identity">
+      <class id="if" label=""/>
+      <span end="34449" id="PMC6029118.nxml.gz-195" start="34447">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-196" type="identity">
+      <class id="first" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-197" type="identity">
+      <class id="rather" label=""/>
+      <span end="34529" id="PMC6029118.nxml.gz-197" start="34523">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-198" type="identity">
+      <class id="will" label=""/>
+      <span end="34546" id="PMC6029118.nxml.gz-198" start="34542">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-199" type="identity">
+      <class id="first" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-2" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="85" id="PMC6029118.nxml.gz-2" start="74">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-20" type="identity">
+      <class id="aims" label=""/>
+      <span end="1102" id="PMC6029118.nxml.gz-20" start="1098">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-200" type="identity">
+      <class id="if" label=""/>
+      <span end="34618" id="PMC6029118.nxml.gz-200" start="34616">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-201" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34968" id="PMC6029118.nxml.gz-201" start="34652">It will also provide valuable evidence about the role of groundwater iron level in modifying the responses of antenatal IFA supplements on neonatal mortality since there is already some evidence which suggests a positive, dose-response association between natural iron in groundwater and the iron status of women [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-202" type="identity">
+      <class id="will" label=""/>
+      <span end="34659" id="PMC6029118.nxml.gz-202" start="34655">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-203" type="identity">
+      <class id="role" label=""/>
+      <span end="34705" id="PMC6029118.nxml.gz-203" start="34701">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-204" type="identity">
+      <class id="some_evidence" label=""/>
+      <span end="34846" id="PMC6029118.nxml.gz-204" start="34833">some evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-205" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-206" type="identity">
+      <class id="suggests" label=""/>
+      <span end="34861" id="PMC6029118.nxml.gz-206" start="34853">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-207" type="identity">
+      <class id="association" label=""/>
+      <span end="34899" id="PMC6029118.nxml.gz-207" start="34888">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-21" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="1114" id="PMC6029118.nxml.gz-21" start="1103">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-22" type="identity">
+      <class id="impact" label=""/>
+      <span end="1125" id="PMC6029118.nxml.gz-22" start="1119">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1403" id="PMC6029118.nxml.gz-23" start="1203">The effect of the early use of iron-folic acid supplements on neonatal mortality will be examined using a community based, cluster randomised controlled trial in five districts with 30,000 live births</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-24" type="identity">
+      <class id="effect" label=""/>
+      <span end="1213" id="PMC6029118.nxml.gz-24" start="1207">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-25" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-26" type="identity">
+      <class id="be_examined" label=""/>
+      <span end="1300" id="PMC6029118.nxml.gz-26" start="1289">be examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-28" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-29" type="identity">
+      <class id="interaction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-3" type="identity">
+      <class id="impact" label=""/>
+      <span end="96" id="PMC6029118.nxml.gz-3" start="90">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-30" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-31" type="identity">
+      <class id="this_paper" label=""/>
+      <span end="2024" id="PMC6029118.nxml.gz-31" start="2014">This paper</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2226" id="PMC6029118.nxml.gz-32" start="2014">This paper aims to describe the study protocol of a community based randomised controlled trial evaluating the impact of the use of iron-folic acid supplements early in pregnancy on the risk of neonatal mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-33" type="identity">
+      <class id="aims" label=""/>
+      <span end="2029" id="PMC6029118.nxml.gz-33" start="2025">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-34" type="identity">
+      <class id="impact" label=""/>
+      <span end="2131" id="PMC6029118.nxml.gz-34" start="2125">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2480" id="PMC6029118.nxml.gz-35" start="2228">This study is critical because it will determine if antenatal IFA supplements commenced in the first trimester of pregnancy, rather than later, will significantly reduce neonatal deaths in the first month of life, and if this approach is cost-effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-36" type="identity">
+      <class id="critical" label=""/>
+      <span end="2250" id="PMC6029118.nxml.gz-36" start="2242">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-37" type="identity">
+      <class id="will" label=""/>
+      <span end="2266" id="PMC6029118.nxml.gz-37" start="2262">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-38" type="identity">
+      <class id="if" label=""/>
+      <span end="2279" id="PMC6029118.nxml.gz-38" start="2277">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-39" type="identity">
+      <class id="rather" label=""/>
+      <span end="2359" id="PMC6029118.nxml.gz-39" start="2353">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="403" id="PMC6029118.nxml.gz-4" start="303">Due to the high iron requirements for pregnancy, it is highly prevalent and severe in pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-40" type="identity">
+      <class id="will" label=""/>
+      <span end="2376" id="PMC6029118.nxml.gz-40" start="2372">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-41" type="identity">
+      <class id="if" label=""/>
+      <span end="2448" id="PMC6029118.nxml.gz-41" start="2446">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3170" id="PMC6029118.nxml.gz-42" start="3048">Effective interventions directed specifically at preventing neonatal deaths are required to improve overall child survival</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-43" type="identity">
+      <class id="required" label=""/>
+      <span end="3136" id="PMC6029118.nxml.gz-43" start="3128">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3442" id="PMC6029118.nxml.gz-44" start="3172">A systematic review in 2005 found that up to 70% of neonatal deaths, worldwide, could be averted by implementing sixteen evidence-based interventions at near universal coverage (99%) that incorporated preconception, antenatal, intrapartum and postnatal interventions [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-45" type="identity">
+      <class id="could_be" label=""/>
+      <span end="3260" id="PMC6029118.nxml.gz-45" start="3252">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3551" id="PMC6029118.nxml.gz-47" start="3444">However, this review did not include antenatal iron and folic acid (IFA) supplementation for pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3715" id="PMC6029118.nxml.gz-48" start="3553">At that time no trials had reported the effects of IFA on neonatal mortality, although these supplements were known to benefit both maternal and infant health [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-49" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="3588" id="PMC6029118.nxml.gz-49" start="3566">no trials had reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-5" type="identity">
+      <class id="due_to" label=""/>
+      <span end="309" id="PMC6029118.nxml.gz-5" start="303">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-50" type="identity">
+      <class id="effects" label=""/>
+      <span end="3600" id="PMC6029118.nxml.gz-50" start="3593">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-51" type="identity">
+      <class id="although" label=""/>
+      <span end="3639" id="PMC6029118.nxml.gz-51" start="3631">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-52" type="identity">
+      <class id="due_to" label=""/>
+      <span end="3791" id="PMC6029118.nxml.gz-52" start="3785">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-53" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3889" id="PMC6029118.nxml.gz-53" start="3785">Due to the high iron requirements for pregnancy, it is highly prevalent and severe in pregnant women [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-54" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4206" id="PMC6029118.nxml.gz-54" start="4055">The first national micronutrients status survey, published in early 2013, reported that iron deficiency among non-pregnant non-lactating women was 7.1%</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-55" type="identity">
+      <class id="first" label=""/>
+      <span end="4064" id="PMC6029118.nxml.gz-55" start="4059">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4436" id="PMC6029118.nxml.gz-56" start="4308">The survey findings also suggest a positive association between natural iron content in groundwater and iron status of women [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-57" type="identity">
+      <class id="suggest" label=""/>
+      <span end="4340" id="PMC6029118.nxml.gz-57" start="4333">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-58" type="identity">
+      <class id="association" label=""/>
+      <span end="4363" id="PMC6029118.nxml.gz-58" start="4352">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-59" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4549" id="PMC6029118.nxml.gz-59" start="4438">There is strong evidence that maternal iron deficiency anaemia increases the risk of adverse perinatal outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-6" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-60" type="identity">
+      <class id="strong_evidence" label=""/>
+      <span end="4462" id="PMC6029118.nxml.gz-60" start="4447">strong evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-61" type="identity">
+      <class id="however" label=""/>
+      <span end="4558" id="PMC6029118.nxml.gz-61" start="4551">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4677" id="PMC6029118.nxml.gz-62" start="4551">However, most of the evidence is from observational epidemiological studies except for a very few randomised controlled trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-63" type="identity">
+      <class id="few" label=""/>
+      <span end="4648" id="PMC6029118.nxml.gz-63" start="4645">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6132" id="PMC6029118.nxml.gz-64" start="5986">IFA supplements have also been found to reduce the preterm delivery rate and neonatal mortality attributable to prematurity and birth asphyxia [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-65" type="identity">
+      <class id="have_also_been_found" label=""/>
+      <span end="6022" id="PMC6029118.nxml.gz-65" start="6002">have also been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-66" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6268" id="PMC6029118.nxml.gz-66" start="6134">Other studies from low-income countries have reported that preterm delivery is one of the main contributors to neonatal deaths [12,13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-67" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="6187" id="PMC6029118.nxml.gz-67" start="6174">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6474" id="PMC6029118.nxml.gz-68" start="6270">These results combined indicate that IFA supplements in populations of iron-deficient pregnant women could lead to a decrease in the number of neonatal deaths mediated by reduced rates of preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-69" type="identity">
+      <class id="indicate" label=""/>
+      <span end="6301" id="PMC6029118.nxml.gz-69" start="6293">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-7" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="385" id="PMC6029118.nxml.gz-7" start="379">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-70" type="identity">
+      <class id="could" label=""/>
+      <span end="6376" id="PMC6029118.nxml.gz-70" start="6371">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6670" id="PMC6029118.nxml.gz-71" start="6476">We thus propose a large-scale prospective trial to measure the impact of the early introduction of antenatal iron/folic acid supplementation in pregnancy on neonatal outcomes in rural Bangladesh</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-73" type="identity">
+      <class id="propose" label=""/>
+      <span end="6491" id="PMC6029118.nxml.gz-73" start="6484">propose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-74" type="identity">
+      <class id="impact" label=""/>
+      <span end="6545" id="PMC6029118.nxml.gz-74" start="6539">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7104" id="PMC6029118.nxml.gz-75" start="6950">We didn’t consider placebo because WHO and Government of Bangladesh have a recommendation that pregnant women should receive 60 mg of iron supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-76" type="identity">
+      <class id="consider" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-77" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="7039" id="PMC6029118.nxml.gz-77" start="7025">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-78" type="identity">
+      <class id="should" label=""/>
+      <span end="7066" id="PMC6029118.nxml.gz-78" start="7060">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7165" id="PMC6029118.nxml.gz-79" start="7106">But the implementation of this recommendation is inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="516" id="PMC6029118.nxml.gz-8" start="405">There is strong evidence that maternal iron deficiency anaemia increases the risk of adverse perinatal outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-80" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="7151" id="PMC6029118.nxml.gz-80" start="7137">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-8168" type="identity">
+      <class id="however"/>
+      <span end="3451" id="PMC6029118.nxml.gz-8169" start="3444">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-8170" type="identity">
+      <class id="important_consideration"/>
+      <span end="3867" id="PMC6029118.nxml.gz-8171" start="3861">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-8172" type="identity">
+      <class id="will"/>
+      <span end="28607" id="PMC6029118.nxml.gz-8173" start="28603">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-8174" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="32845" id="PMC6029118.nxml.gz-8175" start="32833">little or no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-82" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="7165" id="PMC6029118.nxml.gz-82" start="7155">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7367" id="PMC6029118.nxml.gz-83" start="7167">Surveys indicate that only 52% of rural women reported any use of iron/folic acid in their last pregnancy but this dropped to 39% for the poorest households, and to 34% for women with no education (3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-84" type="identity">
+      <class id="indicate" label=""/>
+      <span end="7183" id="PMC6029118.nxml.gz-84" start="7175">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-85" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="7193" id="PMC6029118.nxml.gz-85" start="7189">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7692" id="PMC6029118.nxml.gz-86" start="7530">The trial objectives are to evaluate the effect of early availability and promotion of IFA supplements on neonatal mortality, low birthweight and preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-87" type="identity">
+      <class id="objectives" label=""/>
+      <span end="7550" id="PMC6029118.nxml.gz-87" start="7540">objectives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-88" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="7566" id="PMC6029118.nxml.gz-88" start="7555">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-89" type="identity">
+      <class id="effect" label=""/>
+      <span end="7577" id="PMC6029118.nxml.gz-89" start="7571">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-9" type="identity">
+      <class id="strong_evidence" label=""/>
+      <span end="429" id="PMC6029118.nxml.gz-9" start="414">strong evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8102" id="PMC6029118.nxml.gz-90" start="7694">The primary hypothesis is that in a community-based, cluster randomized controlled trial of women from rural Bangladesh, daily supplementation with 60 mg elemental iron and 400 μg folic acid starting in the first trimester of pregnancy, and sustained for at least 180 days, will reduce neonatal mortality by 25% from 33/1000 to 24.8/1000 live births compared to usual iron-folic acid supplementation programs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-91" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="7716" id="PMC6029118.nxml.gz-91" start="7706">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-92" type="identity">
+      <class id="will" label=""/>
+      <span end="7972" id="PMC6029118.nxml.gz-92" start="7968">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8367" id="PMC6029118.nxml.gz-93" start="8104">The secondary hypotheses are that the early availability and promotion of IFA supplements in intervention clusters will reduce preterm delivery by 30% (15% in control to 10.5% in intervention), and low birth weight by 30% (15% in control to 10.5% in intervention)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-94" type="identity">
+      <class id="hypotheses" label=""/>
+      <span end="8128" id="PMC6029118.nxml.gz-94" start="8118">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-95" type="identity">
+      <class id="will" label=""/>
+      <span end="8223" id="PMC6029118.nxml.gz-95" start="8219">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8575" id="PMC6029118.nxml.gz-96" start="8369">We further hypothesised that household wealth and maternal education would modify the neonatal mortality responses with a greater reduction for women from the poorest households, and women with no education</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-97" type="identity">
+      <class id="further" label=""/>
+      <span end="8379" id="PMC6029118.nxml.gz-97" start="8372">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-98" type="identity">
+      <class id="hypothesised" label=""/>
+      <span end="8392" id="PMC6029118.nxml.gz-98" start="8380">hypothesised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6029118.nxml.gz-99" type="identity">
+      <class id="would" label=""/>
+      <span end="8443" id="PMC6029118.nxml.gz-99" start="8438">would</span>
+    </annotation>
+  </document>
+</knowtator-project>

@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4311629.nxml.gz" text-file="PMC4311629.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="263" id="PMC4311629.nxml.gz-1" start="100">Presence of brown adipose tissue (BAT), characterized by the expression of the thermogenic uncoupling protein 1 (UCP1), has recently been described in adult humans</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-10" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="1124" id="PMC4311629.nxml.gz-10" start="1109">several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-100" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="8885" id="PMC4311629.nxml.gz-100" start="8872">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8993" id="PMC4311629.nxml.gz-101" start="8872">Interestingly, BAT glucose uptake is close to the values observed for metastasis in cancer in humans (Aukema et al.,2010)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9653" id="PMC4311629.nxml.gz-104" start="9552">To investigate the role of BAT, of UCP1 in particular, studies were carried out in UCP1 knockout mice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-106" type="identity">
+      <class id="role" label=""/>
+      <span end="9575" id="PMC4311629.nxml.gz-106" start="9571">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-107" type="identity">
+      <class id="surprisingly" label=""/>
+      <span end="9667" id="PMC4311629.nxml.gz-107" start="9655">Surprisingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9833" id="PMC4311629.nxml.gz-108" start="9655">Surprisingly, no particular phenotype was noted in these mice when they were kept at 23°C, except for their increased cold sensitivity (Enerback et al.,1997; Kontani et al.,2005)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10200" id="PMC4311629.nxml.gz-109" start="10019">Altogether, the existing literature suggests that BAT activation is not only involved in non-shivering thermogenesis, but also in the regulation of insulin-mediated glucose disposal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-11" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="1162" id="PMC4311629.nxml.gz-11" start="1152">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-110" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10054" id="PMC4311629.nxml.gz-110" start="10035">existing literature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-111" type="identity">
+      <class id="suggests" label=""/>
+      <span end="10063" id="PMC4311629.nxml.gz-111" start="10055">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-112" type="identity">
+      <class id="only" label=""/>
+      <span end="10095" id="PMC4311629.nxml.gz-112" start="10091">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-113" type="identity">
+      <class id="involved" label=""/>
+      <span end="10104" id="PMC4311629.nxml.gz-113" start="10096">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10337" id="PMC4311629.nxml.gz-114" start="10202">Whether brown and brite adipocytes display some degree of specialization with regard to these different functions has to be established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-115" type="identity">
+      <class id="whether" label=""/>
+      <span end="10209" id="PMC4311629.nxml.gz-115" start="10202">Whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-116" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-117" type="identity">
+      <class id="has_to_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-118" type="identity">
+      <class id="future_work" label=""/>
+      <span end="10337" id="PMC4311629.nxml.gz-118" start="10316">has to be established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10603" id="PMC4311629.nxml.gz-119" start="10339">The aims of this review are to describe some of the main factors regulating UCP1 activity in brown and brite adipocytes, as well as to discuss the potential role of UCP1 activation for the treatment of insulin resistance and type 2 diabetes associated with obesity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-12" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="1317" id="PMC4311629.nxml.gz-12" start="1304">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-120" type="identity">
+      <class id="aims" label=""/>
+      <span end="10347" id="PMC4311629.nxml.gz-120" start="10343">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-121" type="identity">
+      <class id="some" label=""/>
+      <span end="10383" id="PMC4311629.nxml.gz-121" start="10379">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-122" type="identity">
+      <class id="potential" label=""/>
+      <span end="10495" id="PMC4311629.nxml.gz-122" start="10486">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-123" type="identity">
+      <class id="role" label=""/>
+      <span end="10500" id="PMC4311629.nxml.gz-123" start="10496">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-124" type="identity">
+      <class id="associated" label=""/>
+      <span end="10590" id="PMC4311629.nxml.gz-124" start="10580">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10685" id="PMC4311629.nxml.gz-125" start="10606">Factors affecting BAT function and energy metabolism improve overall metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-127" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11824" id="PMC4311629.nxml.gz-127" start="11650">In contrast, “brite” adipocytes have been shown to originate from Myf-negative ( Myf 5−) progenitor cells, much like white adipocytes (Petrovic et al.,2010; Long et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-128" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="11697" id="PMC4311629.nxml.gz-128" start="11682">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-129" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1442" id="PMC4311629.nxml.gz-13" start="1304">Interestingly, similar results were obtained by adipose tissue-specific overexpression of PR-domain-containing 16 (PRDM16) or BMP4 in mice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-130" type="identity">
+      <class id="whether...or" label=""/>
+      <span end="11833" id="PMC4311629.nxml.gz-130" start="11826">Whether</span>
+      <span end="11887" id="PMC4311629.nxml.gz-5679" start="11885">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-131" type="identity">
+      <class id="still_remain" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-132" type="identity">
+      <class id="remains_to_be_established" label=""/>
+      <span end="11983" id="PMC4311629.nxml.gz-132" start="11958">remains to be established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-133" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="12033" id="PMC4311629.nxml.gz-133" start="12020">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12286" id="PMC4311629.nxml.gz-134" start="12020">Interestingly, the “browning” of WAT (i.e., increased proportion of brown adipocytes) may also involve transdifferentiation of white-to-brown adipose cells (Smorlesi et al.,2012; Frontini et al.,2013), although this issue is still a matter of debate (Wu et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-135" type="identity">
+      <class id="may" label=""/>
+      <span end="12109" id="PMC4311629.nxml.gz-135" start="12106">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-136" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-137" type="identity">
+      <class id="issue" label=""/>
+      <span end="12241" id="PMC4311629.nxml.gz-137" start="12236">issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-138" type="identity">
+      <class id="still" label=""/>
+      <span end="12250" id="PMC4311629.nxml.gz-138" start="12245">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-139" type="identity">
+      <class id="debate" label=""/>
+      <span end="12269" id="PMC4311629.nxml.gz-139" start="12263">debate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1558" id="PMC4311629.nxml.gz-14" start="1444">The mediators of such beneficial effects seem to include FGF21, interleukin-6, BMP8B and prostaglandin D2 synthase</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12401" id="PMC4311629.nxml.gz-140" start="12288">Whatever their developmental origin, white, “brite” and brown adipocytes seem to greatly differ in their function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-141" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="12296" id="PMC4311629.nxml.gz-141" start="12288">Whatever</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-142" type="identity">
+      <class id="seem" label=""/>
+      <span end="12365" id="PMC4311629.nxml.gz-142" start="12361">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-143" type="identity">
+      <class id="differ" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12780" id="PMC4311629.nxml.gz-144" start="12636">the role of BAT activation appears to be broader than solely the promotion of negative energy balance (for rev., see Peirce and Vidal-Puig,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-145" type="identity">
+      <class id="role" label=""/>
+      <span end="12644" id="PMC4311629.nxml.gz-145" start="12640">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-146" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="12676" id="PMC4311629.nxml.gz-146" start="12663">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-147" type="identity">
+      <class id="than" label=""/>
+      <span end="12689" id="PMC4311629.nxml.gz-147" start="12685">than</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13058" id="PMC4311629.nxml.gz-148" start="12782">Indeed, BAT is now known to exert anti-type 2 diabetic effects associated with improvments of dyslipidemia and insulin secretion as well as decrease insulin resistance in type 2 diabetes (de Souza et al.,1997; Liu et al.,1998; Frontini et al.,2013; Peirce and Vidal-Puig,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-149" type="identity">
+      <class id="effects" label=""/>
+      <span end="12844" id="PMC4311629.nxml.gz-149" start="12837">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-15" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-150" type="identity">
+      <class id="associated" label=""/>
+      <span end="12855" id="PMC4311629.nxml.gz-150" start="12845">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-151" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-152" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-153" type="identity">
+      <class id="partly" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-154" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-155" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13682" id="PMC4311629.nxml.gz-156" start="13226">However, as these different cells are often mixed, such as occurs for classical and “brite” adipocytes in some human depots (Wu et al.,2012; Cypess et al.,2013; Jespersen et al.,2013), only the use of specific cell surface markers (i.e., ASC-1, PAT2, and P2RX5 for white, “brite” and brown adipocytes, respectively) will allow for their identification, as well as for the precise understanding of their respective therapeutic properties (Ussar et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-157" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-158" type="identity">
+      <class id="will" label=""/>
+      <span end="13546" id="PMC4311629.nxml.gz-158" start="13542">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14301" id="PMC4311629.nxml.gz-159" start="14118">The main mediators of such beneficial effects seem to include fibroblast growth factor 21 (FGF21), interleukin-6 (IL-6), bone morphogenic proteins (BMPs) and prostaglandin D2 synthase</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-16" type="identity">
+      <class id="seem" label=""/>
+      <span end="1489" id="PMC4311629.nxml.gz-16" start="1485">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-160" type="identity">
+      <class id="effects" label=""/>
+      <span end="14163" id="PMC4311629.nxml.gz-160" start="14156">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-161" type="identity">
+      <class id="seem" label=""/>
+      <span end="14168" id="PMC4311629.nxml.gz-161" start="14164">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-162" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="14316" id="PMC4311629.nxml.gz-162" start="14303">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14438" id="PMC4311629.nxml.gz-163" start="14303">Interestingly, some of these molecules, called batokines, can be secreted by BAT itself, indicating the occurrence of autocrine effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-164" type="identity">
+      <class id="indicating" label=""/>
+      <span end="14402" id="PMC4311629.nxml.gz-164" start="14392">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-165" type="identity">
+      <class id="effects" label=""/>
+      <span end="14438" id="PMC4311629.nxml.gz-165" start="14431">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-166" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="15162" id="PMC4311629.nxml.gz-166" start="15149">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-167" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15408" id="PMC4311629.nxml.gz-167" start="15149">Interestingly, in humans, a mild cold exposure (12 h to 19°C) was recently shown to increase the diurnal plasma FGF21 levels, with a positive correlation with the changes in adipose tissue microdialysate glycerol and total energy expenditure (Lee et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-168" type="identity">
+      <class id="recently" label=""/>
+      <span end="15223" id="PMC4311629.nxml.gz-168" start="15215">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-169" type="identity">
+      <class id="correlation" label=""/>
+      <span end="15302" id="PMC4311629.nxml.gz-169" start="15291">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-17" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="1573" id="PMC4311629.nxml.gz-17" start="1560">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15578" id="PMC4311629.nxml.gz-170" start="15410">This suggested that FGF21 could play a similar role in humans as in rodents in promoting cold-induced metabolic changes (i.e., lipolysis and cold-induced thermogenesis)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-171" type="identity">
+      <class id="suggested" label=""/>
+      <span end="15424" id="PMC4311629.nxml.gz-171" start="15415">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-172" type="identity">
+      <class id="could" label=""/>
+      <span end="15441" id="PMC4311629.nxml.gz-172" start="15436">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-173" type="identity">
+      <class id="role" label=""/>
+      <span end="15461" id="PMC4311629.nxml.gz-173" start="15457">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-174" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15816" id="PMC4311629.nxml.gz-174" start="15580">In adipose tissue, it appears that PPARγ transcriptionally controls FGF21, which then acts as an autocrine or paracrine way to increase PPARγ transcriptional activity in a feed-forward loop system (Wang et al.,2008; Dutchak et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-175" type="identity">
+      <class id="appears" label=""/>
+      <span end="15609" id="PMC4311629.nxml.gz-175" start="15602">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16312" id="PMC4311629.nxml.gz-176" start="16188">Altogether, these observations suggest that FGF21 may be a key factor linking UCP1 expression to improved glucose metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-177" type="identity">
+      <class id="suggest" label=""/>
+      <span end="16226" id="PMC4311629.nxml.gz-177" start="16219">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-178" type="identity">
+      <class id="may_be" label=""/>
+      <span end="16244" id="PMC4311629.nxml.gz-178" start="16238">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-179" type="identity">
+      <class id="linking" label=""/>
+      <span end="16265" id="PMC4311629.nxml.gz-179" start="16258">linking</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1676" id="PMC4311629.nxml.gz-18" start="1560">Interestingly, some of these molecules can be secreted by BAT itself, indicating the occurrence of autocrine effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16562" id="PMC4311629.nxml.gz-180" start="16314">It may also exert determinant developmental effects, given the observation that the postnatal maturation of BAT appears to relate to the onset of feeding and initiation of hepatic function, as mediated by the release of FGF21 (Hondares et al.,2010)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-181" type="identity">
+      <class id="may" label=""/>
+      <span end="16320" id="PMC4311629.nxml.gz-181" start="16317">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-182" type="identity">
+      <class id="effects" label=""/>
+      <span end="16365" id="PMC4311629.nxml.gz-182" start="16358">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-183" type="identity">
+      <class id="appears" label=""/>
+      <span end="16433" id="PMC4311629.nxml.gz-183" start="16426">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-184" type="identity">
+      <class id="relate" label=""/>
+      <span end="16443" id="PMC4311629.nxml.gz-184" start="16437">relate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-185" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16903" id="PMC4311629.nxml.gz-185" start="16564">In addition, it was recently proposed that FGF21 could act within the central nervous system, both at the level of the hypothalamus and the hindbrain to promote a set of responses that occur during starvation (i.e. increase in corticosterone levels, suppression of physical activity, alteration in circadian behavior) (Bookout et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-186" type="identity">
+      <class id="recently" label=""/>
+      <span end="16592" id="PMC4311629.nxml.gz-186" start="16584">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-187" type="identity">
+      <class id="proposed" label=""/>
+      <span end="16601" id="PMC4311629.nxml.gz-187" start="16593">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-188" type="identity">
+      <class id="could" label=""/>
+      <span end="16618" id="PMC4311629.nxml.gz-188" start="16613">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17058" id="PMC4311629.nxml.gz-189" start="16905">This raises the possibility that, in contrast to its beneficial effects on peripheral metabolism, FGF21 may exert deleterious effects by acting centrally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-19" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-190" type="identity">
+      <class id="raises" label=""/>
+      <span end="16916" id="PMC4311629.nxml.gz-190" start="16910">raises</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-191" type="identity">
+      <class id="possibility" label=""/>
+      <span end="16932" id="PMC4311629.nxml.gz-191" start="16921">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-192" type="identity">
+      <class id="in_contrast_to" label=""/>
+      <span end="16953" id="PMC4311629.nxml.gz-192" start="16939">in contrast to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-193" type="identity">
+      <class id="effects" label=""/>
+      <span end="16976" id="PMC4311629.nxml.gz-193" start="16969">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-194" type="identity">
+      <class id="may" label=""/>
+      <span end="17012" id="PMC4311629.nxml.gz-194" start="17009">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-195" type="identity">
+      <class id="effects" label=""/>
+      <span end="17038" id="PMC4311629.nxml.gz-195" start="17031">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-196" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="17288" id="PMC4311629.nxml.gz-196" start="17273">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-197" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17437" id="PMC4311629.nxml.gz-197" start="17273">Several studies implicated IL-6 as a co-inducer of the development of obesity-associated insulin resistance preceding the onset of type 2 diabetes (Pal et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-198" type="identity">
+      <class id="implicated" label=""/>
+      <span end="17299" id="PMC4311629.nxml.gz-198" start="17289">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-199" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-2" type="identity">
+      <class id="has_recently_been" label=""/>
+      <span end="237" id="PMC4311629.nxml.gz-2" start="220">has recently been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-20" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-200" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17549" id="PMC4311629.nxml.gz-200" start="17439">This is in keeping with the observation of increased plasma IL-6 levels in obese patients (Cottam et al.,2004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-201" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17462" id="PMC4311629.nxml.gz-201" start="17447">in keeping with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17795" id="PMC4311629.nxml.gz-202" start="17551">In such patients, IL-6 is preferentially secreted from visceral rather than from subcutaneous adipocytes and may participate in the prevailing increase in sympathetic outflow by exerting central effects (Wallenius et al.,2002; Fain et al.,2004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-203" type="identity">
+      <class id="may" label=""/>
+      <span end="17663" id="PMC4311629.nxml.gz-203" start="17660">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-204" type="identity">
+      <class id="effects" label=""/>
+      <span end="17753" id="PMC4311629.nxml.gz-204" start="17746">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-205" type="identity">
+      <class id="paradoxically" label=""/>
+      <span end="17810" id="PMC4311629.nxml.gz-205" start="17797">Paradoxically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-206" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17936" id="PMC4311629.nxml.gz-206" start="17797">Paradoxically, central IL-6 delivery was shown to suppress weight gain and visceral obesity, without affecting food intake (Li et al.,2002)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-207" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-208" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="18180" id="PMC4311629.nxml.gz-208" start="18167">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18321" id="PMC4311629.nxml.gz-209" start="18167">Interestingly, chronic central IL-6 stimulation desensitized IL-6 signal transduction characterized by reversal of elevated pSTAT3 levels (Li et al.,2002)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-21" type="identity">
+      <class id="indicating" label=""/>
+      <span end="1640" id="PMC4311629.nxml.gz-21" start="1630">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18446" id="PMC4311629.nxml.gz-210" start="18323">Such desensitization is likely occurring in situations of chronic elevation in IL-6 levels, such as occurs in human obesity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-211" type="identity">
+      <class id="likely" label=""/>
+      <span end="18353" id="PMC4311629.nxml.gz-211" start="18347">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18696" id="PMC4311629.nxml.gz-212" start="18448">It should be added that the understanding of the role of IL-6 is more complex, as this cytokine is known to be secreted by skeletal muscle in response to exercise, exerting insulin sensitizing effects (Kelly et al.,2004; Petersen and Pedersen,2005)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-213" type="identity">
+      <class id="should_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-214" type="identity">
+      <class id="role" label=""/>
+      <span end="18501" id="PMC4311629.nxml.gz-214" start="18497">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-215" type="identity">
+      <class id="complex" label=""/>
+      <span end="18525" id="PMC4311629.nxml.gz-215" start="18518">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-216" type="identity">
+      <class id="effects" label=""/>
+      <span end="18648" id="PMC4311629.nxml.gz-216" start="18641">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-217" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19024" id="PMC4311629.nxml.gz-217" start="18698">Along this line, it was recently shown that BAT transplantation into the abdominal cavity of high fat diet-induced obese mice was able to improve their glucose tolerance, increase their insulin sensitivity, lower their body weight, decrease their fat mass and completely reverse their insulin resistance (Stanford et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-218" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="18713" id="PMC4311629.nxml.gz-218" start="18698">Along this line</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-219" type="identity">
+      <class id="recently" label=""/>
+      <span end="18730" id="PMC4311629.nxml.gz-219" start="18722">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-22" type="identity">
+      <class id="effects" label=""/>
+      <span end="1676" id="PMC4311629.nxml.gz-22" start="1669">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-220" type="identity">
+      <class id="weight" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-221" type="identity">
+      <class id="importantly" label=""/>
+      <span end="19181" id="PMC4311629.nxml.gz-221" start="19170">Importantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-222" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19460" id="PMC4311629.nxml.gz-222" start="19170">Importantly, the improved metabolic profile was lost when BAT used for transplantation came from IL-6 knockout mice, clearly demonstrating that BAT-derived IL-6 is required for the profound effects of BAT transplantation on glucose homeostasis and insulin sensitivity (Stanford et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-223" type="identity">
+      <class id="when" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-224" type="identity">
+      <class id="required" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-225" type="identity">
+      <class id="effects" label=""/>
+      <span end="19367" id="PMC4311629.nxml.gz-225" start="19360">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-226" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19981" id="PMC4311629.nxml.gz-226" start="19871">However, the existence of this protein and its role in humans is still a matter of debate (Elsen et al.,2014a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-227" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-228" type="identity">
+      <class id="controversy" label=""/>
+      <span end="19878" id="PMC4311629.nxml.gz-228" start="19871">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-229" type="identity">
+      <class id="role" label=""/>
+      <span end="19922" id="PMC4311629.nxml.gz-229" start="19918">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1833" id="PMC4311629.nxml.gz-23" start="1678">Stimulation of BAT activity and/or recruitment of UCP1-positive cells are therefore relevant targets for the treatment of obesity/type 2 diabetes in humans</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-230" type="identity">
+      <class id="still" label=""/>
+      <span end="19941" id="PMC4311629.nxml.gz-230" start="19936">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-231" type="identity">
+      <class id="debate" label=""/>
+      <span end="19960" id="PMC4311629.nxml.gz-231" start="19954">debate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-232" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20813" id="PMC4311629.nxml.gz-232" start="20642">In both rodents and humans, this BA-D2-UCP1 pathway appears to be crucial for the fine-tuning of energy homeostasis, improving the metabolic control (Watanabe et al.,2006)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-233" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="20707" id="PMC4311629.nxml.gz-233" start="20694">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-234" type="identity">
+      <class id="crucial" label=""/>
+      <span end="20715" id="PMC4311629.nxml.gz-234" start="20708">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21107" id="PMC4311629.nxml.gz-235" start="20934">The α isoform was shown to regulate adaptive thermogenesis, whereas the β isoform appears to modulate UCP1 expression, without increasing thermogenesis (Ribeiro et al.,2001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-236" type="identity">
+      <class id="appears" label=""/>
+      <span end="21023" id="PMC4311629.nxml.gz-236" start="21016">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-237" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21503" id="PMC4311629.nxml.gz-237" start="21301">Thirty months after the initial treatment of the thyroid cancer (radioiodine and levothyroxine), remarkable improvements in glycemia were noted and the anti-diabetic treatment could even be discontinued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-238" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="21408" id="PMC4311629.nxml.gz-238" start="21398">remarkable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-239" type="identity">
+      <class id="even" label=""/>
+      <span end="21487" id="PMC4311629.nxml.gz-239" start="21483">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-24" type="identity">
+      <class id="future_work" label=""/>
+      <span end="1778" id="PMC4311629.nxml.gz-24" start="1771">targets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-240" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-241" type="identity">
+      <class id="revealed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-242" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="21652" id="PMC4311629.nxml.gz-242" start="21639">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-243" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21778" id="PMC4311629.nxml.gz-243" start="21639">Interestingly, increased FDG uptake was also noted in the subcutaneous fat, in particular in the pelvic area and over the lower extremities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22031" id="PMC4311629.nxml.gz-244" start="21780">Overall, the sequence of events in this patient suggests that the metabolic and trophic effects of THs on BAT may play a critical role in non-insulin-mediated glucose utilization, ultimately leading to near-normal glucose levels (Skarulis et al.,2010)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-245" type="identity">
+      <class id="suggests" label=""/>
+      <span end="21836" id="PMC4311629.nxml.gz-245" start="21828">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-246" type="identity">
+      <class id="effects" label=""/>
+      <span end="21875" id="PMC4311629.nxml.gz-246" start="21868">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-247" type="identity">
+      <class id="may" label=""/>
+      <span end="21893" id="PMC4311629.nxml.gz-247" start="21890">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-248" type="identity">
+      <class id="critical" label=""/>
+      <span end="21909" id="PMC4311629.nxml.gz-248" start="21901">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-249" type="identity">
+      <class id="role" label=""/>
+      <span end="21914" id="PMC4311629.nxml.gz-249" start="21910">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2141" id="PMC4311629.nxml.gz-25" start="1849">Obesity, well known to be associated with a number of comorbidities, including insulin resistance and type 2 diabetes, has become a major public health problem in recent decades, and has reached epidemic proportions, not only in high-income countries, but also in most middle-income societies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-250" type="identity">
+      <class id="ultimately" label=""/>
+      <span end="21970" id="PMC4311629.nxml.gz-250" start="21960">ultimately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22340" id="PMC4311629.nxml.gz-251" start="22135">They were originally thought to be factors inducing bone formation, but were then described to be involved in the development and function of many tissues, such as the intestine, brain and WAT (Hogan,1996)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-252" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="22166" id="PMC4311629.nxml.gz-252" start="22156">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-253" type="identity">
+      <class id="involved" label=""/>
+      <span end="22241" id="PMC4311629.nxml.gz-253" start="22233">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22471" id="PMC4311629.nxml.gz-254" start="22342">Some members of the BMP family were shown to play a role in energy homeostasis and the early steps of adipogenesis, in particular</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-255" type="identity">
+      <class id="some" label=""/>
+      <span end="22346" id="PMC4311629.nxml.gz-255" start="22342">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-256" type="identity">
+      <class id="role" label=""/>
+      <span end="22398" id="PMC4311629.nxml.gz-256" start="22394">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22680" id="PMC4311629.nxml.gz-257" start="22473">Among the 20 BMP family members, BMP-7 has been implicated in the development of BAT, being able to drive the complete brown fat differentiation program, including PRDM16 expression (Modica and Wolfrum,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-258" type="identity">
+      <class id="has_been" label=""/>
+      <span end="22520" id="PMC4311629.nxml.gz-258" start="22512">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-259" type="identity">
+      <class id="implicated" label=""/>
+      <span end="22531" id="PMC4311629.nxml.gz-259" start="22521">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-26" type="identity">
+      <class id="associated" label=""/>
+      <span end="1885" id="PMC4311629.nxml.gz-26" start="1875">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-260" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22828" id="PMC4311629.nxml.gz-260" start="22682">BMP-7 can also affect energy homeostasis by acting on mature brown adipocytes, resulting in the induction of UCP1, thereby enhancing thermogenesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-261" type="identity">
+      <class id="affect" label=""/>
+      <span end="22703" id="PMC4311629.nxml.gz-261" start="22697">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-262" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22943" id="PMC4311629.nxml.gz-262" start="22830">As it is not expressed in mature brown adipocytes, BMP7 appears to exert its action on BAT as an endocrine factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-263" type="identity">
+      <class id="appears" label=""/>
+      <span end="22893" id="PMC4311629.nxml.gz-263" start="22886">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23090" id="PMC4311629.nxml.gz-264" start="22945">In addition to its effect on BAT, BMP-7 was also reported to induce the “browning” of WAT and to improve insulin sensitivity (Schulz et al.,2011)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-265" type="identity">
+      <class id="effect" label=""/>
+      <span end="22970" id="PMC4311629.nxml.gz-265" start="22964">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-266" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23296" id="PMC4311629.nxml.gz-266" start="23092">Finally, several hypothalamic nuclei were shown to express BMP-7, suggesting that it may regulate BAT function via a central mechanism, also responsible for decreased food intake (Modica and Wolfrum,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-267" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="23168" id="PMC4311629.nxml.gz-267" start="23158">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-268" type="identity">
+      <class id="may" label=""/>
+      <span end="23180" id="PMC4311629.nxml.gz-268" start="23177">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-269" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-27" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="2000" id="PMC4311629.nxml.gz-27" start="1981">major public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-271" type="identity">
+      <class id="however" label=""/>
+      <span end="24069" id="PMC4311629.nxml.gz-271" start="24062">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-272" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24299" id="PMC4311629.nxml.gz-272" start="24062">However, in primary human adipose stem cells, both BMP4 and BMP7 induced a white-to-brown adipocyte transdifferentiation (Elsen et al.,2014b), pointing to the occurrence of different effects, depending on the model used for investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-273" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24213" id="PMC4311629.nxml.gz-273" start="24205">pointing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-274" type="identity">
+      <class id="effects" label=""/>
+      <span end="24252" id="PMC4311629.nxml.gz-274" start="24245">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-275" type="identity">
+      <class id="controversy" label=""/>
+      <span end="24266" id="PMC4311629.nxml.gz-275" start="24254">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-276" type="identity">
+      <class id="0_model" label=""/>
+      <span end="24276" id="PMC4311629.nxml.gz-276" start="24271">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-277" type="identity">
+      <class id="further_studies" label=""/>
+      <span end="24316" id="PMC4311629.nxml.gz-277" start="24301">Further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24468" id="PMC4311629.nxml.gz-278" start="24301">Further studies are needed to clarify and strengthen the role of BMP proteins in the regulation of BAT or “brite” cells and their consequences on metabolic homeostasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-279" type="identity">
+      <class id="are_needed" label=""/>
+      <span end="24327" id="PMC4311629.nxml.gz-279" start="24317">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-28" type="identity">
+      <class id="problem" label=""/>
+      <span end="2008" id="PMC4311629.nxml.gz-28" start="2001">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-280" type="identity">
+      <class id="role" label=""/>
+      <span end="24362" id="PMC4311629.nxml.gz-280" start="24358">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-282" type="identity">
+      <class id="involved" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-283" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25118" id="PMC4311629.nxml.gz-283" start="24967">Activation of AKT is known to trigger a complex cascade of events that include the inhibition of FOXO transcription factors (Ortega-Molina et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-284" type="identity">
+      <class id="complex" label=""/>
+      <span end="25014" id="PMC4311629.nxml.gz-284" start="25007">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-285" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="25133" id="PMC4311629.nxml.gz-285" start="25120">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-286" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25393" id="PMC4311629.nxml.gz-286" start="25120">Interestingly, mice carrying additional copies of Pten (Ptentgmice) are not only protected from cancer and exhibit extended longevity, but, according to the authors, they also present enhanced energy expenditure that participates in counteracting the development of obesity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-287" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-288" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25582" id="PMC4311629.nxml.gz-288" start="25395">This is related to lower BAT levels of phosphorylated AKT and FOXO1, higher BAT and WAT expression of UCP1, as well as of its transcriptional regulator, PGC1-α (Ortega-Molina et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-289" type="identity">
+      <class id="related" label=""/>
+      <span end="25410" id="PMC4311629.nxml.gz-289" start="25403">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2317" id="PMC4311629.nxml.gz-29" start="2255">Excess weight is usually defined by the body mass index or BMI</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-290" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25998" id="PMC4311629.nxml.gz-290" start="25803">“Browning” of WAT could be one of the mechanisms underlying the increased insulin sensitivity of LPTENKO mice, in keeping with the observation of increased WAT glucose uptake (Peyrou et al.,2015)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-291" type="identity">
+      <class id="could_be" label=""/>
+      <span end="25829" id="PMC4311629.nxml.gz-291" start="25821">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-292" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25929" id="PMC4311629.nxml.gz-292" start="25914">in keeping with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-293" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26210" id="PMC4311629.nxml.gz-293" start="26000">In humans, PTEN haploinsufficiency was shown to have divergent effects, as they increase the risk of obesity, while decreasing that of type 2 diabetes by markedly improving insulin sensitivity (Pal et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-294" type="identity">
+      <class id="effects" label=""/>
+      <span end="26070" id="PMC4311629.nxml.gz-294" start="26063">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-295" type="identity">
+      <class id="controversy" label=""/>
+      <span end="26115" id="PMC4311629.nxml.gz-295" start="26110">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-296" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26376" id="PMC4311629.nxml.gz-296" start="26212">In a very recent study, the grizzly bear was used as a hibernation model, in which obesity is a natural adaptation to survive months of fasting (Nelson et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-297" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="26234" id="PMC4311629.nxml.gz-297" start="26222">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-298" type="identity">
+      <class id="0_model" label=""/>
+      <span end="26284" id="PMC4311629.nxml.gz-298" start="26279">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-299" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26508" id="PMC4311629.nxml.gz-299" start="26378">It was remarkably observed that preparation for hibernation was characterized by striking increases in body weight and in fat mass</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="867" id="PMC4311629.nxml.gz-3" start="782">Different approaches were used to delineate the impact of UCP1 on insulin sensitivity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-30" type="identity">
+      <class id="usually" label=""/>
+      <span end="2279" id="PMC4311629.nxml.gz-30" start="2272">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-300" type="identity">
+      <class id="remarkably" label=""/>
+      <span end="26395" id="PMC4311629.nxml.gz-300" start="26385">remarkably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26853" id="PMC4311629.nxml.gz-301" start="26728">The modification of insulin sensitivity occurs via the effect of the PTEN/AKT-mediated regulation of adipose tissue lipolysis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-302" type="identity">
+      <class id="effect" label=""/>
+      <span end="26789" id="PMC4311629.nxml.gz-302" start="26783">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-303" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27073" id="PMC4311629.nxml.gz-303" start="26855">These results support the notion that adipose tissue is very insulin sensitive in the fed state, while being able to drive insulin resistance in the fasting state, independently from insulin levels (Nelson et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-304" type="identity">
+      <class id="support" label=""/>
+      <span end="26876" id="PMC4311629.nxml.gz-304" start="26869">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-305" type="identity">
+      <class id="notion" label=""/>
+      <span end="26887" id="PMC4311629.nxml.gz-305" start="26881">notion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-306" type="identity">
+      <class id="while" label=""/>
+      <span end="26957" id="PMC4311629.nxml.gz-306" start="26952">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-307" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27298" id="PMC4311629.nxml.gz-307" start="27075">In humans, the only physiological recovery of insulin sensitivity after a period of insulin resistance, partially due to an increase in food intake and lipogenesis, is observed in women after pregnancy (Barbour et al.,2007)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-308" type="identity">
+      <class id="only" label=""/>
+      <span end="27094" id="PMC4311629.nxml.gz-308" start="27090">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-309" type="identity">
+      <class id="partially" label=""/>
+      <span end="27188" id="PMC4311629.nxml.gz-309" start="27179">partially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-310" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-311" type="identity">
+      <class id="impact" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-312" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27884" id="PMC4311629.nxml.gz-312" start="27764">? indicates the existence of conflicting data in the literature with regard to the impact of the factor on UCP1 activity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-313" type="identity">
+      <class id="indicates" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-314" type="identity">
+      <class id="conflicting" label=""/>
+      <span end="27804" id="PMC4311629.nxml.gz-314" start="27793">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-315" type="identity">
+      <class id="impact" label=""/>
+      <span end="27853" id="PMC4311629.nxml.gz-315" start="27847">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-316" type="identity">
+      <class id="impact" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-317" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-318" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28152" id="PMC4311629.nxml.gz-318" start="27927">Epidemiological evidence in humans strongly suggests that the intrauterine and early postnatal environments have a significant long-term influence on body weight and energy homeostasis in offspring (for rev., see Breton,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-319" type="identity">
+      <class id="suggests" label=""/>
+      <span end="27979" id="PMC4311629.nxml.gz-319" start="27971">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-32" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-320" type="identity">
+      <class id="influence" label=""/>
+      <span end="28073" id="PMC4311629.nxml.gz-320" start="28064">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-321" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28297" id="PMC4311629.nxml.gz-321" start="28154">Thus, both maternal underfeeding or overfeeding were reported to exert a predisposing effect for the development of later obesity (Breton,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-322" type="identity">
+      <class id="effect" label=""/>
+      <span end="28246" id="PMC4311629.nxml.gz-322" start="28240">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-323" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28743" id="PMC4311629.nxml.gz-323" start="28623">The signals that mediate the effects of maternal metabolic disorders in overfed offspring have not been fully identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-324" type="identity">
+      <class id="effects" label=""/>
+      <span end="28659" id="PMC4311629.nxml.gz-324" start="28652">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-325" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-327" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28743" id="PMC4311629.nxml.gz-327" start="28713">have not been fully identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-328" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-329" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28935" id="PMC4311629.nxml.gz-329" start="28745">They include hormones, such as insulin, leptin and glucocorticoids, proinflammatory cytokines, as well as complex epigenetic modifications (Tamashiro and Moran,2010; Lukaszewski et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-33" type="identity">
+      <class id="may" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-330" type="identity">
+      <class id="complex" label=""/>
+      <span end="28858" id="PMC4311629.nxml.gz-330" start="28851">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-331" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29229" id="PMC4311629.nxml.gz-331" start="28937">In this context, the sheep appears to be a very good model, because as for humans, the major source of BAT in the fetus is around central organs and is replaced by WAT after birth, whereas in rodents, the primary BAT depot is interscapular and it remains throughout life (Symonds et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-332" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="28977" id="PMC4311629.nxml.gz-332" start="28964">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-333" type="identity">
+      <class id="0_model" label=""/>
+      <span end="28995" id="PMC4311629.nxml.gz-333" start="28990">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-334" type="identity">
+      <class id="remains" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-335" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29417" id="PMC4311629.nxml.gz-335" start="29231">In sheep, the mother's diet during pregnancy determines the size of the placenta and can affect both the BAT and WAT mass, depending on the timing and the nature of the diet perturbation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-336" type="identity">
+      <class id="affect" label=""/>
+      <span end="29326" id="PMC4311629.nxml.gz-336" start="29320">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-337" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29679" id="PMC4311629.nxml.gz-337" start="29419">In other words, the respective growth of the BAT and WAT depots depends on the maternal diet during gestation and it may be responsible for the development of obesity, insulin resistance and type 2 diabetes in the offspring, later in life (Symonds et al.,2012)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-338" type="identity">
+      <class id="may_be" label=""/>
+      <span end="29542" id="PMC4311629.nxml.gz-338" start="29536">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-339" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-34" type="identity">
+      <class id="vary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-340" type="identity">
+      <class id="accompanied" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-341" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30318" id="PMC4311629.nxml.gz-341" start="30053">However, in a recent study, the role of diabetes during gestation on such adverse long-term metabolic consequences has been seriously questioned, as they seem to relate more on known confounders, such as the BMI of either one of the parents (Donovan and Cundy,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-342" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-343" type="identity">
+      <class id="controversy" label=""/>
+      <span end="30060" id="PMC4311629.nxml.gz-343" start="30053">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-344" type="identity">
+      <class id="role" label=""/>
+      <span end="30089" id="PMC4311629.nxml.gz-344" start="30085">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-345" type="identity">
+      <class id="has...been" label=""/>
+      <span end="30176" id="PMC4311629.nxml.gz-345" start="30168">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-346" type="identity">
+      <class id="questioned" label=""/>
+      <span end="30197" id="PMC4311629.nxml.gz-346" start="30187">questioned</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-347" type="identity">
+      <class id="seem" label=""/>
+      <span end="30211" id="PMC4311629.nxml.gz-347" start="30207">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-348" type="identity">
+      <class id="relate" label=""/>
+      <span end="30221" id="PMC4311629.nxml.gz-348" start="30215">relate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-349" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="30247" id="PMC4311629.nxml.gz-349" start="30236">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2767" id="PMC4311629.nxml.gz-35" start="2630">More than the total body weight, the distribution of the stored fat is of importance for the development of obesity and its comorbidities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-350" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30471" id="PMC4311629.nxml.gz-350" start="30320">Among the regulators that may link the maternal diet during gestation with the metabolic outcome of the offspring, leptin is one of the main candidates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-351" type="identity">
+      <class id="may" label=""/>
+      <span end="30349" id="PMC4311629.nxml.gz-351" start="30346">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-352" type="identity">
+      <class id="link" label=""/>
+      <span end="30354" id="PMC4311629.nxml.gz-352" start="30350">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-353" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="30471" id="PMC4311629.nxml.gz-353" start="30461">candidates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-354" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30824" id="PMC4311629.nxml.gz-354" start="30697">Rodent models of leptin deficiency exhibit marked decreases in BAT thermogenic capacity, as well as activity (Ueno et al.,1998)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-355" type="identity">
+      <class id="models" label=""/>
+      <span end="30710" id="PMC4311629.nxml.gz-355" start="30704">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-356" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31072" id="PMC4311629.nxml.gz-356" start="30826">Moreover, it was shown that leptin injection in the early stage of life in lambs decreases UCP1 expression in BAT, but improves thermoregulation, suggesting a particular role of leptin at such a stage in life in large mammals (Mostyn et al.,2002)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-357" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="30982" id="PMC4311629.nxml.gz-357" start="30972">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-358" type="identity">
+      <class id="role" label=""/>
+      <span end="31000" id="PMC4311629.nxml.gz-358" start="30996">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-359" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31230" id="PMC4311629.nxml.gz-359" start="31074">Another study revealed that the ability of leptin to increase the metabolic rate early in life is independent from its anorectic action (Mistry et al.,1999)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-36" type="identity">
+      <class id="than" label=""/>
+      <span end="2639" id="PMC4311629.nxml.gz-36" start="2635">than</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-360" type="identity">
+      <class id="revealed" label=""/>
+      <span end="31096" id="PMC4311629.nxml.gz-360" start="31088">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-361" type="identity">
+      <class id="no...available" label=""/>
+      <span end="31234" id="PMC4311629.nxml.gz-361" start="31232">No</span>
+      <span end="31253" id="PMC4311629.nxml.gz-362" start="31244">available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-363" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31480" id="PMC4311629.nxml.gz-363" start="31232">No data are available as yet with regard to the impact of early leptin administration on the subsequent “browning” of WAT and the related regulation of glucose metabolism, as well as the response to hypercaloric diets later in life in the offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-364" type="identity">
+      <class id="yet" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-365" type="identity">
+      <class id="impact" label=""/>
+      <span end="31286" id="PMC4311629.nxml.gz-365" start="31280">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-366" type="identity">
+      <class id="related" label=""/>
+      <span end="31369" id="PMC4311629.nxml.gz-366" start="31362">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-367" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31749" id="PMC4311629.nxml.gz-367" start="31530">With regard to the relationship between BAT and body weight in humans, an inverse correlation between BMI and the amount of BAT was described, already 5 years ago (Cypess et al.,2009; van Marken Lichtenbelt et al.,2009)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-368" type="identity">
+      <class id="relationship" label=""/>
+      <span end="31561" id="PMC4311629.nxml.gz-368" start="31549">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-369" type="identity">
+      <class id="correlation" label=""/>
+      <span end="31623" id="PMC4311629.nxml.gz-369" start="31612">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-37" type="identity">
+      <class id="importance" label=""/>
+      <span end="2714" id="PMC4311629.nxml.gz-37" start="2704">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-370" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32020" id="PMC4311629.nxml.gz-370" start="31751">In addition, more recent studies indicated that, compared to individuals without BAT, the BAT-positive subjects were younger, had lower body mass index, fasting insulin, insulin resistance, but a greater level of high-density lipoprotein cholesterol (Zhang et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-371" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="31783" id="PMC4311629.nxml.gz-371" start="31769">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-372" type="identity">
+      <class id="indicated" label=""/>
+      <span end="31793" id="PMC4311629.nxml.gz-372" start="31784">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-373" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32416" id="PMC4311629.nxml.gz-373" start="32166">A parallel increase in BAT activity and cold-induced energy expenditure was also observed in response to acute cold exposure in subjects with low BAT activity, demonstrating the possible occurrence of BAT recruitment in humans (Yoneshiro et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-374" type="identity">
+      <class id="possible" label=""/>
+      <span end="32352" id="PMC4311629.nxml.gz-374" start="32344">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-375" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32654" id="PMC4311629.nxml.gz-375" start="32418">Very recently, chronic cold acclimation in human subjects was reported to increase the volume of metabolically active BAT, increasing its oxidative capacity, therefore its contribution to cold-induced thermogenesis (Blondin et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-376" type="identity">
+      <class id="recently" label=""/>
+      <span end="32431" id="PMC4311629.nxml.gz-376" start="32423">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-377" type="identity">
+      <class id="contribution" label=""/>
+      <span end="32602" id="PMC4311629.nxml.gz-377" start="32590">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-378" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32828" id="PMC4311629.nxml.gz-378" start="32656">In another study, the cold-induced increase in thermogenesis was accompanied by a decrease in body weight, mainly affecting the fat mass compartment (Yoneshiro et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-379" type="identity">
+      <class id="accompanied" label=""/>
+      <span end="32732" id="PMC4311629.nxml.gz-379" start="32721">accompanied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3013" id="PMC4311629.nxml.gz-38" start="2769">Thus, central or visceral obesity, in which fat accumulates in the trunk and in the abdominal cavity (in the mesentery and around the viscera), is associated with a much higher risk for several diseases than excess subcutaneous fat accumulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-380" type="identity">
+      <class id="mainly" label=""/>
+      <span end="32769" id="PMC4311629.nxml.gz-380" start="32763">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-381" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="32779" id="PMC4311629.nxml.gz-381" start="32770">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-382" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-383" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-384" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33226" id="PMC4311629.nxml.gz-384" start="33004">These results are in keeping with data showing a physiological role of BAT in whole-body energy expenditure, glucose homeostasis, and insulin sensitivity in humans during prolonged cold exposure (Chondronikola et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-385" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33037" id="PMC4311629.nxml.gz-385" start="33022">in keeping with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-386" type="identity">
+      <class id="role" label=""/>
+      <span end="33071" id="PMC4311629.nxml.gz-386" start="33067">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-387" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33337" id="PMC4311629.nxml.gz-387" start="33228">Much more work is needed to identify other ways than cold exposure to increase BAT activity in obese subjects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-388" type="identity">
+      <class id="more_work_is_needed" label=""/>
+      <span end="33252" id="PMC4311629.nxml.gz-388" start="33233">more work is needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-389" type="identity">
+      <class id="than" label=""/>
+      <span end="33280" id="PMC4311629.nxml.gz-389" start="33276">than</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-39" type="identity">
+      <class id="associated" label=""/>
+      <span end="2926" id="PMC4311629.nxml.gz-39" start="2916">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-390" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33732" id="PMC4311629.nxml.gz-390" start="33487">Indeed, resistance to the development of obesity has at least partly been attributed to elevated recruitment of brown adipocytes in skeletal muscle or WAT (Guerra et al.,1998; Almind et al.,2007; Veyrat-Durebex et al.,2009; Harms and Seale,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-391" type="identity">
+      <class id="at_least" label=""/>
+      <span end="33548" id="PMC4311629.nxml.gz-391" start="33540">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-392" type="identity">
+      <class id="partly" label=""/>
+      <span end="33555" id="PMC4311629.nxml.gz-392" start="33549">partly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-393" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-394" type="identity">
+      <class id="will" label=""/>
+      <span end="33839" id="PMC4311629.nxml.gz-394" start="33835">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-395" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-396" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34241" id="PMC4311629.nxml.gz-396" start="33959">It should be added at that point that, although β3 adrenoceptors are expressed in humans (for rev., see Mund and Frishman,2013) and β3 agonists are potent UCP1 activators in rodents, the molecules which are active in rodents cannot be used in humans due to inter-species differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-397" type="identity">
+      <class id="should_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-398" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-399" type="identity">
+      <class id="cannot_be" label=""/>
+      <span end="34193" id="PMC4311629.nxml.gz-399" start="34184">cannot be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-4" type="identity">
+      <class id="impact" label=""/>
+      <span end="836" id="PMC4311629.nxml.gz-4" start="830">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3120" id="PMC4311629.nxml.gz-40" start="3015">Obesity has profound effects on tissue insulin sensitivity, and therefore on systemic glucose homeostasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-400" type="identity">
+      <class id="due_to" label=""/>
+      <span end="34215" id="PMC4311629.nxml.gz-400" start="34209">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-401" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34380" id="PMC4311629.nxml.gz-401" start="34243">This should be solved in the future by the identification of selective human β3 agonists (Mund and Frishman,2013; Bordicchia et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-402" type="identity">
+      <class id="should_be" label=""/>
+      <span end="34257" id="PMC4311629.nxml.gz-402" start="34248">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-403" type="identity">
+      <class id="future" label=""/>
+      <span end="34278" id="PMC4311629.nxml.gz-403" start="34272">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-404" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34510" id="PMC4311629.nxml.gz-404" start="34394">To conclude, UCP1 is an excellent target to struggle diabetes and decrease body fat mass, improving whole metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-405" type="identity">
+      <class id="future_work" label=""/>
+      <span end="34434" id="PMC4311629.nxml.gz-405" start="34428">target</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-406" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-407" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-408" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-409" type="identity">
+      <class id="would_be" label=""/>
+      <span end="34856" id="PMC4311629.nxml.gz-409" start="34848">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-41" type="identity">
+      <class id="effects" label=""/>
+      <span end="3043" id="PMC4311629.nxml.gz-41" start="3036">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-410" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3296" id="PMC4311629.nxml.gz-42" start="3122">Insulin resistance is present even in simple obesity, without hyperglycemia, indicating a fundamental abnormality of insulin signaling in states of excess adipose tissue mass</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-43" type="identity">
+      <class id="even" label=""/>
+      <span end="3156" id="PMC4311629.nxml.gz-43" start="3152">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-44" type="identity">
+      <class id="indicating" label=""/>
+      <span end="3209" id="PMC4311629.nxml.gz-44" start="3199">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3427" id="PMC4311629.nxml.gz-45" start="3298">The epidemiologic association of obesity, particularly of the visceral type, with type 2 diabetes has been recognized for decades</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-46" type="identity">
+      <class id="association" label=""/>
+      <span end="3327" id="PMC4311629.nxml.gz-46" start="3316">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3644" id="PMC4311629.nxml.gz-47" start="3527">it is predicted that in 2030, diabetes will be the 7th cause of death considering the worldwide population (WHO,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-48" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="3542" id="PMC4311629.nxml.gz-48" start="3533">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-49" type="identity">
+      <class id="will" label=""/>
+      <span end="3570" id="PMC4311629.nxml.gz-49" start="3566">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1095" id="PMC4311629.nxml.gz-5" start="1014">The impact of UCP1 deletion on insulin sensitivity in these mice was not reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3893" id="PMC4311629.nxml.gz-50" start="3646">Although the pathogenesis of obesity is extremely complex and is far from being unraveled, the key component of the obesity epidemic is long-term dysregulation of energy balance, comprising increased energy intake and/or reduced energy expenditure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-51" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-52" type="identity">
+      <class id="complex" label=""/>
+      <span end="3703" id="PMC4311629.nxml.gz-52" start="3696">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-53" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="3735" id="PMC4311629.nxml.gz-53" start="3711">far from being unraveled</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-54" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-55" type="identity">
+      <class id="despite" label=""/>
+      <span end="3902" id="PMC4311629.nxml.gz-55" start="3895">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4128" id="PMC4311629.nxml.gz-56" start="3895">Despite active research and impressive improvements in the understanding of the regulation of energy balance, there are only a very limited number of drugs that can be used for the efficient treatment of obesity and its comorbidities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5673" type="identity">
+      <class id="probable_understanding"/>
+      <span end="7655" id="PMC4311629.nxml.gz-5674" start="7646">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5675" type="identity">
+      <class id="probable_understanding"/>
+      <span end="8233" id="PMC4311629.nxml.gz-5676" start="8229">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5677" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="10623" id="PMC4311629.nxml.gz-5678" start="10614">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5680" type="identity">
+      <class id="subject_scope"/>
+      <span end="12018" id="PMC4311629.nxml.gz-5681" start="11826">Whether “brite” adipocytes descend from unique precursors, or share progenitors with either white or classic brown adipocytes still remains to be established (for rev., see Chechi et al.,2013)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5682" type="identity">
+      <class id="controversy"/>
+      <span end="12230" id="PMC4311629.nxml.gz-5683" start="12222">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5684" type="identity">
+      <class id="future_work"/>
+      <span end="13619" id="PMC4311629.nxml.gz-5685" start="13598">precise understanding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5686" type="identity">
+      <class id="probable_understanding"/>
+      <span end="19308" id="PMC4311629.nxml.gz-5687" start="19287">clearly demonstrating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5688" type="identity">
+      <class id="probable_understanding"/>
+      <span end="28158" id="PMC4311629.nxml.gz-5689" start="28154">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5690" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="33758" id="PMC4311629.nxml.gz-5691" start="33752">highly</span>
+      <span end="33783" id="PMC4311629.nxml.gz-5692" start="33775">relevant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5693" type="identity">
+      <class id="subject_scope"/>
+      <span end="33957" id="PMC4311629.nxml.gz-5694" start="33734">These studies are highly therapeutically relevant, as BAT activation in overweight or obese subjects will activate thermogenesis and dissipate heat, while at the same time improving glucose metabolism and insulin resistance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5695" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="34872" id="PMC4311629.nxml.gz-5696" start="34860">considerable</span>
+      <span end="34894" id="PMC4311629.nxml.gz-5697" start="34885">relevance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-5698" type="identity">
+      <class id="subject_scope"/>
+      <span end="34973" id="PMC4311629.nxml.gz-5699" start="34775">Finding a molecule with as much efficiency as the β3 agonist in rodents, would be of considerable therapeutic relevance for the treatment of obesity, insulin resistance and type 2 diabetes in humans</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-57" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3918" id="PMC4311629.nxml.gz-57" start="3903">active research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-58" type="identity">
+      <class id="only" label=""/>
+      <span end="4019" id="PMC4311629.nxml.gz-58" start="4015">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-59" type="identity">
+      <class id="limited_number" label=""/>
+      <span end="4041" id="PMC4311629.nxml.gz-59" start="4027">limited number</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-6" type="identity">
+      <class id="impact" label=""/>
+      <span end="1024" id="PMC4311629.nxml.gz-6" start="1018">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4305" id="PMC4311629.nxml.gz-60" start="4130">Targeting specific components of the neuroendocrine regulation of energy intake, such as leptin or hypothalamic neuropeptides, has disappointingly revealed unsuccessful as yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-61" type="identity">
+      <class id="revealed" label=""/>
+      <span end="4285" id="PMC4311629.nxml.gz-61" start="4277">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-62" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="4298" id="PMC4311629.nxml.gz-62" start="4286">unsuccessful</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-63" type="identity">
+      <class id="yet" label=""/>
+      <span end="4305" id="PMC4311629.nxml.gz-63" start="4302">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-64" type="identity">
+      <class id="new" label=""/>
+      <span end="4310" id="PMC4311629.nxml.gz-64" start="4307">New</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4419" id="PMC4311629.nxml.gz-65" start="4307">New alternatives focusing on adipose tissue function could potentially be of therapeutic relevance in the future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-66" type="identity">
+      <class id="alternative_options" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-67" type="identity">
+      <class id="focus" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-68" type="identity">
+      <class id="could" label=""/>
+      <span end="4365" id="PMC4311629.nxml.gz-68" start="4360">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-69" type="identity">
+      <class id="potentially" label=""/>
+      <span end="4377" id="PMC4311629.nxml.gz-69" start="4366">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-7" type="identity">
+      <class id="not_reported" label=""/>
+      <span end="1095" id="PMC4311629.nxml.gz-7" start="1083">not reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-70" type="identity">
+      <class id="future" label=""/>
+      <span end="4419" id="PMC4311629.nxml.gz-70" start="4413">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-72" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6807" id="PMC4311629.nxml.gz-73" start="6677">The notion that human BAT is solely apparent during the neonatal stage prevailed for decades (Heaton,1972; Nedergaard et al.,2007)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-74" type="identity">
+      <class id="notion" label=""/>
+      <span end="6687" id="PMC4311629.nxml.gz-74" start="6681">notion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-75" type="identity">
+      <class id="apparent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7308" id="PMC4311629.nxml.gz-76" start="7179">Estimates of BAT mass and activity from FDG-PET studies suggest that humans have, on average, 50–80 g of BAT (Peirce et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-77" type="identity">
+      <class id="suggest" label=""/>
+      <span end="7242" id="PMC4311629.nxml.gz-77" start="7235">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7432" id="PMC4311629.nxml.gz-78" start="7310">Quantitatively, it was estimated that 50 g of BAT can burn as much as 20% of daily energy intake (Rothwell and Stock,1983)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-79" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="7342" id="PMC4311629.nxml.gz-79" start="7333">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1302" id="PMC4311629.nxml.gz-8" start="1097">Conversely, several studies in both rodents and humans have shown that BAT activation (by cold exposure, β3-agonist treatment, transplantation and others) improves glucose tolerance and insulin sensitivity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7637" id="PMC4311629.nxml.gz-80" start="7449">in a subject with 63 g of supraclavicular BAT, it was calculated that if the depot was fully activated, it would burn an amount of energy equivalent to 4.1 kg of WAT (Virtanen et al.,2009)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-81" type="identity">
+      <class id="if" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-82" type="identity">
+      <class id="would" label=""/>
+      <span end="7561" id="PMC4311629.nxml.gz-82" start="7556">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7845" id="PMC4311629.nxml.gz-83" start="7639">It can therefore be concluded that, even though the BAT depots are present in small amounts, the activated tissue has the potential to substantially contribute to energy expenditure (Nedergaard et al.,2007)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-84" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-85" type="identity">
+      <class id="even" label=""/>
+      <span end="7679" id="PMC4311629.nxml.gz-85" start="7675">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-86" type="identity">
+      <class id="though" label=""/>
+      <span end="7686" id="PMC4311629.nxml.gz-86" start="7680">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-87" type="identity">
+      <class id="potential" label=""/>
+      <span end="7770" id="PMC4311629.nxml.gz-87" start="7761">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-89" type="identity">
+      <class id="mostly" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-9" type="identity">
+      <class id="controversy" label=""/>
+      <span end="1107" id="PMC4311629.nxml.gz-9" start="1097">Conversely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8227" id="PMC4311629.nxml.gz-90" start="7985">Along this line, it was recently demonstrated that chronic activation of the β3 adrenoreceptor induces coupled increases in lipolysis, de novo lipogenesis and fatty acid beta-oxidation not only in white, but also in BAT (Mottillo et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-91" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="8000" id="PMC4311629.nxml.gz-91" start="7985">Along this line</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-92" type="identity">
+      <class id="recently" label=""/>
+      <span end="8017" id="PMC4311629.nxml.gz-92" start="8009">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8498" id="PMC4311629.nxml.gz-93" start="8229">Thus, the continuous cycling of triglyceride hydrolysis coupled to resynthesis, which requires large amounts of ATP, could be another important mechanism to increase thermogenesis in BAT, in addition to the role of UCP1 activation in this process (Mottillo et al.,2014)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-94" type="identity">
+      <class id="could_be" label=""/>
+      <span end="8354" id="PMC4311629.nxml.gz-94" start="8346">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-95" type="identity">
+      <class id="important" label=""/>
+      <span end="8372" id="PMC4311629.nxml.gz-95" start="8363">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-96" type="identity">
+      <class id="role" label=""/>
+      <span end="8440" id="PMC4311629.nxml.gz-96" start="8436">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8715" id="PMC4311629.nxml.gz-97" start="8500">Similarly to what was proposed for skeletal muscle (Dulloo et al.,2004), this may contribute to dissipate excess lipids as occurs during prolonged stimulation of lipolysis (e.g., chronic β3 adrenoreceptor treatment)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-98" type="identity">
+      <class id="proposed" label=""/>
+      <span end="8530" id="PMC4311629.nxml.gz-98" start="8522">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4311629.nxml.gz-99" type="identity">
+      <class id="may" label=""/>
+      <span end="8581" id="PMC4311629.nxml.gz-99" start="8578">may</span>
+    </annotation>
+  </document>
+</knowtator-project>

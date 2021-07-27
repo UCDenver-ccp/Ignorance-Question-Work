@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3933411.nxml.gz" text-file="PMC3933411.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="94" id="PMC3933411.nxml.gz-1" start="0">Nutritional knowledge as a determinant of vitamin and mineral supplementation during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-10" type="identity">
+      <class id="not_been_studied" label=""/>
+      <span end="317" id="PMC3933411.nxml.gz-10" start="301">not been studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-100" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="4980" id="PMC3933411.nxml.gz-100" start="4969">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-101" type="identity">
+      <class id="associated" label=""/>
+      <span end="4991" id="PMC3933411.nxml.gz-101" start="4981">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-102" type="identity">
+      <class id="one_study" label=""/>
+      <span end="5231" id="PMC3933411.nxml.gz-102" start="5222">One study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5428" id="PMC3933411.nxml.gz-103" start="5222">One study conducted in Poland concluded that the level of nutritional knowledge of pregnant women regarding mineral and vitamins was insufficient, without focusing on the relationship with their intake [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-104" type="identity">
+      <class id="concluded" label=""/>
+      <span end="5261" id="PMC3933411.nxml.gz-104" start="5252">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-105" type="identity">
+      <class id="insufficient" label=""/>
+      <span end="5367" id="PMC3933411.nxml.gz-105" start="5355">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-106" type="identity">
+      <class id="relationship" label=""/>
+      <span end="5405" id="PMC3933411.nxml.gz-106" start="5393">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-107" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5556" id="PMC3933411.nxml.gz-107" start="5430">Another study showed that a higher level of nutritional knowledge was associated with vitamin/mineral supplementation use [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-108" type="identity">
+      <class id="showed" label=""/>
+      <span end="5450" id="PMC3933411.nxml.gz-108" start="5444">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-109" type="identity">
+      <class id="associated" label=""/>
+      <span end="5510" id="PMC3933411.nxml.gz-109" start="5500">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-11" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5751" id="PMC3933411.nxml.gz-110" start="5558">In Romania it is not clear whether there is a relationship between socio-demographic factors or the level of nutritional knowledge and the use of iron, folic acid and multivitamins in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-111" type="identity">
+      <class id="not_clear" label=""/>
+      <span end="5584" id="PMC3933411.nxml.gz-111" start="5575">not clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-112" type="identity">
+      <class id="whether" label=""/>
+      <span end="5592" id="PMC3933411.nxml.gz-112" start="5585">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6034" id="PMC3933411.nxml.gz-113" start="5753">The aim of this study was to assess the determinants of the use of folic acid, iron and multivitamins supplements by expectant mothers in Romania, in terms of nutritional knowledge evaluated by a structured questionnaire, socio-demographic factors and engagement with prenatal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-114" type="identity">
+      <class id="aim" label=""/>
+      <span end="5760" id="PMC3933411.nxml.gz-114" start="5757">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-115" type="identity">
+      <class id="this...study" label=""/>
+      <span end="5774" id="PMC3933411.nxml.gz-115" start="5764">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-116" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="5788" id="PMC3933411.nxml.gz-116" start="5779">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-117" type="identity">
+      <class id="determinants" label=""/>
+      <span end="5805" id="PMC3933411.nxml.gz-117" start="5793">determinants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6704" id="PMC3933411.nxml.gz-118" start="6457">We excluded stillbirths, those who declined to participate, those with obstetric pathology, or psychiatric, cognitive or other disease that might adversely affect understanding of the study objectives or the ability to provide accurate information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-119" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-12" type="identity">
+      <class id="determinant" label=""/>
+      <span end="334" id="PMC3933411.nxml.gz-12" start="323">determinant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-120" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-121" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-122" type="identity">
+      <class id="might" label=""/>
+      <span end="6602" id="PMC3933411.nxml.gz-122" start="6597">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-123" type="identity">
+      <class id="affect" label=""/>
+      <span end="6619" id="PMC3933411.nxml.gz-123" start="6613">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-124" type="identity">
+      <class id="objectives" label=""/>
+      <span end="6657" id="PMC3933411.nxml.gz-124" start="6647">objectives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-125" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6893" id="PMC3933411.nxml.gz-126" start="6706">Those who did not complete the interview were recorded as having refused to participate and were taken into account when calculating the refusal rate, but excluded from the final analysis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-127" type="identity">
+      <class id="did_not" label=""/>
+      <span end="6723" id="PMC3933411.nxml.gz-127" start="6716">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-128" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-129" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7144" id="PMC3933411.nxml.gz-129" start="6976">We selected a 95% confidence level and an assumed prevalence of supplement use of 50%, informed by other studies [15-19,22], due to the lack of prior data in our region</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-13" type="identity">
+      <class id="evidence...is_scarce" label=""/>
+      <span end="422" id="PMC3933411.nxml.gz-13" start="414">evidence</span>
+      <span end="462" id="PMC3933411.nxml.gz-14" start="453">is scarce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-130" type="identity">
+      <class id="assumed" label=""/>
+      <span end="7025" id="PMC3933411.nxml.gz-130" start="7018">assumed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-131" type="identity">
+      <class id="other" label=""/>
+      <span end="7080" id="PMC3933411.nxml.gz-131" start="7075">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-132" type="identity">
+      <class id="due_to" label=""/>
+      <span end="7107" id="PMC3933411.nxml.gz-132" start="7101">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-133" type="identity">
+      <class id="lack_of...data" label=""/>
+      <span end="7119" id="PMC3933411.nxml.gz-133" start="7112">lack of</span>
+      <span end="7130" id="PMC3933411.nxml.gz-134" start="7126">data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-136" type="identity">
+      <class id="estimate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7566" id="PMC3933411.nxml.gz-137" start="7384">Owing to the lack of other available data, we used the annual number of live births in Iaşi county reported on 01 July 2009 (n = 9,499) to define the size of the reference group [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-138" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="7392" id="PMC3933411.nxml.gz-138" start="7384">Owing to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-139" type="identity">
+      <class id="lack_of...data" label=""/>
+      <span end="7404" id="PMC3933411.nxml.gz-139" start="7397">lack of</span>
+      <span end="7425" id="PMC3933411.nxml.gz-140" start="7421">data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-141" type="identity">
+      <class id="reported" label=""/>
+      <span end="7491" id="PMC3933411.nxml.gz-141" start="7483">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-142" type="identity">
+      <class id="based_on" label=""/>
+      <span end="7576" id="PMC3933411.nxml.gz-142" start="7568">Based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-143" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7637" id="PMC3933411.nxml.gz-143" start="7568">Based on these calculations, the minimum sample size required was 370</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-144" type="identity">
+      <class id="required" label=""/>
+      <span end="7629" id="PMC3933411.nxml.gz-144" start="7621">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-145" type="identity">
+      <class id="thus" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-147" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-148" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-149" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="9137" id="PMC3933411.nxml.gz-149" start="9126">To evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-15" type="identity">
+      <class id="this...study" label=""/>
+      <span end="468" id="PMC3933411.nxml.gz-15" start="464">This</span>
+      <span end="474" id="PMC3933411.nxml.gz-16" start="469">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9427" id="PMC3933411.nxml.gz-150" start="9126">To evaluate nutritional knowledge we developed a questionnaire based on the recommendations of the “Pregnancy Notebook” [24] and “The Principles of the Child’s and Mother’s Diet: Guidelines for Health Providers at Community Level” [25], educational tools developed by the Ministry of Health in Romania</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-151" type="identity">
+      <class id="based_on" label=""/>
+      <span end="9197" id="PMC3933411.nxml.gz-151" start="9189">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-152" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="9217" id="PMC3933411.nxml.gz-152" start="9202">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-153" type="identity">
+      <class id="principles" label=""/>
+      <span end="9270" id="PMC3933411.nxml.gz-153" start="9260">Principles</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-154" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-156" type="identity">
+      <class id="to_determine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11098" id="PMC3933411.nxml.gz-157" start="10696">Construction validity was also found to be satisfactory (ANOVA F statistic = 39.9, p &lt; .001), and post hoc testing revealed statistically significant differences between the mean score of the questionnaire according to each category of formal education (4.9 for 1–4 years of formal education; 8.35 for 5–8 years of education; 10.8 for 9–12 years of education; and 13.7 for more than 12 years; p &lt; .001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-158" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="10738" id="PMC3933411.nxml.gz-158" start="10727">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-159" type="identity">
+      <class id="revealed" label=""/>
+      <span end="10819" id="PMC3933411.nxml.gz-159" start="10811">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-160" type="identity">
+      <class id="differences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-161" type="identity">
+      <class id="based_on" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13789" id="PMC3933411.nxml.gz-162" start="13653">We found that 48.0% of participants used folic acid, 45.3% used iron supplements and 68.0% used multivitamins during pregnancy (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-163" type="identity">
+      <class id="found" label=""/>
+      <span end="13661" id="PMC3933411.nxml.gz-163" start="13656">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-165" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15415" id="PMC3933411.nxml.gz-166" start="15189">Age, level of education, being married and low gestational age at the first prenatal check-up and total number of prenatal medical visits were positively associated with the use of folic acid, iron and multivitamin supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-167" type="identity">
+      <class id="associated" label=""/>
+      <span end="15353" id="PMC3933411.nxml.gz-167" start="15343">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15735" id="PMC3933411.nxml.gz-168" start="15543">Significant differences were noted in the use of folic acid and multivitamin supplements, but not in the use of iron supplements, depending on area of residence (rural versus urban) and parity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-169" type="identity">
+      <class id="differences" label=""/>
+      <span end="15566" id="PMC3933411.nxml.gz-169" start="15555">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="692" id="PMC3933411.nxml.gz-17" start="464">This study aimed to evaluate the relationship between nutritional knowledge and the use of folic acid, iron and multivitamin supplements during pregnancy and to assess the influence of socio-demographic factors and prenatal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-170" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15577" id="PMC3933411.nxml.gz-170" start="15572">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-171" type="identity">
+      <class id="but_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-172" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="15685" id="PMC3933411.nxml.gz-172" start="15673">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-173" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-174" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-175" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17603" id="PMC3933411.nxml.gz-175" start="17441">The same relationship was observed for women with 9–12 years of formal education regarding folic acid use (p &lt; .001), iron (p = .001) and multivitamins (p &lt; .001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-176" type="identity">
+      <class id="relationship" label=""/>
+      <span end="17462" id="PMC3933411.nxml.gz-176" start="17450">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18033" id="PMC3933411.nxml.gz-177" start="17791">When analysing separately the interaction effect between education and prenatal care, the probability of using folic acid, iron and vitamins supplements was increasing with the level of formal education and number of prenatal visits (Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-178" type="identity">
+      <class id="interaction" label=""/>
+      <span end="17832" id="PMC3933411.nxml.gz-178" start="17821">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-179" type="identity">
+      <class id="effect" label=""/>
+      <span end="17839" id="PMC3933411.nxml.gz-179" start="17833">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-18" type="identity">
+      <class id="aimed" label=""/>
+      <span end="480" id="PMC3933411.nxml.gz-18" start="475">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-180" type="identity">
+      <class id="probability" label=""/>
+      <span end="17892" id="PMC3933411.nxml.gz-180" start="17881">probability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-181" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-182" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-183" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-185" type="identity">
+      <class id="interaction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-186" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-187" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-188" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="19800" id="PMC3933411.nxml.gz-188" start="19795">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-189" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-19" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="492" id="PMC3933411.nxml.gz-19" start="481">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-190" type="identity">
+      <class id="effects" label=""/>
+      <span end="19820" id="PMC3933411.nxml.gz-190" start="19813">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-191" type="identity">
+      <class id="likely" label=""/>
+      <span end="19984" id="PMC3933411.nxml.gz-191" start="19978">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-192" type="identity">
+      <class id="however" label=""/>
+      <span end="20286" id="PMC3933411.nxml.gz-192" start="20279">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20383" id="PMC3933411.nxml.gz-193" start="20279">However these socio-demographic factors were not independent determinants of the use of iron supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-194" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-195" type="identity">
+      <class id="determinants" label=""/>
+      <span end="20352" id="PMC3933411.nxml.gz-195" start="20340">determinants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22732" id="PMC3933411.nxml.gz-196" start="22555">Women who stated that they had received dietary or breastfeeding advice had a higher probability of using folic acid or multivitamins regardless of the number of prenatal visits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-197" type="identity">
+      <class id="probability" label=""/>
+      <span end="22651" id="PMC3933411.nxml.gz-197" start="22640">probability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-198" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22850" id="PMC3933411.nxml.gz-198" start="22734">Early pregnancy registration was significantly associated with the intake of folic acid (aOR, 3.8; 95% CI, 1.2-11.9)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-199" type="identity">
+      <class id="associated" label=""/>
+      <span end="22791" id="PMC3933411.nxml.gz-199" start="22781">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-2" type="identity">
+      <class id="determinant" label=""/>
+      <span end="38" id="PMC3933411.nxml.gz-2" start="27">determinant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-20" type="identity">
+      <class id="relationship" label=""/>
+      <span end="509" id="PMC3933411.nxml.gz-20" start="497">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-200" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22979" id="PMC3933411.nxml.gz-200" start="22852">Primiparous women were more likely to use multivitamins regardless of the number of prenatal visits (aOR, 2.0; 95% CI, 1.1-3.7)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-201" type="identity">
+      <class id="likely" label=""/>
+      <span end="22886" id="PMC3933411.nxml.gz-201" start="22880">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23191" id="PMC3933411.nxml.gz-202" start="22981">Making more than four prenatal visits was also associated with folic acid, iron and multivitamin supplements intake, a positive association that persisted after adjusting for socio-demographic factors (Table 5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-203" type="identity">
+      <class id="associated" label=""/>
+      <span end="23038" id="PMC3933411.nxml.gz-203" start="23028">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-20357" type="identity">
+      <class id="important_consideration"/>
+      <span end="3282" id="PMC3933411.nxml.gz-20358" start="3269">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-20359" type="identity">
+      <class id="subject_scope"/>
+      <span end="20277" id="PMC3933411.nxml.gz-20360" start="19735">After adjusting for the total number of prenatal visits, we noted independent effects of area of residence and level of education on the use of supplements: women from urban areas and those with more than 9 years of formal education were more likely to have used folic acid (urban area: aOR, 1.5; 95% CI, 1.2-1.5; 9–12 years of education: aOR, 4.8; 95% CI, 2.3-10.0; &gt;12 years of school: aOR, 8.1; 95% CI, 3.7-18.0) and multivitamin supplements (urban area: aOR, 1.7; 95% CI, 1.0-2.7; &gt;12 years of school: aOR, 3.5; 95% CI, 1.7-7.4) (Table 5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-20361" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="31265" id="PMC3933411.nxml.gz-20362" start="31257">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-204" type="identity">
+      <class id="association" label=""/>
+      <span end="23120" id="PMC3933411.nxml.gz-204" start="23109">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23527" id="PMC3933411.nxml.gz-205" start="23193">An above average level of nutritional knowledge was significantly associated with the use of supplements, regardless of the number of prenatal consultations, age, area of residence or formal education (Table 5), but also when the interaction effect of prenatal care and formal education together was taken into consideration (Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-206" type="identity">
+      <class id="associated" label=""/>
+      <span end="23269" id="PMC3933411.nxml.gz-206" start="23259">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-207" type="identity">
+      <class id="interaction" label=""/>
+      <span end="23434" id="PMC3933411.nxml.gz-207" start="23423">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-208" type="identity">
+      <class id="effect" label=""/>
+      <span end="23441" id="PMC3933411.nxml.gz-208" start="23435">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-209" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23517" id="PMC3933411.nxml.gz-209" start="23493">taken into consideration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-21" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="631" id="PMC3933411.nxml.gz-21" start="622">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23869" id="PMC3933411.nxml.gz-210" start="23697">Nutritional knowledge was significantly associated with the intake of these supplements, regardless of the frequency of prenatal visits or socio-demographic characteristics</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-211" type="identity">
+      <class id="associated" label=""/>
+      <span end="23747" id="PMC3933411.nxml.gz-211" start="23737">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-212" type="identity">
+      <class id="to_the_best_of_our_knowledge" label=""/>
+      <span end="23899" id="PMC3933411.nxml.gz-212" start="23871">To the best of our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-213" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24042" id="PMC3933411.nxml.gz-213" start="23871">To the best of our knowledge, this is the first study to have examined the factors that influence use of vitamin and mineral supplements during pregnancy in Eastern Europe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-214" type="identity">
+      <class id="this...study" label=""/>
+      <span end="23905" id="PMC3933411.nxml.gz-214" start="23901">this</span>
+      <span end="23924" id="PMC3933411.nxml.gz-215" start="23919">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-216" type="identity">
+      <class id="first_study" label=""/>
+      <span end="23924" id="PMC3933411.nxml.gz-216" start="23913">first study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-217" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-218" type="identity">
+      <class id="examined" label=""/>
+      <span end="23941" id="PMC3933411.nxml.gz-218" start="23933">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-219" type="identity">
+      <class id="influence" label=""/>
+      <span end="23968" id="PMC3933411.nxml.gz-219" start="23959">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-22" type="identity">
+      <class id="influence" label=""/>
+      <span end="645" id="PMC3933411.nxml.gz-22" start="636">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24115" id="PMC3933411.nxml.gz-220" start="24044">The use of supplements during pregnancy varies widely between countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-221" type="identity">
+      <class id="varies" label=""/>
+      <span end="24090" id="PMC3933411.nxml.gz-221" start="24084">varies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-222" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-223" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24254" id="PMC3933411.nxml.gz-223" start="24117">These differences cannot be compared directly due to discrepancies in national guidelines and the financial barriers in some regions [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-224" type="identity">
+      <class id="differences" label=""/>
+      <span end="24134" id="PMC3933411.nxml.gz-224" start="24123">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-225" type="identity">
+      <class id="cannot_be" label=""/>
+      <span end="24144" id="PMC3933411.nxml.gz-225" start="24135">cannot be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-226" type="identity">
+      <class id="due_to" label=""/>
+      <span end="24169" id="PMC3933411.nxml.gz-226" start="24163">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-227" type="identity">
+      <class id="discrepancies" label=""/>
+      <span end="24183" id="PMC3933411.nxml.gz-227" start="24170">discrepancies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-228" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-229" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24525" id="PMC3933411.nxml.gz-229" start="24353">Routine use of iron supplements is common, as it is difficult to ensure adequate intake from food sources, even from those with relatively high iron bioavailability [29,30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-230" type="identity">
+      <class id="as" label=""/>
+      <span end="24398" id="PMC3933411.nxml.gz-230" start="24396">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-231" type="identity">
+      <class id="difficult" label=""/>
+      <span end="24414" id="PMC3933411.nxml.gz-231" start="24405">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-232" type="identity">
+      <class id="even" label=""/>
+      <span end="24464" id="PMC3933411.nxml.gz-232" start="24460">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-233" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24664" id="PMC3933411.nxml.gz-233" start="24527">The Institute of Medicine recommends a daily intake of 400 μg of folic acid and 30 mg of iron during the second and third trimesters [31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-234" type="identity">
+      <class id="recommends" label=""/>
+      <span end="24563" id="PMC3933411.nxml.gz-234" start="24553">recommends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24815" id="PMC3933411.nxml.gz-235" start="24666">Vitamin and mineral supplements are recommended for women with multiple pregnancy, those who misuse alcohol or drugs, or have an unbalanced diet [32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-236" type="identity">
+      <class id="recommended" label=""/>
+      <span end="24713" id="PMC3933411.nxml.gz-236" start="24702">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-237" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-238" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24947" id="PMC3933411.nxml.gz-238" start="24817">The World Health Organization recommends a daily intake of 60 mg iron and 400 μg folic acid for six months to prevent anaemia [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-239" type="identity">
+      <class id="recommends" label=""/>
+      <span end="24857" id="PMC3933411.nxml.gz-239" start="24847">recommends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-24" type="identity">
+      <class id="assessed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-240" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25204" id="PMC3933411.nxml.gz-240" start="24949">Romanian recommendations stipulate that women with a haemoglobin higher than 11 g/dl should take 60 mg of iron and 350 μg of folic acid from the 16thweek of pregnancy to prevent anaemia, but only iron products are reimbursed by the health insurance system</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-241" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="24973" id="PMC3933411.nxml.gz-241" start="24958">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-242" type="identity">
+      <class id="should" label=""/>
+      <span end="25040" id="PMC3933411.nxml.gz-242" start="25034">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-243" type="identity">
+      <class id="but_only" label=""/>
+      <span end="25144" id="PMC3933411.nxml.gz-243" start="25136">but only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25353" id="PMC3933411.nxml.gz-244" start="25206">To prevent neural tube defects, 400 μg of folic acid should be taken daily, starting one month before conception and throughout the first trimester</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-245" type="identity">
+      <class id="should_be" label=""/>
+      <span end="25268" id="PMC3933411.nxml.gz-245" start="25259">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-246" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25411" id="PMC3933411.nxml.gz-246" start="25355">The routine use of multivitamins is not recommended [34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-247" type="identity">
+      <class id="recommended" label=""/>
+      <span end="25406" id="PMC3933411.nxml.gz-247" start="25395">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25615" id="PMC3933411.nxml.gz-248" start="25413">We evaluated the determinants for the intake of multivitamins as previous studies, as well as the common practice in Romania suggested a high incidence of use [14,35], despite the lack of recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-249" type="identity">
+      <class id="determinants" label=""/>
+      <span end="25442" id="PMC3933411.nxml.gz-249" start="25430">determinants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-25" type="identity">
+      <class id="recommendations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-250" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="25494" id="PMC3933411.nxml.gz-250" start="25478">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-251" type="identity">
+      <class id="suggested" label=""/>
+      <span end="25547" id="PMC3933411.nxml.gz-251" start="25538">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-252" type="identity">
+      <class id="despite" label=""/>
+      <span end="25588" id="PMC3933411.nxml.gz-252" start="25581">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-253" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="25600" id="PMC3933411.nxml.gz-253" start="25593">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-254" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="25615" id="PMC3933411.nxml.gz-254" start="25601">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-255" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25731" id="PMC3933411.nxml.gz-255" start="25617">We found that 48.0% of women took folic acid at some stage during pregnancy, compared with 27.0% in the IOMC study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-256" type="identity">
+      <class id="found" label=""/>
+      <span end="25625" id="PMC3933411.nxml.gz-256" start="25620">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-257" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-258" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25862" id="PMC3933411.nxml.gz-258" start="25733">This may have arisen as a consequence of the IOMC study only examining folic acid use during the last trimester of pregnancy [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-259" type="identity">
+      <class id="may" label=""/>
+      <span end="25741" id="PMC3933411.nxml.gz-259" start="25738">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-26" type="identity">
+      <class id="roles" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-260" type="identity">
+      <class id="as" label=""/>
+      <span end="25756" id="PMC3933411.nxml.gz-260" start="25754">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-261" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="25770" id="PMC3933411.nxml.gz-261" start="25759">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-262" type="identity">
+      <class id="only" label=""/>
+      <span end="25793" id="PMC3933411.nxml.gz-262" start="25789">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26164" id="PMC3933411.nxml.gz-263" start="25864">The proportion of women in our study group taking folic acid is still low, despite its widely recognised benefits, but could be explained by the lack of reimbursement for the cost of folic acid, which must be bought over the counter at any time it is prescribed, during pregnancy or before conception</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-264" type="identity">
+      <class id="still" label=""/>
+      <span end="25933" id="PMC3933411.nxml.gz-264" start="25928">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-265" type="identity">
+      <class id="despite" label=""/>
+      <span end="25946" id="PMC3933411.nxml.gz-265" start="25939">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-266" type="identity">
+      <class id="could_be" label=""/>
+      <span end="25991" id="PMC3933411.nxml.gz-266" start="25983">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-267" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="26001" id="PMC3933411.nxml.gz-267" start="25992">explained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-268" type="identity">
+      <class id="lack_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-269" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="26016" id="PMC3933411.nxml.gz-269" start="26009">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1694" id="PMC3933411.nxml.gz-27" start="1494">Above-average nutritional knowledge was independently associated with the use of folic acid (aOR, 4.7; 95% CI, 1.6-13.8), iron (aOR, 2.6; 95% CI, 1.2-5.7) and multivitamins (aOR, 2.8; 95% CI, 1.2-6.8)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-270" type="identity">
+      <class id="must...be" label=""/>
+      <span end="26072" id="PMC3933411.nxml.gz-270" start="26065">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-271" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-272" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26358" id="PMC3933411.nxml.gz-272" start="26166">The reported adherence rates to folic acid intake in other countries vary depending on concomitant recommendations for cereal fortification and on the period analysed – pre- or peri-conception</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-273" type="identity">
+      <class id="reported" label=""/>
+      <span end="26178" id="PMC3933411.nxml.gz-273" start="26170">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-274" type="identity">
+      <class id="other" label=""/>
+      <span end="26224" id="PMC3933411.nxml.gz-274" start="26219">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-275" type="identity">
+      <class id="vary" label=""/>
+      <span end="26239" id="PMC3933411.nxml.gz-275" start="26235">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-276" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="26252" id="PMC3933411.nxml.gz-276" start="26240">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-277" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="26280" id="PMC3933411.nxml.gz-277" start="26265">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-278" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-279" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26559" id="PMC3933411.nxml.gz-279" start="26360">In a meta-analysis undertaken by Pena-Rosas et al. [32], the proportion of women taking folic acid varies between 0.9% and 49% before conception and between 0.5% and 52% in the peri-conception period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-28" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-280" type="identity">
+      <class id="varies" label=""/>
+      <span end="26465" id="PMC3933411.nxml.gz-280" start="26459">varies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26770" id="PMC3933411.nxml.gz-281" start="26561">Our results lie within these ranges, but it is difficult to make a comparison, as the variations are very wide and we recorded the use of folic acid throughout pregnancy without focusing on the first trimester</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-282" type="identity">
+      <class id="difficult" label=""/>
+      <span end="26617" id="PMC3933411.nxml.gz-282" start="26608">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-283" type="identity">
+      <class id="as" label=""/>
+      <span end="26642" id="PMC3933411.nxml.gz-283" start="26640">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-284" type="identity">
+      <class id="variations" label=""/>
+      <span end="26657" id="PMC3933411.nxml.gz-284" start="26647">variations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-285" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="26747" id="PMC3933411.nxml.gz-285" start="26731">without focusing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-286" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27047" id="PMC3933411.nxml.gz-286" start="26772">It could be argued that as routine prenatal care in Romania does not usually begin until after the first trimester is almost ended, including advice about folic acid as part of prenatal care is redundant as the neural tube has fully developed within 28 days of conception [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-287" type="identity">
+      <class id="could_be" label=""/>
+      <span end="26783" id="PMC3933411.nxml.gz-287" start="26775">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-288" type="identity">
+      <class id="argued" label=""/>
+      <span end="26790" id="PMC3933411.nxml.gz-288" start="26784">argued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-289" type="identity">
+      <class id="as" label=""/>
+      <span end="26798" id="PMC3933411.nxml.gz-289" start="26796">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-29" type="identity">
+      <class id="associated" label=""/>
+      <span end="1558" id="PMC3933411.nxml.gz-29" start="1548">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-290" type="identity">
+      <class id="does" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-291" type="identity">
+      <class id="usually" label=""/>
+      <span end="26848" id="PMC3933411.nxml.gz-291" start="26841">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-292" type="identity">
+      <class id="until" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-293" type="identity">
+      <class id="first" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-294" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27231" id="PMC3933411.nxml.gz-294" start="27049">Nonetheless, folic acid supplementation might address other forms of anaemia, and the advice might also increase the likelihood of folic acid use before and during future pregnancies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-295" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="27060" id="PMC3933411.nxml.gz-295" start="27049">Nonetheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-296" type="identity">
+      <class id="might" label=""/>
+      <span end="27094" id="PMC3933411.nxml.gz-296" start="27089">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-297" type="identity">
+      <class id="other" label=""/>
+      <span end="27108" id="PMC3933411.nxml.gz-297" start="27103">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-298" type="identity">
+      <class id="future_work" label=""/>
+      <span end="27141" id="PMC3933411.nxml.gz-298" start="27135">advice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-299" type="identity">
+      <class id="might" label=""/>
+      <span end="27147" id="PMC3933411.nxml.gz-299" start="27142">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="202" id="PMC3933411.nxml.gz-3" start="117">Pregnancy is a critical period for both woman and baby from a nutritional perspective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1880" id="PMC3933411.nxml.gz-30" start="1696">The use of folic acid was independently associated with a higher level of formal education (aOR, 5.2; 95% CI, 2.1-12.8) and an early start in prenatal care (aOR, 3.4; 95% CI, 1.0-11.1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-300" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="27176" id="PMC3933411.nxml.gz-300" start="27166">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27442" id="PMC3933411.nxml.gz-301" start="27233">Among the factors evaluated in our study, area of residence, level of education and marital status were associated with the intake of folic acid during pregnancy, independently of the number of prenatal visits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-302" type="identity">
+      <class id="associated" label=""/>
+      <span end="27347" id="PMC3933411.nxml.gz-302" start="27337">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-303" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-304" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27531" id="PMC3933411.nxml.gz-304" start="27444">This observation could be a consequence of social inequity or particular health beliefs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-305" type="identity">
+      <class id="could_be" label=""/>
+      <span end="27469" id="PMC3933411.nxml.gz-305" start="27461">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-306" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="27483" id="PMC3933411.nxml.gz-306" start="27472">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-307" type="identity">
+      <class id="or" label=""/>
+      <span end="27505" id="PMC3933411.nxml.gz-307" start="27503">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-308" type="identity">
+      <class id="beliefs" label=""/>
+      <span end="27531" id="PMC3933411.nxml.gz-308" start="27524">beliefs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-309" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27874" id="PMC3933411.nxml.gz-309" start="27533">The number of prenatal visits, registration with a physician early in pregnancy and the level of nutritional knowledge were independently associated with the use of folic acid, after adjusting for socio-demographic factors, suggesting that educational interventions could play an important role in promoting the use of folic acid supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-31" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-310" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-311" type="identity">
+      <class id="associated" label=""/>
+      <span end="27681" id="PMC3933411.nxml.gz-311" start="27671">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-312" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="27767" id="PMC3933411.nxml.gz-312" start="27757">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-313" type="identity">
+      <class id="could" label=""/>
+      <span end="27804" id="PMC3933411.nxml.gz-313" start="27799">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-314" type="identity">
+      <class id="important" label=""/>
+      <span end="27822" id="PMC3933411.nxml.gz-314" start="27813">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-315" type="identity">
+      <class id="role" label=""/>
+      <span end="27827" id="PMC3933411.nxml.gz-315" start="27823">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-316" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28047" id="PMC3933411.nxml.gz-316" start="27876">The observation that early registration with a physician in pregnancy was associated with folic acid intake could indicate the recognised importance of early prenatal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-317" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="27891" id="PMC3933411.nxml.gz-317" start="27880">observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-318" type="identity">
+      <class id="associated" label=""/>
+      <span end="27960" id="PMC3933411.nxml.gz-318" start="27950">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-319" type="identity">
+      <class id="could" label=""/>
+      <span end="27989" id="PMC3933411.nxml.gz-319" start="27984">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-32" type="identity">
+      <class id="associated" label=""/>
+      <span end="1746" id="PMC3933411.nxml.gz-32" start="1736">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-320" type="identity">
+      <class id="indicate" label=""/>
+      <span end="27998" id="PMC3933411.nxml.gz-320" start="27990">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-321" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="28013" id="PMC3933411.nxml.gz-321" start="28003">recognised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-322" type="identity">
+      <class id="importance" label=""/>
+      <span end="28024" id="PMC3933411.nxml.gz-322" start="28014">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-323" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28252" id="PMC3933411.nxml.gz-323" start="28049">Furthermore, it is perhaps unsurprising that women with higher educational achievement and also those with greater engagement with prenatal care had better nutritional knowledge and used supplements more</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-324" type="identity">
+      <class id="perhaps" label=""/>
+      <span end="28075" id="PMC3933411.nxml.gz-324" start="28068">perhaps</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-325" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="28088" id="PMC3933411.nxml.gz-325" start="28076">unsurprising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-326" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="28204" id="PMC3933411.nxml.gz-326" start="28198">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-327" type="identity">
+      <class id="importantly" label=""/>
+      <span end="28265" id="PMC3933411.nxml.gz-327" start="28254">Importantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-328" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28377" id="PMC3933411.nxml.gz-328" start="28254">Importantly, we also found that less well-educated women who engaged with prenatal care were more likely to take folic acid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-329" type="identity">
+      <class id="found" label=""/>
+      <span end="28280" id="PMC3933411.nxml.gz-329" start="28275">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2119" id="PMC3933411.nxml.gz-33" start="1882">Women with a higher education (aOR, 2.3; 95% CI, 1.1-4.9), more than 10 prenatal visits (aOR, 7.2; 95% CI, 3.4-15.0) and those who received advice on breastfeeding (aOR, 2.0; 95% CI, 1.1-3.5) were more likely to use iron during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-330" type="identity">
+      <class id="likely" label=""/>
+      <span end="28358" id="PMC3933411.nxml.gz-330" start="28352">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-331" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28554" id="PMC3933411.nxml.gz-331" start="28379">This suggests that the interventions (prenatal visits) are productive, and that the Romanian government should seek ways of encouraging less well-educated women to participate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-332" type="identity">
+      <class id="suggests" label=""/>
+      <span end="28392" id="PMC3933411.nxml.gz-332" start="28384">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-333" type="identity">
+      <class id="should" label=""/>
+      <span end="28489" id="PMC3933411.nxml.gz-333" start="28483">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-334" type="identity">
+      <class id="future_work" label=""/>
+      <span end="28514" id="PMC3933411.nxml.gz-334" start="28503">encouraging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-335" type="identity">
+      <class id="some" label=""/>
+      <span end="28560" id="PMC3933411.nxml.gz-335" start="28556">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-336" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28642" id="PMC3933411.nxml.gz-336" start="28556">Some of our findings are comparable with those of studies conducted in other countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-337" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28576" id="PMC3933411.nxml.gz-337" start="28568">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-338" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28591" id="PMC3933411.nxml.gz-338" start="28581">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-339" type="identity">
+      <class id="other" label=""/>
+      <span end="28632" id="PMC3933411.nxml.gz-339" start="28627">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-34" type="identity">
+      <class id="likely" label=""/>
+      <span end="2090" id="PMC3933411.nxml.gz-34" start="2084">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-340" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28891" id="PMC3933411.nxml.gz-340" start="28644">Low adherence with advice about supplements was associated with unwanted pregnancy, low maternal age and low economic status in the United Kingdom [36], unplanned pregnancy and lack of education regarding the role of folic acid in South Korea [37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-341" type="identity">
+      <class id="associated" label=""/>
+      <span end="28702" id="PMC3933411.nxml.gz-341" start="28692">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-342" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="28828" id="PMC3933411.nxml.gz-342" start="28821">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-343" type="identity">
+      <class id="role" label=""/>
+      <span end="28857" id="PMC3933411.nxml.gz-343" start="28853">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-344" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29172" id="PMC3933411.nxml.gz-344" start="28893">The impact of nutritional knowledge on the use of folic acid was emphasised in a study conducted in Turkey, where factors negatively associated with pre-conception supplementation were low socio-economic status, age below 30 years, low levels of education and unplanned pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-345" type="identity">
+      <class id="impact" label=""/>
+      <span end="28903" id="PMC3933411.nxml.gz-345" start="28897">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-346" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28968" id="PMC3933411.nxml.gz-346" start="28958">emphasised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-347" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-348" type="identity">
+      <class id="associated" label=""/>
+      <span end="29036" id="PMC3933411.nxml.gz-348" start="29026">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-349" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29372" id="PMC3933411.nxml.gz-349" start="29174">The same study stressed that the level of knowledge about food sources and the role of folic acid during pregnancy was influenced by socio-demographic factors, especially the level of education [38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2336" id="PMC3933411.nxml.gz-35" start="2121">Similar results were found when analysing the contributing factors for the use of multivitamins: more than 12 years of schooling (aOR, 3.4; 95% CI, 1.4-7.9) and appropriate prenatal care (aOR, 9.4; 95% CI, 4.5-19.5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-350" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="29197" id="PMC3933411.nxml.gz-350" start="29189">stressed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-351" type="identity">
+      <class id="role" label=""/>
+      <span end="29257" id="PMC3933411.nxml.gz-351" start="29253">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-352" type="identity">
+      <class id="influenced" label=""/>
+      <span end="29303" id="PMC3933411.nxml.gz-352" start="29293">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-353" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29496" id="PMC3933411.nxml.gz-353" start="29374">In our study, the level of nutritional knowledge was an independent determinant for the use of folic acid during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-354" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="29386" id="PMC3933411.nxml.gz-354" start="29377">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-355" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-356" type="identity">
+      <class id="determinant" label=""/>
+      <span end="29453" id="PMC3933411.nxml.gz-356" start="29442">determinant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-357" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29662" id="PMC3933411.nxml.gz-357" start="29498">A relatively low proportion of women in our study used iron supplements (45.3%), although these are provided free of charge to women after the 16thweek of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-358" type="identity">
+      <class id="although" label=""/>
+      <span end="29587" id="PMC3933411.nxml.gz-358" start="29579">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-359" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29772" id="PMC3933411.nxml.gz-359" start="29664">A previous study in Romania reported that supplemental iron was taken by 53.3% of women during pregancy [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-36" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2128" id="PMC3933411.nxml.gz-36" start="2121">Similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-360" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="29680" id="PMC3933411.nxml.gz-360" start="29666">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-361" type="identity">
+      <class id="reported" label=""/>
+      <span end="29700" id="PMC3933411.nxml.gz-361" start="29692">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-362" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29937" id="PMC3933411.nxml.gz-362" start="29774">A Danish study reported that adherence with an iron supplementation regime was associated with maternal age (over 20 years), primiparity and educational level [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-363" type="identity">
+      <class id="reported" label=""/>
+      <span end="29797" id="PMC3933411.nxml.gz-363" start="29789">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-364" type="identity">
+      <class id="associated" label=""/>
+      <span end="29863" id="PMC3933411.nxml.gz-364" start="29853">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-365" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30193" id="PMC3933411.nxml.gz-365" start="29939">These results are similar to ours: we found that women aged over 18 years, with parity less than two, with more than 9 years of education, from urban areas with a wanted pregnancy or who were married were significantly more likely to use iron supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-366" type="identity">
+      <class id="similar_to" label=""/>
+      <span end="29967" id="PMC3933411.nxml.gz-366" start="29957">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-367" type="identity">
+      <class id="found" label=""/>
+      <span end="29982" id="PMC3933411.nxml.gz-367" start="29977">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-368" type="identity">
+      <class id="likely" label=""/>
+      <span end="30169" id="PMC3933411.nxml.gz-368" start="30163">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-369" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30353" id="PMC3933411.nxml.gz-369" start="30195">After adjusting for socio-demographic factors, more than four prenatal visits and level of nutritional knowledge remained associated with iron supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-37" type="identity">
+      <class id="found" label=""/>
+      <span end="2147" id="PMC3933411.nxml.gz-37" start="2142">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-370" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="30240" id="PMC3933411.nxml.gz-370" start="30233">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-371" type="identity">
+      <class id="remained" label=""/>
+      <span end="30316" id="PMC3933411.nxml.gz-371" start="30308">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-372" type="identity">
+      <class id="associated" label=""/>
+      <span end="30327" id="PMC3933411.nxml.gz-372" start="30317">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-373" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30497" id="PMC3933411.nxml.gz-373" start="30355">This highlights the importance of prenatal care, both in terms of frequency and content, in improving adherence to programs to prevent anaemia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-374" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="30370" id="PMC3933411.nxml.gz-374" start="30360">highlights</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-375" type="identity">
+      <class id="importance" label=""/>
+      <span end="30385" id="PMC3933411.nxml.gz-375" start="30375">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-376" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30612" id="PMC3933411.nxml.gz-376" start="30499">Multivitamins were used by 68% of the women in our study, comparable with the 60% reported by the IOMC study [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-377" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="30555" id="PMC3933411.nxml.gz-377" start="30546">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-378" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="30567" id="PMC3933411.nxml.gz-378" start="30557">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-379" type="identity">
+      <class id="reported" label=""/>
+      <span end="30589" id="PMC3933411.nxml.gz-379" start="30581">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-38" type="identity">
+      <class id="when" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-380" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30762" id="PMC3933411.nxml.gz-380" start="30614">This is a surprisingly high proportion, especially when there is no strong recommendation for the use of multivitamins in Romania or internationally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-381" type="identity">
+      <class id="surprisingly" label=""/>
+      <span end="30636" id="PMC3933411.nxml.gz-381" start="30624">surprisingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-382" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="30703" id="PMC3933411.nxml.gz-382" start="30689">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-383" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30922" id="PMC3933411.nxml.gz-383" start="30764">Moreover, reimbursement for multivitamin supplements is not covered by insurance in Romania, suggesting that there are other factors contributing to their use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-384" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="30867" id="PMC3933411.nxml.gz-384" start="30857">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-385" type="identity">
+      <class id="other" label=""/>
+      <span end="30888" id="PMC3933411.nxml.gz-385" start="30883">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-386" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="30896" id="PMC3933411.nxml.gz-386" start="30889">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-387" type="identity">
+      <class id="some_studies" label=""/>
+      <span end="30936" id="PMC3933411.nxml.gz-387" start="30924">Some studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-388" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31241" id="PMC3933411.nxml.gz-388" start="30924">Some studies describe a positive association between the use of multivitamins during pregnancy and certain socio-demographic characteristics, such as age [15,16,18,20], education [15,17,18,36,39] and marital status [17]; but others have reported an inverse relation between education and the use of multivitamins [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-389" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="30945" id="PMC3933411.nxml.gz-389" start="30937">describe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2463" id="PMC3933411.nxml.gz-39" start="2351">Level of nutritional knowledge has a strong independent association with the use of supplements during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-390" type="identity">
+      <class id="association" label=""/>
+      <span end="30968" id="PMC3933411.nxml.gz-390" start="30957">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-391" type="identity">
+      <class id="but_others" label=""/>
+      <span end="31155" id="PMC3933411.nxml.gz-391" start="31145">but others</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-392" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="31169" id="PMC3933411.nxml.gz-392" start="31156">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-393" type="identity">
+      <class id="relation" label=""/>
+      <span end="31189" id="PMC3933411.nxml.gz-393" start="31181">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-394" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31651" id="PMC3933411.nxml.gz-394" start="31243">There is also evidence of a relationship between engagement with prenatal care and use of multivitamin supplements, the adequacy of prenatal care being assessed according to Adequacy of Prenatal Care Utilisation Index, which takes into account the month of initiation of care and the proportion of recommended visits adjusted for the gestational age at initiation of care and gestational age at delivery [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-395" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-397" type="identity">
+      <class id="relationship" label=""/>
+      <span end="31283" id="PMC3933411.nxml.gz-397" start="31271">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-398" type="identity">
+      <class id="assessed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-399" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-4" type="identity">
+      <class id="critical" label=""/>
+      <span end="140" id="PMC3933411.nxml.gz-4" start="132">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-40" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-400" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31879" id="PMC3933411.nxml.gz-400" start="31653">This index is not recorded in Romania; instead, we evaluated engagement in prenatal care according to Ministry of Health recommendations, which refer to the total number of prenatal consultations and time of initiation of care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-401" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-402" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="31679" id="PMC3933411.nxml.gz-402" start="31667">not recorded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-403" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="31789" id="PMC3933411.nxml.gz-403" start="31774">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-404" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32112" id="PMC3933411.nxml.gz-404" start="31881">The content of prenatal care, including nutritional education, is an important factor that could determine the use of supplements during pregnancy, but women may also receive advice from friends, family, the media and other sources</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-405" type="identity">
+      <class id="important" label=""/>
+      <span end="31959" id="PMC3933411.nxml.gz-405" start="31950">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-406" type="identity">
+      <class id="could" label=""/>
+      <span end="31977" id="PMC3933411.nxml.gz-406" start="31972">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-407" type="identity">
+      <class id="may" label=""/>
+      <span end="32042" id="PMC3933411.nxml.gz-407" start="32039">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-408" type="identity">
+      <class id="other" label=""/>
+      <span end="32104" id="PMC3933411.nxml.gz-408" start="32099">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-409" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32243" id="PMC3933411.nxml.gz-409" start="32114">In our study, women who scored at least “medium” in the nutritional knowledge questionnaire were more likely to use multivitamins</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-41" type="identity">
+      <class id="association" label=""/>
+      <span end="2418" id="PMC3933411.nxml.gz-41" start="2407">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-410" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="32126" id="PMC3933411.nxml.gz-410" start="32117">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-411" type="identity">
+      <class id="likely" label=""/>
+      <span end="32222" id="PMC3933411.nxml.gz-411" start="32216">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-412" type="identity">
+      <class id="thus" label=""/>
+      <span end="32249" id="PMC3933411.nxml.gz-412" start="32245">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-413" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32498" id="PMC3933411.nxml.gz-413" start="32245">Thus, even though there is no consensus on recommending the use of multivitamins during pregnancy, they are used more often by those women with a better socio-economic status, with a higher level of education and who attended more prenatal consultations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-414" type="identity">
+      <class id="even" label=""/>
+      <span end="32255" id="PMC3933411.nxml.gz-414" start="32251">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-415" type="identity">
+      <class id="though" label=""/>
+      <span end="32262" id="PMC3933411.nxml.gz-415" start="32256">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-416" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="32284" id="PMC3933411.nxml.gz-416" start="32272">no consensus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-417" type="identity">
+      <class id="future_work" label=""/>
+      <span end="32300" id="PMC3933411.nxml.gz-417" start="32288">recommending</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-418" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32634" id="PMC3933411.nxml.gz-418" start="32500">Other studies show that factors associated with multivitamin supplementation during pregnancy are schooling level [15,40] and age [28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-419" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2649" id="PMC3933411.nxml.gz-42" start="2477">Adequate nutrition during pregnancy is associated with optimal foetal growth [1,2], normal pregnancy duration [3] and a decrease in the risk of congenital abnormalities [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-420" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="32513" id="PMC3933411.nxml.gz-420" start="32500">Other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-421" type="identity">
+      <class id="show" label=""/>
+      <span end="32518" id="PMC3933411.nxml.gz-421" start="32514">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-422" type="identity">
+      <class id="associated" label=""/>
+      <span end="32542" id="PMC3933411.nxml.gz-422" start="32532">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-423" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32810" id="PMC3933411.nxml.gz-423" start="32636">The results of the Behavioural Risk Factor Surveillance System (BRFSS) also emphasize the role of income and marital status in the use of vitamin and mineral supplements [40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-424" type="identity">
+      <class id="emphasize" label=""/>
+      <span end="32721" id="PMC3933411.nxml.gz-424" start="32712">emphasize</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-425" type="identity">
+      <class id="role" label=""/>
+      <span end="32730" id="PMC3933411.nxml.gz-425" start="32726">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-426" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33103" id="PMC3933411.nxml.gz-426" start="32812">In our study, after adjusting for the number of prenatal consultations, the only socio-demographic factors that persisted on being associated with the use of multivitamins during pregnancy were: area of residence; level of education; parity and receipt of advice about diet and breastfeeding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-427" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="32824" id="PMC3933411.nxml.gz-427" start="32815">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-428" type="identity">
+      <class id="only" label=""/>
+      <span end="32892" id="PMC3933411.nxml.gz-428" start="32888">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-429" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32933" id="PMC3933411.nxml.gz-429" start="32924">persisted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-43" type="identity">
+      <class id="associated" label=""/>
+      <span end="2526" id="PMC3933411.nxml.gz-43" start="2516">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-430" type="identity">
+      <class id="associated" label=""/>
+      <span end="32953" id="PMC3933411.nxml.gz-430" start="32943">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-431" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33358" id="PMC3933411.nxml.gz-431" start="33105">This might suggest the existence of social inequities and the influence of economic factors in making health-related decisions, as in our country, women in the urban area, more educated and with less children are usually having a better financial status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-432" type="identity">
+      <class id="might" label=""/>
+      <span end="33115" id="PMC3933411.nxml.gz-432" start="33110">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-433" type="identity">
+      <class id="suggest" label=""/>
+      <span end="33123" id="PMC3933411.nxml.gz-433" start="33116">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-434" type="identity">
+      <class id="influence" label=""/>
+      <span end="33176" id="PMC3933411.nxml.gz-434" start="33167">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-435" type="identity">
+      <class id="as_in" label=""/>
+      <span end="33238" id="PMC3933411.nxml.gz-435" start="33233">as in</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-436" type="identity">
+      <class id="usually" label=""/>
+      <span end="33325" id="PMC3933411.nxml.gz-436" start="33318">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-437" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33512" id="PMC3933411.nxml.gz-437" start="33360">After adjusting for socio-demographic factors, making more than four prenatal consultations remained associated with the use of multivitamin supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-438" type="identity">
+      <class id="remained" label=""/>
+      <span end="33460" id="PMC3933411.nxml.gz-438" start="33452">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-439" type="identity">
+      <class id="associated" label=""/>
+      <span end="33471" id="PMC3933411.nxml.gz-439" start="33461">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2796" id="PMC3933411.nxml.gz-44" start="2651">A lack of vitamins and minerals can adversely influence the newborn’s weight, even if the dietary intake of proteins and energy is adequate [5,6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-440" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33671" id="PMC3933411.nxml.gz-440" start="33514">These supplements are not necessary in most pregnancies, which raises questions about women’s motivation to use them in the absence of formal recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-441" type="identity">
+      <class id="necessary" label=""/>
+      <span end="33549" id="PMC3933411.nxml.gz-441" start="33540">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-442" type="identity">
+      <class id="raises" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-443" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="33583" id="PMC3933411.nxml.gz-443" start="33577">raises</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-444" type="identity">
+      <class id="questions" label=""/>
+      <span end="33593" id="PMC3933411.nxml.gz-444" start="33584">questions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-445" type="identity">
+      <class id="absence_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-446" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="33648" id="PMC3933411.nxml.gz-446" start="33638">absence of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-447" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="33671" id="PMC3933411.nxml.gz-447" start="33656">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-448" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34047" id="PMC3933411.nxml.gz-448" start="33673">Level of nutritional knowledge was associated with the use of multivitamins regardless of the number of prenatal visits, age, area of residence and level of education, which could suggest that the decision to use them depends on other factors, such as attitudes towards pregnancy or beliefs about the importance of vitamins during pregnancy, areas that warrant further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-449" type="identity">
+      <class id="associated" label=""/>
+      <span end="33718" id="PMC3933411.nxml.gz-449" start="33708">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-45" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="2660" id="PMC3933411.nxml.gz-45" start="2653">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-450" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33762" id="PMC3933411.nxml.gz-450" start="33749">regardless of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-451" type="identity">
+      <class id="could" label=""/>
+      <span end="33852" id="PMC3933411.nxml.gz-451" start="33847">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-452" type="identity">
+      <class id="suggest" label=""/>
+      <span end="33860" id="PMC3933411.nxml.gz-452" start="33853">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-453" type="identity">
+      <class id="depends_on" label=""/>
+      <span end="33901" id="PMC3933411.nxml.gz-453" start="33891">depends on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-454" type="identity">
+      <class id="other" label=""/>
+      <span end="33907" id="PMC3933411.nxml.gz-454" start="33902">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-455" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-456" type="identity">
+      <class id="or" label=""/>
+      <span end="33955" id="PMC3933411.nxml.gz-456" start="33953">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-457" type="identity">
+      <class id="beliefs" label=""/>
+      <span end="33963" id="PMC3933411.nxml.gz-457" start="33956">beliefs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-458" type="identity">
+      <class id="importance" label=""/>
+      <span end="33984" id="PMC3933411.nxml.gz-458" start="33974">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-459" type="identity">
+      <class id="future_work" label=""/>
+      <span end="34033" id="PMC3933411.nxml.gz-459" start="34026">warrant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-46" type="identity">
+      <class id="can" label=""/>
+      <span end="2686" id="PMC3933411.nxml.gz-46" start="2683">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-460" type="identity">
+      <class id="further_study" label=""/>
+      <span end="34047" id="PMC3933411.nxml.gz-460" start="34034">further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-461" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34217" id="PMC3933411.nxml.gz-461" start="34062">This study is based on retrospectively self-reported data, which could have led to an underestimation of the use of supplements, especially folic acid [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-462" type="identity">
+      <class id="based_on" label=""/>
+      <span end="34084" id="PMC3933411.nxml.gz-462" start="34076">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-463" type="identity">
+      <class id="reported" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-464" type="identity">
+      <class id="could" label=""/>
+      <span end="34132" id="PMC3933411.nxml.gz-464" start="34127">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-465" type="identity">
+      <class id="underestimation" label=""/>
+      <span end="34163" id="PMC3933411.nxml.gz-465" start="34148">underestimation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-466" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34353" id="PMC3933411.nxml.gz-466" start="34219">We mitigated against this possible source of error by asking additional questions about the type of supplement and its commercial name</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-467" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="34239" id="PMC3933411.nxml.gz-467" start="34222">mitigated against</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-468" type="identity">
+      <class id="possible" label=""/>
+      <span end="34253" id="PMC3933411.nxml.gz-468" start="34245">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-469" type="identity">
+      <class id="error" label=""/>
+      <span end="34269" id="PMC3933411.nxml.gz-469" start="34264">error</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-47" type="identity">
+      <class id="influence" label=""/>
+      <span end="2706" id="PMC3933411.nxml.gz-47" start="2697">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-471" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34521" id="PMC3933411.nxml.gz-471" start="34355">This was the first use of a newly developed questionnaire, which we administered 2–3 days after delivery, to include women who may not have engaged with prenatal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-472" type="identity">
+      <class id="first" label=""/>
+      <span end="34373" id="PMC3933411.nxml.gz-472" start="34368">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-473" type="identity">
+      <class id="newly" label=""/>
+      <span end="34388" id="PMC3933411.nxml.gz-473" start="34383">newly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-474" type="identity">
+      <class id="may" label=""/>
+      <span end="34485" id="PMC3933411.nxml.gz-474" start="34482">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-475" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34672" id="PMC3933411.nxml.gz-475" start="34523">Having done so, however, some of our participants may not have accurately remembered their use of supplements early in pregnancy or before conception</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-476" type="identity">
+      <class id="however" label=""/>
+      <span end="34546" id="PMC3933411.nxml.gz-476" start="34539">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-477" type="identity">
+      <class id="some" label=""/>
+      <span end="34552" id="PMC3933411.nxml.gz-477" start="34548">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-478" type="identity">
+      <class id="may" label=""/>
+      <span end="34576" id="PMC3933411.nxml.gz-478" start="34573">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-479" type="identity">
+      <class id="even" label=""/>
+      <span end="34678" id="PMC3933411.nxml.gz-479" start="34674">Even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-48" type="identity">
+      <class id="even" label=""/>
+      <span end="2733" id="PMC3933411.nxml.gz-48" start="2729">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-480" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34954" id="PMC3933411.nxml.gz-480" start="34674">Even though our results highlight the importance of nutritional knowledge in the decision to use iron or folic acid, we cannot draw conclusions about overall compliance with supplement regimes, because we did not record the dose or duration of iron, folic acid or multivitamin use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-481" type="identity">
+      <class id="though" label=""/>
+      <span end="34685" id="PMC3933411.nxml.gz-481" start="34679">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-482" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="34707" id="PMC3933411.nxml.gz-482" start="34698">highlight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-483" type="identity">
+      <class id="importance" label=""/>
+      <span end="34722" id="PMC3933411.nxml.gz-483" start="34712">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-485" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="34800" id="PMC3933411.nxml.gz-485" start="34794">cannot</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-486" type="identity">
+      <class id="because" label=""/>
+      <span end="34875" id="PMC3933411.nxml.gz-486" start="34868">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-487" type="identity">
+      <class id="did_not" label=""/>
+      <span end="34886" id="PMC3933411.nxml.gz-487" start="34879">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-488" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35089" id="PMC3933411.nxml.gz-488" start="34956">Furthermore, we did not record when during the pregnancy the supplements were taken, which is of particular importance for folic acid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-489" type="identity">
+      <class id="did_not" label=""/>
+      <span end="34979" id="PMC3933411.nxml.gz-489" start="34972">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-49" type="identity">
+      <class id="if" label=""/>
+      <span end="2736" id="PMC3933411.nxml.gz-49" start="2734">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-490" type="identity">
+      <class id="when" label=""/>
+      <span end="34991" id="PMC3933411.nxml.gz-490" start="34987">when</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-491" type="identity">
+      <class id="importance" label=""/>
+      <span end="35074" id="PMC3933411.nxml.gz-491" start="35064">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-492" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35458" id="PMC3933411.nxml.gz-492" start="35091">The sample size of our study was determined based on an unknown prevalence of supplements intake (which was set by default to be 50%), but may have been too small to accommodate some subgroup analyses; we must therefore be cautious about the conclusions that can be drawn from subgroup analysis and test the hypotheses that arise from these findings in future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-493" type="identity">
+      <class id="based_on" label=""/>
+      <span end="35143" id="PMC3933411.nxml.gz-493" start="35135">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-494" type="identity">
+      <class id="unknown" label=""/>
+      <span end="35154" id="PMC3933411.nxml.gz-494" start="35147">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-495" type="identity">
+      <class id="may" label=""/>
+      <span end="35233" id="PMC3933411.nxml.gz-495" start="35230">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-496" type="identity">
+      <class id="have...been" label=""/>
+      <span end="35243" id="PMC3933411.nxml.gz-496" start="35234">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-497" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="35256" id="PMC3933411.nxml.gz-497" start="35244">too small to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-498" type="identity">
+      <class id="some" label=""/>
+      <span end="35273" id="PMC3933411.nxml.gz-498" start="35269">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-499" type="identity">
+      <class id="must...be" label=""/>
+      <span end="35300" id="PMC3933411.nxml.gz-499" start="35296">must</span>
+      <span end="35313" id="PMC3933411.nxml.gz-500" start="35311">be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="462" id="PMC3933411.nxml.gz-5" start="204">Nutritional education is considered an important tool for promoting a healthy lifestyle, but has not been studied as a determinant for maternal use of supplements during pregnancy, especially in Romania, where evidence about pregnancy and nutrition is scarce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3054" id="PMC3933411.nxml.gz-50" start="2798">The results of several meta-analyses reinforce the beneficial role of iron and folic acid supplements during pregnancy in reducing the prevalence of neural tube defects, low-birth weight babies, small for gestational age newborns and maternal anaemia [7-9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-501" type="identity">
+      <class id="therefore" label=""/>
+      <span end="35310" id="PMC3933411.nxml.gz-501" start="35301">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-502" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="35322" id="PMC3933411.nxml.gz-502" start="35314">cautious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-503" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="35344" id="PMC3933411.nxml.gz-503" start="35333">conclusions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-504" type="identity">
+      <class id="can" label=""/>
+      <span end="35353" id="PMC3933411.nxml.gz-504" start="35350">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-505" type="identity">
+      <class id="hypotheses" label=""/>
+      <span end="35409" id="PMC3933411.nxml.gz-505" start="35399">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-506" type="identity">
+      <class id="future_studies" label=""/>
+      <span end="35458" id="PMC3933411.nxml.gz-506" start="35444">future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-507" type="identity">
+      <class id="as" label=""/>
+      <span end="35462" id="PMC3933411.nxml.gz-507" start="35460">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-508" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35778" id="PMC3933411.nxml.gz-508" start="35460">As this is an observational study, we cannot conclude that the information about the roles or sources of nutrients or general recommendations about diet during pregnancy directly influence the frequency with which supplements are used, despite the fact that nutritional knowledge appears to be an important determinant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-509" type="identity">
+      <class id="this...study" label=""/>
+      <span end="35467" id="PMC3933411.nxml.gz-509" start="35463">this</span>
+      <span end="35493" id="PMC3933411.nxml.gz-510" start="35488">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-51" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2844" id="PMC3933411.nxml.gz-51" start="2835">reinforce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-511" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-512" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="35504" id="PMC3933411.nxml.gz-512" start="35498">cannot</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-513" type="identity">
+      <class id="roles" label=""/>
+      <span end="35550" id="PMC3933411.nxml.gz-513" start="35545">roles</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-514" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="35601" id="PMC3933411.nxml.gz-514" start="35586">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-515" type="identity">
+      <class id="influence" label=""/>
+      <span end="35648" id="PMC3933411.nxml.gz-515" start="35639">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-516" type="identity">
+      <class id="despite" label=""/>
+      <span end="35703" id="PMC3933411.nxml.gz-516" start="35696">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-517" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="35753" id="PMC3933411.nxml.gz-517" start="35740">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-518" type="identity">
+      <class id="important" label=""/>
+      <span end="35766" id="PMC3933411.nxml.gz-518" start="35757">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-519" type="identity">
+      <class id="determinant" label=""/>
+      <span end="35778" id="PMC3933411.nxml.gz-519" start="35767">determinant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-52" type="identity">
+      <class id="role" label=""/>
+      <span end="2864" id="PMC3933411.nxml.gz-52" start="2860">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-520" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35932" id="PMC3933411.nxml.gz-520" start="35780">Additional studies are required better to understand women’s attitudes towards using supplements and the way nutritional knowledge is delivered and used</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-521" type="identity">
+      <class id="future_work" label=""/>
+      <span end="35798" id="PMC3933411.nxml.gz-521" start="35780">Additional studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-522" type="identity">
+      <class id="required" label=""/>
+      <span end="35811" id="PMC3933411.nxml.gz-522" start="35803">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-523" type="identity">
+      <class id="better" label=""/>
+      <span end="35818" id="PMC3933411.nxml.gz-523" start="35812">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-524" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-525" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36100" id="PMC3933411.nxml.gz-525" start="35947">The level of nutritional knowledge was significantly and independently associated with iron, folic acid and multivitamin supplements use during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-526" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-527" type="identity">
+      <class id="associated" label=""/>
+      <span end="36028" id="PMC3933411.nxml.gz-527" start="36018">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-528" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36315" id="PMC3933411.nxml.gz-528" start="36102">Engagement with prenatal care appeared to increase the likelihood that less well-educated women would take supplements during pregnancy, suggesting that the prenatal nutritional advice may be a useful intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-529" type="identity">
+      <class id="appeared_to" label=""/>
+      <span end="36143" id="PMC3933411.nxml.gz-529" start="36132">appeared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-53" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3237" id="PMC3933411.nxml.gz-53" start="3056">Some cross-sectional studies show the same positive results for the use of multivitamins [10], but there is still debate as to whether these are superior to iron and folic acid [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-530" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="36167" id="PMC3933411.nxml.gz-530" start="36157">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-531" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-532" type="identity">
+      <class id="would" label=""/>
+      <span end="36203" id="PMC3933411.nxml.gz-532" start="36198">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-533" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="36249" id="PMC3933411.nxml.gz-533" start="36239">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-534" type="identity">
+      <class id="may_be" label=""/>
+      <span end="36293" id="PMC3933411.nxml.gz-534" start="36287">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-535" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36497" id="PMC3933411.nxml.gz-535" start="36317">From a public health perspective, this is crucially important, and should motivate more effective implementation of nutritional educational programmes for women of childbearing age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-536" type="identity">
+      <class id="crucially" label=""/>
+      <span end="36368" id="PMC3933411.nxml.gz-536" start="36359">crucially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-537" type="identity">
+      <class id="important" label=""/>
+      <span end="36378" id="PMC3933411.nxml.gz-537" start="36369">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-538" type="identity">
+      <class id="should" label=""/>
+      <span end="36390" id="PMC3933411.nxml.gz-538" start="36384">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-539" type="identity">
+      <class id="future_work" label=""/>
+      <span end="36399" id="PMC3933411.nxml.gz-539" start="36391">motivate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-54" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3060" id="PMC3933411.nxml.gz-54" start="3056">Some</span>
+      <span end="3084" id="PMC3933411.nxml.gz-55" start="3077">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-56" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-57" type="identity">
+      <class id="show" label=""/>
+      <span end="3089" id="PMC3933411.nxml.gz-57" start="3085">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-58" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-59" type="identity">
+      <class id="still" label=""/>
+      <span end="3169" id="PMC3933411.nxml.gz-59" start="3164">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-6" type="identity">
+      <class id="is_considered" label=""/>
+      <span end="239" id="PMC3933411.nxml.gz-6" start="226">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-60" type="identity">
+      <class id="debate" label=""/>
+      <span end="3176" id="PMC3933411.nxml.gz-60" start="3170">debate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-61" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-62" type="identity">
+      <class id="whether" label=""/>
+      <span end="3190" id="PMC3933411.nxml.gz-62" start="3183">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-63" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3439" id="PMC3933411.nxml.gz-63" start="3239">Anaemia during pregnancy is a public health problem that affects both developed and developing countries and has an impact not only on health providers, but also on the socio-economic environment [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-64" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-65" type="identity">
+      <class id="problem" label=""/>
+      <span end="3290" id="PMC3933411.nxml.gz-65" start="3283">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-66" type="identity">
+      <class id="affects" label=""/>
+      <span end="3303" id="PMC3933411.nxml.gz-66" start="3296">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-67" type="identity">
+      <class id="impact" label=""/>
+      <span end="3361" id="PMC3933411.nxml.gz-67" start="3355">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-68" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-7" type="identity">
+      <class id="important" label=""/>
+      <span end="252" id="PMC3933411.nxml.gz-7" start="243">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-70" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3619" id="PMC3933411.nxml.gz-71" start="3441">Prevention strategies for iron deficiency and maternal anaemia include nutritional education, promoting the intake of iron and folic acid supplements, and food fortification [13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-72" type="identity">
+      <class id="strategies" label=""/>
+      <span end="3462" id="PMC3933411.nxml.gz-72" start="3452">strategies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3835" id="PMC3933411.nxml.gz-73" start="3621">Daily use of iron supplements is effective when administered under supervision in clinical interventional trials, but is less so in public health programmes because of difficulty engaging with the target population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-74" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-75" type="identity">
+      <class id="because" label=""/>
+      <span end="3785" id="PMC3933411.nxml.gz-75" start="3778">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-76" type="identity">
+      <class id="difficulty" label=""/>
+      <span end="3799" id="PMC3933411.nxml.gz-76" start="3789">difficulty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-77" type="identity">
+      <class id="target" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4133" id="PMC3933411.nxml.gz-78" start="3837">Lack of engagement may be a consequence of insufficient involvement of policy makers, issues regarding distribution and costs and difficulties in training the educators, or the beliefs and cultural practices of the target population and the characteristics and side effects of supplements [11,14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-79" type="identity">
+      <class id="lack_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-8" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-80" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="3844" id="PMC3933411.nxml.gz-80" start="3837">Lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-81" type="identity">
+      <class id="may_be" label=""/>
+      <span end="3862" id="PMC3933411.nxml.gz-81" start="3856">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-82" type="identity">
+      <class id="insufficient" label=""/>
+      <span end="3892" id="PMC3933411.nxml.gz-82" start="3880">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-83" type="identity">
+      <class id="issues" label=""/>
+      <span end="3929" id="PMC3933411.nxml.gz-83" start="3923">issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-84" type="identity">
+      <class id="difficulties" label=""/>
+      <span end="3979" id="PMC3933411.nxml.gz-84" start="3967">difficulties</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-85" type="identity">
+      <class id="or" label=""/>
+      <span end="4009" id="PMC3933411.nxml.gz-85" start="4007">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-86" type="identity">
+      <class id="beliefs" label=""/>
+      <span end="4021" id="PMC3933411.nxml.gz-86" start="4014">beliefs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-87" type="identity">
+      <class id="target" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-88" type="identity">
+      <class id="effects" label=""/>
+      <span end="4110" id="PMC3933411.nxml.gz-88" start="4103">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4531" id="PMC3933411.nxml.gz-89" start="4135">In Romania, a study conducted by the Alfred Rusescu Institute of Mother’s and Child’s Care (IOMC), found that the use of iron supplements during pregnancy in Romania only reduced the incidence of anaemia at birth by 5% even when iron supplements were provided free of charge under reimbursement arrangements from 16 weeks of gestation, and treatment was supervised by primary care physicians [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-90" type="identity">
+      <class id="found" label=""/>
+      <span end="4239" id="PMC3933411.nxml.gz-90" start="4234">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-91" type="identity">
+      <class id="only" label=""/>
+      <span end="4305" id="PMC3933411.nxml.gz-91" start="4301">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-92" type="identity">
+      <class id="even" label=""/>
+      <span end="4358" id="PMC3933411.nxml.gz-92" start="4354">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-93" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="4548" id="PMC3933411.nxml.gz-93" start="4533">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4913" id="PMC3933411.nxml.gz-94" start="4533">Several studies emphasize the importance of the relationship between iron, folic acid or multivitamin intake and socio-demographic factors such as age, level of education, area of residence, marital status, parity, economical status and characteristics of prenatal care (including gestational age at the beginning of prenatal care and the number of prenatal consultations) [15-19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-95" type="identity">
+      <class id="emphasize" label=""/>
+      <span end="4558" id="PMC3933411.nxml.gz-95" start="4549">emphasize</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-96" type="identity">
+      <class id="importance" label=""/>
+      <span end="4573" id="PMC3933411.nxml.gz-96" start="4563">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-97" type="identity">
+      <class id="relationship" label=""/>
+      <span end="4593" id="PMC3933411.nxml.gz-97" start="4581">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-98" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3933411.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5220" id="PMC3933411.nxml.gz-99" start="4915">More frequent use of supplements during pregnancy was found to be associated with a higher socio-economic status, higher level of education and use of prenatal medical services in studies conducted in Finland [15], the United Kingdom [16], the United States of America [17], Denmark [18] and Tanzania [19]</span>
+    </annotation>
+  </document>
+</knowtator-project>

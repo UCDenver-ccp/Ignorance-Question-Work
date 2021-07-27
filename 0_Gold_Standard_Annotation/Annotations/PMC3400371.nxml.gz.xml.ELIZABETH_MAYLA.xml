@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3400371.nxml.gz" text-file="PMC3400371.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="143" id="PMC3400371.nxml.gz-1" start="0">Preventive Treatments of Iron Deficiency Anaemia in Pregnancy: A Review of Their Effectiveness and Implications for Health System Strengthening</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-10" type="identity">
+      <class id="evidence" label=""/>
+      <span end="674" id="PMC3400371.nxml.gz-10" start="666">Evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-100" type="identity">
+      <class id="required" label=""/>
+      <span end="7078" id="PMC3400371.nxml.gz-100" start="7070">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7211" id="PMC3400371.nxml.gz-101" start="7133">Overall, a woman requires about 2–2.8 mg of iron per day during pregnancy [17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-102" type="identity">
+      <class id="requires" label=""/>
+      <span end="7158" id="PMC3400371.nxml.gz-102" start="7150">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-103" type="identity">
+      <class id="but" label=""/>
+      <span end="7216" id="PMC3400371.nxml.gz-103" start="7213">But</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7334" id="PMC3400371.nxml.gz-104" start="7213">But she will need to consume much more to obtain this daily requirement (i.e., between 20 and 48 mg of dietary iron) [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-105" type="identity">
+      <class id="will" label=""/>
+      <span end="7225" id="PMC3400371.nxml.gz-105" start="7221">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-106" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="7230" id="PMC3400371.nxml.gz-106" start="7226">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-108" type="identity">
+      <class id="however" label=""/>
+      <span end="7343" id="PMC3400371.nxml.gz-108" start="7336">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7487" id="PMC3400371.nxml.gz-109" start="7336">However, literature has presented different views on iron requirements during pregnancy ranging from 450 to 1,150 mg with a median of 790 mg [14,19–21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="772" id="PMC3400371.nxml.gz-11" start="666">Evidence abounds on their effectiveness in reducing the prevalence of iron deficiency anaemia in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-110" type="identity">
+      <class id="different" label=""/>
+      <span end="7379" id="PMC3400371.nxml.gz-110" start="7370">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-111" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="7406" id="PMC3400371.nxml.gz-111" start="7394">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-112" type="identity">
+      <class id="since" label=""/>
+      <span end="7494" id="PMC3400371.nxml.gz-112" start="7489">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7749" id="PMC3400371.nxml.gz-113" start="7489">Since these requirements are difficult to meet through an ordinary diet, especially in developing countries where most diets do not contain adequate bioavailable iron, routine iron supplementation in pregnancy has been found to be of immense benefit [14,19–21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-114" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="7513" id="PMC3400371.nxml.gz-114" start="7501">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-115" type="identity">
+      <class id="difficult" label=""/>
+      <span end="7527" id="PMC3400371.nxml.gz-115" start="7518">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-116" type="identity">
+      <class id="has_been_found" label=""/>
+      <span end="7713" id="PMC3400371.nxml.gz-116" start="7699">has been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-117" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="7719" id="PMC3400371.nxml.gz-117" start="7708">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-118" type="identity">
+      <class id="however" label=""/>
+      <span end="7960" id="PMC3400371.nxml.gz-118" start="7953">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8138" id="PMC3400371.nxml.gz-119" start="7953">However, there is a limitation to the use of some of these biochemical indicators of iron status in certain settings and conditions; thus, necessitating caution in their interpretations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-12" type="identity">
+      <class id="however" label=""/>
+      <span end="781" id="PMC3400371.nxml.gz-12" start="774">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-120" type="identity">
+      <class id="limitation" label=""/>
+      <span end="7983" id="PMC3400371.nxml.gz-120" start="7973">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-121" type="identity">
+      <class id="some" label=""/>
+      <span end="8002" id="PMC3400371.nxml.gz-121" start="7998">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-122" type="identity">
+      <class id="thus" label=""/>
+      <span end="8090" id="PMC3400371.nxml.gz-122" start="8086">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-123" type="identity">
+      <class id="caution" label=""/>
+      <span end="8113" id="PMC3400371.nxml.gz-123" start="8106">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-124" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="8138" id="PMC3400371.nxml.gz-124" start="8123">interpretations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8355" id="PMC3400371.nxml.gz-125" start="8140">For example, serum ferritin level, being an acute-phase protein, is raised in associated underlying infections and long-term diseases; it can therefore give a false normal or high level in a state of iron deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-126" type="identity">
+      <class id="associated" label=""/>
+      <span end="8228" id="PMC3400371.nxml.gz-126" start="8218">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-127" type="identity">
+      <class id="underlying" label=""/>
+      <span end="8239" id="PMC3400371.nxml.gz-127" start="8229">underlying</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-128" type="identity">
+      <class id="can" label=""/>
+      <span end="8281" id="PMC3400371.nxml.gz-128" start="8278">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-129" type="identity">
+      <class id="therefore" label=""/>
+      <span end="8291" id="PMC3400371.nxml.gz-129" start="8282">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1094" id="PMC3400371.nxml.gz-13" start="774">However, these prospects are threatened by side effects of iron supplements, low utilization of maternal health service in developing countries, partial implementation of preventive treatments, and weak infrastructure and political commitment to implement mass fortification of local staple foods by national governments</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-130" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="8304" id="PMC3400371.nxml.gz-130" start="8299">false</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-131" type="identity">
+      <class id="whereas" label=""/>
+      <span end="8364" id="PMC3400371.nxml.gz-131" start="8357">Whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8466" id="PMC3400371.nxml.gz-132" start="8357">Whereas in pregnancy, serum ferritin levels decline even in women ingesting daily supplements of iron [22–24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-133" type="identity">
+      <class id="even" label=""/>
+      <span end="8413" id="PMC3400371.nxml.gz-133" start="8409">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8557" id="PMC3400371.nxml.gz-134" start="8468">There are different forms of preventive treatment of iron deficiency anaemia in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-135" type="identity">
+      <class id="different" label=""/>
+      <span end="8487" id="PMC3400371.nxml.gz-135" start="8478">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8927" id="PMC3400371.nxml.gz-136" start="8763">The first choice in the prophylaxis of iron deficiency anaemia for almost all women is oral iron replacement because of its effectiveness, safety, and low cost [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-137" type="identity">
+      <class id="first" label=""/>
+      <span end="8772" id="PMC3400371.nxml.gz-137" start="8767">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-138" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="8779" id="PMC3400371.nxml.gz-138" start="8773">choice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-139" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="8840" id="PMC3400371.nxml.gz-139" start="8830">almost all</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-14" type="identity">
+      <class id="prospects" label=""/>
+      <span end="798" id="PMC3400371.nxml.gz-14" start="789">prospects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-140" type="identity">
+      <class id="safety" label=""/>
+      <span end="8908" id="PMC3400371.nxml.gz-140" start="8902">safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9084" id="PMC3400371.nxml.gz-141" start="8929">Oral iron, either as iron sulphate or fumarate, is the most commonly used preventive treatment for iron deficiency and iron deficiency anaemia in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-142" type="identity">
+      <class id="either...or" label=""/>
+      <span end="8946" id="PMC3400371.nxml.gz-142" start="8940">either</span>
+      <span end="8966" id="PMC3400371.nxml.gz-143" start="8964">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-144" type="identity">
+      <class id="most_commonly" label=""/>
+      <span end="8997" id="PMC3400371.nxml.gz-144" start="8984">most commonly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-145" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9260" id="PMC3400371.nxml.gz-145" start="9086">Direct iron supplementation has been extensively used in most developing countries as an intervention to prevent iron deficiency and consequently anaemia during pregnancy [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-146" type="identity">
+      <class id="has_been" label=""/>
+      <span end="9122" id="PMC3400371.nxml.gz-146" start="9114">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-147" type="identity">
+      <class id="as" label=""/>
+      <span end="9171" id="PMC3400371.nxml.gz-147" start="9169">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-148" type="identity">
+      <class id="consequently" label=""/>
+      <span end="9231" id="PMC3400371.nxml.gz-148" start="9219">consequently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-149" type="identity">
+      <class id="thus" label=""/>
+      <span end="9266" id="PMC3400371.nxml.gz-149" start="9262">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-15" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="813" id="PMC3400371.nxml.gz-15" start="803">threatened</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9495" id="PMC3400371.nxml.gz-150" start="9262">Thus, preventive treatment with iron supplements has always been given in combination with folic acid and this has been included as part of routine antenatal care provided to pregnant women at every visit in developing countries [26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-151" type="identity">
+      <class id="has...been" label=""/>
+      <span end="9381" id="PMC3400371.nxml.gz-151" start="9373">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9678" id="PMC3400371.nxml.gz-152" start="9497">The rationale for this combination is to meet increased folic acid requirements in pregnancy brought about by the rapidly dividing cells in the fetus and elevated urinary losses [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-153" type="identity">
+      <class id="rationale" label=""/>
+      <span end="9510" id="PMC3400371.nxml.gz-153" start="9501">rationale</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-154" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="9576" id="PMC3400371.nxml.gz-154" start="9564">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9890" id="PMC3400371.nxml.gz-155" start="9680">The International Nutritional Anaemia Consultative Group had recommended a daily dose of 60 mg of iron for pregnant nonanaemic women, if supplementation for more than six months is possible before delivery [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-156" type="identity">
+      <class id="recommended" label=""/>
+      <span end="9752" id="PMC3400371.nxml.gz-156" start="9741">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-157" type="identity">
+      <class id="if" label=""/>
+      <span end="9816" id="PMC3400371.nxml.gz-157" start="9814">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-158" type="identity">
+      <class id="possible" label=""/>
+      <span end="9869" id="PMC3400371.nxml.gz-158" start="9861">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-16" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-160" type="identity">
+      <class id="further" label=""/>
+      <span end="9944" id="PMC3400371.nxml.gz-160" start="9937">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-161" type="identity">
+      <class id="suggested" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-162" type="identity">
+      <class id="if...or...or" label=""/>
+      <span end="9957" id="PMC3400371.nxml.gz-162" start="9955">if</span>
+      <span end="10032" id="PMC3400371.nxml.gz-163" start="10030">or</span>
+      <span end="10092" id="PMC3400371.nxml.gz-28546" start="10090">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-164" type="identity">
+      <class id="if...or...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-165" type="identity">
+      <class id="generally" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10259" id="PMC3400371.nxml.gz-166" start="10154">This supplement should include 400  μ g of folic acid or lower doses, if this amount is not available [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-167" type="identity">
+      <class id="should" label=""/>
+      <span end="10176" id="PMC3400371.nxml.gz-167" start="10170">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-168" type="identity">
+      <class id="if" label=""/>
+      <span end="10226" id="PMC3400371.nxml.gz-168" start="10224">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-169" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="10226" id="PMC3400371.nxml.gz-169" start="10224">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1274" id="PMC3400371.nxml.gz-17" start="1109">Sustainability of effectiveness of preventive treatments of iron deficiency anaemia in pregnancy could be achieved if the identified threats are adequately addressed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-170" type="identity">
+      <class id="not_available" label=""/>
+      <span end="10255" id="PMC3400371.nxml.gz-170" start="10242">not available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-171" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10596" id="PMC3400371.nxml.gz-171" start="10455">Food fortification with iron has thus become a promising approach for preventing iron deficiency anaemia in pregnancy in developing countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-172" type="identity">
+      <class id="thus" label=""/>
+      <span end="10492" id="PMC3400371.nxml.gz-172" start="10488">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-173" type="identity">
+      <class id="promising" label=""/>
+      <span end="10511" id="PMC3400371.nxml.gz-173" start="10502">promising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-174" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10778" id="PMC3400371.nxml.gz-174" start="10598">Iron fortification of foods might be particularly useful and cost effective in settings where the logistics of oral iron supplementation among pregnant women are highly challenging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-175" type="identity">
+      <class id="might" label=""/>
+      <span end="10631" id="PMC3400371.nxml.gz-175" start="10626">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-176" type="identity">
+      <class id="particularly" label=""/>
+      <span end="10647" id="PMC3400371.nxml.gz-176" start="10635">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-177" type="identity">
+      <class id="challenging" label=""/>
+      <span end="10778" id="PMC3400371.nxml.gz-177" start="10767">challenging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10915" id="PMC3400371.nxml.gz-178" start="10780">In addition, it is found very useful in developing countries where the rate of compliance with preventive treatment of iron is poor [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-179" type="identity">
+      <class id="found" label=""/>
+      <span end="10804" id="PMC3400371.nxml.gz-179" start="10799">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-18" type="identity">
+      <class id="could_be" label=""/>
+      <span end="1214" id="PMC3400371.nxml.gz-18" start="1206">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-180" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="10911" id="PMC3400371.nxml.gz-180" start="10907">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11210" id="PMC3400371.nxml.gz-181" start="10917">To this end, a variety of food items such as cereal flour (maize or wheat), salt, beverage, milk, sugar, noodles, rice, and fish sauce had been fortified with iron and used successfully as dietary supplements to boost iron stores, and hence improve haemoglobin levels in the population [28–31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-182" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10928" id="PMC3400371.nxml.gz-182" start="10917">To this end</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-183" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="11102" id="PMC3400371.nxml.gz-183" start="11090">successfully</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-184" type="identity">
+      <class id="as" label=""/>
+      <span end="11105" id="PMC3400371.nxml.gz-184" start="11103">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-185" type="identity">
+      <class id="hence" label=""/>
+      <span end="11157" id="PMC3400371.nxml.gz-185" start="11152">hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-186" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11600" id="PMC3400371.nxml.gz-186" start="11463">The overall impact of interventions on iron supplementation under field conditions has been limited and its effectiveness questioned [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-187" type="identity">
+      <class id="impact" label=""/>
+      <span end="11481" id="PMC3400371.nxml.gz-187" start="11475">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-188" type="identity">
+      <class id="limited" label=""/>
+      <span end="11562" id="PMC3400371.nxml.gz-188" start="11555">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-189" type="identity">
+      <class id="questioned" label=""/>
+      <span end="11595" id="PMC3400371.nxml.gz-189" start="11585">questioned</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-19" type="identity">
+      <class id="if" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11730" id="PMC3400371.nxml.gz-190" start="11602">These concerns had been attributed to inadequate infrastructure and poor compliance with preventive treatment, among others [34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-191" type="identity">
+      <class id="concerns" label=""/>
+      <span end="11616" id="PMC3400371.nxml.gz-191" start="11608">concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-192" type="identity">
+      <class id="attributed" label=""/>
+      <span end="11636" id="PMC3400371.nxml.gz-192" start="11626">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-193" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="11650" id="PMC3400371.nxml.gz-193" start="11640">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-194" type="identity">
+      <class id="poor" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11906" id="PMC3400371.nxml.gz-195" start="11732">Furthermore, the effectiveness of this intervention has been evaluated mostly in terms of improvement in haemoglobin concentration, rather than maternal or infant health [35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-196" type="identity">
+      <class id="has_been" label=""/>
+      <span end="11792" id="PMC3400371.nxml.gz-196" start="11784">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-197" type="identity">
+      <class id="mostly" label=""/>
+      <span end="11809" id="PMC3400371.nxml.gz-197" start="11803">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-198" type="identity">
+      <class id="rather" label=""/>
+      <span end="11870" id="PMC3400371.nxml.gz-198" start="11864">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12219" id="PMC3400371.nxml.gz-199" start="11908">For example, a randomized controlled trial among pregnant women in Switzerland showed that the parenteral route of iron prophylaxis of anaemia has no clinically significant benefit over oral route as there was no significant difference in maternal outcomes and serious adverse events between the two groups [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-2" type="identity">
+      <class id="implications" label=""/>
+      <span end="111" id="PMC3400371.nxml.gz-2" start="99">Implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-20" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="1226" id="PMC3400371.nxml.gz-20" start="1224">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-200" type="identity">
+      <class id="showed" label=""/>
+      <span end="11993" id="PMC3400371.nxml.gz-200" start="11987">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-201" type="identity">
+      <class id="as" label=""/>
+      <span end="12107" id="PMC3400371.nxml.gz-201" start="12105">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12467" id="PMC3400371.nxml.gz-202" start="12221">A Cochrane review of a randomized control trial conducted in Pakistan reported that daily iron treatment is better than intermittent iron supplementation in increasing haemoglobin level at delivery among pregnant women in developing countries [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-203" type="identity">
+      <class id="reported" label=""/>
+      <span end="12299" id="PMC3400371.nxml.gz-203" start="12291">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-204" type="identity">
+      <class id="better" label=""/>
+      <span end="12335" id="PMC3400371.nxml.gz-204" start="12329">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-205" type="identity">
+      <class id="findings" label=""/>
+      <span end="12477" id="PMC3400371.nxml.gz-205" start="12469">Findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-206" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12690" id="PMC3400371.nxml.gz-206" start="12469">Findings from other studies on routine daily or weekly antenatal iron or iron plus folic acid supplementation showed that it may be of benefit, especially where pregestational iron deficiency and anaemia are prevalent [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-207" type="identity">
+      <class id="other_studies" label=""/>
+      <span end="12496" id="PMC3400371.nxml.gz-207" start="12483">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-208" type="identity">
+      <class id="showed" label=""/>
+      <span end="12585" id="PMC3400371.nxml.gz-208" start="12579">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-209" type="identity">
+      <class id="may_be" label=""/>
+      <span end="12600" id="PMC3400371.nxml.gz-209" start="12594">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-21" type="identity">
+      <class id="identified" label=""/>
+      <span end="1241" id="PMC3400371.nxml.gz-21" start="1231">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12964" id="PMC3400371.nxml.gz-210" start="12692">A recently published randomized study found no difference in most pregnancy outcomes between daily and twice weekly iron supplementation regimens, though the daily regimen was found to be more effective than twice weekly regimen in preventing Hb decrement at near term [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-211" type="identity">
+      <class id="recently" label=""/>
+      <span end="12702" id="PMC3400371.nxml.gz-211" start="12694">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-212" type="identity">
+      <class id="found" label=""/>
+      <span end="12735" id="PMC3400371.nxml.gz-212" start="12730">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-213" type="identity">
+      <class id="difference" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-214" type="identity">
+      <class id="though" label=""/>
+      <span end="12845" id="PMC3400371.nxml.gz-214" start="12839">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-215" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="12879" id="PMC3400371.nxml.gz-215" start="12868">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13131" id="PMC3400371.nxml.gz-216" start="12966">The timing and dosage of oral iron are also controversial as most studies have focused on preventive treatment from midpregnancy, at or before 20 weeks gestation [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-217" type="identity">
+      <class id="controversial" label=""/>
+      <span end="13023" id="PMC3400371.nxml.gz-217" start="13010">controversial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-218" type="identity">
+      <class id="as" label=""/>
+      <span end="13026" id="PMC3400371.nxml.gz-218" start="13024">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-219" type="identity">
+      <class id="some" label=""/>
+      <span end="13137" id="PMC3400371.nxml.gz-219" start="13133">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-22" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="1249" id="PMC3400371.nxml.gz-22" start="1242">threats</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13307" id="PMC3400371.nxml.gz-220" start="13133">Some researchers, on the other hand, believe that both daily and weekly iron supplementation are relatively unsuccessful in the reduction of prevalence of anemia in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-221" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="13168" id="PMC3400371.nxml.gz-221" start="13151">on the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-222" type="identity">
+      <class id="believe" label=""/>
+      <span end="13177" id="PMC3400371.nxml.gz-222" start="13170">believe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-223" type="identity">
+      <class id="unsuccessful" label=""/>
+      <span end="13253" id="PMC3400371.nxml.gz-223" start="13241">unsuccessful</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13552" id="PMC3400371.nxml.gz-224" start="13309">They opined that sufficient attention should be paid to adolescent girls and women of reproductive age long before pregnancy and suggested intermittent low-dose iron supplements and in some cases, combined with necessary micronutrients [36,37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-225" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13320" id="PMC3400371.nxml.gz-225" start="13314">opined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-226" type="identity">
+      <class id="attention" label=""/>
+      <span end="13346" id="PMC3400371.nxml.gz-226" start="13337">attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-227" type="identity">
+      <class id="should_be" label=""/>
+      <span end="13356" id="PMC3400371.nxml.gz-227" start="13347">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-228" type="identity">
+      <class id="suggested" label=""/>
+      <span end="13447" id="PMC3400371.nxml.gz-228" start="13438">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-229" type="identity">
+      <class id="some" label=""/>
+      <span end="13498" id="PMC3400371.nxml.gz-229" start="13494">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-230" type="identity">
+      <class id="necessary" label=""/>
+      <span end="13529" id="PMC3400371.nxml.gz-230" start="13520">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13937" id="PMC3400371.nxml.gz-231" start="13554">Apart from its effectiveness, it was argued that intermittent supplementation is more physiological by avoiding mucosal absorption block and excessive pooling of intestinal iron with associated oxidative stress; furthermore, it has logistic advantages of distribution particularly in areas of limited supply and many of the gastrointestinal side effects of daily iron are avoided [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-232" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="13564" id="PMC3400371.nxml.gz-232" start="13554">Apart from</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-233" type="identity">
+      <class id="argued" label=""/>
+      <span end="13597" id="PMC3400371.nxml.gz-233" start="13591">argued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-234" type="identity">
+      <class id="associated" label=""/>
+      <span end="13747" id="PMC3400371.nxml.gz-234" start="13737">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-235" type="identity">
+      <class id="particularly" label=""/>
+      <span end="13834" id="PMC3400371.nxml.gz-235" start="13822">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-236" type="identity">
+      <class id="limited" label=""/>
+      <span end="13854" id="PMC3400371.nxml.gz-236" start="13847">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-237" type="identity">
+      <class id="effects" label=""/>
+      <span end="13907" id="PMC3400371.nxml.gz-237" start="13900">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-238" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14196" id="PMC3400371.nxml.gz-238" start="13939">Experiences on parenteral iron use are predominantly, but not exclusively, from the developed world as reports of its prophylactic use in pregnancy are scant; this may be related to concerns about adverse reactions associated with its use in parenteral form</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-239" type="identity">
+      <class id="but_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-24" type="identity">
+      <class id="variation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-240" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="14000" id="PMC3400371.nxml.gz-240" start="13993">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-241" type="identity">
+      <class id="as" label=""/>
+      <span end="14041" id="PMC3400371.nxml.gz-241" start="14039">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-242" type="identity">
+      <class id="scant" label=""/>
+      <span end="14096" id="PMC3400371.nxml.gz-242" start="14091">scant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-243" type="identity">
+      <class id="may_be" label=""/>
+      <span end="14109" id="PMC3400371.nxml.gz-243" start="14103">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-244" type="identity">
+      <class id="related" label=""/>
+      <span end="14117" id="PMC3400371.nxml.gz-244" start="14110">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-245" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-246" type="identity">
+      <class id="concerns" label=""/>
+      <span end="14129" id="PMC3400371.nxml.gz-246" start="14121">concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-247" type="identity">
+      <class id="associated" label=""/>
+      <span end="14164" id="PMC3400371.nxml.gz-247" start="14154">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-248" type="identity">
+      <class id="however" label=""/>
+      <span end="14205" id="PMC3400371.nxml.gz-248" start="14198">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-249" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14389" id="PMC3400371.nxml.gz-249" start="14198">However, intravenous iron sucrose in particular has been used in several recent studies and might be highly beneficial in refractory patients or those intolerant of oral iron formulations [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1833" id="PMC3400371.nxml.gz-25" start="1638">The initial reduction has been explained to result from increased red cell mass and demands of the fetus which exceeds iron intake with consequent reduction in iron stores of the woman's body [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-250" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="14245" id="PMC3400371.nxml.gz-250" start="14232">in particular</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-251" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="14285" id="PMC3400371.nxml.gz-251" start="14271">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-252" type="identity">
+      <class id="might" label=""/>
+      <span end="14295" id="PMC3400371.nxml.gz-252" start="14290">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-253" type="identity">
+      <class id="though" label=""/>
+      <span end="14397" id="PMC3400371.nxml.gz-253" start="14391">Though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14629" id="PMC3400371.nxml.gz-254" start="14391">Though, because of its immediate bioavailability, it may result in a more rapid rise in haemoglobin level in anaemic patients compared with oral iron; but it probably does not confer an advantage in preventing anaemia in pregnancy [25,38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-255" type="identity">
+      <class id="may" label=""/>
+      <span end="14447" id="PMC3400371.nxml.gz-255" start="14444">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-256" type="identity">
+      <class id="but" label=""/>
+      <span end="14545" id="PMC3400371.nxml.gz-256" start="14542">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-257" type="identity">
+      <class id="probably" label=""/>
+      <span end="14557" id="PMC3400371.nxml.gz-257" start="14549">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-259" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14946" id="PMC3400371.nxml.gz-259" start="14631">The WHO technical working group on the prevention and the treatment of severe anaemia has documented that parenteral iron therapy produces a rapid and complete correction of iron deficiency, including replacement of iron stores; thereby producing a more rapid erythropoietic response than oral iron replacement [39]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-26" type="identity">
+      <class id="has...been" label=""/>
+      <span end="1668" id="PMC3400371.nxml.gz-26" start="1660">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-260" type="identity">
+      <class id="severe" label=""/>
+      <span end="14708" id="PMC3400371.nxml.gz-260" start="14702">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-261" type="identity">
+      <class id="documented" label=""/>
+      <span end="14731" id="PMC3400371.nxml.gz-261" start="14721">documented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-262" type="identity">
+      <class id="however" label=""/>
+      <span end="14955" id="PMC3400371.nxml.gz-262" start="14948">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15108" id="PMC3400371.nxml.gz-263" start="14948">However, its use should be limited to a selected group of patients who are unable to tolerate oral iron and in whom oral iron therapy fails due to noncompliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-264" type="identity">
+      <class id="should_be" label=""/>
+      <span end="14974" id="PMC3400371.nxml.gz-264" start="14965">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-265" type="identity">
+      <class id="limited" label=""/>
+      <span end="14982" id="PMC3400371.nxml.gz-265" start="14975">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-266" type="identity">
+      <class id="unable_to" label=""/>
+      <span end="15032" id="PMC3400371.nxml.gz-266" start="15023">unable to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-267" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15288" id="PMC3400371.nxml.gz-267" start="15110">It is also indicated in pregnant women whose hemoglobin level is required to be restored rapidly such as those who present too close to term and those who have severe anemia [40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-268" type="identity">
+      <class id="indicated" label=""/>
+      <span end="15130" id="PMC3400371.nxml.gz-268" start="15121">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-269" type="identity">
+      <class id="required" label=""/>
+      <span end="15183" id="PMC3400371.nxml.gz-269" start="15175">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-27" type="identity">
+      <class id="explained" label=""/>
+      <span end="1678" id="PMC3400371.nxml.gz-27" start="1669">explained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-270" type="identity">
+      <class id="severe" label=""/>
+      <span end="15276" id="PMC3400371.nxml.gz-270" start="15270">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-271" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15485" id="PMC3400371.nxml.gz-271" start="15327">Food fortification with iron has also been shown to be an equally effective strategy of boosting haemoglobin level in the population, including pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-272" type="identity">
+      <class id="has...been" label=""/>
+      <span end="15359" id="PMC3400371.nxml.gz-272" start="15356">has</span>
+      <span end="15369" id="PMC3400371.nxml.gz-273" start="15365">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-274" type="identity">
+      <class id="shown" label=""/>
+      <span end="15375" id="PMC3400371.nxml.gz-274" start="15370">shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-275" type="identity">
+      <class id="strategy" label=""/>
+      <span end="15411" id="PMC3400371.nxml.gz-275" start="15403">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-276" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15656" id="PMC3400371.nxml.gz-276" start="15487">Asibey-Berko et al. in 2007 recorded 19.5% significant increase in the prevalence of anaemia among rural Ghanaian women, who were not exposed to iron-fortified salt [29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-277" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15523" id="PMC3400371.nxml.gz-277" start="15515">recorded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15916" id="PMC3400371.nxml.gz-278" start="15658">It was also shown that iron fortification of sugar (with mean intake of 4 mg/day) in nonpregnant Guatemalan women over three years resulted in a substantial increase in iron stores, with reserves still increasing by about 40 mg/year after the third year [41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-279" type="identity">
+      <class id="also_shown" label=""/>
+      <span end="15675" id="PMC3400371.nxml.gz-279" start="15665">also shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28" type="identity">
+      <class id="thus" label=""/>
+      <span end="1839" id="PMC3400371.nxml.gz-28" start="1835">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-280" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15859" id="PMC3400371.nxml.gz-280" start="15854">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16073" id="PMC3400371.nxml.gz-281" start="15918">Furthermore, two Vietnamese studies showed similar improvements in iron stores following ingestion of ironfortified fish sauce for six to 12 months [42,43]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-282" type="identity">
+      <class id="showed" label=""/>
+      <span end="15960" id="PMC3400371.nxml.gz-282" start="15954">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-283" type="identity">
+      <class id="similar" label=""/>
+      <span end="15968" id="PMC3400371.nxml.gz-283" start="15961">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-284" type="identity">
+      <class id="comparable" label=""/>
+      <span end="16085" id="PMC3400371.nxml.gz-284" start="16075">Comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-285" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16181" id="PMC3400371.nxml.gz-285" start="16075">Comparable results were documented with dietary supplements containing iron and ironfortified milk [30,31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28539" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="7251" id="PMC3400371.nxml.gz-28540" start="7242">much more</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28541" type="identity">
+      <class id="important_consideration"/>
+      <span end="7284" id="PMC3400371.nxml.gz-28542" start="7273">requirement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28543" type="identity">
+      <class id="suggested"/>
+      <span end="9954" id="PMC3400371.nxml.gz-28544" start="9945">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28547" type="identity">
+      <class id="subject_scope"/>
+      <span end="10152" id="PMC3400371.nxml.gz-28548" start="9892">An increased daily dose of 120 mg of iron is further suggested if the duration of supplementation in pregnant nonanaemic women is shorter or where the prevalence of iron deficiency in women is high or in settings where pregnant women are generally anaemic [27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28549" type="identity">
+      <class id="problem_complication"/>
+      <span end="11685" id="PMC3400371.nxml.gz-28550" start="11670">poor compliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28551" type="identity">
+      <class id="problem_complication"/>
+      <span end="19193" id="PMC3400371.nxml.gz-28552" start="19186">partial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-28553" type="identity">
+      <class id="future_work"/>
+      <span end="21275" id="PMC3400371.nxml.gz-28554" start="21259">can be developed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-286" type="identity">
+      <class id="documented" label=""/>
+      <span end="16109" id="PMC3400371.nxml.gz-286" start="16099">documented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-287" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16440" id="PMC3400371.nxml.gz-287" start="16318">Gastrointestinal distress is commonly observed in women consuming high levels of supplemental iron on an empty stomach [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-288" type="identity">
+      <class id="observed" label=""/>
+      <span end="16364" id="PMC3400371.nxml.gz-288" start="16356">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-289" type="identity">
+      <class id="thus" label=""/>
+      <span end="16446" id="PMC3400371.nxml.gz-289" start="16442">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1946" id="PMC3400371.nxml.gz-29" start="1835">Thus, the World Health Organization has defined anaemia in pregnancy as a haemoglobin value below 11 g/dL [1,3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-290" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16614" id="PMC3400371.nxml.gz-290" start="16442">Thus, occurrence of gastrointestinal symptoms is usually considered as a critical adverse effect on which a tolerable upper intake level for iron is based for an individual</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-291" type="identity">
+      <class id="usually" label=""/>
+      <span end="16498" id="PMC3400371.nxml.gz-291" start="16491">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-292" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-293" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="16509" id="PMC3400371.nxml.gz-293" start="16499">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-294" type="identity">
+      <class id="as" label=""/>
+      <span end="16512" id="PMC3400371.nxml.gz-294" start="16510">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-295" type="identity">
+      <class id="critical" label=""/>
+      <span end="16523" id="PMC3400371.nxml.gz-295" start="16515">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-296" type="identity">
+      <class id="effect" label=""/>
+      <span end="16538" id="PMC3400371.nxml.gz-296" start="16532">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-297" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16866" id="PMC3400371.nxml.gz-297" start="16616">High dose of oral iron supplements is commonly associated with gastrointestinal effects such as constipation, nausea, vomiting, and diarrhea; the frequency and severity of which vary according to the amount of elemental iron released into the stomach</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-298" type="identity">
+      <class id="associated" label=""/>
+      <span end="16673" id="PMC3400371.nxml.gz-298" start="16663">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-299" type="identity">
+      <class id="effects" label=""/>
+      <span end="16703" id="PMC3400371.nxml.gz-299" start="16696">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="396" id="PMC3400371.nxml.gz-3" start="167">We conducted a review of effectiveness of preventive treatments of iron deficiency anaemia in pregnancy in developing countries and highlighted their constraints as well as interventions required to strengthen the health services</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-30" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="1882" id="PMC3400371.nxml.gz-30" start="1875">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-300" type="identity">
+      <class id="vary" label=""/>
+      <span end="16798" id="PMC3400371.nxml.gz-300" start="16794">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-301" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="16811" id="PMC3400371.nxml.gz-301" start="16799">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-302" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17016" id="PMC3400371.nxml.gz-302" start="16868">In addition, elevation of “ free iron ” in the plasma and hence lipid peroxidation which is indicative of oxidative stress has been reported [44–46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-303" type="identity">
+      <class id="hence" label=""/>
+      <span end="16931" id="PMC3400371.nxml.gz-303" start="16926">hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-304" type="identity">
+      <class id="has...been" label=""/>
+      <span end="16999" id="PMC3400371.nxml.gz-304" start="16991">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-305" type="identity">
+      <class id="reported" label=""/>
+      <span end="17008" id="PMC3400371.nxml.gz-305" start="17000">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-306" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17248" id="PMC3400371.nxml.gz-306" start="17018">Intramuscular or intravenous iron is thought to be associated with allergic reactions and anaphylactic shock; furthermore, parenteral iron is thought to predispose to venous thrombosis and occasionally cardiac arrest and death [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-307" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="17062" id="PMC3400371.nxml.gz-307" start="17052">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-308" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="17065" id="PMC3400371.nxml.gz-308" start="17055">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-309" type="identity">
+      <class id="associated" label=""/>
+      <span end="17079" id="PMC3400371.nxml.gz-309" start="17069">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-31" type="identity">
+      <class id="as" label=""/>
+      <span end="1906" id="PMC3400371.nxml.gz-31" start="1904">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-310" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="17167" id="PMC3400371.nxml.gz-310" start="17157">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-311" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="17170" id="PMC3400371.nxml.gz-311" start="17160">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-312" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17550" id="PMC3400371.nxml.gz-312" start="17250">Parenteral iron sucrose complex is known to have several advantages because of its low-allergenic properties and consequently, an extremely low incidence of severe side effects such as anaphylactic reactions [47,48]; however, its use requires caution as it may not be completely devoid of side effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-313" type="identity">
+      <class id="is_known" label=""/>
+      <span end="17290" id="PMC3400371.nxml.gz-313" start="17282">is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-314" type="identity">
+      <class id="consequently" label=""/>
+      <span end="17375" id="PMC3400371.nxml.gz-314" start="17363">consequently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-315" type="identity">
+      <class id="severe" label=""/>
+      <span end="17413" id="PMC3400371.nxml.gz-315" start="17407">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-316" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-317" type="identity">
+      <class id="however" label=""/>
+      <span end="17474" id="PMC3400371.nxml.gz-317" start="17467">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-318" type="identity">
+      <class id="requires" label=""/>
+      <span end="17492" id="PMC3400371.nxml.gz-318" start="17484">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-319" type="identity">
+      <class id="caution" label=""/>
+      <span end="17500" id="PMC3400371.nxml.gz-319" start="17493">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2180" id="PMC3400371.nxml.gz-32" start="1948">There are two known factors which contribute to development of iron deficiency anaemia (IDA) in pregnancy; the first is the woman's iron stores at the time of conception and the second is the amount of iron absorbed during gestation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-320" type="identity">
+      <class id="as" label=""/>
+      <span end="17503" id="PMC3400371.nxml.gz-320" start="17501">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-321" type="identity">
+      <class id="may" label=""/>
+      <span end="17510" id="PMC3400371.nxml.gz-321" start="17507">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-322" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-323" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17654" id="PMC3400371.nxml.gz-323" start="17552">Other disadvantages of intravenous iron supplementation include cost and invasiveness of the procedure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-324" type="identity">
+      <class id="other" label=""/>
+      <span end="17557" id="PMC3400371.nxml.gz-324" start="17552">Other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-325" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="17571" id="PMC3400371.nxml.gz-325" start="17558">disadvantages</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-326" type="identity">
+      <class id="however" label=""/>
+      <span end="17663" id="PMC3400371.nxml.gz-326" start="17656">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-327" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17871" id="PMC3400371.nxml.gz-327" start="17656">However, it is argued that cost benefit of intravenous iron prophylaxis may be large taking into consideration the opportunity costs of erythropoiesis-stimulating agents, blood transfusions, and hospitalization [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-328" type="identity">
+      <class id="argued" label=""/>
+      <span end="17677" id="PMC3400371.nxml.gz-328" start="17671">argued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-329" type="identity">
+      <class id="may_be" label=""/>
+      <span end="17734" id="PMC3400371.nxml.gz-329" start="17728">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-33" type="identity">
+      <class id="known" label=""/>
+      <span end="1967" id="PMC3400371.nxml.gz-33" start="1962">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-330" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="17766" id="PMC3400371.nxml.gz-330" start="17753">consideration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-331" type="identity">
+      <class id="opportunity" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-332" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18191" id="PMC3400371.nxml.gz-332" start="17948">It is well established that antenatal care provides pregnant women with opportunities to receive cost-effective interventions which are beneficial to mother and child; these interventions include preventive treatments of iron deficiency anemia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-333" type="identity">
+      <class id="well_established" label=""/>
+      <span end="17970" id="PMC3400371.nxml.gz-333" start="17954">well established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-334" type="identity">
+      <class id="opportunities" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-335" type="identity">
+      <class id="however" label=""/>
+      <span end="18200" id="PMC3400371.nxml.gz-335" start="18193">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-336" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18294" id="PMC3400371.nxml.gz-336" start="18193">However, the potentials of antenatal service have not been maximally utilized in developing countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-337" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="18216" id="PMC3400371.nxml.gz-337" start="18206">potentials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-338" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-34" type="identity">
+      <class id="factors" label=""/>
+      <span end="1975" id="PMC3400371.nxml.gz-34" start="1968">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-340" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18448" id="PMC3400371.nxml.gz-340" start="18296">This is because these settings are characterized by poor maternal health service indicators such as nonutilization of service or delayed antenatal visit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-341" type="identity">
+      <class id="because" label=""/>
+      <span end="18311" id="PMC3400371.nxml.gz-341" start="18304">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-342" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="18352" id="PMC3400371.nxml.gz-342" start="18348">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-343" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18701" id="PMC3400371.nxml.gz-343" start="18450">For example, researchers have reported a common occurrence of unbooked pregnancies [49,50] and a wide range (60% to 90%) of antenatal care utilization rates (i.e., antenatal care clinic attendance of at least once during most recent pregnancy) [51–53]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-344" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="18488" id="PMC3400371.nxml.gz-344" start="18475">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-345" type="identity">
+      <class id="wide_range" label=""/>
+      <span end="18557" id="PMC3400371.nxml.gz-345" start="18547">wide range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-346" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19251" id="PMC3400371.nxml.gz-346" start="18934">The success of routine iron and folate supplementation, especially in areas with a high prevalence of anemia, recommended as a component of antenatal care package for all pregnant women by the World Health Organization is threatened by the practice of partial implementation of preventive treatments of health workers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-347" type="identity">
+      <class id="recommended" label=""/>
+      <span end="19055" id="PMC3400371.nxml.gz-347" start="19044">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-348" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="19166" id="PMC3400371.nxml.gz-348" start="19156">threatened</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-349" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-35" type="identity">
+      <class id="contribute" label=""/>
+      <span end="1992" id="PMC3400371.nxml.gz-35" start="1982">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-350" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19357" id="PMC3400371.nxml.gz-350" start="19253">Researchers have persistently reported noncompliance with this recommendation at a given antenatal visit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-351" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="19282" id="PMC3400371.nxml.gz-351" start="19270">persistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-352" type="identity">
+      <class id="reported" label=""/>
+      <span end="19291" id="PMC3400371.nxml.gz-352" start="19283">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-353" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="19305" id="PMC3400371.nxml.gz-353" start="19292">noncompliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-354" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="19330" id="PMC3400371.nxml.gz-354" start="19316">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-355" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19509" id="PMC3400371.nxml.gz-355" start="19359">Van Eijk et al. in 2006 reported that 53% and 44% of pregnant women received iron and folate supplementation, respectively, during last pregnancy [54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-356" type="identity">
+      <class id="reported" label=""/>
+      <span end="19391" id="PMC3400371.nxml.gz-356" start="19383">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-357" type="identity">
+      <class id="other_studies" label=""/>
+      <span end="19524" id="PMC3400371.nxml.gz-357" start="19511">Other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-358" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19569" id="PMC3400371.nxml.gz-358" start="19511">Other studies reported 36–54% iron supplementation [51,55]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-359" type="identity">
+      <class id="reported" label=""/>
+      <span end="19533" id="PMC3400371.nxml.gz-359" start="19525">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2440" id="PMC3400371.nxml.gz-36" start="2182">The fact that anaemia frequently does occur in pregnancy among women in developing countries is an indication that preexisting iron stores are often inadequate and physiological adaptations to pregnancy are insufficient to meet the increased requirements [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-360" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20135" id="PMC3400371.nxml.gz-360" start="19624">The efforts of World Food Programme (WFP) in overcoming micronutrient deficiencies in nutritionally-vulnerable groups and low-income food-deficit countries continue to be thwarted by challenges such as technical and managerial capacity constraints, the need for systematic compliance with procurement specifications and quality control, clearer policies on micronutrient content labeling, and the need for cash resources to support many aspects associated with local processing and fortification activities [57]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-361" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="19803" id="PMC3400371.nxml.gz-361" start="19795">thwarted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-362" type="identity">
+      <class id="challenges" label=""/>
+      <span end="19817" id="PMC3400371.nxml.gz-362" start="19807">challenges</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-363" type="identity">
+      <class id="the_need" label=""/>
+      <span end="19881" id="PMC3400371.nxml.gz-363" start="19873">the need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-364" type="identity">
+      <class id="the_need" label=""/>
+      <span end="20025" id="PMC3400371.nxml.gz-364" start="20017">the need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-365" type="identity">
+      <class id="support" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-366" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-367" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20342" id="PMC3400371.nxml.gz-367" start="20159">The World Health Organization has recommended that weekly iron and folic acid supplementation should be considered as a strategy for prevention of iron deficiency in population groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-368" type="identity">
+      <class id="recommended" label=""/>
+      <span end="20204" id="PMC3400371.nxml.gz-368" start="20193">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-369" type="identity">
+      <class id="should_be" label=""/>
+      <span end="20262" id="PMC3400371.nxml.gz-369" start="20253">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-37" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2291" id="PMC3400371.nxml.gz-37" start="2281">indication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-370" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-371" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="20273" id="PMC3400371.nxml.gz-371" start="20263">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-372" type="identity">
+      <class id="as" label=""/>
+      <span end="20276" id="PMC3400371.nxml.gz-372" start="20274">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-373" type="identity">
+      <class id="strategy" label=""/>
+      <span end="20287" id="PMC3400371.nxml.gz-373" start="20279">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-374" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20448" id="PMC3400371.nxml.gz-374" start="20344">This is particularly so where the prevalence of anemia is above 20% among women of reproductive age [58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-375" type="identity">
+      <class id="particularly" label=""/>
+      <span end="20364" id="PMC3400371.nxml.gz-375" start="20352">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-376" type="identity">
+      <class id="since" label=""/>
+      <span end="20455" id="PMC3400371.nxml.gz-376" start="20450">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-377" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20641" id="PMC3400371.nxml.gz-377" start="20450">Since iron tablets induce a high concentration of free radicals in the intestinal milieu, which may damage the intestinal epithelium, the minimal essential iron dose is to be recommended [59]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-378" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-379" type="identity">
+      <class id="may" label=""/>
+      <span end="20549" id="PMC3400371.nxml.gz-379" start="20546">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-38" type="identity">
+      <class id="often" label=""/>
+      <span end="2330" id="PMC3400371.nxml.gz-38" start="2325">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-380" type="identity">
+      <class id="essential" label=""/>
+      <span end="20605" id="PMC3400371.nxml.gz-380" start="20596">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-381" type="identity">
+      <class id="recommended" label=""/>
+      <span end="20636" id="PMC3400371.nxml.gz-381" start="20625">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-382" type="identity">
+      <class id="therefore" label=""/>
+      <span end="20652" id="PMC3400371.nxml.gz-382" start="20643">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-383" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20894" id="PMC3400371.nxml.gz-383" start="20643">Therefore, there is a need to establish effective and safe doses of supplemental iron with folic acid either as daily or weekly supplementation; this should take into consideration nutritional and haematological status of women in developing countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-384" type="identity">
+      <class id="need" label=""/>
+      <span end="20669" id="PMC3400371.nxml.gz-384" start="20665">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-385" type="identity">
+      <class id="safe" label=""/>
+      <span end="20701" id="PMC3400371.nxml.gz-385" start="20697">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-386" type="identity">
+      <class id="either...or" label=""/>
+      <span end="20751" id="PMC3400371.nxml.gz-386" start="20745">either</span>
+      <span end="20763" id="PMC3400371.nxml.gz-387" start="20761">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-388" type="identity">
+      <class id="should" label=""/>
+      <span end="20799" id="PMC3400371.nxml.gz-388" start="20793">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-389" type="identity">
+      <class id="consideration" label=""/>
+      <span end="20823" id="PMC3400371.nxml.gz-389" start="20810">consideration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-39" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2341" id="PMC3400371.nxml.gz-39" start="2331">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-390" type="identity">
+      <class id="though" label=""/>
+      <span end="20902" id="PMC3400371.nxml.gz-390" start="20896">Though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-391" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21155" id="PMC3400371.nxml.gz-391" start="20896">Though compliance with weekly dosage may be better than daily regimen because of reduced side effects, it is desirable to conduct further field randomized controlled trials in order to establish the efficacy of weekly supplementation compared to daily regimen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-392" type="identity">
+      <class id="may_be" label=""/>
+      <span end="20939" id="PMC3400371.nxml.gz-392" start="20933">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-393" type="identity">
+      <class id="better" label=""/>
+      <span end="20946" id="PMC3400371.nxml.gz-393" start="20940">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-394" type="identity">
+      <class id="because" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-395" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-396" type="identity">
+      <class id="future_work" label=""/>
+      <span end="21033" id="PMC3400371.nxml.gz-396" start="21026">further</span>
+      <span end="21068" id="PMC3400371.nxml.gz-397" start="21062">trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-398" type="identity">
+      <class id="in_order_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-399" type="identity">
+      <class id="alternatively" label=""/>
+      <span end="21170" id="PMC3400371.nxml.gz-399" start="21157">Alternatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-4" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="179" id="PMC3400371.nxml.gz-4" start="170">conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-40" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2401" id="PMC3400371.nxml.gz-40" start="2389">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-400" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21348" id="PMC3400371.nxml.gz-400" start="21157">Alternatively, an equally effective, safe, and affordable iron compound with little or no side effect can be developed for use especially in public health antenatal supplementation programmes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-401" type="identity">
+      <class id="safe" label=""/>
+      <span end="21198" id="PMC3400371.nxml.gz-401" start="21194">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-402" type="identity">
+      <class id="little_or_no" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-403" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-404" type="identity">
+      <class id="public_health" label=""/>
+      <span end="21311" id="PMC3400371.nxml.gz-404" start="21298">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-405" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21586" id="PMC3400371.nxml.gz-405" start="21350">To this end, we recommend a cue to be taken from new approaches to iron fortification technology development whereby iron-mediated undesirable taste and appearance are prevented while its stability and bioavailability are preserved [60]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-406" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21361" id="PMC3400371.nxml.gz-406" start="21350">To this end</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-407" type="identity">
+      <class id="recommend" label=""/>
+      <span end="21375" id="PMC3400371.nxml.gz-407" start="21366">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-408" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21381" id="PMC3400371.nxml.gz-408" start="21378">cue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-409" type="identity">
+      <class id="new" label=""/>
+      <span end="21402" id="PMC3400371.nxml.gz-409" start="21399">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-41" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2436" id="PMC3400371.nxml.gz-41" start="2424">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-410" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-411" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21803" id="PMC3400371.nxml.gz-411" start="21588">While this approach is being pursued, we recommend that appropriate measures be taken to strengthen the existing health systems in dealing with gastro-intestinal and life-threatening side effects of iron supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-412" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-413" type="identity">
+      <class id="recommend" label=""/>
+      <span end="21638" id="PMC3400371.nxml.gz-413" start="21629">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-414" type="identity">
+      <class id="thus" label=""/>
+      <span end="21809" id="PMC3400371.nxml.gz-414" start="21805">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-415" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21964" id="PMC3400371.nxml.gz-415" start="21805">Thus, clinical skills of local health staff could be improved through targeted trainings such as the WHO training on Life Saving Skills [61] for health workers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-416" type="identity">
+      <class id="could_be" label=""/>
+      <span end="21857" id="PMC3400371.nxml.gz-416" start="21849">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-417" type="identity">
+      <class id="though" label=""/>
+      <span end="21972" id="PMC3400371.nxml.gz-417" start="21966">Though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-418" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22203" id="PMC3400371.nxml.gz-418" start="21966">Though the training lays emphasis on core midwifery skills, it could be expanded to include cardiopulmonary resuscitation of mothers; furthermore, local health staff should be provided with appropriate state-of-art equipment to work with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-419" type="identity">
+      <class id="emphasis" label=""/>
+      <span end="21999" id="PMC3400371.nxml.gz-419" start="21991">emphasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-42" type="identity">
+      <class id="hence" label=""/>
+      <span end="2447" id="PMC3400371.nxml.gz-42" start="2442">Hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-420" type="identity">
+      <class id="could_be" label=""/>
+      <span end="22037" id="PMC3400371.nxml.gz-420" start="22029">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-421" type="identity">
+      <class id="expanded" label=""/>
+      <span end="22046" id="PMC3400371.nxml.gz-421" start="22038">expanded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-422" type="identity">
+      <class id="should_be" label=""/>
+      <span end="22141" id="PMC3400371.nxml.gz-422" start="22132">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-423" type="identity">
+      <class id="although" label=""/>
+      <span end="22213" id="PMC3400371.nxml.gz-423" start="22205">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-424" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22533" id="PMC3400371.nxml.gz-424" start="22205">Although, laboratories at the health facilities in developing countries usually lack the capacity to conduct quality blood test, they could be strengthened to provide reliable estimations of red blood cell indices such as haemoglobin, haematocrit, mean cell volume, mean cell haemoglobin, and mean cell haemoglobin concentration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-425" type="identity">
+      <class id="usually" label=""/>
+      <span end="22284" id="PMC3400371.nxml.gz-425" start="22277">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-426" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="22289" id="PMC3400371.nxml.gz-426" start="22285">lack</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-427" type="identity">
+      <class id="could_be" label=""/>
+      <span end="22347" id="PMC3400371.nxml.gz-427" start="22339">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-428" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22642" id="PMC3400371.nxml.gz-428" start="22535">Where possible, estimation of serum ferritin level is desirable to adjust the dose of iron supplements [62]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-429" type="identity">
+      <class id="possible" label=""/>
+      <span end="22549" id="PMC3400371.nxml.gz-429" start="22541">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2616" id="PMC3400371.nxml.gz-43" start="2442">Hence, iron supplementation in pregnancy has become a standard and routine practice as a preventive treatment for iron deficiency anaemia in pregnancy in developing countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-430" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="22598" id="PMC3400371.nxml.gz-430" start="22589">desirable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-431" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22902" id="PMC3400371.nxml.gz-431" start="22644">With respect to partial implementation of preventive treatment, local health staff should be encouraged on adherence to the guidelines on antenatal care package at any given antenatal visit so that partial implementation of preventive treatments is minimized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-432" type="identity">
+      <class id="should_be" label=""/>
+      <span end="22736" id="PMC3400371.nxml.gz-432" start="22727">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-433" type="identity">
+      <class id="encouraged" label=""/>
+      <span end="22747" id="PMC3400371.nxml.gz-433" start="22737">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-434" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23174" id="PMC3400371.nxml.gz-434" start="22904">Mass fortification programme of common local staple foods with iron and folic acid is a long-term goal, which national governments in developing countries should consider as a strategy aimed at reducing the prevalence of iron deficiency anaemia in the general population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-435" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-436" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="23006" id="PMC3400371.nxml.gz-436" start="23002">goal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-437" type="identity">
+      <class id="should" label=""/>
+      <span end="23065" id="PMC3400371.nxml.gz-437" start="23059">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-438" type="identity">
+      <class id="consider" label=""/>
+      <span end="23074" id="PMC3400371.nxml.gz-438" start="23066">consider</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-439" type="identity">
+      <class id="as" label=""/>
+      <span end="23077" id="PMC3400371.nxml.gz-439" start="23075">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-44" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-440" type="identity">
+      <class id="strategy" label=""/>
+      <span end="23088" id="PMC3400371.nxml.gz-440" start="23080">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-441" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23422" id="PMC3400371.nxml.gz-441" start="23176">Since iron deficiency anaemia in pregnancy is determined by preexisting body iron stores, among other factors, we recommend that the mass fortification programme should be located and implemented within the context of reproductive health services</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-442" type="identity">
+      <class id="since" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-443" type="identity">
+      <class id="other" label=""/>
+      <span end="23277" id="PMC3400371.nxml.gz-443" start="23272">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-444" type="identity">
+      <class id="factors" label=""/>
+      <span end="23285" id="PMC3400371.nxml.gz-444" start="23278">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-445" type="identity">
+      <class id="recommend" label=""/>
+      <span end="23299" id="PMC3400371.nxml.gz-445" start="23290">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-446" type="identity">
+      <class id="should_be" label=""/>
+      <span end="23347" id="PMC3400371.nxml.gz-446" start="23338">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-447" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23536" id="PMC3400371.nxml.gz-447" start="23440">Iron deficiency remains the most important cause of anaemia in pregnancy in developing countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-448" type="identity">
+      <class id="remains" label=""/>
+      <span end="23463" id="PMC3400371.nxml.gz-448" start="23456">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-449" type="identity">
+      <class id="important" label=""/>
+      <span end="23482" id="PMC3400371.nxml.gz-449" start="23473">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-45" type="identity">
+      <class id="as" label=""/>
+      <span end="2528" id="PMC3400371.nxml.gz-45" start="2526">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-450" type="identity">
+      <class id="hence" label=""/>
+      <span end="23543" id="PMC3400371.nxml.gz-450" start="23538">Hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-451" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23659" id="PMC3400371.nxml.gz-451" start="23538">Hence, its contribution to increased risks of low birth weight, prematurity, and maternal morbidity cannot be underscored</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-452" type="identity">
+      <class id="contribution" label=""/>
+      <span end="23561" id="PMC3400371.nxml.gz-452" start="23549">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-453" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="23659" id="PMC3400371.nxml.gz-453" start="23638">cannot be underscored</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-454" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23818" id="PMC3400371.nxml.gz-454" start="23661">Prophylaxis iron supplement and food fortification with iron have the prospects of improving maternal and child health, except for the identified constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-455" type="identity">
+      <class id="prospects" label=""/>
+      <span end="23740" id="PMC3400371.nxml.gz-455" start="23731">prospects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-456" type="identity">
+      <class id="identified" label=""/>
+      <span end="23806" id="PMC3400371.nxml.gz-456" start="23796">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-457" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="23818" id="PMC3400371.nxml.gz-457" start="23807">constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2837" id="PMC3400371.nxml.gz-46" start="2618">In view of the foregoing, a review of effectiveness of preventive treatments of iron deficiency anaemia in pregnancy was conducted; furthermore, constraints were highlighted and suggestions for improvement were provided</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-47" type="identity">
+      <class id="view" label=""/>
+      <span end="2625" id="PMC3400371.nxml.gz-47" start="2621">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-48" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="2774" id="PMC3400371.nxml.gz-48" start="2763">constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-49" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2791" id="PMC3400371.nxml.gz-49" start="2780">highlighted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-5" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="310" id="PMC3400371.nxml.gz-5" start="299">highlighted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-50" type="identity">
+      <class id="suggestions" label=""/>
+      <span end="2807" id="PMC3400371.nxml.gz-50" start="2796">suggestions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3016" id="PMC3400371.nxml.gz-51" start="2851">We conducted a review of literature on evidence-based preventive treatments of iron deficiency anaemia in pregnancy with particular reference to developing countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-52" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="2863" id="PMC3400371.nxml.gz-52" start="2854">conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-53" type="identity">
+      <class id="evidence-based" label=""/>
+      <span end="2904" id="PMC3400371.nxml.gz-53" start="2890">evidence-based</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-54" type="identity">
+      <class id="this_paper" label=""/>
+      <span end="3734" id="PMC3400371.nxml.gz-54" start="3724">This paper</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4487" id="PMC3400371.nxml.gz-55" start="3724">This paper was limited to the six randomised and quasi-randomised trials (listed inTable 1) on preventive treatments of iron deficiency anaemia in pregnancy, which met at least one of the following inclusion criteria: (i) comparison between daily routine oral supplementation with iron or ironfolic acid and no supplementation/placebo; (ii) comparison between daily routine oral supplementation with iron or ironfolic acid and routine-intermittent (weekly and twice weekly) regimens; (iii) comparison between intermittent oral iron or ironfolic acid supplementation and no supplementation/placebo; (iv) comparison between intravenous route versus oral route of iron supplementation; (v) comparison between food fortification with iron and no fortification/placebo</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-56" type="identity">
+      <class id="limited" label=""/>
+      <span end="3746" id="PMC3400371.nxml.gz-56" start="3739">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-57" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4748" id="PMC3400371.nxml.gz-57" start="4593">Worldwide, anemia affects over two billion people and the World Health Organization (WHO) has estimated that half of these are due to iron deficiency [5,6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-58" type="identity">
+      <class id="estimated" label=""/>
+      <span end="4696" id="PMC3400371.nxml.gz-58" start="4687">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-59" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4726" id="PMC3400371.nxml.gz-59" start="4720">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-6" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="328" id="PMC3400371.nxml.gz-6" start="317">constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-60" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4726" id="PMC3400371.nxml.gz-60" start="4720">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-61" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4933" id="PMC3400371.nxml.gz-61" start="4750">Iron deficiency is not only the most prevalent but also the most neglected nutrient deficiency in the world, particularly among pregnant women and children in developing countries [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-62" type="identity">
+      <class id="not_only...but_also" label=""/>
+      <span end="4777" id="PMC3400371.nxml.gz-62" start="4769">not only</span>
+      <span end="4805" id="PMC3400371.nxml.gz-63" start="4797">but also</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-64" type="identity">
+      <class id="particularly" label=""/>
+      <span end="4871" id="PMC3400371.nxml.gz-64" start="4859">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5058" id="PMC3400371.nxml.gz-65" start="4935">Presently, over 40 million pregnant women suffer from iron deficiency (ID) and its consequences in developing countries [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-66" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4983" id="PMC3400371.nxml.gz-66" start="4977">suffer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-67" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="5030" id="PMC3400371.nxml.gz-67" start="5018">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5210" id="PMC3400371.nxml.gz-68" start="5130">Iron deficiency anaemia accounts for 75–95% of cases of anaemia in pregnancy [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-69" type="identity">
+      <class id="accounts_for" label=""/>
+      <span end="5166" id="PMC3400371.nxml.gz-69" start="5154">accounts for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-7" type="identity">
+      <class id="required" label=""/>
+      <span end="362" id="PMC3400371.nxml.gz-7" start="354">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5366" id="PMC3400371.nxml.gz-70" start="5212">Iron-deficiency anaemia, the late manifestation of chronic iron deficiency, is thought to be the most common nutrient deficiency among pregnant women [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-71" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="5298" id="PMC3400371.nxml.gz-71" start="5288">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-72" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="5301" id="PMC3400371.nxml.gz-72" start="5291">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5616" id="PMC3400371.nxml.gz-73" start="5368">Studies conducted on pregnant women in Zimbabwe, China, India, and Mexico from 1996 to 2008 indicated that between 43% and 73% of the women were iron deficient (usually diagnosed as a low-ferritin concentration); out of these, 7% to 33% had IDA [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-74" type="identity">
+      <class id="indicated" label=""/>
+      <span end="5469" id="PMC3400371.nxml.gz-74" start="5460">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-75" type="identity">
+      <class id="usually" label=""/>
+      <span end="5536" id="PMC3400371.nxml.gz-75" start="5529">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5746" id="PMC3400371.nxml.gz-76" start="5618">Among pregnant women, IDA has been associated with increased risks of low birth weight, prematurity, and maternal morbidity [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-77" type="identity">
+      <class id="has_been" label=""/>
+      <span end="5652" id="PMC3400371.nxml.gz-77" start="5644">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-78" type="identity">
+      <class id="associated" label=""/>
+      <span end="5663" id="PMC3400371.nxml.gz-78" start="5653">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5897" id="PMC3400371.nxml.gz-79" start="5748">UNICEF has reported deaths of an estimated 50,000 young women per year globally in pregnancy and childbirth due to severe iron deficiency anemia [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-8" type="identity">
+      <class id="evidence-based" label=""/>
+      <span end="524" id="PMC3400371.nxml.gz-8" start="510">Evidence-based</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-80" type="identity">
+      <class id="reported" label=""/>
+      <span end="5767" id="PMC3400371.nxml.gz-80" start="5759">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-81" type="identity">
+      <class id="estimated" label=""/>
+      <span end="5790" id="PMC3400371.nxml.gz-81" start="5781">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-82" type="identity">
+      <class id="due...to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-83" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="5862" id="PMC3400371.nxml.gz-83" start="5856">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-84" type="identity">
+      <class id="severe" label=""/>
+      <span end="5869" id="PMC3400371.nxml.gz-84" start="5863">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6026" id="PMC3400371.nxml.gz-85" start="5899">The high frequency of iron deficiency anaemia in the developing countries has substantial health and economic cost implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-86" type="identity">
+      <class id="implications" label=""/>
+      <span end="6026" id="PMC3400371.nxml.gz-86" start="6014">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6218" id="PMC3400371.nxml.gz-87" start="6028">An analysis of 10 developing countries reported $0.32 per head or 0.57% of gross domestic product as a median value of physical productivity loss per year resulting from iron deficiency [13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-88" type="identity">
+      <class id="reported" label=""/>
+      <span end="6075" id="PMC3400371.nxml.gz-88" start="6067">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6483" id="PMC3400371.nxml.gz-89" start="6307">The high physiological requirement for iron in pregnancy is difficult to meet with most diets; this is so especially in developing countries where food requirement is a problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="664" id="PMC3400371.nxml.gz-9" start="510">Evidence-based preventive treatment options for iron deficiency anaemia in pregnancy include prophylaxis iron supplements and food fortification with iron</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-90" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="6341" id="PMC3400371.nxml.gz-90" start="6330">requirement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-91" type="identity">
+      <class id="difficult" label=""/>
+      <span end="6376" id="PMC3400371.nxml.gz-91" start="6367">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-92" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-93" type="identity">
+      <class id="problem" label=""/>
+      <span end="6483" id="PMC3400371.nxml.gz-93" start="6476">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6541" id="PMC3400371.nxml.gz-94" start="6485">During pregnancy, iron requirements are not uniform [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-95" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="6536" id="PMC3400371.nxml.gz-95" start="6525">not uniform</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7014" id="PMC3400371.nxml.gz-96" start="6892">Fetal demands for iron are maximal during the third trimester and these are estimated at about 270 mg in a 3 kg fetus [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-97" type="identity">
+      <class id="estimated" label=""/>
+      <span end="6977" id="PMC3400371.nxml.gz-97" start="6968">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-98" type="identity">
+      <class id="therefore" label=""/>
+      <span end="7025" id="PMC3400371.nxml.gz-98" start="7016">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3400371.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7131" id="PMC3400371.nxml.gz-99" start="7016">Therefore, an average daily dose of 4–6 mg of iron is required in the second and third trimesters of pregnancy [14]</span>
+    </annotation>
+  </document>
+</knowtator-project>

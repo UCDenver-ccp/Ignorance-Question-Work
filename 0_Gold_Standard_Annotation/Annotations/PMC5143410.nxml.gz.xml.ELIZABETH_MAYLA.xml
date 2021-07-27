@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5143410.nxml.gz" text-file="PMC5143410.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="218" id="PMC5143410.nxml.gz-1" start="71">Googe et al in 2006 first described 11 cases of acral angioosteoma cutis (AAOC), characterized by benign vascular and osseous lesions on acral skin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-11" type="identity">
+      <class id="likely" label=""/>
+      <span end="518" id="PMC5143410.nxml.gz-11" start="512">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-12" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="537" id="PMC5143410.nxml.gz-12" start="525">misdiagnosed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="607" id="PMC5143410.nxml.gz-13" start="539">To our knowledge, this case is the first report of AAOC in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-14" type="identity">
+      <class id="first" label=""/>
+      <span end="579" id="PMC5143410.nxml.gz-14" start="574">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2602" id="PMC5143410.nxml.gz-15" start="2463">In addition to clinical similarity, AAOC could be misdiagnosed as PG with ossification because of the vascular and bony growth on histology</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-16" type="identity">
+      <class id="could_be" label=""/>
+      <span end="2512" id="PMC5143410.nxml.gz-16" start="2504">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-17" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="2525" id="PMC5143410.nxml.gz-17" start="2513">misdiagnosed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2687" id="PMC5143410.nxml.gz-18" start="2604">Of 4 reports of PG with ossification, only one commented on the lobular vascularity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-19" type="identity">
+      <class id="only" label=""/>
+      <span end="2646" id="PMC5143410.nxml.gz-19" start="2642">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-2" type="identity">
+      <class id="first" label=""/>
+      <span end="96" id="PMC5143410.nxml.gz-2" start="91">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3596" id="PMC5143410.nxml.gz-27" start="3556">The pathogenesis of AAOC remains unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-28" type="identity">
+      <class id="remains_unclear" label=""/>
+      <span end="3596" id="PMC5143410.nxml.gz-28" start="3581">remains unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3665" id="PMC5143410.nxml.gz-29" start="3598">Burgdorf and Nasemann6proposed 2 theories of cutaneous ossification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="280" id="PMC5143410.nxml.gz-3" start="220">Since then, there have been only 3 additional cases reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-30" type="identity">
+      <class id="proposed" label=""/>
+      <span end="3628" id="PMC5143410.nxml.gz-30" start="3620">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-31" type="identity">
+      <class id="theories" label=""/>
+      <span end="3639" id="PMC5143410.nxml.gz-31" start="3631">theories</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3773" id="PMC5143410.nxml.gz-32" start="3667">One notion is that primitive mesenchymal cells differentiate into normal osteoblasts in the wrong location</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-33" type="identity">
+      <class id="notion" label=""/>
+      <span end="3677" id="PMC5143410.nxml.gz-33" start="3671">notion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3912" id="PMC5143410.nxml.gz-34" start="3775">The other theory is that undifferentiated mesenchymal cells undergo metaplastic differentiation in the setting of inflammation or hypoxia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-35" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="3784" id="PMC5143410.nxml.gz-35" start="3779">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-36" type="identity">
+      <class id="theory" label=""/>
+      <span end="3791" id="PMC5143410.nxml.gz-36" start="3785">theory</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4076" id="PMC5143410.nxml.gz-37" start="3914">In previous case reports, the investigators believed that the vascular proliferation in both AAOC and PG were induced by vascular endothelial growth factor (VEGF)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-38" type="identity">
+      <class id="believed" label=""/>
+      <span end="3966" id="PMC5143410.nxml.gz-38" start="3958">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4450" id="PMC5143410.nxml.gz-39" start="4338">Together, VEGF and BMP are the most likely factors that induce vascular proliferation and bone formation in AAOC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-4" type="identity">
+      <class id="have...been" label=""/>
+      <span end="247" id="PMC5143410.nxml.gz-4" start="238">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-40" type="identity">
+      <class id="most_likely" label=""/>
+      <span end="4380" id="PMC5143410.nxml.gz-40" start="4369">most likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4572" id="PMC5143410.nxml.gz-41" start="4452">Because AAOC might be misdiagnosed as PG or other benign cutaneous neoplasm, it may not be rare but rather underreported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-42" type="identity">
+      <class id="might" label=""/>
+      <span end="4470" id="PMC5143410.nxml.gz-42" start="4465">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-43" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4486" id="PMC5143410.nxml.gz-43" start="4474">misdiagnosed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-44" type="identity">
+      <class id="may" label=""/>
+      <span end="4535" id="PMC5143410.nxml.gz-44" start="4532">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-45" type="identity">
+      <class id="rare" label=""/>
+      <span end="4547" id="PMC5143410.nxml.gz-45" start="4543">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-46" type="identity">
+      <class id="rather" label=""/>
+      <span end="4558" id="PMC5143410.nxml.gz-46" start="4552">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-47" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4572" id="PMC5143410.nxml.gz-47" start="4559">underreported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4675" id="PMC5143410.nxml.gz-48" start="4574">With the possible driving factors of VEGF and BMP, this lesion is benign and can recur after excision</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-49" type="identity">
+      <class id="possible" label=""/>
+      <span end="4591" id="PMC5143410.nxml.gz-49" start="4583">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-5" type="identity">
+      <class id="only" label=""/>
+      <span end="252" id="PMC5143410.nxml.gz-5" start="248">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4851" id="PMC5143410.nxml.gz-50" start="4677">Dermatologists should be aware of the distinguishing features of scattered bone formation and diffuse capillary proliferation of AAOC rather than the lobular aggregates in PG</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-51" type="identity">
+      <class id="should_be" label=""/>
+      <span end="4701" id="PMC5143410.nxml.gz-51" start="4692">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-52" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4707" id="PMC5143410.nxml.gz-52" start="4702">aware</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-53" type="identity">
+      <class id="rather" label=""/>
+      <span end="4817" id="PMC5143410.nxml.gz-53" start="4811">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-6" type="identity">
+      <class id="therefore" label=""/>
+      <span end="428" id="PMC5143410.nxml.gz-6" start="419">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="537" id="PMC5143410.nxml.gz-7" start="419">Therefore, it is crucial for dermatologists to be aware of this condition, as it is rare and likely often misdiagnosed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-8" type="identity">
+      <class id="crucial" label=""/>
+      <span end="443" id="PMC5143410.nxml.gz-8" start="436">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5143410.nxml.gz-9" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="507" id="PMC5143410.nxml.gz-9" start="503">rare</span>
+    </annotation>
+  </document>
+</knowtator-project>

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6056931.nxml.gz" text-file="PMC6056931.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="268" id="PMC6056931.nxml.gz-1" start="144">Adequate nutrition during pregnancy is important to ensure optimal birth outcomes, maternal health and offspring development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-100" type="identity">
+      <class id="only" label=""/>
+      <span end="12898" id="PMC6056931.nxml.gz-100" start="12894">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-101" type="identity">
+      <class id="thus" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-102" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-104" type="identity">
+      <class id="indicates" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-105" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34720" id="PMC6056931.nxml.gz-105" start="34583">Brain-derived neurotrophic factor (BDNF) as a potential marker of neuronal growth and differentiation will be determined using ELISA [77]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-106" type="identity">
+      <class id="potential" label=""/>
+      <span end="34638" id="PMC6056931.nxml.gz-106" start="34629">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-107" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-108" type="identity">
+      <class id="required" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-11" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="546" id="PMC6056931.nxml.gz-11" start="536">predictive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-110" type="identity">
+      <class id="consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-111" type="identity">
+      <class id="should_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-112" type="identity">
+      <class id="however" label=""/>
+      <span end="36295" id="PMC6056931.nxml.gz-112" start="36288">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36397" id="PMC6056931.nxml.gz-113" start="36288">However, should the researchers be able to obtain additional funding, additional participants may be included</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-114" type="identity">
+      <class id="should" label=""/>
+      <span end="36303" id="PMC6056931.nxml.gz-114" start="36297">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-115" type="identity">
+      <class id="may_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39035" id="PMC6056931.nxml.gz-116" start="38945">The importance of perinatal nutrition and its role in offspring health, is recognised [79]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-117" type="identity">
+      <class id="importance" label=""/>
+      <span end="38959" id="PMC6056931.nxml.gz-117" start="38949">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-118" type="identity">
+      <class id="role" label=""/>
+      <span end="38995" id="PMC6056931.nxml.gz-118" start="38991">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39148" id="PMC6056931.nxml.gz-119" start="39037">Nutrition during pregnancy is an important factor associated with both maternal and infant health outcomes [80]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="901" id="PMC6056931.nxml.gz-12" start="610">The aims of this prospective cohort study are: 1) to assess dietary intake and nutritional status of urban pregnant women in Johannesburg, South Africa, and 2) to determine associations with birth outcomes, measures of maternal health, as well as measures of offspring health and development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-120" type="identity">
+      <class id="important" label=""/>
+      <span end="39079" id="PMC6056931.nxml.gz-120" start="39070">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-121" type="identity">
+      <class id="associated" label=""/>
+      <span end="39097" id="PMC6056931.nxml.gz-121" start="39087">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-122" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39534" id="PMC6056931.nxml.gz-122" start="39150">To date, however, South African public health nutrition interventions for pregnant women are limited to folic-iron and calcium supplementation, while it is highly likely that the diet of pregnant women living in South Africa is lacking vital micronutrients and essential fatty acids beyond those supplied, or is even containing excessive amounts of specific micro- and macro-nutrients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-123" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-124" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="39166" id="PMC6056931.nxml.gz-124" start="39159">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-125" type="identity">
+      <class id="limited" label=""/>
+      <span end="39250" id="PMC6056931.nxml.gz-125" start="39243">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-126" type="identity">
+      <class id="while" label=""/>
+      <span end="39299" id="PMC6056931.nxml.gz-126" start="39294">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-127" type="identity">
+      <class id="likely" label=""/>
+      <span end="39319" id="PMC6056931.nxml.gz-127" start="39313">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-128" type="identity">
+      <class id="even" label=""/>
+      <span end="39466" id="PMC6056931.nxml.gz-128" start="39462">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-129" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39814" id="PMC6056931.nxml.gz-129" start="39536">In order to advocate evidence-based healthcare policy and practice, the identification of nutrient deficiencies and poor eating patterns of pregnant women in South Africa, which are associated with adverse neonatal outcomes and delayed early offspring development, is imperative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-13" type="identity">
+      <class id="aims" label=""/>
+      <span end="618" id="PMC6056931.nxml.gz-13" start="614">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-130" type="identity">
+      <class id="in_order_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-131" type="identity">
+      <class id="advocate" label=""/>
+      <span end="39556" id="PMC6056931.nxml.gz-131" start="39548">advocate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-132" type="identity">
+      <class id="evidence-based" label=""/>
+      <span end="39571" id="PMC6056931.nxml.gz-132" start="39557">evidence-based</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-133" type="identity">
+      <class id="associated" label=""/>
+      <span end="39728" id="PMC6056931.nxml.gz-133" start="39718">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-134" type="identity">
+      <class id="imperative" label=""/>
+      <span end="39814" id="PMC6056931.nxml.gz-134" start="39804">imperative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-135" type="identity">
+      <class id="little...is_known" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39923" id="PMC6056931.nxml.gz-137" start="39816">Little is known about the dietary behaviour and nutritional status of pregnant women living in South Africa</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-138" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40180" id="PMC6056931.nxml.gz-138" start="39925">To the best of our knowledge, this is the first South African study focusing on the assessment of both maternal dietary intake and nutritional status in women pre- and postnatally and to investigate associations with outcomes of maternal and infant health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-139" type="identity">
+      <class id="first" label=""/>
+      <span end="39972" id="PMC6056931.nxml.gz-139" start="39967">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-14" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="669" id="PMC6056931.nxml.gz-14" start="660">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-140" type="identity">
+      <class id="focusing" label=""/>
+      <span end="40001" id="PMC6056931.nxml.gz-140" start="39993">focusing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-141" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="40123" id="PMC6056931.nxml.gz-141" start="40109">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-142" type="identity">
+      <class id="associations" label=""/>
+      <span end="40136" id="PMC6056931.nxml.gz-142" start="40124">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-143" type="identity">
+      <class id="this_study" label=""/>
+      <span end="40192" id="PMC6056931.nxml.gz-143" start="40182">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40343" id="PMC6056931.nxml.gz-144" start="40182">This study is novel due to the comprehensive set of nutrition related data and indicators of maternal and infant health being obtained in a South African setting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-145" type="identity">
+      <class id="novel" label=""/>
+      <span end="40201" id="PMC6056931.nxml.gz-145" start="40196">novel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-146" type="identity">
+      <class id="related" label=""/>
+      <span end="40251" id="PMC6056931.nxml.gz-146" start="40244">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-147" type="identity">
+      <class id="therefore" label=""/>
+      <span end="40354" id="PMC6056931.nxml.gz-147" start="40345">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40576" id="PMC6056931.nxml.gz-148" start="40345">Therefore, this explorative project will contribute to identifying factors that may be targeted in future pre- and/or post-conception maternal interventions for optimal offspring development and possibly reduction in adult NCD risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-149" type="identity">
+      <class id="will" label=""/>
+      <span end="40385" id="PMC6056931.nxml.gz-149" start="40381">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-15" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="782" id="PMC6056931.nxml.gz-15" start="770">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-150" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-151" type="identity">
+      <class id="may_be" label=""/>
+      <span end="40431" id="PMC6056931.nxml.gz-151" start="40425">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-152" type="identity">
+      <class id="future_work" label=""/>
+      <span end="40450" id="PMC6056931.nxml.gz-152" start="40432">targeted in future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-153" type="identity">
+      <class id="possibly" label=""/>
+      <span end="40548" id="PMC6056931.nxml.gz-153" start="40540">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40612" id="PMC6056931.nxml.gz-154" start="40578">This study also has its challenges</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-155" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-157" type="identity">
+      <class id="challenges" label=""/>
+      <span end="40612" id="PMC6056931.nxml.gz-157" start="40602">challenges</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41062" id="PMC6056931.nxml.gz-158" start="40865">South African statistics show that only 52% of women attend antenatal care before 20 weeks’ gestation [30], thus access to women early in pregnancy is restricted and limits enrolment into the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-159" type="identity">
+      <class id="only" label=""/>
+      <span end="40904" id="PMC6056931.nxml.gz-159" start="40900">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-16" type="identity">
+      <class id="associations" label=""/>
+      <span end="795" id="PMC6056931.nxml.gz-16" start="783">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-160" type="identity">
+      <class id="thus" label=""/>
+      <span end="40977" id="PMC6056931.nxml.gz-160" start="40973">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-161" type="identity">
+      <class id="limits" label=""/>
+      <span end="41037" id="PMC6056931.nxml.gz-161" start="41031">limits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41217" id="PMC6056931.nxml.gz-162" start="41064">Furthermore, many healthcare facilities in Johannesburg serve a predominantly migrant population [81] posing a challenge for longitudinal data collection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-163" type="identity">
+      <class id="challenge" label=""/>
+      <span end="41184" id="PMC6056931.nxml.gz-163" start="41175">challenge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41475" id="PMC6056931.nxml.gz-164" start="41219">Additionally, these women may choose to eat traditional foods [82] that do not form part of the South African Food Database for nutritional analysis; and may not be able to speak a local language [83] hampering detailed reporting during dietary assessments</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-165" type="identity">
+      <class id="may" label=""/>
+      <span end="41248" id="PMC6056931.nxml.gz-165" start="41245">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-166" type="identity">
+      <class id="may" label=""/>
+      <span end="41376" id="PMC6056931.nxml.gz-166" start="41373">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-167" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="41429" id="PMC6056931.nxml.gz-167" start="41420">hampering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-168" type="identity">
+      <class id="thus" label=""/>
+      <span end="41481" id="PMC6056931.nxml.gz-168" start="41477">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-169" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41574" id="PMC6056931.nxml.gz-169" start="41477">Thus, migrating women or those unable to speak local languages could not be included in the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2302" id="PMC6056931.nxml.gz-17" start="2110">Ensuring adequate nutrition during pregnancy is one of the key actions endorsed by the South African Government to promote optimal early childhood development in an effort to eradicate poverty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-170" type="identity">
+      <class id="could_not" label=""/>
+      <span end="41549" id="PMC6056931.nxml.gz-170" start="41540">could not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-171" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41731" id="PMC6056931.nxml.gz-171" start="41576">A limitation of the study is that women who fit the inclusion criteria are invited to join the study by visiting the data collection site at an agreed date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-172" type="identity">
+      <class id="limitation" label=""/>
+      <span end="41588" id="PMC6056931.nxml.gz-172" start="41578">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41802" id="PMC6056931.nxml.gz-173" start="41733">Having this option of attending may contribute to self-selection bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-174" type="identity">
+      <class id="may" label=""/>
+      <span end="41768" id="PMC6056931.nxml.gz-174" start="41765">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-175" type="identity">
+      <class id="bias" label=""/>
+      <span end="41802" id="PMC6056931.nxml.gz-175" start="41798">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41967" id="PMC6056931.nxml.gz-176" start="41804">Our recruitment data to date indicate that of those invited to take part in the study; only approximately 50% arrive at the data collection site on the booked date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-177" type="identity">
+      <class id="indicate" label=""/>
+      <span end="41841" id="PMC6056931.nxml.gz-177" start="41833">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-178" type="identity">
+      <class id="only" label=""/>
+      <span end="41895" id="PMC6056931.nxml.gz-178" start="41891">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-179" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="42282" id="PMC6056931.nxml.gz-179" start="41969">Even so, this study will provide a comprehensive and unique database from an urban South African setting which will allow for cross-sectional, prospective and retrospective analyses to describe the nutritional status and dietary intake of pregnant women, and to determine associations with health outcome measures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-18" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2180" id="PMC6056931.nxml.gz-18" start="2169">key actions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-180" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="41976" id="PMC6056931.nxml.gz-180" start="41969">Even so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-181" type="identity">
+      <class id="even" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-182" type="identity">
+      <class id="this...study" label=""/>
+      <span end="41988" id="PMC6056931.nxml.gz-182" start="41978">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-183" type="identity">
+      <class id="will" label=""/>
+      <span end="41993" id="PMC6056931.nxml.gz-183" start="41989">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-184" type="identity">
+      <class id="unique" label=""/>
+      <span end="42028" id="PMC6056931.nxml.gz-184" start="42022">unique</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-185" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-186" type="identity">
+      <class id="will" label=""/>
+      <span end="42084" id="PMC6056931.nxml.gz-186" start="42080">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-187" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="42240" id="PMC6056931.nxml.gz-187" start="42228">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-188" type="identity">
+      <class id="associations" label=""/>
+      <span end="42253" id="PMC6056931.nxml.gz-188" start="42241">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="42418" id="PMC6056931.nxml.gz-189" start="42284">These results will supply context to intervention studies with the aim to improve maternal as well as offspring health in South Africa</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2513" id="PMC6056931.nxml.gz-19" start="2304">The results from this study may serve as a basis for the development of context-specific nutritional interventions which can improve birth outcomes and long-term quality of life of the mother and her offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-190" type="identity">
+      <class id="will" label=""/>
+      <span end="42302" id="PMC6056931.nxml.gz-190" start="42298">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-191" type="identity">
+      <class id="aim" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-2" type="identity">
+      <class id="important" label=""/>
+      <span end="192" id="PMC6056931.nxml.gz-2" start="183">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-20" type="identity">
+      <class id="this...study" label=""/>
+      <span end="2331" id="PMC6056931.nxml.gz-20" start="2321">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-21" type="identity">
+      <class id="may" label=""/>
+      <span end="2335" id="PMC6056931.nxml.gz-21" start="2332">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-22" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="2352" id="PMC6056931.nxml.gz-22" start="2336">serve as a basis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2676" id="PMC6056931.nxml.gz-23" start="2527">Recent estimates indicate that 250 million children in low- and middle income countries are at risk of not reaching their developmental potential [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-24" type="identity">
+      <class id="indicate" label=""/>
+      <span end="2552" id="PMC6056931.nxml.gz-24" start="2544">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-25" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2626" id="PMC6056931.nxml.gz-25" start="2619">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2850" id="PMC6056931.nxml.gz-26" start="2678">This is worrisome as suboptimal childhood development is associated with poorer adult health, well-being and productivity – leading to an intergenerational cycle of poverty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-27" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2695" id="PMC6056931.nxml.gz-27" start="2686">worrisome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-28" type="identity">
+      <class id="associated" label=""/>
+      <span end="2745" id="PMC6056931.nxml.gz-28" start="2735">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3218" id="PMC6056931.nxml.gz-29" start="2852">As the trajectories of physical and mental health later in life are determined fundamentally during the first 1000 days of life, both the World Health Assembly Nutrition Targets and the Sustainable Developmental Goals call for action to, among others, improve maternal, infant and young child nutrition in an effort to ensure sustainable social and economic progress</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="391" id="PMC6056931.nxml.gz-3" start="270">However, little is known about the dietary intake and nutritional status of pregnant women residing in urban South Africa</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-30" type="identity">
+      <class id="call" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-31" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3085" id="PMC6056931.nxml.gz-31" start="3070">call for action</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3386" id="PMC6056931.nxml.gz-32" start="3220">Maternal health and nutrition gained heightened attention three decades ago with the publication of the developmental origins of health and disease (DOHaD) hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-33" type="identity">
+      <class id="attention" label=""/>
+      <span end="3277" id="PMC6056931.nxml.gz-33" start="3268">attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-34" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="3386" id="PMC6056931.nxml.gz-34" start="3376">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3613" id="PMC6056931.nxml.gz-35" start="3388">Barker and Osmond [2] proposed that the cardiovascular disease they observed in an adult population from England and Wales was at least partly associated with poor early nutrition, and specifically undernutrition in utero [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-36" type="identity">
+      <class id="proposed" label=""/>
+      <span end="3418" id="PMC6056931.nxml.gz-36" start="3410">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-37" type="identity">
+      <class id="at_least" label=""/>
+      <span end="3523" id="PMC6056931.nxml.gz-37" start="3515">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-38" type="identity">
+      <class id="partly" label=""/>
+      <span end="3530" id="PMC6056931.nxml.gz-38" start="3524">partly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-39" type="identity">
+      <class id="associated" label=""/>
+      <span end="3541" id="PMC6056931.nxml.gz-39" start="3531">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-4" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3813" id="PMC6056931.nxml.gz-40" start="3615">Undernourishment in utero can stress the foetus in ways that permanently affect physiological growth and development, and can be described as a reprogramming of the foetus’s developing phenotype [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-41" type="identity">
+      <class id="affect" label=""/>
+      <span end="3694" id="PMC6056931.nxml.gz-41" start="3688">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4227" id="PMC6056931.nxml.gz-42" start="4075">Several maternal nutritional factors have been investigated in relation to adverse pregnancy outcomes, as well as offspring health and development [7–9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-43" type="identity">
+      <class id="have_been" label=""/>
+      <span end="4121" id="PMC6056931.nxml.gz-43" start="4112">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-45" type="identity">
+      <class id="relation" label=""/>
+      <span end="4146" id="PMC6056931.nxml.gz-45" start="4138">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4424" id="PMC6056931.nxml.gz-46" start="4229">The nutrients most studied during pregnancy include B-vitamins (particularly folic acid), vitamin D, iron, long-chain polyunsaturated fatty acids (particularly n-3 fatty acids) and iodine [8,10].</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-47" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4255" id="PMC6056931.nxml.gz-47" start="4243">most studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-48" type="identity">
+      <class id="however" label=""/>
+      <span end="4432" id="PMC6056931.nxml.gz-48" start="4425">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4588" id="PMC6056931.nxml.gz-49" start="4425">However, adequate maternal intakes of zinc and vitamin A may also be important for optimal pregnancy outcomes, as well as for maternal and offspring health [11–13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-5" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="277" id="PMC6056931.nxml.gz-5" start="270">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-50" type="identity">
+      <class id="may" label=""/>
+      <span end="4485" id="PMC6056931.nxml.gz-50" start="4482">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-51" type="identity">
+      <class id="important" label=""/>
+      <span end="4503" id="PMC6056931.nxml.gz-51" start="4494">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4807" id="PMC6056931.nxml.gz-52" start="4590">Furthermore, better overall diet quality has been associated with a lower risk for maternal perinatal depression and gestational weight gain, which in turn are risk factors for suboptimal offspring development [14–16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-53" type="identity">
+      <class id="has...been" label=""/>
+      <span end="4639" id="PMC6056931.nxml.gz-53" start="4631">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-54" type="identity">
+      <class id="associated" label=""/>
+      <span end="4650" id="PMC6056931.nxml.gz-54" start="4640">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4870" id="PMC6056931.nxml.gz-55" start="4809">The health of the adult South African population is a concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-56" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4870" id="PMC6056931.nxml.gz-56" start="4863">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-6" type="identity">
+      <class id="little...is_known" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5417" id="PMC6056931.nxml.gz-60" start="5183">The country is undergoing a rapid nutrition transition characterised by changes in dietary patterns and nutrient intake alongside urbanisation [19,20], which has resulted in a growing double-burden of under- and over-nutrition [20,21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-61" type="identity">
+      <class id="growing" label=""/>
+      <span end="5366" id="PMC6056931.nxml.gz-61" start="5359">growing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-62" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="5380" id="PMC6056931.nxml.gz-62" start="5367">double-burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5712" id="PMC6056931.nxml.gz-64" start="5631">The effects are also seen in children, with 27% of under-fives being stunted [22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-65" type="identity">
+      <class id="effects" label=""/>
+      <span end="5642" id="PMC6056931.nxml.gz-65" start="5635">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-66" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5936" id="PMC6056931.nxml.gz-66" start="5796">Maternal short stature is, in turn, a risk factor for birth complications [24] – illustrating the intergenerational effect of poor nutrition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-67" type="identity">
+      <class id="effect" label=""/>
+      <span end="5918" id="PMC6056931.nxml.gz-67" start="5912">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6135" id="PMC6056931.nxml.gz-68" start="5938">Ensuring adequate nutrition during pregnancy is one of the key actions endorsed by the South African Government to promote optimal early childhood development in an effort to eradicate poverty [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-69" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="6008" id="PMC6056931.nxml.gz-69" start="5997">key actions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6405" id="PMC6056931.nxml.gz-70" start="6137">The Guidelines for maternity care in South Africa [26] therefore recommend routine nutritional assessment – such as measuring mid-upper arm circumference and haemoglobin levels – and daily supplementation of 200 mg ferrous sulphate, 1000 mg calcium and 5 mg folic acid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-72" type="identity">
+      <class id="recommend" label=""/>
+      <span end="6211" id="PMC6056931.nxml.gz-72" start="6202">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6671" id="PMC6056931.nxml.gz-73" start="6407">However, studies show that the majority of South African women only seek or get access to public antenatal care in their second trimester of pregnancy [27–30], which might be too late for the routine supplementation programme or other interventions to be effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-74" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-75" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="6414" id="PMC6056931.nxml.gz-75" start="6407">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-76" type="identity">
+      <class id="might" label=""/>
+      <span end="6578" id="PMC6056931.nxml.gz-76" start="6573">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-77" type="identity">
+      <class id="other" label=""/>
+      <span end="6641" id="PMC6056931.nxml.gz-77" start="6636">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-78" type="identity">
+      <class id="very_little_is_known" label=""/>
+      <span end="6693" id="PMC6056931.nxml.gz-78" start="6673">Very little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6803" id="PMC6056931.nxml.gz-79" start="6673">Very little is known about the diet and nutritional status of pregnant women in South Africa, specifically residing in urban areas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="599" id="PMC6056931.nxml.gz-8" start="393">Therefore, the Nutrition during Pregnancy and Early Development (NuPED) cohort study was initiated to assess early nutrition-related exposures predictive of early childhood development in urban South Africa</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7180" id="PMC6056931.nxml.gz-80" start="6805">Furthermore, understanding the associations of maternal diet and nutritional status during pregnancy with birth outcomes, as well as offspring health and development in the South African population will form the basis for the development of context-specific nutrition interventions that may improve birth outcomes and long-term quality of life of the mother and her offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-81" type="identity">
+      <class id="associations" label=""/>
+      <span end="6848" id="PMC6056931.nxml.gz-81" start="6836">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-8176" type="identity">
+      <class id="little...is_known"/>
+      <span end="294" id="PMC6056931.nxml.gz-8177" start="279">little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-8178" type="identity">
+      <class id="little...is_known"/>
+      <span end="39831" id="PMC6056931.nxml.gz-8179" start="39816">Little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-8180" type="identity">
+      <class id="this...study"/>
+      <span end="40588" id="PMC6056931.nxml.gz-8181" start="40578">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-8182" type="identity">
+      <class id="future_work"/>
+      <span end="42357" id="PMC6056931.nxml.gz-8183" start="42351">aim to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-82" type="identity">
+      <class id="will" label=""/>
+      <span end="7007" id="PMC6056931.nxml.gz-82" start="7003">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-83" type="identity">
+      <class id="may" label=""/>
+      <span end="7095" id="PMC6056931.nxml.gz-83" start="7092">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7443" id="PMC6056931.nxml.gz-84" start="7182">Consequently, the Nutrition during Pregnancy and Early Development (NuPED) cohort study was initiated to investigate nutritional status during pregnancy and assess early nutrition-related exposures predictive of early childhood development in urban South Africa</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-85" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="7298" id="PMC6056931.nxml.gz-85" start="7284">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-87" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="7390" id="PMC6056931.nxml.gz-87" start="7380">predictive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7740" id="PMC6056931.nxml.gz-88" start="7464">The aims of the NuPED study are 1) to assess dietary intake and nutritional status of urban pregnant women in Johannesburg, South Africa, and 2) to determine associations with birth outcomes, measures of maternal health, as well as measures of offspring health and development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-89" type="identity">
+      <class id="aims" label=""/>
+      <span end="7472" id="PMC6056931.nxml.gz-89" start="7468">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-9" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="501" id="PMC6056931.nxml.gz-9" start="492">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-90" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="7508" id="PMC6056931.nxml.gz-90" start="7499">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-91" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="7621" id="PMC6056931.nxml.gz-91" start="7609">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-92" type="identity">
+      <class id="associations" label=""/>
+      <span end="7634" id="PMC6056931.nxml.gz-92" start="7622">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11174" id="PMC6056931.nxml.gz-93" start="10995">Due to the high prevalence of HIV in the country (36% of women aged 30–34 years [31]), their inclusion will make generalisation to the wider South African population a possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-94" type="identity">
+      <class id="due_to" label=""/>
+      <span end="11001" id="PMC6056931.nxml.gz-94" start="10995">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-95" type="identity">
+      <class id="will" label=""/>
+      <span end="11102" id="PMC6056931.nxml.gz-95" start="11098">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-96" type="identity">
+      <class id="possibility" label=""/>
+      <span end="11174" id="PMC6056931.nxml.gz-96" start="11163">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12969" id="PMC6056931.nxml.gz-97" start="12790">It is important to note that in Johannesburg only 45% of women access ANC before 20 weeks gestation and only 23% in their first trimester (as reported from other urban areas) [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-98" type="identity">
+      <class id="important" label=""/>
+      <span end="12805" id="PMC6056931.nxml.gz-98" start="12796">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6056931.nxml.gz-99" type="identity">
+      <class id="only" label=""/>
+      <span end="12839" id="PMC6056931.nxml.gz-99" start="12835">only</span>
+    </annotation>
+  </document>
+</knowtator-project>

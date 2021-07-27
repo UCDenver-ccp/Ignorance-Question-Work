@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4954778.nxml.gz" text-file="PMC4954778.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-10" type="identity">
+      <class id="if" label=""/>
+      <span end="540" id="PMC4954778.nxml.gz-10" start="538">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-100" type="identity">
+      <class id="either...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-102" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13014" id="PMC4954778.nxml.gz-103" start="12889">The HV but not HFol pup diet brought POMC expression to control levels in mature offspring from HV dams (P=0.004) (Figure 5a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-104" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="12903" id="PMC4954778.nxml.gz-104" start="12896">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-105" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13193" id="PMC4954778.nxml.gz-105" start="13016">The HV pup diet brought BDNF expression to control levels but the HFol pup diet only attenuated the decrease in expression caused by the HV gestational diet (P=0.02) (Figure 5a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-106" type="identity">
+      <class id="but" label=""/>
+      <span end="13077" id="PMC4954778.nxml.gz-106" start="13074">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-107" type="identity">
+      <class id="only" label=""/>
+      <span end="13100" id="PMC4954778.nxml.gz-107" start="13096">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-108" type="identity">
+      <class id="only" label=""/>
+      <span end="13199" id="PMC4954778.nxml.gz-108" start="13195">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13319" id="PMC4954778.nxml.gz-109" start="13195">Only the HFol pup diet lowered SeroR2A expression compared to the HV offspring weaned to a RV pup diet (P=0.008) (Figure 5b)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-11" type="identity">
+      <class id="could_be" label=""/>
+      <span end="577" id="PMC4954778.nxml.gz-11" start="569">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13460" id="PMC4954778.nxml.gz-110" start="13321">There was a trend for lower DopaR1 expression in the HV offspring weaned to a HV pup diet compared to the RV offspring (P=0.06) (Figure 5b)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-111" type="identity">
+      <class id="trend" label=""/>
+      <span end="13338" id="PMC4954778.nxml.gz-111" start="13333">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13739" id="PMC4954778.nxml.gz-112" start="13572">Both brain (Figure 6a) and plasma (Figure 6b) folate levels were unaffected by the diets of the dams but were elevated by the high multivitamin or high folate pup diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-113" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="13676" id="PMC4954778.nxml.gz-113" start="13673">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-114" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-115" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14174" id="PMC4954778.nxml.gz-118" start="13929">Our findings support the hypothesis that HV or HFol pup diet prevents the increase in food intake, body weight and glucose response to a glucose load in offspring of the HV dams, possibly by post-weaning changes in food intake regulatory systems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-119" type="identity">
+      <class id="our_findings" label=""/>
+      <span end="13941" id="PMC4954778.nxml.gz-119" start="13929">Our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1837" id="PMC4954778.nxml.gz-12" start="1737">The HFol pup diet partially brought BDNF to the control level (P=0.02) and lowered SeroR2A (P=0.008)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-120" type="identity">
+      <class id="support" label=""/>
+      <span end="13949" id="PMC4954778.nxml.gz-120" start="13942">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-121" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="13964" id="PMC4954778.nxml.gz-121" start="13954">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-122" type="identity">
+      <class id="prevents" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-123" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="13998" id="PMC4954778.nxml.gz-123" start="13990">prevents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-124" type="identity">
+      <class id="possibly" label=""/>
+      <span end="14116" id="PMC4954778.nxml.gz-124" start="14108">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-125" type="identity">
+      <class id="although" label=""/>
+      <span end="14184" id="PMC4954778.nxml.gz-125" start="14176">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14397" id="PMC4954778.nxml.gz-126" start="14176">Although the role of hypothalamic regulation in determining the phenotype is uncertain, our gene expression data are novel because we show that feeding neurocircuitry undergoes modification both in utero and into maturity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-127" type="identity">
+      <class id="role" label=""/>
+      <span end="14193" id="PMC4954778.nxml.gz-127" start="14189">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-128" type="identity">
+      <class id="uncertain" label=""/>
+      <span end="14262" id="PMC4954778.nxml.gz-128" start="14253">uncertain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-129" type="identity">
+      <class id="novel" label=""/>
+      <span end="14298" id="PMC4954778.nxml.gz-129" start="14293">novel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-13" type="identity">
+      <class id="partially" label=""/>
+      <span end="1764" id="PMC4954778.nxml.gz-13" start="1755">partially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-130" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="14306" id="PMC4954778.nxml.gz-130" start="14299">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-131" type="identity">
+      <class id="show" label=""/>
+      <span end="14314" id="PMC4954778.nxml.gz-131" start="14310">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14447" id="PMC4954778.nxml.gz-132" start="14399">Two lines of evidence support the PAR hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-133" type="identity">
+      <class id="evidence" label=""/>
+      <span end="14420" id="PMC4954778.nxml.gz-133" start="14412">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-134" type="identity">
+      <class id="support" label=""/>
+      <span end="14428" id="PMC4954778.nxml.gz-134" start="14421">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-135" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="14447" id="PMC4954778.nxml.gz-135" start="14437">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14627" id="PMC4954778.nxml.gz-136" start="14449">First, an unmatched RV post-weaning diet fed the offspring born to HV dams resulted in increased food intake and characteristics of the metabolic syndrome, as observed previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-137" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-138" type="identity">
+      <class id="observed" label=""/>
+      <span end="14616" id="PMC4954778.nxml.gz-138" start="14608">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-139" type="identity">
+      <class id="previously" label=""/>
+      <span end="14627" id="PMC4954778.nxml.gz-139" start="14617">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2128" id="PMC4954778.nxml.gz-14" start="1951">The obesogenic phenotype in offspring from HV fed dams is prevented by feeding HV or HFol pup diets, possibly due to post-weaning modulation of food intake regulatory mechanisms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14695" id="PMC4954778.nxml.gz-140" start="14629">Second, the HV and HFol post-weaning diets prevented these effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-141" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="14681" id="PMC4954778.nxml.gz-141" start="14672">prevented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-142" type="identity">
+      <class id="effects" label=""/>
+      <span end="14695" id="PMC4954778.nxml.gz-142" start="14688">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-143" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14912" id="PMC4954778.nxml.gz-143" start="14697">There were significant effect of both diet and time, but no interaction between them on food intake and weight gain, suggesting that vitamin diets strongly alter the phenotype of mature offspring independent of time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-144" type="identity">
+      <class id="effect" label=""/>
+      <span end="14726" id="PMC4954778.nxml.gz-144" start="14720">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-145" type="identity">
+      <class id="but" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-146" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="14753" id="PMC4954778.nxml.gz-146" start="14750">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-147" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="14824" id="PMC4954778.nxml.gz-147" start="14814">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-148" type="identity">
+      <class id="independent" label=""/>
+      <span end="14904" id="PMC4954778.nxml.gz-148" start="14893">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15286" id="PMC4954778.nxml.gz-149" start="14914">Because the negative consequences of the HV gestational diet on food intake, weight gain and glucose control were prevented by feeding either the HV or HFol pup diets, these observations support the PAR hypothesis that offspring fed diets similar to their mothers lead to a more appropriate adaptation to their postnatal environment compared to those fed an unmatched diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-15" type="identity">
+      <class id="possibly" label=""/>
+      <span end="2060" id="PMC4954778.nxml.gz-15" start="2052">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-150" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="14921" id="PMC4954778.nxml.gz-150" start="14914">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-151" type="identity">
+      <class id="consequences" label=""/>
+      <span end="14947" id="PMC4954778.nxml.gz-151" start="14935">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-152" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="15037" id="PMC4954778.nxml.gz-152" start="15028">prevented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-153" type="identity">
+      <class id="either...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-155" type="identity">
+      <class id="observations" label=""/>
+      <span end="15100" id="PMC4954778.nxml.gz-155" start="15088">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-156" type="identity">
+      <class id="support" label=""/>
+      <span end="15108" id="PMC4954778.nxml.gz-156" start="15101">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-157" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="15127" id="PMC4954778.nxml.gz-157" start="15117">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-158" type="identity">
+      <class id="similar_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-159" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="15185" id="PMC4954778.nxml.gz-159" start="15178">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-16" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2067" id="PMC4954778.nxml.gz-16" start="2061">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15489" id="PMC4954778.nxml.gz-160" start="15288">Elevated folate levels in the brain and plasma at maturity confirmed the folate content of the HV and HFol post-weaning diets, and importantly, revealed that the brain responds to the post-weaning diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-161" type="identity">
+      <class id="confirmed" label=""/>
+      <span end="15356" id="PMC4954778.nxml.gz-161" start="15347">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-162" type="identity">
+      <class id="importantly" label=""/>
+      <span end="15430" id="PMC4954778.nxml.gz-162" start="15419">importantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-163" type="identity">
+      <class id="revealed" label=""/>
+      <span end="15440" id="PMC4954778.nxml.gz-163" start="15432">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-164" type="identity">
+      <class id="although" label=""/>
+      <span end="15499" id="PMC4954778.nxml.gz-164" start="15491">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15773" id="PMC4954778.nxml.gz-165" start="15491">Although the HV and HFol post-weaning diets had similar effects on food intake, weight gain and blood glucose response by preventing the negative consequences of the HV gestational diet, they differed in their impact on expression in food intake regulatory genes in the hypothalamus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-166" type="identity">
+      <class id="similar" label=""/>
+      <span end="15546" id="PMC4954778.nxml.gz-166" start="15539">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-167" type="identity">
+      <class id="effects" label=""/>
+      <span end="15554" id="PMC4954778.nxml.gz-167" start="15547">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-168" type="identity">
+      <class id="consequences" label=""/>
+      <span end="15649" id="PMC4954778.nxml.gz-168" start="15637">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-169" type="identity">
+      <class id="differed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-17" type="identity">
+      <class id="although" label=""/>
+      <span end="2264" id="PMC4954778.nxml.gz-17" start="2256">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-170" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="15691" id="PMC4954778.nxml.gz-170" start="15683">differed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-171" type="identity">
+      <class id="impact" label=""/>
+      <span end="15707" id="PMC4954778.nxml.gz-171" start="15701">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16098" id="PMC4954778.nxml.gz-172" start="15775">Overall the data support the hypothesis that the cause of the phenotype of HV offspring fed RV diets may be accounted for by its effects in utero on development of hypothalamic pathways of intake regulation, leading to excess food intake, and consequently increased body weight and characteristics of the metabolic syndrome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-173" type="identity">
+      <class id="support" label=""/>
+      <span end="15799" id="PMC4954778.nxml.gz-173" start="15792">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-174" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="15814" id="PMC4954778.nxml.gz-174" start="15804">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-175" type="identity">
+      <class id="may_be" label=""/>
+      <span end="15882" id="PMC4954778.nxml.gz-175" start="15876">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-176" type="identity">
+      <class id="accounted_for" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-177" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="15896" id="PMC4954778.nxml.gz-177" start="15883">accounted for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-178" type="identity">
+      <class id="effects" label=""/>
+      <span end="15911" id="PMC4954778.nxml.gz-178" start="15904">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-179" type="identity">
+      <class id="consequently" label=""/>
+      <span end="16030" id="PMC4954778.nxml.gz-179" start="16018">consequently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2506" id="PMC4954778.nxml.gz-18" start="2256">Although vitamins contribute to all phases of development,3the effects of multivitamin consumption above requirements (but at non-toxic levels) during pregnancy as determinants of physiologic phenotypes of the offspring have received little attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16457" id="PMC4954778.nxml.gz-180" start="16299">Lower expression of the anorexigenic genes in the offspring of dams fed the multivamins during pregnancy is consistent with the observed increased food intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-181" type="identity">
+      <class id="consistent" label=""/>
+      <span end="16417" id="PMC4954778.nxml.gz-181" start="16407">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-182" type="identity">
+      <class id="observed" label=""/>
+      <span end="16435" id="PMC4954778.nxml.gz-182" start="16427">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16577" id="PMC4954778.nxml.gz-183" start="16459">Our results are consistent with other data showing that early nutrition alters the central appetite regulatory network</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-184" type="identity">
+      <class id="consistent" label=""/>
+      <span end="16485" id="PMC4954778.nxml.gz-184" start="16475">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-185" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-186" type="identity">
+      <class id="showing" label=""/>
+      <span end="16509" id="PMC4954778.nxml.gz-186" start="16502">showing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-187" type="identity">
+      <class id="effects" label=""/>
+      <span end="16587" id="PMC4954778.nxml.gz-187" start="16580">Effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16752" id="PMC4954778.nxml.gz-188" start="16580">Effects of the maternal diet on the hypothalamic expression of food intake regulatory pathways were found in lambs of ewes fed a diet that exceeded their energy requirement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-189" type="identity">
+      <class id="found" label=""/>
+      <span end="16685" id="PMC4954778.nxml.gz-189" start="16680">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-19" type="identity">
+      <class id="contribute" label=""/>
+      <span end="2284" id="PMC4954778.nxml.gz-19" start="2274">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-190" type="identity">
+      <class id="requirement" label=""/>
+      <span end="16752" id="PMC4954778.nxml.gz-190" start="16741">requirement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-191" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16969" id="PMC4954778.nxml.gz-191" start="16754">These lambs were fatter but had higher hypothalamic POMC expression at postnatal day 30 and relative milk intake of these lambs was not different from those born to control-fed mothers after the third postnatal week</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-192" type="identity">
+      <class id="but" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-193" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="16781" id="PMC4954778.nxml.gz-193" start="16778">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-194" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-195" type="identity">
+      <class id="in_contrast" label=""/>
+      <span end="16983" id="PMC4954778.nxml.gz-195" start="16972">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17203" id="PMC4954778.nxml.gz-196" start="16972">In contrast, the data from the present study show that higher food intake in adulthood of offspring born to the HV dams and fed the RV diet is consistent with their lower expression of anorexigenic neuropeptides in the hypothalamus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-197" type="identity">
+      <class id="present_study" label=""/>
+      <span end="17016" id="PMC4954778.nxml.gz-197" start="17003">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-198" type="identity">
+      <class id="show" label=""/>
+      <span end="17021" id="PMC4954778.nxml.gz-198" start="17017">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-199" type="identity">
+      <class id="consistent" label=""/>
+      <span end="17125" id="PMC4954778.nxml.gz-199" start="17115">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-2" type="identity">
+      <class id="recommended" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-20" type="identity">
+      <class id="effects" label=""/>
+      <span end="2326" id="PMC4954778.nxml.gz-20" start="2319">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-200" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17403" id="PMC4954778.nxml.gz-200" start="17205">However, there was no gestational HV diet effect on expression of leptin and insulin receptors, which are known to modulate expression of orexigenic and anorexigenic neurons regulating energy intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-201" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-202" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="17212" id="PMC4954778.nxml.gz-202" start="17205">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-203" type="identity">
+      <class id="known" label=""/>
+      <span end="17316" id="PMC4954778.nxml.gz-203" start="17311">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-204" type="identity">
+      <class id="despite" label=""/>
+      <span end="17416" id="PMC4954778.nxml.gz-204" start="17409">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17553" id="PMC4954778.nxml.gz-205" start="17409">Despite this lack of difference, other neurons downstream regulating food intake such as POMC and BDNF may be affected by the high vitamin diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-206" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="17429" id="PMC4954778.nxml.gz-206" start="17422">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-207" type="identity">
+      <class id="other" label=""/>
+      <span end="17447" id="PMC4954778.nxml.gz-207" start="17442">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-208" type="identity">
+      <class id="may_be" label=""/>
+      <span end="17518" id="PMC4954778.nxml.gz-208" start="17512">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-209" type="identity">
+      <class id="affected" label=""/>
+      <span end="17527" id="PMC4954778.nxml.gz-209" start="17519">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-21" type="identity">
+      <class id="requirements" label=""/>
+      <span end="2373" id="PMC4954778.nxml.gz-21" start="2361">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17685" id="PMC4954778.nxml.gz-210" start="17555">A novel observation of our study is that the hypothalamic feeding pathways respond to the vitamin content of the post-weaning diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-211" type="identity">
+      <class id="novel" label=""/>
+      <span end="17562" id="PMC4954778.nxml.gz-211" start="17557">novel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-212" type="identity">
+      <class id="observation" label=""/>
+      <span end="17574" id="PMC4954778.nxml.gz-212" start="17563">observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-213" type="identity">
+      <class id="our_study" label=""/>
+      <span end="17587" id="PMC4954778.nxml.gz-213" start="17578">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18007" id="PMC4954778.nxml.gz-214" start="17784">Because expression of these anorexigenic neuropeptides was normalized, it may be suggested that vitamin content of post-weaning diets contribute to remodeling of hypothalamic functioning in mature as well as developing rats</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-215" type="identity">
+      <class id="because" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-216" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="17791" id="PMC4954778.nxml.gz-216" start="17784">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-217" type="identity">
+      <class id="may_be" label=""/>
+      <span end="17864" id="PMC4954778.nxml.gz-217" start="17858">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-218" type="identity">
+      <class id="suggested" label=""/>
+      <span end="17874" id="PMC4954778.nxml.gz-218" start="17865">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-219" type="identity">
+      <class id="contribute" label=""/>
+      <span end="17928" id="PMC4954778.nxml.gz-219" start="17918">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-22" type="identity">
+      <class id="but" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18144" id="PMC4954778.nxml.gz-220" start="18009">Furthermore, there was a trend for lower expression of DopaR1 in the HV offspring weaned to a HV diet compared to the control offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-221" type="identity">
+      <class id="trend" label=""/>
+      <span end="18039" id="PMC4954778.nxml.gz-221" start="18034">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-222" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18295" id="PMC4954778.nxml.gz-222" start="18146">In the ventromedial hypothalamic nucleus, dopamine release is required to initiate a meal, and is positively associated with meal number and duration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-223" type="identity">
+      <class id="required" label=""/>
+      <span end="18216" id="PMC4954778.nxml.gz-223" start="18208">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-224" type="identity">
+      <class id="associated" label=""/>
+      <span end="18265" id="PMC4954778.nxml.gz-224" start="18255">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-225" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18452" id="PMC4954778.nxml.gz-225" start="18301">By possibly reducing dopamine signaling, the HV pup diet may have provided some protection against excess food intake caused by the HV gestational diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-226" type="identity">
+      <class id="possibly" label=""/>
+      <span end="18312" id="PMC4954778.nxml.gz-226" start="18304">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-227" type="identity">
+      <class id="may" label=""/>
+      <span end="18361" id="PMC4954778.nxml.gz-227" start="18358">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-228" type="identity">
+      <class id="some" label=""/>
+      <span end="18380" id="PMC4954778.nxml.gz-228" start="18376">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-229" type="identity">
+      <class id="although" label=""/>
+      <span end="18462" id="PMC4954778.nxml.gz-229" start="18454">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-23" type="identity">
+      <class id="as" label=""/>
+      <span end="2419" id="PMC4954778.nxml.gz-23" start="2417">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-230" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18737" id="PMC4954778.nxml.gz-230" start="18454">Although we are the first to show that the brain at maturity responds to vitamins, our results are substantiated by a report of hypothalamic changes in the food intake regulatory genes due to the interaction of maternal and post-weaning diets high in saturated fats in male offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-231" type="identity">
+      <class id="first" label=""/>
+      <span end="18479" id="PMC4954778.nxml.gz-231" start="18474">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-232" type="identity">
+      <class id="show" label=""/>
+      <span end="18487" id="PMC4954778.nxml.gz-232" start="18483">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-233" type="identity">
+      <class id="due...to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-234" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="18645" id="PMC4954778.nxml.gz-234" start="18639">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-235" type="identity">
+      <class id="interaction" label=""/>
+      <span end="18661" id="PMC4954778.nxml.gz-235" start="18650">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-236" type="identity">
+      <class id="surprisingly" label=""/>
+      <span end="18753" id="PMC4954778.nxml.gz-236" start="18741">Surprisingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-237" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18941" id="PMC4954778.nxml.gz-237" start="18741">Surprisingly, a ten-fold addition of folate alone to the RV diet modified some of the effects of the maternal HV diet on the offspring, suggesting a possible primary role for this methyl group vitamin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-238" type="identity">
+      <class id="some" label=""/>
+      <span end="18819" id="PMC4954778.nxml.gz-238" start="18815">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-239" type="identity">
+      <class id="effects" label=""/>
+      <span end="18834" id="PMC4954778.nxml.gz-239" start="18827">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-24" type="identity">
+      <class id="determinants" label=""/>
+      <span end="2432" id="PMC4954778.nxml.gz-24" start="2420">determinants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-240" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="18887" id="PMC4954778.nxml.gz-240" start="18877">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-241" type="identity">
+      <class id="possible" label=""/>
+      <span end="18898" id="PMC4954778.nxml.gz-241" start="18890">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-242" type="identity">
+      <class id="role" label=""/>
+      <span end="18911" id="PMC4954778.nxml.gz-242" start="18907">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-243" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19123" id="PMC4954778.nxml.gz-243" start="18943">A significant role for folate in the complete vitamin mixture in determining the effect of the HV diet was supported by the reductions in food intake, body weight and blood glucose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-244" type="identity">
+      <class id="role" label=""/>
+      <span end="18961" id="PMC4954778.nxml.gz-244" start="18957">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-245" type="identity">
+      <class id="effect" label=""/>
+      <span end="19030" id="PMC4954778.nxml.gz-245" start="19024">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-246" type="identity">
+      <class id="supported" label=""/>
+      <span end="19059" id="PMC4954778.nxml.gz-246" start="19050">supported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-247" type="identity">
+      <class id="however" label=""/>
+      <span end="19132" id="PMC4954778.nxml.gz-247" start="19125">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19207" id="PMC4954778.nxml.gz-248" start="19125">However, folate had fewer effects on the hypothalamus of offspring born to HV dams</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-249" type="identity">
+      <class id="effects" label=""/>
+      <span end="19158" id="PMC4954778.nxml.gz-249" start="19151">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-25" type="identity">
+      <class id="little_attention" label=""/>
+      <span end="2506" id="PMC4954778.nxml.gz-25" start="2490">little attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-250" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19318" id="PMC4954778.nxml.gz-250" start="19209">Because POMC was not brought to control levels, vitamins other than folate may play a role in correcting POMC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-251" type="identity">
+      <class id="because" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-252" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="19216" id="PMC4954778.nxml.gz-252" start="19209">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-253" type="identity">
+      <class id="was_not" label=""/>
+      <span end="19229" id="PMC4954778.nxml.gz-253" start="19222">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-254" type="identity">
+      <class id="other" label=""/>
+      <span end="19271" id="PMC4954778.nxml.gz-254" start="19266">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-255" type="identity">
+      <class id="may" label=""/>
+      <span end="19287" id="PMC4954778.nxml.gz-255" start="19284">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-256" type="identity">
+      <class id="role" label=""/>
+      <span end="19299" id="PMC4954778.nxml.gz-256" start="19295">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19452" id="PMC4954778.nxml.gz-257" start="19320">The HFol pup diet reduced SeroR2A expression in mature offspring of the dams fed the HV diet, but not by the HV pup diet (Figure 5b)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-258" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="19421" id="PMC4954778.nxml.gz-258" start="19414">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-259" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19546" id="PMC4954778.nxml.gz-259" start="19454">BDNF was corrected to similar levels by the HV diet, and only partially by the HFol pup diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2815" id="PMC4954778.nxml.gz-26" start="2508">We have shown recently that feeding a diet containing 10-fold the recommended multivitamin content (HV) to Wistar rats during pregnancy results in increased food intake, obesity and characteristics of the metabolic syndrome in both adult male4and female5offspring weaned to the recommended vitamin (RV) diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-260" type="identity">
+      <class id="similar" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-261" type="identity">
+      <class id="only" label=""/>
+      <span end="19515" id="PMC4954778.nxml.gz-261" start="19511">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-262" type="identity">
+      <class id="partially" label=""/>
+      <span end="19525" id="PMC4954778.nxml.gz-262" start="19516">partially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19785" id="PMC4954778.nxml.gz-263" start="19548">Previous studies have shown that BDNF increases serotonin turnover in the hypothalamus,30,31suggesting that the effect of gestational and post-weaning diets on BDNF mRNA levels may explain some compensatory response in SeroR2A expression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-264" type="identity">
+      <class id="previous...studies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-266" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="19575" id="PMC4954778.nxml.gz-266" start="19565">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-267" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="19650" id="PMC4954778.nxml.gz-267" start="19640">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-268" type="identity">
+      <class id="effect" label=""/>
+      <span end="19666" id="PMC4954778.nxml.gz-268" start="19660">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-269" type="identity">
+      <class id="may" label=""/>
+      <span end="19728" id="PMC4954778.nxml.gz-269" start="19725">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-27" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="2521" id="PMC4954778.nxml.gz-27" start="2511">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-270" type="identity">
+      <class id="explain" label=""/>
+      <span end="19736" id="PMC4954778.nxml.gz-270" start="19729">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-271" type="identity">
+      <class id="some" label=""/>
+      <span end="19741" id="PMC4954778.nxml.gz-271" start="19737">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-272" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19947" id="PMC4954778.nxml.gz-272" start="19787">The fact that we did not observe differences in other subtypes of SeroR may indicate that SeroR2A is more sensitive to BDNF-induced changes by the vitamin diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-273" type="identity">
+      <class id="did_not" label=""/>
+      <span end="19811" id="PMC4954778.nxml.gz-273" start="19804">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-274" type="identity">
+      <class id="other" label=""/>
+      <span end="19840" id="PMC4954778.nxml.gz-274" start="19835">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-275" type="identity">
+      <class id="may" label=""/>
+      <span end="19862" id="PMC4954778.nxml.gz-275" start="19859">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-276" type="identity">
+      <class id="indicate" label=""/>
+      <span end="19871" id="PMC4954778.nxml.gz-276" start="19863">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-277" type="identity">
+      <class id="because" label=""/>
+      <span end="19956" id="PMC4954778.nxml.gz-277" start="19949">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20187" id="PMC4954778.nxml.gz-278" start="19949">Because BDNF may be differentially expressed in specific regions of the hypothalamus, where high levels are present in the ventromedial hypothalamus,32the relationship between BDNF and SeroR is unknown from whole hypothalamus in our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-279" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19968" id="PMC4954778.nxml.gz-279" start="19962">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-28" type="identity">
+      <class id="recently" label=""/>
+      <span end="2530" id="PMC4954778.nxml.gz-28" start="2522">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-280" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="19983" id="PMC4954778.nxml.gz-280" start="19969">differentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-281" type="identity">
+      <class id="relationship" label=""/>
+      <span end="20116" id="PMC4954778.nxml.gz-281" start="20104">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-282" type="identity">
+      <class id="unknown" label=""/>
+      <span end="20150" id="PMC4954778.nxml.gz-282" start="20143">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-283" type="identity">
+      <class id="our_study" label=""/>
+      <span end="20187" id="PMC4954778.nxml.gz-283" start="20178">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-284" type="identity">
+      <class id="although" label=""/>
+      <span end="20197" id="PMC4954778.nxml.gz-284" start="20189">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-285" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20360" id="PMC4954778.nxml.gz-285" start="20189">Although folate has been shown to be an active participant in methyltransfer reactions,12global methylation was not affected by either the gestational or post-weaning diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-286" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="20219" id="PMC4954778.nxml.gz-286" start="20205">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-287" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-288" type="identity">
+      <class id="affected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-289" type="identity">
+      <class id="either...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-29" type="identity">
+      <class id="recommended" label=""/>
+      <span end="2585" id="PMC4954778.nxml.gz-29" start="2574">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-291" type="identity">
+      <class id="however" label=""/>
+      <span end="20369" id="PMC4954778.nxml.gz-291" start="20362">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-292" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20575" id="PMC4954778.nxml.gz-292" start="20362">However this is not surprising because previous studies have reported that DNA methylation of genes in the absence of a detectable change in global methylation, suggesting that epigenetic changes are site-specific</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-293" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="20392" id="PMC4954778.nxml.gz-293" start="20378">not surprising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-294" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="20400" id="PMC4954778.nxml.gz-294" start="20393">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-295" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="20417" id="PMC4954778.nxml.gz-295" start="20401">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-296" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="20431" id="PMC4954778.nxml.gz-296" start="20418">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-297" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="20533" id="PMC4954778.nxml.gz-297" start="20523">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-298" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20797" id="PMC4954778.nxml.gz-298" start="20578">In addition, the RV, HV and HFol diets in our study contain high amounts of choline, which is another factor affecting DNA methylation,34,35and it alone may have obscured detection of the effect of folate on methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-299" type="identity">
+      <class id="our_study" label=""/>
+      <span end="20629" id="PMC4954778.nxml.gz-299" start="20620">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-3" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="377" id="PMC4954778.nxml.gz-3" start="365">To determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-30" type="identity">
+      <class id="recommended" label=""/>
+      <span end="2797" id="PMC4954778.nxml.gz-30" start="2786">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-300" type="identity">
+      <class id="another" label=""/>
+      <span end="20679" id="PMC4954778.nxml.gz-300" start="20672">another</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-301" type="identity">
+      <class id="factor" label=""/>
+      <span end="20686" id="PMC4954778.nxml.gz-301" start="20680">factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-302" type="identity">
+      <class id="affecting" label=""/>
+      <span end="20696" id="PMC4954778.nxml.gz-302" start="20687">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-303" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="20730" id="PMC4954778.nxml.gz-303" start="20725">alone</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-304" type="identity">
+      <class id="may" label=""/>
+      <span end="20734" id="PMC4954778.nxml.gz-304" start="20731">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-305" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="20748" id="PMC4954778.nxml.gz-305" start="20740">obscured</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-306" type="identity">
+      <class id="effect" label=""/>
+      <span end="20772" id="PMC4954778.nxml.gz-306" start="20766">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-307" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20907" id="PMC4954778.nxml.gz-307" start="20799">The metabolism of choline and other methyl group vitamins (ie. folate, vitamin B6 and B12) is closely linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-308" type="identity">
+      <class id="other" label=""/>
+      <span end="20834" id="PMC4954778.nxml.gz-308" start="20829">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-309" type="identity">
+      <class id="linked" label=""/>
+      <span end="20907" id="PMC4954778.nxml.gz-309" start="20901">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-30909" type="identity">
+      <class id="subject_scope"/>
+      <span end="4392" id="PMC4954778.nxml.gz-30910" start="4193">Because methyl group vitamins, and specifically folate, have been shown to participate in epigenetic changes through its functions in DNA methylation,12we also fed offspring a high folate (HFol) diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-30911" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-30913" type="identity">
+      <class id="previous...studies"/>
+      <span end="19564" id="PMC4954778.nxml.gz-30914" start="19548">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3043" id="PMC4954778.nxml.gz-31" start="2817">Because the hypothalamus is an important regulator of food intake and appetite control,6it can be hypothesized that the HV diet alters development of feeding neurocircuitry in the offspring resulting in an obesogenic phenotype</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-310" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21033" id="PMC4954778.nxml.gz-310" start="20911">A significant weakness of the study arises from the lack of measurement of gene expression at different stages of maturity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-311" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-312" type="identity">
+      <class id="weakness" label=""/>
+      <span end="20933" id="PMC4954778.nxml.gz-312" start="20925">weakness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-313" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="20970" id="PMC4954778.nxml.gz-313" start="20963">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-314" type="identity">
+      <class id="thus" label=""/>
+      <span end="21039" id="PMC4954778.nxml.gz-314" start="21035">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21132" id="PMC4954778.nxml.gz-315" start="21035">Thus, we do not know the stage of maturation when the post-weaning diets altered the hypothalamus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-316" type="identity">
+      <class id="not_know" label=""/>
+      <span end="21055" id="PMC4954778.nxml.gz-316" start="21047">not know</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-317" type="identity">
+      <class id="when" label=""/>
+      <span end="21084" id="PMC4954778.nxml.gz-317" start="21080">when</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-318" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21358" id="PMC4954778.nxml.gz-318" start="21134">In addition to hypothalamic genes, measurement of genes in regions of the brain involved in reward and motivation may have contributed to a fuller understanding of the overall impact of the diets on regulation of food intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-319" type="identity">
+      <class id="involved" label=""/>
+      <span end="21222" id="PMC4954778.nxml.gz-319" start="21214">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-32" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2824" id="PMC4954778.nxml.gz-32" start="2817">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-320" type="identity">
+      <class id="may" label=""/>
+      <span end="21251" id="PMC4954778.nxml.gz-320" start="21248">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-321" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="21268" id="PMC4954778.nxml.gz-321" start="21257">contributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-322" type="identity">
+      <class id="impact" label=""/>
+      <span end="21316" id="PMC4954778.nxml.gz-322" start="21310">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-323" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21600" id="PMC4954778.nxml.gz-323" start="21360">It has been shown that mice fed post-weaning a high fat diet (60% calories from fat) had lower expression of the μ-opioid receptor gene which influences reward circuitry in the ventral tegmental area, nucleus accumbens and prefrontal cortex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-324" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="21377" id="PMC4954778.nxml.gz-324" start="21363">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-325" type="identity">
+      <class id="influences" label=""/>
+      <span end="21512" id="PMC4954778.nxml.gz-325" start="21502">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-326" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21804" id="PMC4954778.nxml.gz-326" start="21604">In conclusion, the obesogenic phenotype in offspring from HV fed dams may be a consequence of altered hypothalamic control of feeding behavior but can be prevented by feeding them HV or HFol pup diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-327" type="identity">
+      <class id="conclusion" label=""/>
+      <span end="21617" id="PMC4954778.nxml.gz-327" start="21607">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-328" type="identity">
+      <class id="may_be" label=""/>
+      <span end="21680" id="PMC4954778.nxml.gz-328" start="21674">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-329" type="identity">
+      <class id="consequence" label=""/>
+      <span end="21694" id="PMC4954778.nxml.gz-329" start="21683">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-33" type="identity">
+      <class id="important" label=""/>
+      <span end="2857" id="PMC4954778.nxml.gz-33" start="2848">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-330" type="identity">
+      <class id="but" label=""/>
+      <span end="21750" id="PMC4954778.nxml.gz-330" start="21747">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-331" type="identity">
+      <class id="can" label=""/>
+      <span end="21754" id="PMC4954778.nxml.gz-331" start="21751">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-34" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-35" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="2927" id="PMC4954778.nxml.gz-35" start="2915">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3192" id="PMC4954778.nxml.gz-36" start="3045">Disordered regulation of feeding pathways can affect growth and metabolism, consequently driving the appearance of metabolic syndrome later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-37" type="identity">
+      <class id="can" label=""/>
+      <span end="3090" id="PMC4954778.nxml.gz-37" start="3087">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-38" type="identity">
+      <class id="affect" label=""/>
+      <span end="3097" id="PMC4954778.nxml.gz-38" start="3091">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-39" type="identity">
+      <class id="consequently" label=""/>
+      <span end="3133" id="PMC4954778.nxml.gz-39" start="3121">consequently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="650" id="PMC4954778.nxml.gz-4" start="365">To determine if the effects of HV gestational diets on obesogenic phenotypes in the offspring arise as a consequence of altered hypothalamic control of feeding behavior and if their increased food intake could be prevented by feeding them HV or high folate (10-fold folate, HFol) diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-40" type="identity">
+      <class id="driving" label=""/>
+      <span end="3141" id="PMC4954778.nxml.gz-40" start="3134">driving</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-41" type="identity">
+      <class id="appearance" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3474" id="PMC4954778.nxml.gz-42" start="3197">An extension of the concept that early life factors contribute to chronic diseases is described by the predictive adaptive response (PAR) hypothesis, which suggests that a mismatch between in utero and postnatal environment increases the risk of developing disease in adulthood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-43" type="identity">
+      <class id="the_concept" label=""/>
+      <span end="3224" id="PMC4954778.nxml.gz-43" start="3213">the concept</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-44" type="identity">
+      <class id="factors" label=""/>
+      <span end="3248" id="PMC4954778.nxml.gz-44" start="3241">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-45" type="identity">
+      <class id="contribute" label=""/>
+      <span end="3259" id="PMC4954778.nxml.gz-45" start="3249">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-46" type="identity">
+      <class id="described" label=""/>
+      <span end="3292" id="PMC4954778.nxml.gz-46" start="3283">described</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-47" type="identity">
+      <class id="predictive" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-48" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="3345" id="PMC4954778.nxml.gz-48" start="3335">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-49" type="identity">
+      <class id="suggests" label=""/>
+      <span end="3361" id="PMC4954778.nxml.gz-49" start="3353">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-5" type="identity">
+      <class id="if" label=""/>
+      <span end="380" id="PMC4954778.nxml.gz-5" start="378">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3630" id="PMC4954778.nxml.gz-50" start="3479">It has been proposed that the offspring modify their phenotype based on their in utero environment in order to adapt to the predicted postnatal setting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-51" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3490" id="PMC4954778.nxml.gz-51" start="3482">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-52" type="identity">
+      <class id="proposed" label=""/>
+      <span end="3499" id="PMC4954778.nxml.gz-52" start="3491">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-53" type="identity">
+      <class id="based_on" label=""/>
+      <span end="3550" id="PMC4954778.nxml.gz-53" start="3542">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-54" type="identity">
+      <class id="in_order_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-55" type="identity">
+      <class id="predicted" label=""/>
+      <span end="3612" id="PMC4954778.nxml.gz-55" start="3603">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3811" id="PMC4954778.nxml.gz-56" start="3632">Based on the PAR hypothesis, the high multivitamin gestational diet would lead to developmental adaptation in the offspring consistent with a high vitamin post-weaning environment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-57" type="identity">
+      <class id="based_on" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-58" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="3640" id="PMC4954778.nxml.gz-58" start="3632">Based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-59" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="3659" id="PMC4954778.nxml.gz-59" start="3649">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-6" type="identity">
+      <class id="effects" label=""/>
+      <span end="392" id="PMC4954778.nxml.gz-6" start="385">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-60" type="identity">
+      <class id="would" label=""/>
+      <span end="3705" id="PMC4954778.nxml.gz-60" start="3700">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-61" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="3713" id="PMC4954778.nxml.gz-61" start="3706">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-62" type="identity">
+      <class id="consistent" label=""/>
+      <span end="3766" id="PMC4954778.nxml.gz-62" start="3756">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-63" type="identity">
+      <class id="if_so" label=""/>
+      <span end="3818" id="PMC4954778.nxml.gz-63" start="3813">If so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3994" id="PMC4954778.nxml.gz-64" start="3813">If so, it would be predicted that it is this mismatch between the HV diet fed to the dams and the vitamin content of diets fed to the offspring that leads to an obesogenic phenotype</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-65" type="identity">
+      <class id="would_be" label=""/>
+      <span end="3831" id="PMC4954778.nxml.gz-65" start="3823">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-66" type="identity">
+      <class id="predicted" label=""/>
+      <span end="3841" id="PMC4954778.nxml.gz-66" start="3832">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-67" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4190" id="PMC4954778.nxml.gz-67" start="3996">The effect of high vitamin maternal diets on chronic disease in the offspring can be attributed primarily to epigenetic modulation of gene expression leading to programming of regulatory systems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-68" type="identity">
+      <class id="effect" label=""/>
+      <span end="4006" id="PMC4954778.nxml.gz-68" start="4000">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-69" type="identity">
+      <class id="can" label=""/>
+      <span end="4077" id="PMC4954778.nxml.gz-69" start="4074">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-7" type="identity">
+      <class id="as" label=""/>
+      <span end="467" id="PMC4954778.nxml.gz-7" start="465">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-70" type="identity">
+      <class id="attributed" label=""/>
+      <span end="4091" id="PMC4954778.nxml.gz-70" start="4081">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-71" type="identity">
+      <class id="primarily" label=""/>
+      <span end="4101" id="PMC4954778.nxml.gz-71" start="4092">primarily</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-73" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4200" id="PMC4954778.nxml.gz-73" start="4193">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-74" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="4264" id="PMC4954778.nxml.gz-74" start="4249">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-75" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4485" id="PMC4954778.nxml.gz-75" start="4476">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4729" id="PMC4954778.nxml.gz-76" start="4476">Therefore, we hypothesized that the effects of HV gestational diets on obesogenic phenotype in the offspring arise as a consequence of altered hypothalamic control of feeding behavior and these effects could be prevented by feeding them HV or HFol diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-77" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="4502" id="PMC4954778.nxml.gz-77" start="4490">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-78" type="identity">
+      <class id="effects" label=""/>
+      <span end="4519" id="PMC4954778.nxml.gz-78" start="4512">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-79" type="identity">
+      <class id="as" label=""/>
+      <span end="4593" id="PMC4954778.nxml.gz-79" start="4591">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-8" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-80" type="identity">
+      <class id="consequence" label=""/>
+      <span end="4607" id="PMC4954778.nxml.gz-80" start="4596">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-81" type="identity">
+      <class id="effects" label=""/>
+      <span end="4677" id="PMC4954778.nxml.gz-81" start="4670">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-82" type="identity">
+      <class id="could_be" label=""/>
+      <span end="4686" id="PMC4954778.nxml.gz-82" start="4678">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4993" id="PMC4954778.nxml.gz-83" start="4731">Our primary objective was to compare the effects of RV, HV and HFol pup diets on food intake, body weight, glucose control and hypothalamic gene expression of feeding neuropeptides in offspring born to HV dams with offspring born to RV dams and weaned to RV diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-84" type="identity">
+      <class id="objective" label=""/>
+      <span end="4752" id="PMC4954778.nxml.gz-84" start="4743">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-85" type="identity">
+      <class id="effects" label=""/>
+      <span end="4779" id="PMC4954778.nxml.gz-85" start="4772">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-9" type="identity">
+      <class id="consequence" label=""/>
+      <span end="481" id="PMC4954778.nxml.gz-9" start="470">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11396" id="PMC4954778.nxml.gz-92" start="11263">The acceptance capacity of methyl groups in the whole genome is known to be inversely related to the exogenous3H-methyl incorporation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-93" type="identity">
+      <class id="is_known" label=""/>
+      <span end="11332" id="PMC4954778.nxml.gz-93" start="11324">is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-94" type="identity">
+      <class id="related" label=""/>
+      <span end="11356" id="PMC4954778.nxml.gz-94" start="11349">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-98" type="identity">
+      <class id="in_contrast" label=""/>
+      <span end="12669" id="PMC4954778.nxml.gz-98" start="12658">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4954778.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12857" id="PMC4954778.nxml.gz-99" start="12658">In contrast, male offspring from the HV dams weaned to either the HFol or HV pup diet did not differ in food intake, weight gain and glucose response compared to those from the RV dams (Figure 2,3,4)</span>
+    </annotation>
+  </document>
+</knowtator-project>

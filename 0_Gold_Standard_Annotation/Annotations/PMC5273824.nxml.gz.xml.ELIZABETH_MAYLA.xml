@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5273824.nxml.gz" text-file="PMC5273824.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="758" id="PMC5273824.nxml.gz-10" start="601">The level of 25-hydroxy Vitamin D (25-OH Vit D) and the sources of Vitamin D intake and the frequency of food consumption rich in Vitamin D were investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-100" type="identity">
+      <class id="comparable" label=""/>
+      <span end="13206" id="PMC5273824.nxml.gz-100" start="13196">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-101" type="identity">
+      <class id="if" label=""/>
+      <span end="13317" id="PMC5273824.nxml.gz-101" start="13315">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-102" type="identity">
+      <class id="if" label=""/>
+      <span end="13382" id="PMC5273824.nxml.gz-102" start="13380">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13603" id="PMC5273824.nxml.gz-103" start="13464">The Vitamin D deficiency level identified in this study was 20.4%, which is lower than those identified in the studies discussed previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-104" type="identity">
+      <class id="identified" label=""/>
+      <span end="13505" id="PMC5273824.nxml.gz-104" start="13495">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-105" type="identity">
+      <class id="this_study" label=""/>
+      <span end="13519" id="PMC5273824.nxml.gz-105" start="13509">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-106" type="identity">
+      <class id="identified" label=""/>
+      <span end="13567" id="PMC5273824.nxml.gz-106" start="13557">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-107" type="identity">
+      <class id="previously" label=""/>
+      <span end="13603" id="PMC5273824.nxml.gz-107" start="13593">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13710" id="PMC5273824.nxml.gz-108" start="13644">Sunlight exposure time has an important impact on Vitamin D3 level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-109" type="identity">
+      <class id="important" label=""/>
+      <span end="13683" id="PMC5273824.nxml.gz-109" start="13674">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-11" type="identity">
+      <class id="investigated" label=""/>
+      <span end="758" id="PMC5273824.nxml.gz-11" start="746">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-110" type="identity">
+      <class id="impact" label=""/>
+      <span end="13690" id="PMC5273824.nxml.gz-110" start="13684">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-111" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14234" id="PMC5273824.nxml.gz-111" start="14078">The seasonal variations of serum 25-OH Vitamin D level detected in these subjects are consistent with natural environmental changes in the area of residence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-112" type="identity">
+      <class id="variations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-113" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="14141" id="PMC5273824.nxml.gz-113" start="14133">detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-114" type="identity">
+      <class id="consistent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-115" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="14174" id="PMC5273824.nxml.gz-115" start="14164">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-116" type="identity">
+      <class id="thus" label=""/>
+      <span end="14240" id="PMC5273824.nxml.gz-116" start="14236">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14358" id="PMC5273824.nxml.gz-117" start="14236">Thus, the strength and duration of sunlight exposure become the main factors affecting the Vitamin D level in their bodies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-118" type="identity">
+      <class id="factors" label=""/>
+      <span end="14312" id="PMC5273824.nxml.gz-118" start="14305">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-119" type="identity">
+      <class id="affecting" label=""/>
+      <span end="14322" id="PMC5273824.nxml.gz-119" start="14313">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14502" id="PMC5273824.nxml.gz-120" start="14360">Besides sunlight exposure, Vitamin D supplementation is also an important factor that affects serum 25-OH Vitamin D level among women with GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-121" type="identity">
+      <class id="important" label=""/>
+      <span end="14433" id="PMC5273824.nxml.gz-121" start="14424">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-122" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="14440" id="PMC5273824.nxml.gz-122" start="14434">factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-123" type="identity">
+      <class id="affects" label=""/>
+      <span end="14453" id="PMC5273824.nxml.gz-123" start="14446">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-124" type="identity">
+      <class id="this_study" label=""/>
+      <span end="14514" id="PMC5273824.nxml.gz-124" start="14504">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14591" id="PMC5273824.nxml.gz-125" start="14504">This study finds that 85.7% of pregnant women received supplements containing Vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-126" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="14520" id="PMC5273824.nxml.gz-126" start="14515">finds</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-127" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-128" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14893" id="PMC5273824.nxml.gz-128" start="14782">In addition, participants with GDM in this study were mostly urban residents with a higher socioeconomic status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-129" type="identity">
+      <class id="this...study" label=""/>
+      <span end="14830" id="PMC5273824.nxml.gz-129" start="14820">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-13" type="identity">
+      <class id="difference" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-130" type="identity">
+      <class id="mostly" label=""/>
+      <span end="14842" id="PMC5273824.nxml.gz-130" start="14836">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-132" type="identity">
+      <class id="based_on" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15153" id="PMC5273824.nxml.gz-133" start="15014">It is noted that the detection rate of serum 25-OH Vitamin D2 in the study is 19.4%, higher than the usual 5% in the general population [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-134" type="identity">
+      <class id="noted" label=""/>
+      <span end="15025" id="PMC5273824.nxml.gz-134" start="15020">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-135" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15044" id="PMC5273824.nxml.gz-135" start="15035">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-136" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="15120" id="PMC5273824.nxml.gz-136" start="15106">than the usual</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-137" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-138" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-139" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1666" id="PMC5273824.nxml.gz-14" start="1512">The diet records showed that the frequencies of consumption of dairy products and eggs among patients were 7.5 ± 3.8/week and 5.6 ± 2.2/week, respectively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-140" type="identity">
+      <class id="this_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-141" type="identity">
+      <class id="however" label=""/>
+      <span end="15257" id="PMC5273824.nxml.gz-141" start="15250">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15397" id="PMC5273824.nxml.gz-142" start="15250">However, only four out of nineteen participants with supplement use who was also positive for Vitamin D2 received Vitamin D2-containing supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-143" type="identity">
+      <class id="only" label=""/>
+      <span end="15263" id="PMC5273824.nxml.gz-143" start="15259">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15472" id="PMC5273824.nxml.gz-144" start="15399">25-OH Vitamin D2 is also detected in the serum of these four participants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-145" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15432" id="PMC5273824.nxml.gz-145" start="15424">detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-146" type="identity">
+      <class id="detected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-147" type="identity">
+      <class id="therefore" label=""/>
+      <span end="15483" id="PMC5273824.nxml.gz-147" start="15474">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15606" id="PMC5273824.nxml.gz-148" start="15474">Therefore, consumption of Vitamin D2-containing supplements is associated with higher Vitamin D2 detection rate among pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-149" type="identity">
+      <class id="associated" label=""/>
+      <span end="15547" id="PMC5273824.nxml.gz-149" start="15537">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-15" type="identity">
+      <class id="showed" label=""/>
+      <span end="1535" id="PMC5273824.nxml.gz-15" start="1529">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-150" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15580" id="PMC5273824.nxml.gz-150" start="15571">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-151" type="identity">
+      <class id="however" label=""/>
+      <span end="15615" id="PMC5273824.nxml.gz-151" start="15608">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15665" id="PMC5273824.nxml.gz-152" start="15608">However, other contributing factors could not be excluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-153" type="identity">
+      <class id="other" label=""/>
+      <span end="15622" id="PMC5273824.nxml.gz-153" start="15617">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-154" type="identity">
+      <class id="factors" label=""/>
+      <span end="15643" id="PMC5273824.nxml.gz-154" start="15636">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-155" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-156" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15665" id="PMC5273824.nxml.gz-156" start="15644">could not be excluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-158" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15839" id="PMC5273824.nxml.gz-159" start="15746">Previous studies identify edible fungi as the primary plant-based dietary source of Vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1791" id="PMC5273824.nxml.gz-16" start="1680">Most of the patients took Vitamin D supplements which may help to maintain the nutritional balance of Vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-160" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="15762" id="PMC5273824.nxml.gz-160" start="15746">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-161" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15771" id="PMC5273824.nxml.gz-161" start="15763">identify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-162" type="identity">
+      <class id="as" label=""/>
+      <span end="15787" id="PMC5273824.nxml.gz-162" start="15785">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-163" type="identity">
+      <class id="however" label=""/>
+      <span end="15848" id="PMC5273824.nxml.gz-163" start="15841">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15935" id="PMC5273824.nxml.gz-164" start="15841">However, edible fungi were hardly seen in the dietary records among participants in this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-165" type="identity">
+      <class id="seen" label=""/>
+      <span end="15879" id="PMC5273824.nxml.gz-165" start="15875">seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-166" type="identity">
+      <class id="this_study" label=""/>
+      <span end="15935" id="PMC5273824.nxml.gz-166" start="15925">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-167" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16056" id="PMC5273824.nxml.gz-167" start="15937">Such low consumption rate and amount cannot be the leading cause of high Vitamin D detection rate in these participants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-168" type="identity">
+      <class id="cannot_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-169" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15983" id="PMC5273824.nxml.gz-169" start="15974">cannot be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-17" type="identity">
+      <class id="may" label=""/>
+      <span end="1737" id="PMC5273824.nxml.gz-17" start="1734">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-170" type="identity">
+      <class id="leading_cause" label=""/>
+      <span end="16001" id="PMC5273824.nxml.gz-170" start="15988">leading cause</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-171" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16029" id="PMC5273824.nxml.gz-171" start="16020">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16234" id="PMC5273824.nxml.gz-172" start="16058">Accumulation of Vitamin D2 in food chain, such as from poultry fed with Vitamin D2 fortified feeds and their eggs, also contribute to elevated Vitamin D2 levels in human bodies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-173" type="identity">
+      <class id="contribute" label=""/>
+      <span end="16188" id="PMC5273824.nxml.gz-173" start="16178">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-174" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-175" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-176" type="identity">
+      <class id="indicated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-177" type="identity">
+      <class id="as" label=""/>
+      <span end="16436" id="PMC5273824.nxml.gz-177" start="16434">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16554" id="PMC5273824.nxml.gz-178" start="16434">As a result, higher egg consumption among participants in this study may explain the higher detection rate of Vitamin D2</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-179" type="identity">
+      <class id="may" label=""/>
+      <span end="16506" id="PMC5273824.nxml.gz-179" start="16503">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2190" id="PMC5273824.nxml.gz-18" start="2100">Vitamin D deficiency has been linked to rickets in children and osteomalacia in adults [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-180" type="identity">
+      <class id="explain" label=""/>
+      <span end="16514" id="PMC5273824.nxml.gz-180" start="16507">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-181" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16535" id="PMC5273824.nxml.gz-181" start="16526">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-182" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16729" id="PMC5273824.nxml.gz-182" start="16556">In addition, researchers find dairy products in China are mainly fortified with Vitamin D3, which will not translate into higher Vitamin D2 detection rate among participants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-183" type="identity">
+      <class id="mainly" label=""/>
+      <span end="16620" id="PMC5273824.nxml.gz-183" start="16614">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-184" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-185" type="identity">
+      <class id="will" label=""/>
+      <span end="16658" id="PMC5273824.nxml.gz-185" start="16654">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-186" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16705" id="PMC5273824.nxml.gz-186" start="16696">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-187" type="identity">
+      <class id="in_summary" label=""/>
+      <span end="16754" id="PMC5273824.nxml.gz-187" start="16744">In summary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16918" id="PMC5273824.nxml.gz-188" start="16744">In summary, 20.4% pregnant women with GDM in their middle and late pregnancy are deficient in Vitamin D, though their Vitamin D levels were higher than the general population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-189" type="identity">
+      <class id="though" label=""/>
+      <span end="16855" id="PMC5273824.nxml.gz-189" start="16849">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-19" type="identity">
+      <class id="has...been" label=""/>
+      <span end="2129" id="PMC5273824.nxml.gz-19" start="2121">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17090" id="PMC5273824.nxml.gz-190" start="16920">It is necessary to increase exogenous Vitamin D intake in this population especially in fall and winter, when there is an increase of Vitamin D deficiency in Beijing area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-191" type="identity">
+      <class id="necessary" label=""/>
+      <span end="16935" id="PMC5273824.nxml.gz-191" start="16926">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17154" id="PMC5273824.nxml.gz-192" start="17092">This group often uses dietary supplements containing Vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-193" type="identity">
+      <class id="often" label=""/>
+      <span end="17108" id="PMC5273824.nxml.gz-193" start="17103">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-194" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17294" id="PMC5273824.nxml.gz-194" start="17156">They also have a Vitamin D2 detection rate of 19.4%, which can be explained by consuming edible fungi or supplements containing Vitamin D2</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-195" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17193" id="PMC5273824.nxml.gz-195" start="17184">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-196" type="identity">
+      <class id="can" label=""/>
+      <span end="17218" id="PMC5273824.nxml.gz-196" start="17215">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-197" type="identity">
+      <class id="explained" label=""/>
+      <span end="17231" id="PMC5273824.nxml.gz-197" start="17222">explained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-198" type="identity">
+      <class id="alternatively" label=""/>
+      <span end="17309" id="PMC5273824.nxml.gz-198" start="17296">Alternatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17387" id="PMC5273824.nxml.gz-199" start="17296">Alternatively, higher eggs and poultry consumption may also explain the high detection rate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-2" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-20" type="identity">
+      <class id="linked" label=""/>
+      <span end="2136" id="PMC5273824.nxml.gz-20" start="2130">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-200" type="identity">
+      <class id="may" label=""/>
+      <span end="17350" id="PMC5273824.nxml.gz-200" start="17347">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-201" type="identity">
+      <class id="explain" label=""/>
+      <span end="17363" id="PMC5273824.nxml.gz-201" start="17356">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-202" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17382" id="PMC5273824.nxml.gz-202" start="17373">detection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-203" type="identity">
+      <class id="further_study" label=""/>
+      <span end="17402" id="PMC5273824.nxml.gz-203" start="17389">Further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17428" id="PMC5273824.nxml.gz-204" start="17389">Further study is needed to confirm this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-205" type="identity">
+      <class id="study...is_needed" label=""/>
+      <span end="17412" id="PMC5273824.nxml.gz-205" start="17397">study is needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-206" type="identity">
+      <class id="future_work" label=""/>
+      <span end="17423" id="PMC5273824.nxml.gz-206" start="17413">to confirm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-207" type="identity">
+      <class id="confirm" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3066" id="PMC5273824.nxml.gz-21" start="2908">Study has shown that exposing edible mushroom to ultraviolet B light could increase its Vitamin D2 content and raise serum 25-OH VitD2 in healthy adults [2,3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-22" type="identity">
+      <class id="has_shown" label=""/>
+      <span end="2923" id="PMC5273824.nxml.gz-22" start="2914">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-23" type="identity">
+      <class id="could" label=""/>
+      <span end="2982" id="PMC5273824.nxml.gz-23" start="2977">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3155" id="PMC5273824.nxml.gz-24" start="3068">Study also has shown that serum 25-OH VitD2 detection rate is less than 5% in China [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-25" type="identity">
+      <class id="has_shown" label=""/>
+      <span end="3088" id="PMC5273824.nxml.gz-25" start="3079">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-26" type="identity">
+      <class id="according_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3471" id="PMC5273824.nxml.gz-28" start="3388">Serum 25-OH Vitamin D level is recognized as the best indicator of Vitamin D status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-29" type="identity">
+      <class id="recognized" label=""/>
+      <span end="3429" id="PMC5273824.nxml.gz-29" start="3419">recognized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="222" id="PMC5273824.nxml.gz-3" start="127">Vitamin D deficiency is a common issue, which has relation with GDM, during the pregnant period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-30" type="identity">
+      <class id="as" label=""/>
+      <span end="3432" id="PMC5273824.nxml.gz-30" start="3430">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-30915" type="identity">
+      <class id="important_consideration"/>
+      <span end="3441" id="PMC5273824.nxml.gz-30916" start="3437">best</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-31" type="identity">
+      <class id="indicator" label=""/>
+      <span end="3451" id="PMC5273824.nxml.gz-31" start="3442">indicator</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3634" id="PMC5273824.nxml.gz-32" start="3473">Adequate Vitamin D status (&gt;30 nmol/L) significantly promotes calcium absorption and reduces rickets risks, which was deemed as good Vitamin D nutritional status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-33" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="3597" id="PMC5273824.nxml.gz-33" start="3591">deemed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-34" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-35" type="identity">
+      <class id="some" label=""/>
+      <span end="3640" id="PMC5273824.nxml.gz-35" start="3636">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3826" id="PMC5273824.nxml.gz-36" start="3636">Some researchers defined serum 25-OH Vitamin D lower than 50 nmol/L as diagnostic criteria for Vitamin D deficiency, 50–75 nmol/L as inadequate, and higher than 75 nmol/L as adequate [4,6,7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-37" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-38" type="identity">
+      <class id="defined" label=""/>
+      <span end="3660" id="PMC5273824.nxml.gz-38" start="3653">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-39" type="identity">
+      <class id="as" label=""/>
+      <span end="3706" id="PMC5273824.nxml.gz-39" start="3704">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-4" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="165" id="PMC5273824.nxml.gz-4" start="160">issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-40" type="identity">
+      <class id="as" label=""/>
+      <span end="3768" id="PMC5273824.nxml.gz-40" start="3766">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-41" type="identity">
+      <class id="inadequate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-42" type="identity">
+      <class id="as" label=""/>
+      <span end="3809" id="PMC5273824.nxml.gz-42" start="3807">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-43" type="identity">
+      <class id="previously" label=""/>
+      <span end="3838" id="PMC5273824.nxml.gz-43" start="3828">Previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3893" id="PMC5273824.nxml.gz-44" start="3828">Previously, ELISA was used to measure serum 25-OH Vitamin D level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-45" type="identity">
+      <class id="recently" label=""/>
+      <span end="3903" id="PMC5273824.nxml.gz-45" start="3895">Recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4342" id="PMC5273824.nxml.gz-46" start="3895">Recently, LC-MS/MS became the gold standard of measuring Vitamin D level due to its ability to differentiate and accurately quantify the two subgroups of 25-OH Vitamin D (25-OH Vitamin D2 and 25-OH Vitamin D3); (2) high specificity, which allows differentiation of the target molecule from other metabolic intermediates, as well as avoiding interference as seen in immunological methods; (3) high sensitivity, which allows detection at ng/mL level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-47" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3938" id="PMC5273824.nxml.gz-47" start="3925">gold standard</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-48" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="3974" id="PMC5273824.nxml.gz-48" start="3968">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-49" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4003" id="PMC5273824.nxml.gz-49" start="3990">differentiate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-5" type="identity">
+      <class id="relation" label=""/>
+      <span end="185" id="PMC5273824.nxml.gz-5" start="177">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-50" type="identity">
+      <class id="accurately" label=""/>
+      <span end="4018" id="PMC5273824.nxml.gz-50" start="4008">accurately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-51" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4156" id="PMC5273824.nxml.gz-51" start="4141">differentiation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-52" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-53" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4248" id="PMC5273824.nxml.gz-53" start="4236">interference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-54" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-55" type="identity">
+      <class id="seen" label=""/>
+      <span end="4256" id="PMC5273824.nxml.gz-55" start="4252">seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4448" id="PMC5273824.nxml.gz-56" start="4344">Such method allows nutrition researchers to identify Vitamin D food sources and evaluate dietary pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-57" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4362" id="PMC5273824.nxml.gz-57" start="4356">allows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-58" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-59" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-6" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="232" id="PMC5273824.nxml.gz-6" start="224">To study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4533" id="PMC5273824.nxml.gz-62" start="4450">Vitamin D deficiency is closely associated with Gestational Diabetes Mellitus (GDM)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-63" type="identity">
+      <class id="associated" label=""/>
+      <span end="4492" id="PMC5273824.nxml.gz-63" start="4482">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4833" id="PMC5273824.nxml.gz-64" start="4662">Vitamin D is also a potential immunosuppressant, which down-regulates the expression of pro-inflammation markers, such as TNF-α and IL-2, among pregnant women with GDM [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-65" type="identity">
+      <class id="potential" label=""/>
+      <span end="4691" id="PMC5273824.nxml.gz-65" start="4682">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-66" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4906" id="PMC5273824.nxml.gz-66" start="4835">There is an increased risk of Vitamin D deficiency during pregnancy [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-67" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4861" id="PMC5273824.nxml.gz-67" start="4847">increased risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4998" id="PMC5273824.nxml.gz-68" start="4908">Study has found that the prevalence of Vitamin D deficiency during pregnancy is 66–96% [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-69" type="identity">
+      <class id="found" label=""/>
+      <span end="4923" id="PMC5273824.nxml.gz-69" start="4918">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="411" id="PMC5273824.nxml.gz-7" start="224">To study the Vitamin D nutritional status of pregnant women with gestational diabetes mellitus (GDM) in the middle and late pregnancy and analyze the different sources of Vitamin D intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5154" id="PMC5273824.nxml.gz-70" start="5000">Currently, it is recommended to use multiVitamin or calcium supplements containing Vitamin D for women during pregnancy to increase their Vitamin D intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-71" type="identity">
+      <class id="recommended" label=""/>
+      <span end="5028" id="PMC5273824.nxml.gz-71" start="5017">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5217" id="PMC5273824.nxml.gz-72" start="5156">The dosage is based on dietary intake recommendations [10,11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-73" type="identity">
+      <class id="based_on" label=""/>
+      <span end="5178" id="PMC5273824.nxml.gz-73" start="5170">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-74" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="5209" id="PMC5273824.nxml.gz-74" start="5194">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5321" id="PMC5273824.nxml.gz-75" start="5219">It is important to pay attention to Vitamin D nutritional status in GDM pregnancy nutrition management</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-76" type="identity">
+      <class id="important" label=""/>
+      <span end="5234" id="PMC5273824.nxml.gz-76" start="5225">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-77" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="5251" id="PMC5273824.nxml.gz-77" start="5238">pay attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-78" type="identity">
+      <class id="attention" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5517" id="PMC5273824.nxml.gz-79" start="5323">Using a new assessment technique, we investigated Vitamin D nutritional status among outpatients with GDM in our hospital, and analyzed Vitamin D sources and its association with dietary pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-8" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="369" id="PMC5273824.nxml.gz-8" start="362">analyze</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-80" type="identity">
+      <class id="new" label=""/>
+      <span end="5334" id="PMC5273824.nxml.gz-80" start="5331">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-81" type="identity">
+      <class id="investigated" label=""/>
+      <span end="5372" id="PMC5273824.nxml.gz-81" start="5360">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-82" type="identity">
+      <class id="association" label=""/>
+      <span end="5496" id="PMC5273824.nxml.gz-82" start="5485">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-83" type="identity">
+      <class id="pattern" label=""/>
+      <span end="5517" id="PMC5273824.nxml.gz-83" start="5510">pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9802" id="PMC5273824.nxml.gz-84" start="9553">The serum level of 25-OH Vitamin D2 in the intervention group was 11.61 ± 6.71 (6.06–24.71) nmol/L, however, the serum 25-OH Vitamin D2 level in the fourteen cases in the control group was too low to be detected with the current technology (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-85" type="identity">
+      <class id="however" label=""/>
+      <span end="9660" id="PMC5273824.nxml.gz-85" start="9653">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-86" type="identity">
+      <class id="too...to_be" label=""/>
+      <span end="9745" id="PMC5273824.nxml.gz-86" start="9742">too</span>
+      <span end="9755" id="PMC5273824.nxml.gz-87" start="9750">to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-9" type="identity">
+      <class id="different" label=""/>
+      <span end="383" id="PMC5273824.nxml.gz-9" start="374">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12862" id="PMC5273824.nxml.gz-93" start="12778">Normal Vitamin D level is one of the nutritional management goals for women with GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-94" type="identity">
+      <class id="goals" label=""/>
+      <span end="12843" id="PMC5273824.nxml.gz-94" start="12838">goals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-95" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13186" id="PMC5273824.nxml.gz-95" start="12864">Most women (66–96%) in their middle and late pregnancy in Beijing are Vitamin D deficient if diagnosed with the criteria of serum 25-OH Vitamin D level &lt;50 nmol/L (ELISA method), as indicated in two studies from Department of Endocrinology and Department of Laboratory Medicine in Peking Union Medical College Hospital [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-96" type="identity">
+      <class id="if" label=""/>
+      <span end="12956" id="PMC5273824.nxml.gz-96" start="12954">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-97" type="identity">
+      <class id="as" label=""/>
+      <span end="13045" id="PMC5273824.nxml.gz-97" start="13043">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-98" type="identity">
+      <class id="indicated" label=""/>
+      <span end="13055" id="PMC5273824.nxml.gz-98" start="13046">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5273824.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13462" id="PMC5273824.nxml.gz-99" start="13188">This is comparable with the prevalence of Vitamin D deficiency among the general population in Beijing area (LC-MS method, 11% if diagnosed with serum 25-OH Vitamin D level &lt;25 nmol/L, or 55% if diagnosed with serum 25-OH Vitamin D level between 25 and 50 nmol/L method) [5]</span>
+    </annotation>
+  </document>
+</knowtator-project>

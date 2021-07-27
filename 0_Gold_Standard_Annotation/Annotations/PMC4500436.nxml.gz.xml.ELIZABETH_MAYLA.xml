@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4500436.nxml.gz" text-file="PMC4500436.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="803" id="PMC4500436.nxml.gz-1" start="629">ICDS reflects the country’s obligation to enhance the pre-school education rates and an effective strategy to break the vicious cycle of malnutrition, infection and mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-10" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3290" id="PMC4500436.nxml.gz-10" start="3282">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-11" type="identity">
+      <class id="proposed" label=""/>
+      <span end="3299" id="PMC4500436.nxml.gz-11" start="3291">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1187" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="1916" id="PMC4500436.nxml.gz-1188" start="1907">rationale</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1189" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="2666" id="PMC4500436.nxml.gz-1190" start="2661">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1191" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="3909" id="PMC4500436.nxml.gz-1192" start="3898">the mission</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1193" type="identity">
+      <class id="subject_scope"/>
+      <span end="3978" id="PMC4500436.nxml.gz-1194" start="3898">the mission to enhance and compound the benefit of services delivered under ICDS</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1195" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="5388" id="PMC4500436.nxml.gz-1196" start="5374">to bring about</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-1197" type="identity">
+      <class id="subject_scope"/>
+      <span end="5490" id="PMC4500436.nxml.gz-1198" start="5374">to bring about a significant improvement in the child related health, care, and nutrition practices of the community</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3644" id="PMC4500436.nxml.gz-12" start="3518">Findings of a study revealed the positive impact on reducing the levels of anemia in children between 6-60 months in India (6)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-13" type="identity">
+      <class id="revealed" label=""/>
+      <span end="3546" id="PMC4500436.nxml.gz-13" start="3538">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-14" type="identity">
+      <class id="impact" label=""/>
+      <span end="3566" id="PMC4500436.nxml.gz-14" start="3560">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3893" id="PMC4500436.nxml.gz-15" start="3646">In another study conducted in rural pocket of Varanasi to evaluate the impact of ICDS on maternal nutrition and birth weight, it was concluded that undernourished antenatal women are definitely benefitted by late pregnancy nutrition supplement (7)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-17" type="identity">
+      <class id="impact" label=""/>
+      <span end="3723" id="PMC4500436.nxml.gz-17" start="3717">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4724" id="PMC4500436.nxml.gz-18" start="4574">As a part of the capacity building efforts, the Ministry of Women &amp; Child Development has recommended policy related and institutional transformations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-19" type="identity">
+      <class id="recommended" label=""/>
+      <span end="4675" id="PMC4500436.nxml.gz-19" start="4664">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-2" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="667" id="PMC4500436.nxml.gz-2" start="657">obligation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4966" id="PMC4500436.nxml.gz-20" start="4726">The strategy is to develop Anganwadi as a “vibrant early childhood development centre” by giving greater focus on under three years children, strengthening early childhood education, and by ensuring care and counseling of mothers and family</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-21" type="identity">
+      <class id="future_work" label=""/>
+      <span end="4738" id="PMC4500436.nxml.gz-21" start="4730">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5266" id="PMC4500436.nxml.gz-22" start="4968">In addition, the Ministry is planning to improve the supplementary nutrition services; creating Anganwadi based crèches centers; intensify monitoring, and training activities; to develop linkages with different stakeholders such as Pan-chayati Raj Institutions and ministry of rural development (1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-23" type="identity">
+      <class id="future_work" label=""/>
+      <span end="5005" id="PMC4500436.nxml.gz-23" start="4997">planning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2054" id="PMC4500436.nxml.gz-3" start="1903">The rationale to deliver a bunch of services is to mutually enhance the impact of a specific service with the aid of other services in the long-run (2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-4" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-5" type="identity">
+      <class id="impact" label=""/>
+      <span end="1981" id="PMC4500436.nxml.gz-5" start="1975">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2688" id="PMC4500436.nxml.gz-6" start="2511">As far as the vacancy status is concerned, almost 33.9%, 35%, 7.1%, and 7.2% of CDPOs, Supervisors, Anganwadi workers and Anganwadi helpers posts are still vacant in the country</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-7" type="identity">
+      <class id="concern" label=""/>
+      <span end="2550" id="PMC4500436.nxml.gz-7" start="2543">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-8" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4500436.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3395" id="PMC4500436.nxml.gz-9" start="3143">Different indicator such as the number of beneficiaries enrolled in Anganwadicentre for supplementary nutrition or for preschool education has been proposed to monitor the implementation of the scheme in different Anganwadi centres of the country (1,5)</span>
+    </annotation>
+  </document>
+</knowtator-project>

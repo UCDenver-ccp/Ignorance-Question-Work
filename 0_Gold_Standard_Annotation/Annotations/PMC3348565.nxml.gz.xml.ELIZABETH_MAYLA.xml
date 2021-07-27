@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3348565.nxml.gz" text-file="PMC3348565.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-1" type="identity">
+      <class id="effect" label=""/>
+      <span end="6" id="PMC3348565.nxml.gz-1" start="0">Effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-10" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="326" id="PMC3348565.nxml.gz-10" start="317">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-100" type="identity">
+      <class id="robust" label=""/>
+      <span end="19958" id="PMC3348565.nxml.gz-100" start="19952">robust</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-103" type="identity">
+      <class id="thus" label=""/>
+      <span end="20459" id="PMC3348565.nxml.gz-103" start="20455">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20605" id="PMC3348565.nxml.gz-104" start="20455">Thus the lack of a protective effect of vitamin D against pneumonia is probably not due to misclassification of outcomes or inadequate supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-105" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="20471" id="PMC3348565.nxml.gz-105" start="20464">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-106" type="identity">
+      <class id="protective" label=""/>
+      <span end="20484" id="PMC3348565.nxml.gz-106" start="20474">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-107" type="identity">
+      <class id="effect" label=""/>
+      <span end="20491" id="PMC3348565.nxml.gz-107" start="20485">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-108" type="identity">
+      <class id="probably" label=""/>
+      <span end="20534" id="PMC3348565.nxml.gz-108" start="20526">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-11" type="identity">
+      <class id="whether...and" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-110" type="identity">
+      <class id="misclassification" label=""/>
+      <span end="20563" id="PMC3348565.nxml.gz-110" start="20546">misclassification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-111" type="identity">
+      <class id="inadequate" label=""/>
+      <span end="20589" id="PMC3348565.nxml.gz-111" start="20579">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20994" id="PMC3348565.nxml.gz-112" start="20607">Any misclassification of other causes of raised respiratory rate as pneumonia, under-reporting, or over-reporting would be distributed equally between the two groups since the families, doctors, radiographers, radiologists, and data entry staff were masked to the randomisation groupings and the randomisation was successful since the characteristics were balanced between the two groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-113" type="identity">
+      <class id="misclassification" label=""/>
+      <span end="20628" id="PMC3348565.nxml.gz-113" start="20611">misclassification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-114" type="identity">
+      <class id="other" label=""/>
+      <span end="20637" id="PMC3348565.nxml.gz-114" start="20632">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-115" type="identity">
+      <class id="would_be" label=""/>
+      <span end="20729" id="PMC3348565.nxml.gz-115" start="20721">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-116" type="identity">
+      <class id="however" label=""/>
+      <span end="21003" id="PMC3348565.nxml.gz-116" start="20996">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21182" id="PMC3348565.nxml.gz-117" start="20996">However, a limitation due to the high-risk nature of our population is that the generalisability of our findings to populations with low-to-moderate risk of vitamin deficiency is unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-118" type="identity">
+      <class id="limitation" label=""/>
+      <span end="21017" id="PMC3348565.nxml.gz-118" start="21007">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-119" type="identity">
+      <class id="due...to" label=""/>
+      <span end="21024" id="PMC3348565.nxml.gz-119" start="21018">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-120" type="identity">
+      <class id="unknown" label=""/>
+      <span end="21182" id="PMC3348565.nxml.gz-120" start="21175">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-123" type="identity">
+      <class id="possibly" label=""/>
+      <span end="21250" id="PMC3348565.nxml.gz-123" start="21242">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-125" type="identity">
+      <class id="possible" label=""/>
+      <span end="21298" id="PMC3348565.nxml.gz-125" start="21290">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21490" id="PMC3348565.nxml.gz-126" start="21317">Genotyping, which was not practical in our study setting, might have aided the interpretation of our findings, as shown in a vitamin D supplementation trial for tuberculosis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-127" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="21352" id="PMC3348565.nxml.gz-127" start="21339">not practical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-128" type="identity">
+      <class id="might" label=""/>
+      <span end="21380" id="PMC3348565.nxml.gz-128" start="21375">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-129" type="identity">
+      <class id="interpretation" label=""/>
+      <span end="21410" id="PMC3348565.nxml.gz-129" start="21396">interpretation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-13" type="identity">
+      <class id="will" label=""/>
+      <span end="391" id="PMC3348565.nxml.gz-13" start="387">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-130" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21436" id="PMC3348565.nxml.gz-130" start="21428">as shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21714" id="PMC3348565.nxml.gz-131" start="21494">We accounted for nutritional factors through a diet questionnaire, weight at recruitment, and growth comparison at the end of our study—any nutritional deficiencies would have been equally balanced between the two groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-132" type="identity">
+      <class id="would" label=""/>
+      <span end="21664" id="PMC3348565.nxml.gz-132" start="21659">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-133" type="identity">
+      <class id="have_been" label=""/>
+      <span end="21674" id="PMC3348565.nxml.gz-133" start="21665">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21929" id="PMC3348565.nxml.gz-134" start="21716">As with other studies, dietary calcium deficiency might have led to so-called wastage of body stores of vitamin D in both groups, affecting the maintenance of even higher vitamin D levels in the intervention group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-135" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21737" id="PMC3348565.nxml.gz-135" start="21716">As with other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-136" type="identity">
+      <class id="might" label=""/>
+      <span end="21771" id="PMC3348565.nxml.gz-136" start="21766">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-137" type="identity">
+      <class id="affecting" label=""/>
+      <span end="21855" id="PMC3348565.nxml.gz-137" start="21846">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-138" type="identity">
+      <class id="even" label=""/>
+      <span end="21879" id="PMC3348565.nxml.gz-138" start="21875">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-139" type="identity">
+      <class id="nevertheless" label=""/>
+      <span end="21943" id="PMC3348565.nxml.gz-139" start="21931">Nevertheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1619" id="PMC3348565.nxml.gz-14" start="1421">From 652 children during five separate periods of testing serum calcifediol, only one child in each of two testing periods had results greater than 375 nmol/L in the intervention group—a toxic level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22186" id="PMC3348565.nxml.gz-140" start="21931">Nevertheless, there was a higher (adequate level) mean serum concentration of calcifediol at the end of first supplementation period in the intervention group compared with the lower (not adequate) mean concentrations in the placebo group (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22284" id="PMC3348565.nxml.gz-141" start="22188">Furthermore, adult fracture-outcome supplementation studies21show no benefit from adding calcium</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-143" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22253" id="PMC3348565.nxml.gz-143" start="22249">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22492" id="PMC3348565.nxml.gz-144" start="22286">A further limitation of our study is that it was not feasible to undertake biochemical assessment of the supplements or assess serum concentrations in all participants after each and between supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14401" type="identity">
+      <class id="whether"/>
+      <span end="334" id="PMC3348565.nxml.gz-14402" start="327">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14403" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="4912" id="PMC3348565.nxml.gz-14404" start="4906">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14405" type="identity">
+      <class id="assessed"/>
+      <span end="15756" id="PMC3348565.nxml.gz-14406" start="15748">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14407" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="21200" id="PMC3348565.nxml.gz-14408" start="21195">fewer</span>
+      <span end="21212" id="PMC3348565.nxml.gz-14411" start="21208">than</span>
+      <span end="21225" id="PMC3348565.nxml.gz-14412" start="21216">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14409" type="identity">
+      <class id="anomaly_curious_finding"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14413" type="identity">
+      <class id="subject_scope"/>
+      <span end="21315" id="PMC3348565.nxml.gz-14414" start="21184">There were fewer deaths than we predicted in both groups, possibly due to the intense health surveillance possible during our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14415" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="24559" id="PMC3348565.nxml.gz-14416" start="24546">another trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14417" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="24633" id="PMC3348565.nxml.gz-14418" start="24620">another trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14419" type="identity">
+      <class id="important_consideration"/>
+      <span end="26272" id="PMC3348565.nxml.gz-14420" start="26267">ideal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14421" type="identity">
+      <class id="important_consideration"/>
+      <span end="30181" id="PMC3348565.nxml.gz-14422" start="30171">the burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14423" type="identity">
+      <class id="difficult_task"/>
+      <span end="30141" id="PMC3348565.nxml.gz-14424" start="30135">is not</span>
+      <span end="30157" id="PMC3348565.nxml.gz-14425" start="30151">option</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-14426" type="identity">
+      <class id="subject_scope"/>
+      <span end="30206" id="PMC3348565.nxml.gz-14427" start="30004">In populations with similar characteristics, quarterly population level supplementation of vitamin D to infants and young children is not a policy option for reducing the burden of pneumonia in children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-145" type="identity">
+      <class id="limitation" label=""/>
+      <span end="22306" id="PMC3348565.nxml.gz-145" start="22296">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-146" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="22347" id="PMC3348565.nxml.gz-146" start="22335">not feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-147" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22660" id="PMC3348565.nxml.gz-148" start="22494">Our sample testing suggest that the vitamin D group maintained above mean adequate vitamin D concetrations verses consistently low concentrations in the placebo group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-149" type="identity">
+      <class id="suggest" label=""/>
+      <span end="22520" id="PMC3348565.nxml.gz-149" start="22513">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-15" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1502" id="PMC3348565.nxml.gz-15" start="1498">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-150" type="identity">
+      <class id="consistently" label=""/>
+      <span end="22620" id="PMC3348565.nxml.gz-150" start="22608">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-151" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22837" id="PMC3348565.nxml.gz-151" start="22662">It can be argued that a steady-state adequate vitamin D concentration was not reached in some children because of fluctuations in serum concentrations due to our study regimen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-153" type="identity">
+      <class id="argued" label=""/>
+      <span end="22678" id="PMC3348565.nxml.gz-153" start="22672">argued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-154" type="identity">
+      <class id="some" label=""/>
+      <span end="22755" id="PMC3348565.nxml.gz-154" start="22751">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-155" type="identity">
+      <class id="because" label=""/>
+      <span end="22772" id="PMC3348565.nxml.gz-155" start="22765">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-156" type="identity">
+      <class id="due...to" label=""/>
+      <span end="22819" id="PMC3348565.nxml.gz-156" start="22813">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-157" type="identity">
+      <class id="although" label=""/>
+      <span end="22847" id="PMC3348565.nxml.gz-157" start="22839">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23044" id="PMC3348565.nxml.gz-158" start="22839">Although this is probably true, a sufficient serum concentrations for the immunological effects of vitamin D is unknown and could be higher or lower than that of the skeletal system accepted concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-159" type="identity">
+      <class id="probably" label=""/>
+      <span end="22864" id="PMC3348565.nxml.gz-159" start="22856">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2016" id="PMC3348565.nxml.gz-16" start="1863">Afghanistan has the third highest mortality of children younger than 5 years in the world (257 per 1000 livebirths); a leading cause of this is pneumonia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-160" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="22869" id="PMC3348565.nxml.gz-160" start="22865">true</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-161" type="identity">
+      <class id="effects" label=""/>
+      <span end="22934" id="PMC3348565.nxml.gz-161" start="22927">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-162" type="identity">
+      <class id="unknown" label=""/>
+      <span end="22958" id="PMC3348565.nxml.gz-162" start="22951">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-163" type="identity">
+      <class id="could_be" label=""/>
+      <span end="22971" id="PMC3348565.nxml.gz-163" start="22963">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-164" type="identity">
+      <class id="the_need" label=""/>
+      <span end="23054" id="PMC3348565.nxml.gz-164" start="23046">The need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23185" id="PMC3348565.nxml.gz-165" start="23046">The need for a steady state is currently highly speculative and relates to vitamin D2supplementation for negative cancer22and bone outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-166" type="identity">
+      <class id="speculative" label=""/>
+      <span end="23105" id="PMC3348565.nxml.gz-166" start="23094">speculative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-167" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="23117" id="PMC3348565.nxml.gz-167" start="23110">relates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23499" id="PMC3348565.nxml.gz-168" start="23189">Our findings are at odds with smaller case-control hospital studies that show an enhanced rate of vitamin D deficiency or rickets in children with pneumonia and the increasing evidence suggesting that calcitriol, the biologically active metabolite of vitamin D, has an important role in the human immune system</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-169" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="23213" id="PMC3348565.nxml.gz-169" start="23206">at odds</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-17" type="identity">
+      <class id="leading_cause" label=""/>
+      <span end="1995" id="PMC3348565.nxml.gz-17" start="1982">leading cause</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-170" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23226" id="PMC3348565.nxml.gz-170" start="23219">smaller</span>
+      <span end="23256" id="PMC3348565.nxml.gz-171" start="23249">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-172" type="identity">
+      <class id="increasing...evidence" label=""/>
+      <span end="23373" id="PMC3348565.nxml.gz-172" start="23354">increasing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-173" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="23384" id="PMC3348565.nxml.gz-173" start="23374">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-174" type="identity">
+      <class id="important" label=""/>
+      <span end="23467" id="PMC3348565.nxml.gz-174" start="23458">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-175" type="identity">
+      <class id="role" label=""/>
+      <span end="23472" id="PMC3348565.nxml.gz-175" start="23468">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23680" id="PMC3348565.nxml.gz-176" start="23501">A systematic review of the role of vitamin D supplementation in infectious diseases had mixed findings, concluding that more rigorously designed clinical trials are needed (panel)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-177" type="identity">
+      <class id="role" label=""/>
+      <span end="23532" id="PMC3348565.nxml.gz-177" start="23528">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-178" type="identity">
+      <class id="mixed" label=""/>
+      <span end="23594" id="PMC3348565.nxml.gz-178" start="23589">mixed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-179" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="23615" id="PMC3348565.nxml.gz-179" start="23605">concluding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2183" id="PMC3348565.nxml.gz-18" start="2018">Two hospital-based case-control studies in Ethiopia1and India2suggest that vitamin D deficiency might substantially increase the risk of severe pneumonia in children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-180" type="identity">
+      <class id="are_needed" label=""/>
+      <span end="23672" id="PMC3348565.nxml.gz-180" start="23662">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23763" id="PMC3348565.nxml.gz-181" start="23683">No studies report the effect of vitamin D on radiologically confirmed pneumonias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-182" type="identity">
+      <class id="no_studies" label=""/>
+      <span end="23693" id="PMC3348565.nxml.gz-182" start="23683">No studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-183" type="identity">
+      <class id="effect" label=""/>
+      <span end="23711" id="PMC3348565.nxml.gz-183" start="23705">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-184" type="identity">
+      <class id="other" label=""/>
+      <span end="23770" id="PMC3348565.nxml.gz-184" start="23765">Other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-185" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24140" id="PMC3348565.nxml.gz-185" start="23765">Other trials assessing infections of the upper respiratory tract also had mixed findings: one trial in post-menopausal women26identified reduced self-reported episodes of infection of the upper respiratory tract, specifically in winter, whereas two others in elderly24and general adults27did not identify a difference between the groups with regards to self-reported episodes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-186" type="identity">
+      <class id="mixed" label=""/>
+      <span end="23844" id="PMC3348565.nxml.gz-186" start="23839">mixed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-187" type="identity">
+      <class id="whereas" label=""/>
+      <span end="24009" id="PMC3348565.nxml.gz-187" start="24002">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24319" id="PMC3348565.nxml.gz-188" start="24142">One trial in schoolchildren28(measuring influenza A antigen from swabs) found a statistically significant reduced incidence in the intervention group (RR 0·58, 95% CI 0·34–0·99)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-189" type="identity">
+      <class id="found" label=""/>
+      <span end="24219" id="PMC3348565.nxml.gz-189" start="24214">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-19" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2087" id="PMC3348565.nxml.gz-19" start="2080">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24391" id="PMC3348565.nxml.gz-190" start="24321">The benefits of supplementation for tuberculosis are similarly unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-191" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="24383" id="PMC3348565.nxml.gz-191" start="24374">similarly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-192" type="identity">
+      <class id="unclear" label=""/>
+      <span end="24391" id="PMC3348565.nxml.gz-192" start="24384">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24838" id="PMC3348565.nxml.gz-193" start="24393">One paediatric trial showed 16% higher rates of tuberculosis symptom resolution,29an adult trial showed 23% greater sputum conversion rate at 6 months,30another trial showed 20% greater restriction of BCG-lux growth in blood,31another trial found accelerated sputum conversion only in a certain genotype of the sample,20whereas yet another found no significant difference in sputum conversion32in the intervention compared with the placebo group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-194" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24396" id="PMC3348565.nxml.gz-194" start="24393">One</span>
+      <span end="24413" id="PMC3348565.nxml.gz-195" start="24408">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-196" type="identity">
+      <class id="found" label=""/>
+      <span end="24639" id="PMC3348565.nxml.gz-196" start="24634">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-197" type="identity">
+      <class id="only" label=""/>
+      <span end="24674" id="PMC3348565.nxml.gz-197" start="24670">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-198" type="identity">
+      <class id="whereas" label=""/>
+      <span end="24720" id="PMC3348565.nxml.gz-198" start="24713">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-199" type="identity">
+      <class id="yet" label=""/>
+      <span end="24724" id="PMC3348565.nxml.gz-199" start="24721">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-2" type="identity">
+      <class id="Epistemics" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-20" type="identity">
+      <class id="might" label=""/>
+      <span end="2119" id="PMC3348565.nxml.gz-20" start="2114">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-200" type="identity">
+      <class id="found" label=""/>
+      <span end="24738" id="PMC3348565.nxml.gz-200" start="24733">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25074" id="PMC3348565.nxml.gz-202" start="24840">Vitamin D is linked with other non-bone health outcomes, but the few completed and adequately powered trials assessing the effect of supplementation have mixed findings in improving outcomes—ie, cancers, vascular disease, and diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-203" type="identity">
+      <class id="linked" label=""/>
+      <span end="24859" id="PMC3348565.nxml.gz-203" start="24853">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-204" type="identity">
+      <class id="other" label=""/>
+      <span end="24870" id="PMC3348565.nxml.gz-204" start="24865">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-205" type="identity">
+      <class id="few" label=""/>
+      <span end="24908" id="PMC3348565.nxml.gz-205" start="24905">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-206" type="identity">
+      <class id="effect" label=""/>
+      <span end="24969" id="PMC3348565.nxml.gz-206" start="24963">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-207" type="identity">
+      <class id="mixed" label=""/>
+      <span end="24999" id="PMC3348565.nxml.gz-207" start="24994">mixed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-208" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25319" id="PMC3348565.nxml.gz-208" start="25076">As in our studies, these inconsistent findings point to the existence of complicated pathways for the function of vitamin D in disease processes, or simply that the correct effective dose of vitamin D supplementation needs to be better defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-209" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25081" id="PMC3348565.nxml.gz-209" start="25076">As in</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-21" type="identity">
+      <class id="severe" label=""/>
+      <span end="2161" id="PMC3348565.nxml.gz-21" start="2155">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-210" type="identity">
+      <class id="inconsistent" label=""/>
+      <span end="25113" id="PMC3348565.nxml.gz-210" start="25101">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-211" type="identity">
+      <class id="point" label=""/>
+      <span end="25128" id="PMC3348565.nxml.gz-211" start="25123">point</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-212" type="identity">
+      <class id="complicated" label=""/>
+      <span end="25160" id="PMC3348565.nxml.gz-212" start="25149">complicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-213" type="identity">
+      <class id="needs" label=""/>
+      <span end="25298" id="PMC3348565.nxml.gz-213" start="25293">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-214" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25311" id="PMC3348565.nxml.gz-214" start="25305">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-215" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25442" id="PMC3348565.nxml.gz-215" start="25321">The optimum concentrations of vitamin D for adults and children6are based on non-immunological and, mostly, bone outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-216" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="25397" id="PMC3348565.nxml.gz-216" start="25389">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-217" type="identity">
+      <class id="mostly" label=""/>
+      <span end="25427" id="PMC3348565.nxml.gz-217" start="25421">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-218" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25625" id="PMC3348565.nxml.gz-218" start="25444">An associated issue is that, after the start of our trial, speculations arose that high fluctuations of natural or supplemented vitamin D intake might be linked to negative outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-219" type="identity">
+      <class id="associated" label=""/>
+      <span end="25457" id="PMC3348565.nxml.gz-219" start="25447">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2366" id="PMC3348565.nxml.gz-22" start="2185">Our systematic review identified one randomised placebo controlled trial3relating pneumonia or lower respiratory infections to vitamin D deficiency supplementation in young children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-220" type="identity">
+      <class id="issue" label=""/>
+      <span end="25463" id="PMC3348565.nxml.gz-220" start="25458">issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-221" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25515" id="PMC3348565.nxml.gz-221" start="25503">speculations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-222" type="identity">
+      <class id="might" label=""/>
+      <span end="25594" id="PMC3348565.nxml.gz-222" start="25589">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-223" type="identity">
+      <class id="linked" label=""/>
+      <span end="25604" id="PMC3348565.nxml.gz-223" start="25598">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25894" id="PMC3348565.nxml.gz-224" start="25627">These speculations relate two studies in which supplementation of a single large dose (300 00033or 500 00023IU) of vitamin D for reducing fractures in elderly women led to an increase in fractures, plus similar discrepancies in prostate cancer research with vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-225" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25645" id="PMC3348565.nxml.gz-225" start="25633">speculations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-226" type="identity">
+      <class id="relate" label=""/>
+      <span end="25652" id="PMC3348565.nxml.gz-226" start="25646">relate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-227" type="identity">
+      <class id="discrepancies" label=""/>
+      <span end="25851" id="PMC3348565.nxml.gz-227" start="25838">discrepancies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-228" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26058" id="PMC3348565.nxml.gz-228" start="25897">Our findings and particularly the slightly higher repeat episodes of pneumonia in the vitamin D group could be due to such fluctuations if the hypothesis is true</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-229" type="identity">
+      <class id="could_be" label=""/>
+      <span end="26007" id="PMC3348565.nxml.gz-229" start="25999">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-23" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2266" id="PMC3348565.nxml.gz-23" start="2258">relating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-230" type="identity">
+      <class id="due...to" label=""/>
+      <span end="26014" id="PMC3348565.nxml.gz-230" start="26008">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-231" type="identity">
+      <class id="if" label=""/>
+      <span end="26035" id="PMC3348565.nxml.gz-231" start="26033">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-232" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="26050" id="PMC3348565.nxml.gz-232" start="26040">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-233" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="26058" id="PMC3348565.nxml.gz-233" start="26054">true</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-234" type="identity">
+      <class id="if_so" label=""/>
+      <span end="26065" id="PMC3348565.nxml.gz-234" start="26060">If so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26558" id="PMC3348565.nxml.gz-235" start="26060">If so, then in terms of policy and guidelines, it is hard to know what regimen to recommend for future trials, given that clinical practice and evidence suggests that daily or weekly supplementations though ideal are not complied with13,14and are impractical for families, especially in developing countries, and food fortification at the population level will not be an option during exclusive breastfeeding periods (aged &lt;6 months), nor is it likely to be adequate in highly deficient populations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-236" type="identity">
+      <class id="what" label=""/>
+      <span end="26130" id="PMC3348565.nxml.gz-236" start="26126">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-237" type="identity">
+      <class id="recommend" label=""/>
+      <span end="26151" id="PMC3348565.nxml.gz-237" start="26142">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-238" type="identity">
+      <class id="future_trials" label=""/>
+      <span end="26169" id="PMC3348565.nxml.gz-238" start="26156">future trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-239" type="identity">
+      <class id="suggests" label=""/>
+      <span end="26221" id="PMC3348565.nxml.gz-239" start="26213">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2802" id="PMC3348565.nxml.gz-24" start="2621">However, the risk of repeated pneumonia in the subsequent 3 months was 13% (relative risk [RR] 0·78, 95% CI 0·64–0·94; p=0·01) lower in the vitamin D3compared with the placebo group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-240" type="identity">
+      <class id="though" label=""/>
+      <span end="26266" id="PMC3348565.nxml.gz-240" start="26260">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-242" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="26318" id="PMC3348565.nxml.gz-242" start="26307">impractical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-243" type="identity">
+      <class id="will" label=""/>
+      <span end="26420" id="PMC3348565.nxml.gz-243" start="26416">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-244" type="identity">
+      <class id="likely" label=""/>
+      <span end="26511" id="PMC3348565.nxml.gz-244" start="26505">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-245" type="identity">
+      <class id="alternately" label=""/>
+      <span end="26571" id="PMC3348565.nxml.gz-245" start="26560">Alternately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-246" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26878" id="PMC3348565.nxml.gz-246" start="26560">Alternately, it might be that immunological effectiveness of supplementation is highly dependent upon other factors as yet unidentified, or other prevalent factors in this high-risk population (for example, other malnutrition factors and that 5·5% of the children in our study had a Z score of weight for age below −3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-247" type="identity">
+      <class id="might" label=""/>
+      <span end="26581" id="PMC3348565.nxml.gz-247" start="26576">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-248" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="26656" id="PMC3348565.nxml.gz-248" start="26647">dependent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-249" type="identity">
+      <class id="other" label=""/>
+      <span end="26667" id="PMC3348565.nxml.gz-249" start="26662">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-25" type="identity">
+      <class id="however" label=""/>
+      <span end="2628" id="PMC3348565.nxml.gz-25" start="2621">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-250" type="identity">
+      <class id="yet" label=""/>
+      <span end="26682" id="PMC3348565.nxml.gz-250" start="26679">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-251" type="identity">
+      <class id="unidentified" label=""/>
+      <span end="26695" id="PMC3348565.nxml.gz-251" start="26683">unidentified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-252" type="identity">
+      <class id="other" label=""/>
+      <span end="26705" id="PMC3348565.nxml.gz-252" start="26700">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-253" type="identity">
+      <class id="other" label=""/>
+      <span end="26772" id="PMC3348565.nxml.gz-253" start="26767">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-254" type="identity">
+      <class id="further_questions" label=""/>
+      <span end="26897" id="PMC3348565.nxml.gz-254" start="26880">Further questions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-255" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27210" id="PMC3348565.nxml.gz-255" start="26880">Further questions arise with respect to the previous treatment trial in the same region of Kabul, which showed that a single high-dose supplementation with 100 000 IU vitamin D3given orally to young children, along with antibiotic treatment at the time of diagnosis, reduced repeat episodes of pneumonia in the subsequent 3 months</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-256" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27512" id="PMC3348565.nxml.gz-256" start="27212">The inconsistent results could be related to the evidence that stimulation of Toll-like receptors on macrophages and monocytes by bacterial antigens is important in up-regulation of CYP27B1 and the vitamin D receptor,5which are crucial in production of cathelicidins in vitamin-D-depleted individuals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-257" type="identity">
+      <class id="inconsistent" label=""/>
+      <span end="27228" id="PMC3348565.nxml.gz-257" start="27216">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-258" type="identity">
+      <class id="could_be" label=""/>
+      <span end="27245" id="PMC3348565.nxml.gz-258" start="27237">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-259" type="identity">
+      <class id="related" label=""/>
+      <span end="27253" id="PMC3348565.nxml.gz-259" start="27246">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-26" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="2628" id="PMC3348565.nxml.gz-26" start="2621">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-260" type="identity">
+      <class id="important" label=""/>
+      <span end="27373" id="PMC3348565.nxml.gz-260" start="27364">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-261" type="identity">
+      <class id="crucial" label=""/>
+      <span end="27447" id="PMC3348565.nxml.gz-261" start="27440">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-262" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27654" id="PMC3348565.nxml.gz-262" start="27514">In other words, this system might not be effective unless there is existing infection with pathogens when vitamin D supplementation is given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-263" type="identity">
+      <class id="might" label=""/>
+      <span end="27547" id="PMC3348565.nxml.gz-263" start="27542">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27868" id="PMC3348565.nxml.gz-264" start="27656">Finally, any possible reduction in the incidence of pneumonia in our trial might be restricted to only certain genotypes as recorded in a single tt genotype after the start of our trial in a study of tuberculosis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-265" type="identity">
+      <class id="possible" label=""/>
+      <span end="27677" id="PMC3348565.nxml.gz-265" start="27669">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-266" type="identity">
+      <class id="might" label=""/>
+      <span end="27736" id="PMC3348565.nxml.gz-266" start="27731">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-267" type="identity">
+      <class id="only" label=""/>
+      <span end="27758" id="PMC3348565.nxml.gz-267" start="27754">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-268" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28107" id="PMC3348565.nxml.gz-268" start="27871">Both the pneumonia treatment and the population supplementation trials need to be repeated in other settings for confirmation, and frequent determination of serum calcifediol concentrations might guide the interpretation of the findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-269" type="identity">
+      <class id="need_to_be" label=""/>
+      <span end="27952" id="PMC3348565.nxml.gz-269" start="27942">need to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2940" id="PMC3348565.nxml.gz-27" start="2804">Other more recent studies assessing different outcomes in children or adults have conflicting findings on the effectiveness of vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-272" type="identity">
+      <class id="other" label=""/>
+      <span end="27970" id="PMC3348565.nxml.gz-272" start="27965">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-273" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="27996" id="PMC3348565.nxml.gz-273" start="27984">confirmation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-274" type="identity">
+      <class id="might" label=""/>
+      <span end="28066" id="PMC3348565.nxml.gz-274" start="28061">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-275" type="identity">
+      <class id="interpretation" label=""/>
+      <span end="28091" id="PMC3348565.nxml.gz-275" start="28077">interpretation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-276" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28116" id="PMC3348565.nxml.gz-276" start="28109">As with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-277" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28272" id="PMC3348565.nxml.gz-277" start="28109">As with the trials in the older children, giving higher doses of vitamin D,25,34we too did not record any adverse effects associated with vitamin D supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-278" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-279" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-28" type="identity">
+      <class id="other" label=""/>
+      <span end="2809" id="PMC3348565.nxml.gz-28" start="2804">Other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-280" type="identity">
+      <class id="however" label=""/>
+      <span end="28281" id="PMC3348565.nxml.gz-280" start="28274">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28410" id="PMC3348565.nxml.gz-281" start="28274">However, the number of children and the length of follow-up involved in these studies could only detect common and early adverse effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-282" type="identity">
+      <class id="involved" label=""/>
+      <span end="28342" id="PMC3348565.nxml.gz-282" start="28334">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-283" type="identity">
+      <class id="could" label=""/>
+      <span end="28365" id="PMC3348565.nxml.gz-283" start="28360">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-284" type="identity">
+      <class id="only" label=""/>
+      <span end="28370" id="PMC3348565.nxml.gz-284" start="28366">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-285" type="identity">
+      <class id="effects" label=""/>
+      <span end="28410" id="PMC3348565.nxml.gz-285" start="28403">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-286" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28679" id="PMC3348565.nxml.gz-286" start="28412">Although vitamin D overload is a theoretical possibility, 100 000 IU of vitamin D3has been shown to provide the best protection against vitamin D deficiency without overload or side-effects in high-risk infants aged 0–9 months with normal baseline ranges of vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-287" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="28420" id="PMC3348565.nxml.gz-287" start="28412">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-288" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-289" type="identity">
+      <class id="possibility" label=""/>
+      <span end="28468" id="PMC3348565.nxml.gz-289" start="28457">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-29" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="2829" id="PMC3348565.nxml.gz-29" start="2815">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-290" type="identity">
+      <class id="has_been" label=""/>
+      <span end="28502" id="PMC3348565.nxml.gz-290" start="28494">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-291" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29296" id="PMC3348565.nxml.gz-291" start="28892">Higher than recommended doses of daily supplementation of vitamin D (500–1000 IU per day, adding up to 120 000 IU over 3 months) plus additional milk fortified with vitamin D, has been shown not to induce an overload,13including in infants starting with normal ranges of vitamin D, even when supplementation continued during the summer (in France) and when mothers had antenatal vitamin D supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-293" type="identity">
+      <class id="recommended" label=""/>
+      <span end="28915" id="PMC3348565.nxml.gz-293" start="28904">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-294" type="identity">
+      <class id="has_been" label=""/>
+      <span end="29076" id="PMC3348565.nxml.gz-294" start="29068">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-295" type="identity">
+      <class id="even" label=""/>
+      <span end="29178" id="PMC3348565.nxml.gz-295" start="29174">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-296" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29543" id="PMC3348565.nxml.gz-296" start="29299">It is important to note that in our study, where community supplementation was in a population with known high rates of vitamin D deficiency, 1% of children tested had a calcifediol concentration greater than 375 nmol/L—thought undesirably high</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-297" type="identity">
+      <class id="important" label=""/>
+      <span end="29314" id="PMC3348565.nxml.gz-297" start="29305">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-298" type="identity">
+      <class id="thought" label=""/>
+      <span end="29526" id="PMC3348565.nxml.gz-298" start="29519">thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-299" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="29538" id="PMC3348565.nxml.gz-299" start="29527">undesirably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="152" id="PMC3348565.nxml.gz-3" start="0">Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-30" type="identity">
+      <class id="conflicting" label=""/>
+      <span end="2897" id="PMC3348565.nxml.gz-30" start="2886">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-300" type="identity">
+      <class id="although" label=""/>
+      <span end="29553" id="PMC3348565.nxml.gz-300" start="29545">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29694" id="PMC3348565.nxml.gz-301" start="29545">Although these did not produce any clinical signs and symptoms, these measurements raise a need for caution with doses for population supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-302" type="identity">
+      <class id="need" label=""/>
+      <span end="29640" id="PMC3348565.nxml.gz-302" start="29636">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-303" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="29652" id="PMC3348565.nxml.gz-303" start="29645">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-304" type="identity">
+      <class id="caution" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29826" id="PMC3348565.nxml.gz-305" start="29696">The speculative negative role of fluctuations is vitamin D needs to be considered with caution until further evidence is available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-306" type="identity">
+      <class id="speculative" label=""/>
+      <span end="29711" id="PMC3348565.nxml.gz-306" start="29700">speculative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-307" type="identity">
+      <class id="role" label=""/>
+      <span end="29725" id="PMC3348565.nxml.gz-307" start="29721">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-308" type="identity">
+      <class id="needs" label=""/>
+      <span end="29760" id="PMC3348565.nxml.gz-308" start="29755">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-309" type="identity">
+      <class id="considered" label=""/>
+      <span end="29777" id="PMC3348565.nxml.gz-309" start="29767">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3218" id="PMC3348565.nxml.gz-31" start="2942">There is growing evidence of the vitamin D parancrine system enhancing innate immunity:4the activation of Toll-like receptors on monocytes and macrophages by microbial pathogens results in increased expression of CYP27B1 and vitamin D receptor ( VDR ) genes within these cells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-310" type="identity">
+      <class id="caution" label=""/>
+      <span end="29790" id="PMC3348565.nxml.gz-310" start="29783">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-311" type="identity">
+      <class id="until" label=""/>
+      <span end="29796" id="PMC3348565.nxml.gz-311" start="29791">until</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-312" type="identity">
+      <class id="further_evidence" label=""/>
+      <span end="29813" id="PMC3348565.nxml.gz-312" start="29797">further evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-313" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30002" id="PMC3348565.nxml.gz-313" start="29828">We have shown that a quarterly 100 000 IU supplementation of vitamin D3did not reduce the incidence of pneumonias in children living in regions with high vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-314" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="29841" id="PMC3348565.nxml.gz-314" start="29831">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-316" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-32" type="identity">
+      <class id="growing_evidence" label=""/>
+      <span end="2967" id="PMC3348565.nxml.gz-32" start="2951">growing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3817" id="PMC3348565.nxml.gz-33" start="3697">It has been suggested that vitamin D might be used in the treatment of opportunistic and antibiotic-resistant infections</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-34" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="3718" id="PMC3348565.nxml.gz-34" start="3700">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-35" type="identity">
+      <class id="might" label=""/>
+      <span end="3739" id="PMC3348565.nxml.gz-35" start="3734">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3936" id="PMC3348565.nxml.gz-36" start="3819">There is debate between investigators regarding concentrations that relate to optimum stores of vitamin D in the body</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-37" type="identity">
+      <class id="debate" label=""/>
+      <span end="3834" id="PMC3348565.nxml.gz-37" start="3828">debate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-38" type="identity">
+      <class id="relate" label=""/>
+      <span end="3893" id="PMC3348565.nxml.gz-38" start="3887">relate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4061" id="PMC3348565.nxml.gz-39" start="3938">In children, serum calcifediol concentrations should be maintained at 50 nmol/L (20 ng/mL) or greater for skeletal benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-4" type="identity">
+      <class id="Epistemics" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-40" type="identity">
+      <class id="should_be" label=""/>
+      <span end="3993" id="PMC3348565.nxml.gz-40" start="3984">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4282" id="PMC3348565.nxml.gz-41" start="4063">Vitamin D deficiency rickets in children younger than 5 years is an endemic problem in developing countries, ranging from 5–45%, even where sunlight is abundant,1,2,7,8and has also re-emerged in some developed countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-42" type="identity">
+      <class id="problem" label=""/>
+      <span end="4146" id="PMC3348565.nxml.gz-42" start="4139">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-43" type="identity">
+      <class id="even" label=""/>
+      <span end="4196" id="PMC3348565.nxml.gz-43" start="4192">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-44" type="identity">
+      <class id="some" label=""/>
+      <span end="4262" id="PMC3348565.nxml.gz-44" start="4258">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-45" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4604" id="PMC3348565.nxml.gz-45" start="4595">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4683" id="PMC3348565.nxml.gz-46" start="4595">Therefore, breastmilk, a normally poor source of vitamin D,11becomes even more deficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-47" type="identity">
+      <class id="poor" label=""/>
+      <span end="4633" id="PMC3348565.nxml.gz-47" start="4629">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-48" type="identity">
+      <class id="even" label=""/>
+      <span end="4668" id="PMC3348565.nxml.gz-48" start="4664">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4772" id="PMC3348565.nxml.gz-49" start="4685">Furthermore, the common practice of swaddling infants might reduce exposure to sunlight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="303" id="PMC3348565.nxml.gz-5" start="182">Vitamin D has a role in regulating immune function, and its deficiency is a suggested risk factor for childhood pneumonia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-50" type="identity">
+      <class id="might" label=""/>
+      <span end="4744" id="PMC3348565.nxml.gz-50" start="4739">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-51" type="identity">
+      <class id="thus" label=""/>
+      <span end="4778" id="PMC3348565.nxml.gz-51" start="4774">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4836" id="PMC3348565.nxml.gz-52" start="4774">Thus young children are at a high risk of vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-53" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5067" id="PMC3348565.nxml.gz-53" start="4838">A cross-sectional survey during the high-risk winter months in 2005 showed that greater than 95% of children younger than 5 years in a socioeconomically deprived part of Kabul had serum calcifediol levels of less than 37·5 nmol/L</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-54" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5460" id="PMC3348565.nxml.gz-56" start="5071">On the basis of findings that vitamin D is an immunomodulator, that deficiency is a risk factor for pneumonia, and that quarterly supplementation had better compliance than daily or weekly supplementation,13,14we aimed to test the hypothesis that quarterly 100 000 IU vitamin D supplementation would reduce the incidence of radiologically confirmed pneumonia by 35% in our study population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-57" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5086" id="PMC3348565.nxml.gz-57" start="5071">On the basis of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-58" type="identity">
+      <class id="aimed" label=""/>
+      <span end="5289" id="PMC3348565.nxml.gz-58" start="5284">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-59" type="identity">
+      <class id="to_test" label=""/>
+      <span end="5297" id="PMC3348565.nxml.gz-59" start="5290">to test</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-6" type="identity">
+      <class id="role" label=""/>
+      <span end="202" id="PMC3348565.nxml.gz-6" start="198">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-60" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="5312" id="PMC3348565.nxml.gz-60" start="5302">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-61" type="identity">
+      <class id="would" label=""/>
+      <span end="5370" id="PMC3348565.nxml.gz-61" start="5365">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5665" id="PMC3348565.nxml.gz-62" start="5462">Our secondary hypotheses were that supplementation would reduce all pneumonias (radiologically confirmed or clinically defined), repeat episodes of pneumonia, hospital admissions, and all cause mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-63" type="identity">
+      <class id="hypotheses" label=""/>
+      <span end="5486" id="PMC3348565.nxml.gz-63" start="5476">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-64" type="identity">
+      <class id="would" label=""/>
+      <span end="5518" id="PMC3348565.nxml.gz-64" start="5513">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9382" id="PMC3348565.nxml.gz-65" start="9057">We chose a quarterly supplementation regimen because in routine programme conditions a quarterly regimen is likely to have better adherence than a daily regimen,13,14and has been shown to be effective at maintaining the serum vitamin D concentration within normal ranges for 2–3 months in a French high-risk infant population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-66" type="identity">
+      <class id="likely" label=""/>
+      <span end="9171" id="PMC3348565.nxml.gz-66" start="9165">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-67" type="identity">
+      <class id="has...been" label=""/>
+      <span end="9235" id="PMC3348565.nxml.gz-67" start="9227">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-69" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-7" type="identity">
+      <class id="suggested" label=""/>
+      <span end="267" id="PMC3348565.nxml.gz-7" start="258">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-71" type="identity">
+      <class id="assumption" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13721" id="PMC3348565.nxml.gz-72" start="13359">We assumed that the incidence of the first or the only episode of pneumonia (first episode) in our placebo group would be 0·0585 per child per year based on the report that the incidence of acute lower respiratory infections in developing countries was greater than 0·65 per child per year,18that 12% of these episodes were pneumonia, and 75% were first episodes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-73" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="13369" id="PMC3348565.nxml.gz-73" start="13362">assumed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-74" type="identity">
+      <class id="would_be" label=""/>
+      <span end="13480" id="PMC3348565.nxml.gz-74" start="13472">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-75" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13515" id="PMC3348565.nxml.gz-75" start="13507">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14088" id="PMC3348565.nxml.gz-76" start="13723">Given that 73% of children had vitamin D deficiency in the study region in 2005,12and that the incidence of pneumonia was ten-times higher in vitamin D deficient children than in children without a deficiency in case-control studies1,2we postulated that there would be at least a 35% reduction in pneumonia incidence in the vitamin D compared with the placebo group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-77" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-78" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13971" id="PMC3348565.nxml.gz-78" start="13961">postulated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-79" type="identity">
+      <class id="would_be" label=""/>
+      <span end="13991" id="PMC3348565.nxml.gz-79" start="13983">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="471" id="PMC3348565.nxml.gz-8" start="305">Our aim was to assess whether oral supplementation of vitamin D3(cholecalciferol) will reduce the incidence and severity of pneumonia in a high-risk infant population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-80" type="identity">
+      <class id="at_least" label=""/>
+      <span end="14000" id="PMC3348565.nxml.gz-80" start="13992">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-81" type="identity">
+      <class id="thus" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-82" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14756" id="PMC3348565.nxml.gz-83" start="14615">To assess the potential problem of multicollinearity we used Pearsons correlation coefficient or Cramers V (for paired categorical variables)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-84" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="14624" id="PMC3348565.nxml.gz-84" start="14615">To assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-85" type="identity">
+      <class id="potential" label=""/>
+      <span end="14638" id="PMC3348565.nxml.gz-85" start="14629">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-86" type="identity">
+      <class id="problem" label=""/>
+      <span end="14646" id="PMC3348565.nxml.gz-86" start="14639">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15826" id="PMC3348565.nxml.gz-87" start="15745">We assessed violation of the proportionality assumption with Schoenfeld residuals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-88" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="15766" id="PMC3348565.nxml.gz-88" start="15757">violation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16694" id="PMC3348565.nxml.gz-89" start="16574">The difference was not statistically significant, although our study was not powered to detect differences in death rate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-9" type="identity">
+      <class id="aim" label=""/>
+      <span end="312" id="PMC3348565.nxml.gz-9" start="309">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-90" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="16632" id="PMC3348565.nxml.gz-90" start="16624">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-91" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-92" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="16658" id="PMC3348565.nxml.gz-92" start="16647">not powered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-93" type="identity">
+      <class id="differences" label=""/>
+      <span end="16680" id="PMC3348565.nxml.gz-93" start="16669">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17647" id="PMC3348565.nxml.gz-94" start="17439">On intention-to-treat analysis, the incidence of the first episode of pneumonia was greater in the vitamin D rather than the placebo group, although this difference was not statistically significant (table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-95" type="identity">
+      <class id="rather" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-96" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="17587" id="PMC3348565.nxml.gz-96" start="17579">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19250" id="PMC3348565.nxml.gz-97" start="18952">The mean serum calcifediol concentration was consistently and significantly higher in the vitamin D group than in the placebo group at 1 week, 4 weeks, and 3 months after administration of the first dose of vitamin D during the winter and at 2 weeks' post administration of dose 3 (spring;figure 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-98" type="identity">
+      <class id="consistently" label=""/>
+      <span end="19009" id="PMC3348565.nxml.gz-98" start="18997">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3348565.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20280" id="PMC3348565.nxml.gz-99" start="19912">The ascertainment of study outcomes was robust, and done clinically through masked experienced and retrained paediatricians with Integrated Management of Childhood Illnesses clinical definitions of pneumonia applied in other trials18and radiologically through the interpretation of chest radiographs by masked, experienced, and external readers by use of WHO standards</span>
+    </annotation>
+  </document>
+</knowtator-project>

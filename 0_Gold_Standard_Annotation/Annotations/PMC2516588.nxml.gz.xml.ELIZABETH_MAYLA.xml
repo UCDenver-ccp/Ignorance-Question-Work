@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2516588.nxml.gz" text-file="PMC2516588.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1605" id="PMC2516588.nxml.gz-11" start="1380">In previous work and a scoping study, we found that most of the research carried out in relation to impaired spermatogenesis had investigated time trends rather than association with specific risk factors (Martin et al. 2007)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-12" type="identity">
+      <class id="relation" label=""/>
+      <span end="1476" id="PMC2516588.nxml.gz-12" start="1468">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-15" type="identity">
+      <class id="rather" label=""/>
+      <span end="1540" id="PMC2516588.nxml.gz-15" start="1534">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-16" type="identity">
+      <class id="association" label=""/>
+      <span end="1557" id="PMC2516588.nxml.gz-16" start="1546">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1682" id="PMC2516588.nxml.gz-17" start="1607">Further, our analysis was limited to prenatal exposure to estrogenic agents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-18" type="identity">
+      <class id="limited" label=""/>
+      <span end="1640" id="PMC2516588.nxml.gz-18" start="1633">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1877" id="PMC2516588.nxml.gz-19" start="1684">A number of studies have found associations between sperm motility or sperm DNA damage with levels of estrogenic chemicals measured either in urine or serum (Duty et al. 2003;Spanò et al. 2005)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-2" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="325" id="PMC2516588.nxml.gz-2" start="49">In response to Prasad’s constructive comments on our quantitative meta-analysis of the estrogen hypothesis and testicular dysgenesis syndrome (Martin et al. 2008), we offer the following observations regarding the scope of our study and limitations of the methodology applied.</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-20" type="identity">
+      <class id="number_of_studies" label=""/>
+      <span end="1703" id="PMC2516588.nxml.gz-20" start="1686">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-21" type="identity">
+      <class id="associations" label=""/>
+      <span end="1727" id="PMC2516588.nxml.gz-21" start="1715">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1954" id="PMC2516588.nxml.gz-23" start="1879">It would not be possible however to relate such levels to prenatal exposure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-26" type="identity">
+      <class id="relate" label=""/>
+      <span end="1921" id="PMC2516588.nxml.gz-26" start="1915">relate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2053" id="PMC2516588.nxml.gz-27" start="1956">This also illustrates the difficulty of selecting a suitable marker of impaired spermatotogenesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-28" type="identity">
+      <class id="difficulty" label=""/>
+      <span end="1992" id="PMC2516588.nxml.gz-28" start="1982">difficulty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-3" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="155" id="PMC2516588.nxml.gz-3" start="145">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2306" id="PMC2516588.nxml.gz-30" start="2055">Our study was implicitly limited to congenital cryptorchidism because the literature search did not yield any case–control or cohort studies that addressed the question of prenatal exposure to estrogenic compounds and acquired cryptorchidism in humans</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-31" type="identity">
+      <class id="limited" label=""/>
+      <span end="2087" id="PMC2516588.nxml.gz-31" start="2080">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-32" type="identity">
+      <class id="question" label=""/>
+      <span end="2223" id="PMC2516588.nxml.gz-32" start="2215">question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-34" type="identity">
+      <class id="should" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-35" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2691" id="PMC2516588.nxml.gz-36" start="2400">We concluded that the significant association between prenatal diethylstilbestrol exposure and all three end points considered conferred weight to the hypothesis of a common etiology for these disorders, and therefore to the existence of a testicular dysgenesis syndrome (Martin et al. 2008)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-37" type="identity">
+      <class id="association" label=""/>
+      <span end="2445" id="PMC2516588.nxml.gz-37" start="2434">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-38" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="2561" id="PMC2516588.nxml.gz-38" start="2551">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2922" id="PMC2516588.nxml.gz-39" start="2693">Separate analyses were carried out for the three end points but the methodology applied did not allow us to explore the specific nature of causal relationships between congenital cryptorchidism, hypospadias, and testicular cancer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-4" type="identity">
+      <class id="limitations" label=""/>
+      <span end="297" id="PMC2516588.nxml.gz-4" start="286">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-40" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="2794" id="PMC2516588.nxml.gz-40" start="2781">did not allow</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-41" type="identity">
+      <class id="relationships" label=""/>
+      <span end="2852" id="PMC2516588.nxml.gz-41" start="2839">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-43" type="identity">
+      <class id="insight" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1061" id="PMC2516588.nxml.gz-5" start="757">It cannot, however, correct for potential bias and confounding of the studies included; we addressed this issue in our review (Martin et al. 2008) by rating the quality of individual studies and carrying out a sensitivity analysis by excluding studies for which the quality score was below a chosen value</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-6" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="788" id="PMC2516588.nxml.gz-6" start="760">cannot, however, correct for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-7" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-8" type="identity">
+      <class id="issue" label=""/>
+      <span end="868" id="PMC2516588.nxml.gz-8" start="863">issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-924" type="identity">
+      <class id="difficult_task"/>
+      <span end="1911" id="PMC2516588.nxml.gz-925" start="1882">would not be possible however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2516588.nxml.gz-926" type="identity">
+      <class id="probable_understanding"/>
+      <span end="2543" id="PMC2516588.nxml.gz-927" start="2537">weight</span>
+    </annotation>
+  </document>
+</knowtator-project>

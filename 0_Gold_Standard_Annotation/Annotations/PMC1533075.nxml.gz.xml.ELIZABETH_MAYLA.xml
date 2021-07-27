@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC1533075.nxml.gz" text-file="PMC1533075.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="120" id="PMC1533075.nxml.gz-1" start="0">Results from an international case-control study of childhood brain tumors: the role of prenatal vitamin supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-10" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1173" id="PMC1533075.nxml.gz-11" start="1075">These findings are largely driven by data from the United States, where most mothers took vitamins</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-13" type="identity">
+      <class id="impossible" label=""/>
+      <span end="1780" id="PMC1533075.nxml.gz-13" start="1770">impossible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-14" type="identity">
+      <class id="potential" label=""/>
+      <span end="1803" id="PMC1533075.nxml.gz-14" start="1794">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-15" type="identity">
+      <class id="effects" label=""/>
+      <span end="1823" id="PMC1533075.nxml.gz-15" start="1816">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-2" type="identity">
+      <class id="role" label=""/>
+      <span end="84" id="PMC1533075.nxml.gz-2" start="80">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-2621" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="1111" id="PMC1533075.nxml.gz-2622" start="1094">largely driven by</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-2623" type="identity">
+      <class id="subject_scope"/>
+      <span end="1847" id="PMC1533075.nxml.gz-2624" start="1621">Mothers also took individual micronutrient supplements (e.g., vitamin C tablets), but most mothers who took these also took multivitamins, making it impossible to determine potential independent effects of these micronutrients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-3" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-5" type="identity">
+      <class id="although" label=""/>
+      <span end="475" id="PMC1533075.nxml.gz-5" start="467">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="755" id="PMC1533075.nxml.gz-6" start="467">Although risk estimates varied by study center, combined results suggest that maternal supplementation for two trimesters may decrease risk of brain tumor (odds ratio [OR] 0.7, 95% confidence interval [CI] 0.5-0.9), with a trend of less risk with longer duration of use (p trend = 0.0007)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-7" type="identity">
+      <class id="suggest" label=""/>
+      <span end="539" id="PMC1533075.nxml.gz-7" start="532">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-8" type="identity">
+      <class id="may" label=""/>
+      <span end="592" id="PMC1533075.nxml.gz-8" start="589">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1533075.nxml.gz-9" type="identity">
+      <class id="trend" label=""/>
+      <span end="695" id="PMC1533075.nxml.gz-9" start="690">trend</span>
+    </annotation>
+  </document>
+</knowtator-project>

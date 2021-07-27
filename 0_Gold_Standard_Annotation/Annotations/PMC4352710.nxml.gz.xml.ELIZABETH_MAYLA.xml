@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4352710.nxml.gz" text-file="PMC4352710.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34" id="PMC4352710.nxml.gz-1" start="0">Should Men Take Prenatal Vitamins?</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-10" type="identity">
+      <class id="has_been" label=""/>
+      <span end="529" id="PMC4352710.nxml.gz-10" start="521">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="795" id="PMC4352710.nxml.gz-11" start="697">The influence of paternal diet on congenital abnormalities and fertility is still being elucidated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-12" type="identity">
+      <class id="influence" label=""/>
+      <span end="710" id="PMC4352710.nxml.gz-12" start="701">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-13" type="identity">
+      <class id="still_being_elucidated" label=""/>
+      <span end="795" id="PMC4352710.nxml.gz-13" start="773">still being elucidated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="912" id="PMC4352710.nxml.gz-14" start="797">A recent mouse study by Lambrot et al. furthered our understanding of the effects of paternal folate deficiency [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-15" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="805" id="PMC4352710.nxml.gz-15" start="799">recent</span>
+      <span end="817" id="PMC4352710.nxml.gz-16" start="812">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-17" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="863" id="PMC4352710.nxml.gz-17" start="836">furthered our understanding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-18" type="identity">
+      <class id="effects" label=""/>
+      <span end="878" id="PMC4352710.nxml.gz-18" start="871">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1177" id="PMC4352710.nxml.gz-19" start="1097">Folate deficiency was associated with an increase in DNA damage in spermatocytes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-2" type="identity">
+      <class id="should" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-20" type="identity">
+      <class id="associated" label=""/>
+      <span end="1129" id="PMC4352710.nxml.gz-20" start="1119">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-21" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1186" id="PMC4352710.nxml.gz-21" start="1179">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1278" id="PMC4352710.nxml.gz-22" start="1179">However, there was no difference in sperm tail DNA fragmentation, tail length, or motility (p&gt;0.05)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1848" id="PMC4352710.nxml.gz-23" start="1621">Another study investigating the effect of a paternal folate-deficient diet in mice found a relationship with decreased placental weight, placental folate and an increased expression of the folate transporter folate receptor [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-24" type="identity">
+      <class id="effect" label=""/>
+      <span end="1659" id="PMC4352710.nxml.gz-24" start="1653">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-25" type="identity">
+      <class id="relationship" label=""/>
+      <span end="1724" id="PMC4352710.nxml.gz-25" start="1712">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2057" id="PMC4352710.nxml.gz-26" start="1850">A link has been found between paternal dioxin exposure, a component of the herbicide Agent Orange used in the Vietnam War, and spermatazoidfolate deficiency resulting in an increased rate of spina bifida [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-27" type="identity">
+      <class id="link" label=""/>
+      <span end="1856" id="PMC4352710.nxml.gz-27" start="1852">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-28" type="identity">
+      <class id="has_been_found" label=""/>
+      <span end="1871" id="PMC4352710.nxml.gz-28" start="1857">has been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2342" id="PMC4352710.nxml.gz-29" start="2059">Although the precise mechanism is unclear, it is thought that epigenetic modifications (study of heritable changes in gene activity that are not caused by changes in the DNA sequence) play a role in both neural tube defects and decreased fertility of men with a folate deficiency [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-3" type="identity">
+      <class id="explicit_question" label=""/>
+      <span end="6" id="PMC4352710.nxml.gz-3" start="0">Should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-30" type="identity">
+      <class id="unclear" label=""/>
+      <span end="2100" id="PMC4352710.nxml.gz-30" start="2093">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-31" type="identity">
+      <class id="it_is_thought" label=""/>
+      <span end="2115" id="PMC4352710.nxml.gz-31" start="2102">it is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-32" type="identity">
+      <class id="role" label=""/>
+      <span end="2254" id="PMC4352710.nxml.gz-32" start="2250">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-33" type="identity">
+      <class id="however" label=""/>
+      <span end="2351" id="PMC4352710.nxml.gz-33" start="2344">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2502" id="PMC4352710.nxml.gz-34" start="2344">However, a prospective study of 42 couples, who had paternal methotrxate exposure at the time of conception, did not identify any congenital abnormalities [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2782" id="PMC4352710.nxml.gz-35" start="2621">The role of paternal nutrition on epigenetically linked heritable diseases such as cardiovascular and obesity have been suggested in epidemiological studies [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-36" type="identity">
+      <class id="role" label=""/>
+      <span end="2629" id="PMC4352710.nxml.gz-36" start="2625">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-37" type="identity">
+      <class id="linked" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-38" type="identity">
+      <class id="have...been" label=""/>
+      <span end="2740" id="PMC4352710.nxml.gz-38" start="2731">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-39" type="identity">
+      <class id="suggested" label=""/>
+      <span end="2750" id="PMC4352710.nxml.gz-39" start="2741">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-4" type="identity">
+      <class id="explicit_question" label=""/>
+      <span end="34" id="PMC4352710.nxml.gz-4" start="33">?</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2868" id="PMC4352710.nxml.gz-40" start="2784">Human studies examining the role of paternal micronutrient supplementation are scant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-41" type="identity">
+      <class id="role" label=""/>
+      <span end="2816" id="PMC4352710.nxml.gz-41" start="2812">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-43" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2868" id="PMC4352710.nxml.gz-43" start="2863">scant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3018" id="PMC4352710.nxml.gz-44" start="2870">In 2008, Young et al. investigated the role of supplemental folate, zinc and antioxidants (vitamins C, E, and β-carotene) on spermatocyte aneuploidy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-45" type="identity">
+      <class id="role" label=""/>
+      <span end="2913" id="PMC4352710.nxml.gz-45" start="2909">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3291" id="PMC4352710.nxml.gz-46" start="3163">It is clear that a deficiency of paternal micronutrients could affect the development of offspring through epigenetic regulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-47" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="3174" id="PMC4352710.nxml.gz-47" start="3163">It is clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-48" type="identity">
+      <class id="could" label=""/>
+      <span end="3225" id="PMC4352710.nxml.gz-48" start="3220">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-49" type="identity">
+      <class id="affect" label=""/>
+      <span end="3232" id="PMC4352710.nxml.gz-49" start="3226">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="176" id="PMC4352710.nxml.gz-5" start="56">Congenital abnormalities are the leading cause of infant mortalities in the United States (25%) and across the world [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-50" type="identity">
+      <class id="however" label=""/>
+      <span end="3300" id="PMC4352710.nxml.gz-50" start="3293">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3462" id="PMC4352710.nxml.gz-51" start="3293">However, it is unclear at this time whether or not supplementation of vitamins such as folate can reduce congenital anomalies in men with an otherwise well-balanced diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-52" type="identity">
+      <class id="unclear" label=""/>
+      <span end="3315" id="PMC4352710.nxml.gz-52" start="3308">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-53" type="identity">
+      <class id="whether_or_not" label=""/>
+      <span end="3343" id="PMC4352710.nxml.gz-53" start="3329">whether or not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-54" type="identity">
+      <class id="can" label=""/>
+      <span end="3390" id="PMC4352710.nxml.gz-54" start="3387">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3575" id="PMC4352710.nxml.gz-55" start="3464">A prospective randomized control trial is necessary to adequately determine the role for male prenatal vitamins</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-56" type="identity">
+      <class id="future_work" label=""/>
+      <span end="3515" id="PMC4352710.nxml.gz-56" start="3497">trial is necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-57" type="identity">
+      <class id="role" label=""/>
+      <span end="3548" id="PMC4352710.nxml.gz-57" start="3544">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-58" type="identity">
+      <class id="due_to" label=""/>
+      <span end="3583" id="PMC4352710.nxml.gz-58" start="3577">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-59" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3776" id="PMC4352710.nxml.gz-59" start="3577">Due to the lack of conclusive evidence, we cannot recommend the ubiquitous use of prenatal vitamins, in particular folate, in men attempting to plan a pregnancy with their female partner at this time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-6" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="102" id="PMC4352710.nxml.gz-6" start="89">leading cause</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-60" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="3595" id="PMC4352710.nxml.gz-60" start="3588">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-61" type="identity">
+      <class id="recommend" label=""/>
+      <span end="3636" id="PMC4352710.nxml.gz-61" start="3627">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-7" type="identity">
+      <class id="potentially" label=""/>
+      <span end="419" id="PMC4352710.nxml.gz-7" start="408">Potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="695" id="PMC4352710.nxml.gz-8" start="408">Potentially the most significant nutritional intervention has been the prenatal supplementation of folate, which has been shown to reduce the incidence of neural tube defects [3], limb malformations, urogenital abnormalities, cardiovascular malformations [4], and cleft lip or palate [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4352710.nxml.gz-9" type="identity">
+      <class id="has_been" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

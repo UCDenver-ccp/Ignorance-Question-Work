@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3279448.nxml.gz" text-file="PMC3279448.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="298" id="PMC3279448.nxml.gz-1" start="152">Fetal programming describes the theory linking environmental conditions during embryonic and fetal development with risk of diseases later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-10" type="identity">
+      <class id="examined" label=""/>
+      <span end="440" id="PMC3279448.nxml.gz-10" start="432">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-108" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-11" type="identity">
+      <class id="associations" label=""/>
+      <span end="453" id="PMC3279448.nxml.gz-11" start="441">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-12" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17936" id="PMC3279448.nxml.gz-126" start="17762">Mean LINE-1 and AluYb8 methylation levels were also found to be weakly to moderately correlated, with a Pearson correlation of 0.29 [95% confidence interval (CI): 0.20, 0.38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-127" type="identity">
+      <class id="correlated" label=""/>
+      <span end="17857" id="PMC3279448.nxml.gz-127" start="17847">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-128" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18297" id="PMC3279448.nxml.gz-128" start="17938">To examine whether “global methylation” represented as an average of gene-associated methylation identified in a genomewide manner was associated with infant growth, we tested for an association between birth weight percentile and mean methylation across the 26,486 autosomal loci measured using the Illumina Infinium array in a subset of 184 placenta samples</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-129" type="identity">
+      <class id="to_examine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1348" id="PMC3279448.nxml.gz-13" start="1098">Multiple linear regression, model-based clustering methods, and gene set enrichment analysis examined the association between birth weight percentile, demographic variables, and repetitive element methylation and gene-associated CpG locus methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-130" type="identity">
+      <class id="whether" label=""/>
+      <span end="17956" id="PMC3279448.nxml.gz-130" start="17949">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-132" type="identity">
+      <class id="associated" label=""/>
+      <span end="18083" id="PMC3279448.nxml.gz-132" start="18073">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-133" type="identity">
+      <class id="association" label=""/>
+      <span end="18132" id="PMC3279448.nxml.gz-133" start="18121">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18858" id="PMC3279448.nxml.gz-134" start="18658">To further evaluate the association between infant birth weight and repetitive element methylation identified in the univariate analyses, controlled for confounders, we used multiple linear regression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-135" type="identity">
+      <class id="association" label=""/>
+      <span end="18693" id="PMC3279448.nxml.gz-135" start="18682">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-137" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-138" type="identity">
+      <class id="relationships" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-139" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-14" type="identity">
+      <class id="examined" label=""/>
+      <span end="1199" id="PMC3279448.nxml.gz-14" start="1191">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-147" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21141" id="PMC3279448.nxml.gz-147" start="20879">By clustering, we hoped to uncover biologically meaningful groups of CpG loci, with similar methylation patterns, which may share biological characteristics such as comparable functionality in certain developmental pathways or location in similar genomic regions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-148" type="identity">
+      <class id="may" label=""/>
+      <span end="21002" id="PMC3279448.nxml.gz-148" start="20999">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-15" type="identity">
+      <class id="association" label=""/>
+      <span end="1215" id="PMC3279448.nxml.gz-15" start="1204">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-153" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21811" id="PMC3279448.nxml.gz-153" start="21700">There was an overall significant relationship between AluYb8 methylation and RPMM class methylation ( p = 0.01)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-154" type="identity">
+      <class id="relationship" label=""/>
+      <span end="21745" id="PMC3279448.nxml.gz-154" start="21733">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22083" id="PMC3279448.nxml.gz-155" start="21884">When considering class-specific relationships, a positive association was noted between AluYb8 methylation and methylation of CpGs encompassing the low to intermediately methylated class 9 (Figure 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-156" type="identity">
+      <class id="relationships" label=""/>
+      <span end="21929" id="PMC3279448.nxml.gz-156" start="21916">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-157" type="identity">
+      <class id="association" label=""/>
+      <span end="21953" id="PMC3279448.nxml.gz-157" start="21942">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22243" id="PMC3279448.nxml.gz-158" start="22085">Additionally, classes 7, 11, and 12 were marginally positively associated with AluYb8 methylation levels, with CpGs exhibiting low to intermediate methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-159" type="identity">
+      <class id="associated" label=""/>
+      <span end="22158" id="PMC3279448.nxml.gz-159" start="22148">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-16" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-160" type="identity">
+      <class id="to_examine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-162" type="identity">
+      <class id="examined" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-163" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-164" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-165" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-167" type="identity">
+      <class id="expected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23072" id="PMC3279448.nxml.gz-168" start="22882">There was also interclass variation in the frequency of CpGs association with PcG target genes, with classes 7 and 9 in particular having a much higher proportion than the others (Figure 2F)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-169" type="identity">
+      <class id="association" label=""/>
+      <span end="22954" id="PMC3279448.nxml.gz-169" start="22943">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1607" id="PMC3279448.nxml.gz-17" start="1359">LINE-1 and AluYb8 methylation levels were found to be significantly positively associated with birth weight percentile ( p = 0.01 and p&lt; 0.0001, respectively) and were found to differ significantly among infants exposed to tobacco smoke and alcohol</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23255" id="PMC3279448.nxml.gz-170" start="23074">Class 9, which was associated with AluYb8 methylation extent, contained a high proportion of CpG loci located within CGIs (81%) and whose genes are considered PcG target genes (32%)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-171" type="identity">
+      <class id="associated" label=""/>
+      <span end="23103" id="PMC3279448.nxml.gz-171" start="23093">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-172" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-174" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-175" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-176" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-177" type="identity">
+      <class id="explicit_question" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-179" type="identity">
+      <class id="variation" label=""/>
+      <span end="23624" id="PMC3279448.nxml.gz-179" start="23615">variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-18" type="identity">
+      <class id="associated" label=""/>
+      <span end="1448" id="PMC3279448.nxml.gz-18" start="1438">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-182" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24670" id="PMC3279448.nxml.gz-182" start="24439">There was an overall significant relationship between AluYb8 methylation extent and bioinformatically derived CpG class methylation ( p&lt; 0.0001) but not between LINE-1 methylation and bioinformatically derived CpG class methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-183" type="identity">
+      <class id="relationship" label=""/>
+      <span end="24484" id="PMC3279448.nxml.gz-183" start="24472">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25013" id="PMC3279448.nxml.gz-184" start="24672">When considering class-specific relationships, there was a positive association between AluYb8 methylation levels and mean methylation across loci allocated within a PcG target gene and LINE-2 element and proximal to a TFBS (class PcG/LINE-2/TFBS) and loci located within a CGI and PcG target gene and proximal to a TFBS (class CpG/PcG/TFBS)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-185" type="identity">
+      <class id="relationships" label=""/>
+      <span end="24717" id="PMC3279448.nxml.gz-185" start="24704">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-186" type="identity">
+      <class id="association" label=""/>
+      <span end="24751" id="PMC3279448.nxml.gz-186" start="24740">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25637" id="PMC3279448.nxml.gz-189" start="25399">To expand on the bioinformatically informed analysis, which suggested that methylation of CpG loci proximal to a TFBS were associated with AluYb8 methylation, we performed a GSEA using specific TFBS, obtained from the UCSC Genomes Browser</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-19" type="identity">
+      <class id="differ" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-190" type="identity">
+      <class id="suggested" label=""/>
+      <span end="25468" id="PMC3279448.nxml.gz-190" start="25459">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-191" type="identity">
+      <class id="associated" label=""/>
+      <span end="25532" id="PMC3279448.nxml.gz-191" start="25522">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-193" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-194" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26101" id="PMC3279448.nxml.gz-194" start="25965">Only three TFBS genes were overrepresented among loci whose methylation was associated with LINE-1 methylation: MEF2 , TBX1 , and POU2F1</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-195" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-196" type="identity">
+      <class id="associated" label=""/>
+      <span end="26051" id="PMC3279448.nxml.gz-196" start="26041">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-197" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26465" id="PMC3279448.nxml.gz-197" start="26104">For those overrepresented among loci associated with AluYb8 methylation, there were a number of developmentally related TFBS genes ( CUX1 , CHX10 , PAX4 , PPARG , TAL1/ITF2 heterodimer, HAND1 , MYOD, OCT), as well as those involved in cell processes ( ACTR3B , S8 ), gene expression ( NFE2L ), lipid/sterol homeostasis ( NR3C1 ), and immune modulation ( GATA1 )</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-198" type="identity">
+      <class id="associated" label=""/>
+      <span end="26151" id="PMC3279448.nxml.gz-198" start="26141">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-199" type="identity">
+      <class id="related" label=""/>
+      <span end="26223" id="PMC3279448.nxml.gz-199" start="26216">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-2" type="identity">
+      <class id="theory" label=""/>
+      <span end="190" id="PMC3279448.nxml.gz-2" start="184">theory</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1896" id="PMC3279448.nxml.gz-20" start="1609">Increased placental AluYb8 methylation was positively associated with average methylation among CpG loci found in polycomb group target genes; developmentally related transcription factor binding sites were overrepresented for differentially methylated loci associated with both elements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-200" type="identity">
+      <class id="involved" label=""/>
+      <span end="26335" id="PMC3279448.nxml.gz-200" start="26327">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-201" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26572" id="PMC3279448.nxml.gz-201" start="26467">Only POU2F1 was found to be overrepresented among loci associated with both LINE-1 and AluYb8 methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-202" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-203" type="identity">
+      <class id="associated" label=""/>
+      <span end="26532" id="PMC3279448.nxml.gz-203" start="26522">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26742" id="PMC3279448.nxml.gz-204" start="26586">In this study, we have identified significant associations between infant growth, in utero exposures, and repetitive element methylation in placental tissue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-205" type="identity">
+      <class id="associations" label=""/>
+      <span end="26644" id="PMC3279448.nxml.gz-205" start="26632">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-206" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27029" id="PMC3279448.nxml.gz-206" start="26744">Moreover, by examining the relationship between repetitive element DNA methylation and genomewide (array) gene-associated methylation, this work suggests potential epigenetic mechanisms underlying changes to placental function that may lead to altered fetal development and programming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-207" type="identity">
+      <class id="relationship" label=""/>
+      <span end="26783" id="PMC3279448.nxml.gz-207" start="26771">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-208" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-209" type="identity">
+      <class id="suggests" label=""/>
+      <span end="26897" id="PMC3279448.nxml.gz-209" start="26889">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-21" type="identity">
+      <class id="associated" label=""/>
+      <span end="1673" id="PMC3279448.nxml.gz-21" start="1663">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-210" type="identity">
+      <class id="potential" label=""/>
+      <span end="26907" id="PMC3279448.nxml.gz-210" start="26898">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-211" type="identity">
+      <class id="may" label=""/>
+      <span end="26979" id="PMC3279448.nxml.gz-211" start="26976">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27353" id="PMC3279448.nxml.gz-212" start="27156">Overall, AluYb8 had higher DNA methylation levels than did LINE-1, which may be due to the lower degree of C-to-T transition mutations owing to the younger age of AluYb8 elements (Choi et al. 2009)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-213" type="identity">
+      <class id="may_be" label=""/>
+      <span end="27235" id="PMC3279448.nxml.gz-213" start="27229">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27575" id="PMC3279448.nxml.gz-214" start="27355">AluYb8 levels were found to marginally differ by infant sex, which is consistent with the previous literature in that repetitive element methylation markers in blood may vary by sex (Cash et al. 2011;Wilhelm et al. 2010)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-215" type="identity">
+      <class id="consistent" label=""/>
+      <span end="27435" id="PMC3279448.nxml.gz-215" start="27425">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-216" type="identity">
+      <class id="may" label=""/>
+      <span end="27524" id="PMC3279448.nxml.gz-216" start="27521">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-217" type="identity">
+      <class id="vary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-218" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27824" id="PMC3279448.nxml.gz-218" start="27577">We found that birth weight percentile levels increased by about 10 and 15 points, respectively, with a 10% increase in LINE-1 or AluYb8 methylation levels, suggesting a strong association of repetitive element methylation markers with fetal growth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-219" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="27743" id="PMC3279448.nxml.gz-219" start="27733">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-22" type="identity">
+      <class id="related" label=""/>
+      <span end="1775" id="PMC3279448.nxml.gz-22" start="1768">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-220" type="identity">
+      <class id="association" label=""/>
+      <span end="27764" id="PMC3279448.nxml.gz-220" start="27753">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-221" type="identity">
+      <class id="however" label=""/>
+      <span end="27833" id="PMC3279448.nxml.gz-221" start="27826">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-222" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28054" id="PMC3279448.nxml.gz-222" start="27826">However, because LINE-1 and AluYb8 methylation levels have a moderate correlation, it is possible that these two repetitive element methylation markers may explain both similar and different sources of variation in infant growth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-223" type="identity">
+      <class id="correlation" label=""/>
+      <span end="27907" id="PMC3279448.nxml.gz-223" start="27896">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-224" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="27923" id="PMC3279448.nxml.gz-224" start="27909">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-225" type="identity">
+      <class id="may" label=""/>
+      <span end="27981" id="PMC3279448.nxml.gz-225" start="27978">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-226" type="identity">
+      <class id="variation" label=""/>
+      <span end="28037" id="PMC3279448.nxml.gz-226" start="28028">variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-227" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28305" id="PMC3279448.nxml.gz-227" start="28056">Our analysis of the relationship between the extent of methylation at these elements and genomewide gene-associated methylation was aimed to better characterize the similarities and differences in the potential functional importance of these markers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-228" type="identity">
+      <class id="relationship" label=""/>
+      <span end="28088" id="PMC3279448.nxml.gz-228" start="28076">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-229" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-23" type="identity">
+      <class id="associated" label=""/>
+      <span end="1877" id="PMC3279448.nxml.gz-23" start="1867">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-230" type="identity">
+      <class id="aimed" label=""/>
+      <span end="28193" id="PMC3279448.nxml.gz-230" start="28188">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-231" type="identity">
+      <class id="potential" label=""/>
+      <span end="28266" id="PMC3279448.nxml.gz-231" start="28257">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-232" type="identity">
+      <class id="importance" label=""/>
+      <span end="28288" id="PMC3279448.nxml.gz-232" start="28278">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-233" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28810" id="PMC3279448.nxml.gz-233" start="28307">The approach to examining the relationship between repetitive element methylation and gene-associated methylation was not designed to assess specific loci or genes associated with LINE-1 or AluYb8 methylation, but rather to evaluate whether methylation of particular groups of CpG loci with like methylation patterns or similar bioinformatic attributes were coordinately associated with LINE-1 or AluYb8 methylation, because this could inform on the process responsible for the variation between the two</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-234" type="identity">
+      <class id="relationship" label=""/>
+      <span end="28349" id="PMC3279448.nxml.gz-234" start="28337">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-235" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-236" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28440" id="PMC3279448.nxml.gz-236" start="28425">not designed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-237" type="identity">
+      <class id="designed_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-238" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-239" type="identity">
+      <class id="associated...or" label=""/>
+      <span end="28481" id="PMC3279448.nxml.gz-239" start="28471">associated</span>
+      <span end="28496" id="PMC3279448.nxml.gz-240" start="28494">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2229" id="PMC3279448.nxml.gz-24" start="1911">Our results suggest that repetitive element methylation markers, most notably AluYb8 methylation, may be susceptible to epigenetic alterations resulting from the intrauterine environment and play a critical role in mediating placenta function, and may ultimately inform on the developmental basis of health and disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-241" type="identity">
+      <class id="rather" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-242" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="28539" id="PMC3279448.nxml.gz-242" start="28528">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-243" type="identity">
+      <class id="whether" label=""/>
+      <span end="28547" id="PMC3279448.nxml.gz-243" start="28540">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-244" type="identity">
+      <class id="associated...or" label=""/>
+      <span end="28688" id="PMC3279448.nxml.gz-244" start="28678">associated</span>
+      <span end="28703" id="PMC3279448.nxml.gz-245" start="28701">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-246" type="identity">
+      <class id="could" label=""/>
+      <span end="28742" id="PMC3279448.nxml.gz-246" start="28737">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-247" type="identity">
+      <class id="variation" label=""/>
+      <span end="28794" id="PMC3279448.nxml.gz-247" start="28785">variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29095" id="PMC3279448.nxml.gz-248" start="28812">Based on our data-driven RPMM approach, we observed that AluYb8 methylation was significantly and positively correlated with methylation at CpG loci in an intermediately methylated class containing loci that were located predominantly within CGIs and associated with PcG target genes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-249" type="identity">
+      <class id="correlated" label=""/>
+      <span end="28931" id="PMC3279448.nxml.gz-249" start="28921">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-25" type="identity">
+      <class id="suggest" label=""/>
+      <span end="1930" id="PMC3279448.nxml.gz-25" start="1923">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-250" type="identity">
+      <class id="associated" label=""/>
+      <span end="29073" id="PMC3279448.nxml.gz-250" start="29063">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29462" id="PMC3279448.nxml.gz-251" start="29097">This was further substantiated in our bioinformatically informed classification analysis, because we identified a significant association between AluYb8 methylation and methylation of a group of loci defined by their position in a CGI, PcG target gene, and a TFBS, as well CpGs defined by association with a PcG target gene and LINE-2 element and proximal to a TFBS</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-252" type="identity">
+      <class id="association" label=""/>
+      <span end="29234" id="PMC3279448.nxml.gz-252" start="29223">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-253" type="identity">
+      <class id="association" label=""/>
+      <span end="29397" id="PMC3279448.nxml.gz-253" start="29386">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29824" id="PMC3279448.nxml.gz-257" start="29601">This is in contrast to a previous study involving 12 fetal cord blood samples, which reported a significant correlation between LINE-1 methylation and methylation of specific loci residing mostly in CGIs (Fryer et al. 2011)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-258" type="identity">
+      <class id="in_contrast_to" label=""/>
+      <span end="29623" id="PMC3279448.nxml.gz-258" start="29609">in contrast to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-259" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="29640" id="PMC3279448.nxml.gz-259" start="29626">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-26" type="identity">
+      <class id="notably" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-261" type="identity">
+      <class id="correlation" label=""/>
+      <span end="29720" id="PMC3279448.nxml.gz-261" start="29709">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29979" id="PMC3279448.nxml.gz-263" start="29826">This disparity may reflect tissue-specific differences in these relationships, as well as the larger and therefore more precise nature of our examination</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-264" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="29840" id="PMC3279448.nxml.gz-264" start="29831">disparity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-265" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-266" type="identity">
+      <class id="may" label=""/>
+      <span end="29844" id="PMC3279448.nxml.gz-266" start="29841">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-267" type="identity">
+      <class id="relationships" label=""/>
+      <span end="29903" id="PMC3279448.nxml.gz-267" start="29890">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-268" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30285" id="PMC3279448.nxml.gz-268" start="29981">PcG targets are a family of developmentally related genes that can remodel chromatin and are responsible for silencing HOX genes, which are critical in embryonic development as well as potentially hundreds of other genes involved in cellular differentiation (Kirmizis et al. 2004;Simon and Kingston 2009)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-269" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-27" type="identity">
+      <class id="may_be" label=""/>
+      <span end="2015" id="PMC3279448.nxml.gz-27" start="2009">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-270" type="identity">
+      <class id="critical" label=""/>
+      <span end="30129" id="PMC3279448.nxml.gz-270" start="30121">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-271" type="identity">
+      <class id="potentially" label=""/>
+      <span end="30177" id="PMC3279448.nxml.gz-271" start="30166">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-272" type="identity">
+      <class id="involved" label=""/>
+      <span end="30210" id="PMC3279448.nxml.gz-272" start="30202">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-273" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30595" id="PMC3279448.nxml.gz-273" start="30287">We observed that increasing AluYb8 methylation was associated with greater extents of methylation at CpG loci located in a PcG target, and thus a change in the extent of methylation of AluYb8 may represent an alteration in the methylation of these key loci important in tissue development and differentiation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-274" type="identity">
+      <class id="associated" label=""/>
+      <span end="30348" id="PMC3279448.nxml.gz-274" start="30338">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-275" type="identity">
+      <class id="may" label=""/>
+      <span end="30482" id="PMC3279448.nxml.gz-275" start="30479">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-276" type="identity">
+      <class id="important" label=""/>
+      <span end="30553" id="PMC3279448.nxml.gz-276" start="30544">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-277" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30741" id="PMC3279448.nxml.gz-277" start="30597">Both bioinformatically informed CpG classes that were significantly associated with AluYb8 methylation contained loci that are proximal to TFBSs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-278" type="identity">
+      <class id="associated" label=""/>
+      <span end="30675" id="PMC3279448.nxml.gz-278" start="30665">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-279" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31083" id="PMC3279448.nxml.gz-279" start="30743">Upon further exploration through GSEA, we observed an overrepresentation of several TFBSs for transcription factors critical in development, cellular processes, immune modulation, lipid or sterol homeostasis, and gene expression near loci associated with AluYb8, as well as a few developmental and cellular proliferation pathways for LINE-1</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-28" type="identity">
+      <class id="critical" label=""/>
+      <span end="2117" id="PMC3279448.nxml.gz-28" start="2109">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-280" type="identity">
+      <class id="critical" label=""/>
+      <span end="30867" id="PMC3279448.nxml.gz-280" start="30859">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-281" type="identity">
+      <class id="associated" label=""/>
+      <span end="30992" id="PMC3279448.nxml.gz-281" start="30982">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-282" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31197" id="PMC3279448.nxml.gz-282" start="31085">Specifically, POU2F1 binding sites were overrepresented among loci associated with both LINE-1 and AluYb8 extent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-283" type="identity">
+      <class id="associated" label=""/>
+      <span end="31162" id="PMC3279448.nxml.gz-283" start="31152">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-284" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31534" id="PMC3279448.nxml.gz-284" start="31199">This transcription factor plays a role in the control of a wide range of genes, including small nuclear RNAs, immunoglobulins, histone H2B, and the glucocorticoid receptor, and thus has a central role in controlling various functions, including those of immunomodulation and steroid homeostasis in the placenta (Schonemann et al. 1998)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-285" type="identity">
+      <class id="role" label=""/>
+      <span end="31237" id="PMC3279448.nxml.gz-285" start="31233">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-286" type="identity">
+      <class id="wide_range" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-287" type="identity">
+      <class id="role" label=""/>
+      <span end="31399" id="PMC3279448.nxml.gz-287" start="31395">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-288" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31818" id="PMC3279448.nxml.gz-288" start="31536">Taken together, these results suggest that alterations to LINE-1 or AluYb8 methylation may act as a marker for key changes to the extent of methylation at loci targeted by important transcription factors for normal development and placenta processes necessary for appropriate growth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-289" type="identity">
+      <class id="suggest" label=""/>
+      <span end="31573" id="PMC3279448.nxml.gz-289" start="31566">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-29" type="identity">
+      <class id="role" label=""/>
+      <span end="2122" id="PMC3279448.nxml.gz-29" start="2118">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-290" type="identity">
+      <class id="may" label=""/>
+      <span end="31626" id="PMC3279448.nxml.gz-290" start="31623">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-291" type="identity">
+      <class id="important" label=""/>
+      <span end="31717" id="PMC3279448.nxml.gz-291" start="31708">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-292" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32175" id="PMC3279448.nxml.gz-292" start="31820">When looking at each repetitive element methylation marker grouped by various in utero exposures, we found that mean AluYb8 methylation levels were significantly different by maternal tobacco use during pregnancy, similar to results from another group that found significantly different levels of cytosine methylation by smoking status (Moore et al. 2008)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-293" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32071" id="PMC3279448.nxml.gz-293" start="32045">results from another group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-294" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32397" id="PMC3279448.nxml.gz-294" start="32177">Furthermore, mean LINE-1 methylation levels were significantly different by maternal alcohol use during pregnancy; however, limited numbers may affect our precision, so this result should be confirmed in further analyses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-295" type="identity">
+      <class id="however" label=""/>
+      <span end="32299" id="PMC3279448.nxml.gz-295" start="32292">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-296" type="identity">
+      <class id="limited_number" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-297" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32316" id="PMC3279448.nxml.gz-297" start="32301">limited numbers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-298" type="identity">
+      <class id="may" label=""/>
+      <span end="32320" id="PMC3279448.nxml.gz-298" start="32317">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-299" type="identity">
+      <class id="affect" label=""/>
+      <span end="32327" id="PMC3279448.nxml.gz-299" start="32321">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-3" type="identity">
+      <class id="linking" label=""/>
+      <span end="198" id="PMC3279448.nxml.gz-3" start="191">linking</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-30" type="identity">
+      <class id="may" label=""/>
+      <span end="2162" id="PMC3279448.nxml.gz-30" start="2159">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-300" type="identity">
+      <class id="should_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-301" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-302" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-303" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32593" id="PMC3279448.nxml.gz-303" start="32399">This study was limited in its assessment of environmental exposures because of the low number of exposed individuals and low power, making this part of our analysis largely exploratory in nature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-304" type="identity">
+      <class id="this_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-305" type="identity">
+      <class id="limited" label=""/>
+      <span end="32421" id="PMC3279448.nxml.gz-305" start="32414">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-306" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32871" id="PMC3279448.nxml.gz-306" start="32595">However, it will be increasingly important to examine, in larger studies, how additional specific exposures, such as lead as has been done by previous researchers (Pilsner et al. 2009), during intrauterine development affect these epigenetic markers in a more quantitative way</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-307" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-308" type="identity">
+      <class id="will" label=""/>
+      <span end="32611" id="PMC3279448.nxml.gz-308" start="32607">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-309" type="identity">
+      <class id="important" label=""/>
+      <span end="32637" id="PMC3279448.nxml.gz-309" start="32628">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-31" type="identity">
+      <class id="ultimately" label=""/>
+      <span end="2173" id="PMC3279448.nxml.gz-31" start="2163">ultimately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-310" type="identity">
+      <class id="to...examine" label=""/>
+      <span end="32648" id="PMC3279448.nxml.gz-310" start="32638">to examine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-311" type="identity">
+      <class id="larger_studies" label=""/>
+      <span end="32667" id="PMC3279448.nxml.gz-311" start="32653">larger studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-312" type="identity">
+      <class id="how" label=""/>
+      <span end="32672" id="PMC3279448.nxml.gz-312" start="32669">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-313" type="identity">
+      <class id="has...been" label=""/>
+      <span end="32728" id="PMC3279448.nxml.gz-313" start="32720">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-314" type="identity">
+      <class id="affect" label=""/>
+      <span end="32819" id="PMC3279448.nxml.gz-314" start="32813">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33222" id="PMC3279448.nxml.gz-315" start="32873">Although a few other studies have correlated array-based methylation levels with repetitive element methylation markers (Fryer et al. 2011) and found at times good correlation between the two, our results indicate that array-based methylation level may not be a good predictive marker of repetitive element methylation level in human placenta tissue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-316" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-317" type="identity">
+      <class id="controversy" label=""/>
+      <span end="32881" id="PMC3279448.nxml.gz-317" start="32873">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-318" type="identity">
+      <class id="few...studies" label=""/>
+      <span end="32887" id="PMC3279448.nxml.gz-318" start="32884">few</span>
+      <span end="32901" id="PMC3279448.nxml.gz-319" start="32894">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2410" id="PMC3279448.nxml.gz-32" start="2231">The importance of environmental exposures during intrauterine development on health throughout the life course is now well recognized in the epidemiologic literature (Barker 2004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-320" type="identity">
+      <class id="correlated" label=""/>
+      <span end="32917" id="PMC3279448.nxml.gz-320" start="32907">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-321" type="identity">
+      <class id="correlation" label=""/>
+      <span end="33048" id="PMC3279448.nxml.gz-321" start="33037">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-322" type="identity">
+      <class id="indicate" label=""/>
+      <span end="33086" id="PMC3279448.nxml.gz-322" start="33078">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-323" type="identity">
+      <class id="may" label=""/>
+      <span end="33125" id="PMC3279448.nxml.gz-323" start="33122">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-324" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33406" id="PMC3279448.nxml.gz-324" start="33224">Array-based mean methylation across the 26,486 CpG loci was not found to be associated with any of our in utero exposures, contrasting with our repetitive element methylation markers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-325" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-326" type="identity">
+      <class id="contrasting" label=""/>
+      <span end="33358" id="PMC3279448.nxml.gz-326" start="33347">contrasting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-327" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33591" id="PMC3279448.nxml.gz-327" start="33408">Additionally, LINE1, AluYb8, and specific array-based methylation loci often interrogate different genetic regions; therefore, their methylation may have a differential genomic impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-328" type="identity">
+      <class id="may" label=""/>
+      <span end="33556" id="PMC3279448.nxml.gz-328" start="33553">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-329" type="identity">
+      <class id="impact" label=""/>
+      <span end="33591" id="PMC3279448.nxml.gz-329" start="33585">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-33" type="identity">
+      <class id="importance" label=""/>
+      <span end="2245" id="PMC3279448.nxml.gz-33" start="2235">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-330" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33873" id="PMC3279448.nxml.gz-330" start="33593">Furthermore, the divergence of results observed between LINE-1 and AluYb8 reported throughout this work suggests that these repetitive element methylation markers are distinct measures and may not represent true, and potentially interchangeable, surrogates of “global” methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-331" type="identity">
+      <class id="suggests" label=""/>
+      <span end="33705" id="PMC3279448.nxml.gz-331" start="33697">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-332" type="identity">
+      <class id="may" label=""/>
+      <span end="33785" id="PMC3279448.nxml.gz-332" start="33782">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-333" type="identity">
+      <class id="potentially" label=""/>
+      <span end="33821" id="PMC3279448.nxml.gz-333" start="33810">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-334" type="identity">
+      <class id="although" label=""/>
+      <span end="33883" id="PMC3279448.nxml.gz-334" start="33875">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-335" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34156" id="PMC3279448.nxml.gz-335" start="33875">Although we found that these repetitive element indicators are weakly to moderately correlated, they have their own unique distributions of methylation values, consistent with previous comparisons between LINE-1 and Alu methylation in normal blood (Jintaridth and Mutirangura 2010)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-336" type="identity">
+      <class id="correlated" label=""/>
+      <span end="33969" id="PMC3279448.nxml.gz-336" start="33959">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-337" type="identity">
+      <class id="consistent" label=""/>
+      <span end="34045" id="PMC3279448.nxml.gz-337" start="34035">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-338" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34311" id="PMC3279448.nxml.gz-338" start="34158">In addition, it is believed that genomic location and sequence context play a crucial role in the maintenance or loss of DNA methylation in these regions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-339" type="identity">
+      <class id="believed" label=""/>
+      <span end="34185" id="PMC3279448.nxml.gz-339" start="34177">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2718" id="PMC3279448.nxml.gz-34" start="2412">The molecular mechanisms that underlie these observations remain unclear, although recent work suggests that alterations to placental function may lead to altered fetal development and programming, likely playing a critical role in mediating these associations (Higgins et al. 2011;Lester and Padbury 2009)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-340" type="identity">
+      <class id="crucial" label=""/>
+      <span end="34243" id="PMC3279448.nxml.gz-340" start="34236">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-341" type="identity">
+      <class id="role" label=""/>
+      <span end="34248" id="PMC3279448.nxml.gz-341" start="34244">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-342" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34500" id="PMC3279448.nxml.gz-342" start="34313">For example, research has suggested that Alu sequences often flank CGIs (Graff et al. 1997) and therefore may play a distinct role in both repetitive element and gene-directed methylation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-343" type="identity">
+      <class id="suggested" label=""/>
+      <span end="34348" id="PMC3279448.nxml.gz-343" start="34339">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-344" type="identity">
+      <class id="may" label=""/>
+      <span end="34422" id="PMC3279448.nxml.gz-344" start="34419">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-345" type="identity">
+      <class id="role" label=""/>
+      <span end="34443" id="PMC3279448.nxml.gz-345" start="34439">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-346" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34747" id="PMC3279448.nxml.gz-346" start="34502">Differences between these markers can most likely be explained by the unequal distributions of these sequences throughout the genome, owing in some part to the evolutionary age of these two retrotransposable elements (Zamudio and Bourc’his 2010)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-347" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-348" type="identity">
+      <class id="most_likely" label=""/>
+      <span end="34551" id="PMC3279448.nxml.gz-348" start="34540">most likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-349" type="identity">
+      <class id="likely_be" label=""/>
+      <span end="34554" id="PMC3279448.nxml.gz-349" start="34545">likely be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-35" type="identity">
+      <class id="remain_unclear" label=""/>
+      <span end="2484" id="PMC3279448.nxml.gz-35" start="2470">remain unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-350" type="identity">
+      <class id="some" label=""/>
+      <span end="34649" id="PMC3279448.nxml.gz-350" start="34645">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-351" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34903" id="PMC3279448.nxml.gz-351" start="34749">This may therefore be affecting the number of these elements in the genome and the functional relevance of their methylation, particularly in the placenta</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-352" type="identity">
+      <class id="may" label=""/>
+      <span end="34757" id="PMC3279448.nxml.gz-352" start="34754">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-353" type="identity">
+      <class id="affect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-354" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="34780" id="PMC3279448.nxml.gz-354" start="34771">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-355" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35016" id="PMC3279448.nxml.gz-355" start="34905">As our results suggest, distinct mechanisms and selective pressures are likely responsible for their alteration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-356" type="identity">
+      <class id="suggest" label=""/>
+      <span end="34927" id="PMC3279448.nxml.gz-356" start="34920">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-357" type="identity">
+      <class id="likely" label=""/>
+      <span end="34983" id="PMC3279448.nxml.gz-357" start="34977">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-358" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35430" id="PMC3279448.nxml.gz-358" start="35280">Modest limitations of this study include the use of data from medical records, which may have reduced the quality of covariate data used in this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-359" type="identity">
+      <class id="limitations" label=""/>
+      <span end="35298" id="PMC3279448.nxml.gz-359" start="35287">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-36" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-360" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-361" type="identity">
+      <class id="may" label=""/>
+      <span end="35368" id="PMC3279448.nxml.gz-361" start="35365">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-362" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-363" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35605" id="PMC3279448.nxml.gz-363" start="35432">This may have been especially relevant in our measurement of maternal tobacco, alcohol, and prenatal vitamin use and could have potentially introduced a bias toward the null</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-364" type="identity">
+      <class id="may" label=""/>
+      <span end="35440" id="PMC3279448.nxml.gz-364" start="35437">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-365" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-366" type="identity">
+      <class id="could" label=""/>
+      <span end="35554" id="PMC3279448.nxml.gz-366" start="35549">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-367" type="identity">
+      <class id="potentially" label=""/>
+      <span end="35571" id="PMC3279448.nxml.gz-367" start="35560">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-368" type="identity">
+      <class id="bias" label=""/>
+      <span end="35589" id="PMC3279448.nxml.gz-368" start="35585">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-369" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36074" id="PMC3279448.nxml.gz-369" start="35607">Additionally, because Rhode Island is a small state representing a small geographic area, recruiting participants from this state may affect the generalizability of our findings; however, because the Women and Infants Hospital performs &gt; 85% of all obstetrical deliveries in Providence County (the largest population center in Rhode Island), we believe this limitation is compensated for to some extent by the lack of ascertainment bias in this population-based study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-37" type="identity">
+      <class id="suggests" label=""/>
+      <span end="2515" id="PMC3279448.nxml.gz-37" start="2507">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-370" type="identity">
+      <class id="may" label=""/>
+      <span end="35740" id="PMC3279448.nxml.gz-370" start="35737">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-371" type="identity">
+      <class id="affect" label=""/>
+      <span end="35747" id="PMC3279448.nxml.gz-371" start="35741">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-372" type="identity">
+      <class id="however" label=""/>
+      <span end="35793" id="PMC3279448.nxml.gz-372" start="35786">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-373" type="identity">
+      <class id="believe" label=""/>
+      <span end="35959" id="PMC3279448.nxml.gz-373" start="35952">believe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-374" type="identity">
+      <class id="limitation" label=""/>
+      <span end="35975" id="PMC3279448.nxml.gz-374" start="35965">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-375" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-376" type="identity">
+      <class id="lack_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-377" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-378" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36282" id="PMC3279448.nxml.gz-378" start="36089">Overall, we have demonstrated that altered methylation of repetitive elements in the placenta is associated with birth outcome and with specific environmental exposures encountered by the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-379" type="identity">
+      <class id="associated" label=""/>
+      <span end="36196" id="PMC3279448.nxml.gz-379" start="36186">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-38" type="identity">
+      <class id="may" label=""/>
+      <span end="2558" id="PMC3279448.nxml.gz-38" start="2555">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-380" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36471" id="PMC3279448.nxml.gz-380" start="36284">Of course, birth weight is likely a proxy for a complex interplay of underlying etiologic mechanisms and environmental factors that overall contribute to infant health at birth and beyond</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-381" type="identity">
+      <class id="likely" label=""/>
+      <span end="36317" id="PMC3279448.nxml.gz-381" start="36311">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-382" type="identity">
+      <class id="complex" label=""/>
+      <span end="36339" id="PMC3279448.nxml.gz-382" start="36332">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-383" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36629" id="PMC3279448.nxml.gz-383" start="36473">Our data also suggest that these alterations may reflect underlying functional epigenetic alterations to genes important in placental growth and development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-384" type="identity">
+      <class id="suggest" label=""/>
+      <span end="36494" id="PMC3279448.nxml.gz-384" start="36487">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-385" type="identity">
+      <class id="may" label=""/>
+      <span end="36521" id="PMC3279448.nxml.gz-385" start="36518">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-386" type="identity">
+      <class id="important" label=""/>
+      <span end="36593" id="PMC3279448.nxml.gz-386" start="36584">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-387" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36937" id="PMC3279448.nxml.gz-387" start="36631">Confirmation and expansion of these findings in additional populations, with additional environmental data and more comprehensive methylation profiles as well as studies of the mechanism of these alterations, will provide additional valuable insights into the epigenetic mechanisms controlling fetal growth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-388" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-39" type="identity">
+      <class id="likely" label=""/>
+      <span end="2616" id="PMC3279448.nxml.gz-39" start="2610">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-390" type="identity">
+      <class id="future_work" label=""/>
+      <span end="36718" id="PMC3279448.nxml.gz-390" start="36708">additional</span>
+      <span end="36737" id="PMC3279448.nxml.gz-391" start="36733">data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-392" type="identity">
+      <class id="will" label=""/>
+      <span end="36844" id="PMC3279448.nxml.gz-392" start="36840">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-393" type="identity">
+      <class id="insight" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-394" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37273" id="PMC3279448.nxml.gz-394" start="36939">These data also further the hypothesis that the intrauterine environment acting through epigenetic alteration of the placenta is a key mechanism to explain the developmental origins of health and disease and suggest that enhanced examinations of the importance of placental epigenetic variation in health outcomes should be undertaken</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-395" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="36962" id="PMC3279448.nxml.gz-395" start="36955">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-396" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="36977" id="PMC3279448.nxml.gz-396" start="36967">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-397" type="identity">
+      <class id="suggest" label=""/>
+      <span end="37154" id="PMC3279448.nxml.gz-397" start="37147">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-398" type="identity">
+      <class id="importance" label=""/>
+      <span end="37199" id="PMC3279448.nxml.gz-398" start="37189">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-399" type="identity">
+      <class id="variation" label=""/>
+      <span end="37233" id="PMC3279448.nxml.gz-399" start="37224">variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="415" id="PMC3279448.nxml.gz-4" start="300">Environmental insults in utero may lead to changes in epigenetic mechanisms potentially affecting fetal development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-40" type="identity">
+      <class id="critical" label=""/>
+      <span end="2635" id="PMC3279448.nxml.gz-40" start="2627">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-400" type="identity">
+      <class id="should_be" label=""/>
+      <span end="37262" id="PMC3279448.nxml.gz-400" start="37253">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-41" type="identity">
+      <class id="role" label=""/>
+      <span end="2640" id="PMC3279448.nxml.gz-41" start="2636">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-42" type="identity">
+      <class id="associations" label=""/>
+      <span end="2672" id="PMC3279448.nxml.gz-42" start="2660">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3006" id="PMC3279448.nxml.gz-43" start="2720">Throughout in utero development, the placenta, through the production of various enzymes and hormones, plays an important role in controlling growth and development through the transfer of nutrients and waste and in protecting the fetus from many xenobiotic insults (Robins et al. 2011)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-44" type="identity">
+      <class id="important" label=""/>
+      <span end="2841" id="PMC3279448.nxml.gz-44" start="2832">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-45" type="identity">
+      <class id="role" label=""/>
+      <span end="2846" id="PMC3279448.nxml.gz-45" start="2842">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3226" id="PMC3279448.nxml.gz-46" start="3008">Recent work has demonstrated that placental genetic and epigenetic profiles may possibly serve as markers (Filiberto et al. 2011;Sood et al. 2006) of the intrauterine and extrauterine environment (Nelissen et al. 2011)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-47" type="identity">
+      <class id="may" label=""/>
+      <span end="3087" id="PMC3279448.nxml.gz-47" start="3084">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-48" type="identity">
+      <class id="possibly" label=""/>
+      <span end="3096" id="PMC3279448.nxml.gz-48" start="3088">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3824" id="PMC3279448.nxml.gz-49" start="3600">This is true both in the fetus itself and in the placenta, where changes to the appropriate methylation patterning have been linked to adverse placental morphology and birth outcomes (Serman et al. 2007;Sinclair et al. 2007)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5" type="identity">
+      <class id="may" label=""/>
+      <span end="334" id="PMC3279448.nxml.gz-5" start="331">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-50" type="identity">
+      <class id="have_been" label=""/>
+      <span end="3724" id="PMC3279448.nxml.gz-50" start="3715">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-51" type="identity">
+      <class id="linked" label=""/>
+      <span end="3731" id="PMC3279448.nxml.gz-51" start="3725">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4180" id="PMC3279448.nxml.gz-52" start="3826">Studies examining the impact of environmental exposures on DNA methylation have often focused on the global extent of 5-methylcytosine, using various approaches (Einstein et al. 2010;Pavanello et al. 2009), including the examination of repetitive elements as surrogate markers of global methylation (Choi et al. 2009;Lupski 2010;Weisenberger et al. 2005)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-53" type="identity">
+      <class id="impact" label=""/>
+      <span end="3854" id="PMC3279448.nxml.gz-53" start="3848">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-54" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="4094" id="PMC3279448.nxml.gz-54" start="4085">surrogate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5144" id="PMC3279448.nxml.gz-55" start="4812">The methylation status of these elements may represent a passive dosimeter by being altered by various exposures, although differences in the underlying structure of these elements and the unclear function of methylation of these regions suggest that their alteration and their potential relevance need to be more carefully examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-56" type="identity">
+      <class id="may" label=""/>
+      <span end="4856" id="PMC3279448.nxml.gz-56" start="4853">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5623" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="1988" id="PMC3279448.nxml.gz-5624" start="1976">most notably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5625" type="identity">
+      <class id="subject_scope"/>
+      <span end="23708" id="PMC3279448.nxml.gz-5626" start="23611">the variation in sequence features (bioinformatic attributes) observed between RPMM-based classes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5627" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="29127" id="PMC3279448.nxml.gz-5628" start="29106">further substantiated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5629" type="identity">
+      <class id="future_work"/>
+      <span end="32397" id="PMC3279448.nxml.gz-5630" start="32358">should be confirmed in further analyses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5631" type="identity">
+      <class id="future_work"/>
+      <span end="36701" id="PMC3279448.nxml.gz-5632" start="36676">in additional populations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-5633" type="identity">
+      <class id="future_work"/>
+      <span end="36760" id="PMC3279448.nxml.gz-5634" start="36742">more comprehensive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-57" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-58" type="identity">
+      <class id="unclear" label=""/>
+      <span end="5008" id="PMC3279448.nxml.gz-58" start="5001">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-59" type="identity">
+      <class id="suggest" label=""/>
+      <span end="5057" id="PMC3279448.nxml.gz-59" start="5050">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-6" type="identity">
+      <class id="potentially" label=""/>
+      <span end="387" id="PMC3279448.nxml.gz-6" start="376">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-60" type="identity">
+      <class id="potential" label=""/>
+      <span end="5099" id="PMC3279448.nxml.gz-60" start="5090">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-61" type="identity">
+      <class id="need_to_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-62" type="identity">
+      <class id="future_work" label=""/>
+      <span end="5120" id="PMC3279448.nxml.gz-62" start="5110">need to be</span>
+      <span end="5144" id="PMC3279448.nxml.gz-63" start="5136">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-64" type="identity">
+      <class id="examined" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5375" id="PMC3279448.nxml.gz-65" start="5146">Thus, in this study we examined how the intrauterine environment is related to the methylation status of LINE-1 and Alu regions (specifically LINE-1 and AluYb8 , respectively) in a functionally relevant fetal tissue, the placenta</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-66" type="identity">
+      <class id="this_study" label=""/>
+      <span end="5165" id="PMC3279448.nxml.gz-66" start="5155">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-67" type="identity">
+      <class id="examined" label=""/>
+      <span end="5177" id="PMC3279448.nxml.gz-67" start="5169">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-68" type="identity">
+      <class id="how" label=""/>
+      <span end="5181" id="PMC3279448.nxml.gz-68" start="5178">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-69" type="identity">
+      <class id="related" label=""/>
+      <span end="5221" id="PMC3279448.nxml.gz-69" start="5214">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-7" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="397" id="PMC3279448.nxml.gz-7" start="388">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5638" id="PMC3279448.nxml.gz-70" start="5377">Further, we aimed to explore whether alterations to the methylation of these regions are associated with methylation of gene-associated loci using a genomewide bioinformatic approach, in order to provide clues about the potential importance of these alterations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-71" type="identity">
+      <class id="aimed" label=""/>
+      <span end="5394" id="PMC3279448.nxml.gz-71" start="5389">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-72" type="identity">
+      <class id="whether" label=""/>
+      <span end="5413" id="PMC3279448.nxml.gz-72" start="5406">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-73" type="identity">
+      <class id="associated" label=""/>
+      <span end="5476" id="PMC3279448.nxml.gz-73" start="5466">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-74" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-75" type="identity">
+      <class id="clues" label=""/>
+      <span end="5586" id="PMC3279448.nxml.gz-75" start="5581">clues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-76" type="identity">
+      <class id="potential" label=""/>
+      <span end="5606" id="PMC3279448.nxml.gz-76" start="5597">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-77" type="identity">
+      <class id="importance" label=""/>
+      <span end="5617" id="PMC3279448.nxml.gz-77" start="5607">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-79" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-8" type="identity">
+      <class id="objectives" label=""/>
+      <span end="427" id="PMC3279448.nxml.gz-8" start="417">Objectives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-80" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-81" type="identity">
+      <class id="problems" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-82" type="identity">
+      <class id="issues" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-84" type="identity">
+      <class id="previously" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-85" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-87" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-88" type="identity">
+      <class id="examined" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="597" id="PMC3279448.nxml.gz-9" start="417">Objectives: We examined associations between in utero exposures, infant growth, and methylation of repetitive elements and gene-associated DNA in human term placenta tissue samples</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-90" type="identity">
+      <class id="correlation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-92" type="identity">
+      <class id="to_evaluate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-93" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-94" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-95" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-96" type="identity">
+      <class id="assumption" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-97" type="identity">
+      <class id="no_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-98" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3279448.nxml.gz-99" type="identity">
+      <class id="to_examine" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

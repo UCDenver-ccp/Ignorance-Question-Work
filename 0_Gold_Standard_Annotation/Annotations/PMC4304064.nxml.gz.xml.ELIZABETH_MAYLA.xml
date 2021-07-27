@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4304064.nxml.gz" text-file="PMC4304064.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38" id="PMC4304064.nxml.gz-1" start="0">Anaphylaxis associated with folic acid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="915" id="PMC4304064.nxml.gz-10" start="784">There was insufficient case information available to assess any causal association between the allergic reaction and the fetal loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-11" type="identity">
+      <class id="insufficient...information" label=""/>
+      <span end="806" id="PMC4304064.nxml.gz-11" start="794">insufficient</span>
+      <span end="823" id="PMC4304064.nxml.gz-12" start="812">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-14" type="identity">
+      <class id="association" label=""/>
+      <span end="866" id="PMC4304064.nxml.gz-14" start="855">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1154" id="PMC4304064.nxml.gz-15" start="917">Three medically important cases involved pharmaceutical doses of folic acid (5 mg), one of which was a pediatric case involving a multi ingredient intravenous total parental nutrition product (Multi-12/K1 pediatric) containing folic acid</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-16" type="identity">
+      <class id="important" label=""/>
+      <span end="942" id="PMC4304064.nxml.gz-16" start="933">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-17" type="identity">
+      <class id="involved" label=""/>
+      <span end="957" id="PMC4304064.nxml.gz-17" start="949">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-19" type="identity">
+      <class id="not_available" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-2" type="identity">
+      <class id="associated" label=""/>
+      <span end="22" id="PMC4304064.nxml.gz-2" start="12">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1435" id="PMC4304064.nxml.gz-22" start="1319">Folic acid allergy appears to be rare and would not be expected to be well known among health providers or consumers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-23" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="1351" id="PMC4304064.nxml.gz-23" start="1338">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-24" type="identity">
+      <class id="rare" label=""/>
+      <span end="1356" id="PMC4304064.nxml.gz-24" start="1352">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-25" type="identity">
+      <class id="would" label=""/>
+      <span end="1366" id="PMC4304064.nxml.gz-25" start="1361">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-26" type="identity">
+      <class id="expected" label=""/>
+      <span end="1382" id="PMC4304064.nxml.gz-26" start="1374">expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1588" id="PMC4304064.nxml.gz-27" start="1437">Increasing awareness amongst health providers regarding folic acid allergy may improve the identification and counselling of patients with this allergy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-28" type="identity">
+      <class id="may" label=""/>
+      <span end="1515" id="PMC4304064.nxml.gz-28" start="1512">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="186" id="PMC4304064.nxml.gz-3" start="73">Synthetic folic acid has been shown to cause serious, potentially life-threatening IgE mediated anaphylaxis [1-3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-4" type="identity">
+      <class id="has...been" label=""/>
+      <span end="102" id="PMC4304064.nxml.gz-4" start="94">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-5" type="identity">
+      <class id="potentially" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="595" id="PMC4304064.nxml.gz-6" start="491">All 15 cases of anaphylaxis involved multi ingredient products with NHP doses (up to and including 1 mg)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-7" type="identity">
+      <class id="involved" label=""/>
+      <span end="527" id="PMC4304064.nxml.gz-7" start="519">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="782" id="PMC4304064.nxml.gz-8" start="631">One case of anaphylaxis and 3 cases of serious allergic reaction involved women taking prenatal supplements, two of which reported spontaneous abortion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4304064.nxml.gz-9" type="identity">
+      <class id="involved" label=""/>
+      <span end="704" id="PMC4304064.nxml.gz-9" start="696">involved</span>
+    </annotation>
+  </document>
+</knowtator-project>

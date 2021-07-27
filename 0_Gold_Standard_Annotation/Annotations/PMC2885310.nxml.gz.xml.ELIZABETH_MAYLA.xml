@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2885310.nxml.gz" text-file="PMC2885310.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="123" id="PMC2885310.nxml.gz-1" start="0">Glucose intolerance and gestational diabetes risk in relation to sleep duration and snoring during pregnancy: a pilot study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-10" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="312" id="PMC2885310.nxml.gz-10" start="305">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-100" type="identity">
+      <class id="confounding" label=""/>
+      <span end="9349" id="PMC2885310.nxml.gz-100" start="9338">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-101" type="identity">
+      <class id="due_to" label=""/>
+      <span end="9356" id="PMC2885310.nxml.gz-101" start="9350">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-102" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9714" id="PMC2885310.nxml.gz-102" start="9391">We selected potential confounders from a list of variables that were associated with sleep duration and snoring (from prior studies conducted among men and non-pregnant women) and that met criteria for confounding based on a review of the literature and assessment of potential causal relationships based on prior knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-103" type="identity">
+      <class id="potential" label=""/>
+      <span end="9412" id="PMC2885310.nxml.gz-103" start="9403">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-104" type="identity">
+      <class id="confounders" label=""/>
+      <span end="9424" id="PMC2885310.nxml.gz-104" start="9413">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-105" type="identity">
+      <class id="associated" label=""/>
+      <span end="9470" id="PMC2885310.nxml.gz-105" start="9460">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-106" type="identity">
+      <class id="confounding" label=""/>
+      <span end="9604" id="PMC2885310.nxml.gz-106" start="9593">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-107" type="identity">
+      <class id="based_on" label=""/>
+      <span end="9613" id="PMC2885310.nxml.gz-107" start="9605">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-108" type="identity">
+      <class id="potential" label=""/>
+      <span end="9668" id="PMC2885310.nxml.gz-108" start="9659">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-109" type="identity">
+      <class id="relationships" label=""/>
+      <span end="9689" id="PMC2885310.nxml.gz-109" start="9676">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-11" type="identity">
+      <class id="consequences" label=""/>
+      <span end="345" id="PMC2885310.nxml.gz-11" start="333">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-110" type="identity">
+      <class id="based_on" label=""/>
+      <span end="9698" id="PMC2885310.nxml.gz-110" start="9690">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-111" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="9714" id="PMC2885310.nxml.gz-111" start="9699">prior knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-127" type="identity">
+      <class id="given" label=""/>
+      <span end="10086" id="PMC2885310.nxml.gz-127" start="10081">Given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-13" type="identity">
+      <class id="information" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-131" type="identity">
+      <class id="first_study" label=""/>
+      <span end="10115" id="PMC2885310.nxml.gz-131" start="10104">first study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-132" type="identity">
+      <class id="may" label=""/>
+      <span end="10184" id="PMC2885310.nxml.gz-132" start="10181">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-133" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="10195" id="PMC2885310.nxml.gz-133" start="10185">reasonably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-134" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10209" id="PMC2885310.nxml.gz-134" start="10199">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-135" type="identity">
+      <class id="confounder" label=""/>
+      <span end="10222" id="PMC2885310.nxml.gz-135" start="10212">confounder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-136" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="10339" id="PMC2885310.nxml.gz-136" start="10330">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-137" type="identity">
+      <class id="potential" label=""/>
+      <span end="10353" id="PMC2885310.nxml.gz-137" start="10344">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-138" type="identity">
+      <class id="independent" label=""/>
+      <span end="10365" id="PMC2885310.nxml.gz-138" start="10354">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-139" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="10379" id="PMC2885310.nxml.gz-139" start="10366">contributions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10566" id="PMC2885310.nxml.gz-140" start="10429">The distinction is important because adjustment for covariates along the causal pathway may spuriously attenuate estimates of association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-141" type="identity">
+      <class id="important" label=""/>
+      <span end="10457" id="PMC2885310.nxml.gz-141" start="10448">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-142" type="identity">
+      <class id="because" label=""/>
+      <span end="10465" id="PMC2885310.nxml.gz-142" start="10458">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-143" type="identity">
+      <class id="may" label=""/>
+      <span end="10520" id="PMC2885310.nxml.gz-143" start="10517">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-144" type="identity">
+      <class id="estimates" label=""/>
+      <span end="10551" id="PMC2885310.nxml.gz-144" start="10542">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-145" type="identity">
+      <class id="association" label=""/>
+      <span end="10566" id="PMC2885310.nxml.gz-145" start="10555">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-146" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-147" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-148" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10865" id="PMC2885310.nxml.gz-149" start="10664">We also reported results after stratification so that we (and readers) could assess associations (even with a fair amount of statistical imprecision) without an over-reliance on model-based assumptions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-15" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-150" type="identity">
+      <class id="reported" label=""/>
+      <span end="10680" id="PMC2885310.nxml.gz-150" start="10672">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-151" type="identity">
+      <class id="could" label=""/>
+      <span end="10740" id="PMC2885310.nxml.gz-151" start="10735">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-152" type="identity">
+      <class id="associations" label=""/>
+      <span end="10760" id="PMC2885310.nxml.gz-152" start="10748">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-153" type="identity">
+      <class id="even" label=""/>
+      <span end="10766" id="PMC2885310.nxml.gz-153" start="10762">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-154" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="10838" id="PMC2885310.nxml.gz-154" start="10825">over-reliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-155" type="identity">
+      <class id="0_model" label=""/>
+      <span end="10847" id="PMC2885310.nxml.gz-155" start="10842">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-156" type="identity">
+      <class id="assumptions" label=""/>
+      <span end="10865" id="PMC2885310.nxml.gz-156" start="10854">assumptions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-157" type="identity">
+      <class id="in_keeping_with" label=""/>
+      <span end="10882" id="PMC2885310.nxml.gz-157" start="10867">In keeping with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11139" id="PMC2885310.nxml.gz-158" start="10867">In keeping with prior studies that sought to assess the extent to which adiposity modified associations between sleep disorders and abnormal carbohydrate metabolism [1,2,4,5,18], we also evaluated the joint effect of pre-pregnancy overweight status and snoring on GDM risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-159" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10896" id="PMC2885310.nxml.gz-159" start="10883">prior studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1341" id="PMC2885310.nxml.gz-16" start="1241">Overall, snoring was associated with a 1.86-fold increased risk of GDM (RR = 1.86; 95% CI 0.88-3.94)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-160" type="identity">
+      <class id="associations" label=""/>
+      <span end="10970" id="PMC2885310.nxml.gz-160" start="10958">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-161" type="identity">
+      <class id="effect" label=""/>
+      <span end="11080" id="PMC2885310.nxml.gz-161" start="11074">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-162" type="identity">
+      <class id="approximately" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13133" id="PMC2885310.nxml.gz-164" start="13035">Overall, participants included in this analysis tended to be Caucasian, well-educated, and married</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-165" type="identity">
+      <class id="tended" label=""/>
+      <span end="13089" id="PMC2885310.nxml.gz-165" start="13083">tended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13294" id="PMC2885310.nxml.gz-166" start="13214">Cases were less likely to be of non-Hispanic White race/ethnicity than non-cases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-167" type="identity">
+      <class id="likely" label=""/>
+      <span end="13236" id="PMC2885310.nxml.gz-167" start="13230">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13536" id="PMC2885310.nxml.gz-168" start="13296">A curvilinear relation was seen across levels of maternal habitual nightly sleep duration in early pregnancy for maternal mean-1 hour plasma glucose concentration after a 50-gram oral glucose challenge during weeks 24-28 gestation (Figure1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-169" type="identity">
+      <class id="relation" label=""/>
+      <span end="13318" id="PMC2885310.nxml.gz-169" start="13310">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-17" type="identity">
+      <class id="associated" label=""/>
+      <span end="1272" id="PMC2885310.nxml.gz-17" start="1262">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14384" id="PMC2885310.nxml.gz-170" start="14212">The curvilinear relationship remained evident after participants were stratified on the basis of lean (&lt;25 kg/m2) and overweight (≥25 kg/m2) pre-pregnancy status (Figure2a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-171" type="identity">
+      <class id="relationship" label=""/>
+      <span end="14240" id="PMC2885310.nxml.gz-171" start="14228">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-172" type="identity">
+      <class id="remained" label=""/>
+      <span end="14249" id="PMC2885310.nxml.gz-172" start="14241">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-173" type="identity">
+      <class id="evident" label=""/>
+      <span end="14257" id="PMC2885310.nxml.gz-173" start="14250">evident</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-174" type="identity">
+      <class id="on_the_basis_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-175" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14605" id="PMC2885310.nxml.gz-176" start="14386">As can be seen in Figure2b, the frequency distribution of women with post-50 gram 1-hour glucose concentration ≥ 140 mg/dl (i.e., the threshold for screen positive for glucose intolerance) also had a curvilinear pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-177" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="14605" id="PMC2885310.nxml.gz-177" start="14598">pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-178" type="identity">
+      <class id="regardless_of" label=""/>
+      <span end="14620" id="PMC2885310.nxml.gz-178" start="14607">Regardless of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-179" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14791" id="PMC2885310.nxml.gz-179" start="14607">Regardless of maternal pre-pregnancy overweight status, both short and long sleep durations were associated with higher frequencies of elevated plasma glucose concentrations (Figure2b)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1687" id="PMC2885310.nxml.gz-18" start="1571">These preliminary findings suggest associations of short sleep duration and snoring with glucose intolerance and GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-180" type="identity">
+      <class id="associated" label=""/>
+      <span end="14714" id="PMC2885310.nxml.gz-180" start="14704">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15020" id="PMC2885310.nxml.gz-181" start="14793">Compared with women who did not snore during pregnancy, the adjusted mean 1-hour glucose concentrations were noted to be 6.4 mg/dl higher among those women who snored during pregnancy (β = 6.4 mg/dl, 95% CI 0.32-12.5, p = 0.04)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-182" type="identity">
+      <class id="noted" label=""/>
+      <span end="14907" id="PMC2885310.nxml.gz-182" start="14902">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16011" id="PMC2885310.nxml.gz-183" start="15858">The positive association remained, though was attenuated somewhat, after further adjustment for maternal pre-pregnancy BMI (RR = 4.18; 95% CI 0.94-18.60)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-184" type="identity">
+      <class id="association" label=""/>
+      <span end="15882" id="PMC2885310.nxml.gz-184" start="15871">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-185" type="identity">
+      <class id="remained" label=""/>
+      <span end="15891" id="PMC2885310.nxml.gz-185" start="15883">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-186" type="identity">
+      <class id="though" label=""/>
+      <span end="15899" id="PMC2885310.nxml.gz-186" start="15893">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-187" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16167" id="PMC2885310.nxml.gz-187" start="16013">We also noted that associations between short sleep duration and GDM risk were particularly pronounced among overweight women (far right column of Table2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-188" type="identity">
+      <class id="noted" label=""/>
+      <span end="16026" id="PMC2885310.nxml.gz-188" start="16021">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-189" type="identity">
+      <class id="associations" label=""/>
+      <span end="16044" id="PMC2885310.nxml.gz-189" start="16032">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-19" type="identity">
+      <class id="preliminary" label=""/>
+      <span end="1588" id="PMC2885310.nxml.gz-19" start="1577">preliminary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-190" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="16104" id="PMC2885310.nxml.gz-190" start="16092">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-191" type="identity">
+      <class id="given" label=""/>
+      <span end="16174" id="PMC2885310.nxml.gz-191" start="16169">Given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16580" id="PMC2885310.nxml.gz-192" start="16169">Given the suggestion of a U-shaped relation between sleep duration and GDM risk (with elevated risks for both short and long sleep duration), and given suggestion of a linear trend in risk of GDM for sleep duration ranging from ≤ 4 to 5-8 hours, we modeled the risk of GDM in relation to maternal sleep duration as a continuous variable, restricting the study population to women who reported sleeping &lt;10 hours</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-193" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16189" id="PMC2885310.nxml.gz-193" start="16179">suggestion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-194" type="identity">
+      <class id="relation" label=""/>
+      <span end="16212" id="PMC2885310.nxml.gz-194" start="16204">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-195" type="identity">
+      <class id="given" label=""/>
+      <span end="16320" id="PMC2885310.nxml.gz-195" start="16315">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-196" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16331" id="PMC2885310.nxml.gz-196" start="16321">suggestion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-197" type="identity">
+      <class id="trend" label=""/>
+      <span end="16349" id="PMC2885310.nxml.gz-197" start="16344">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-198" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16425" id="PMC2885310.nxml.gz-198" start="16418">modeled</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-199" type="identity">
+      <class id="relation" label=""/>
+      <span end="16453" id="PMC2885310.nxml.gz-199" start="16445">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-2" type="identity">
+      <class id="relation" label=""/>
+      <span end="61" id="PMC2885310.nxml.gz-2" start="53">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-20" type="identity">
+      <class id="findings" label=""/>
+      <span end="1597" id="PMC2885310.nxml.gz-20" start="1589">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-200" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-201" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16833" id="PMC2885310.nxml.gz-201" start="16582">In this subgroup analysis, after adjusting for maternal age and race/ethnicity, a 1-hour increase in nightly sleep was associated with a 15% reduction in GDM risk (RR = 0.85; 95% CI 0.69-1.05); though this association was not statistically significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-202" type="identity">
+      <class id="associated" label=""/>
+      <span end="16711" id="PMC2885310.nxml.gz-202" start="16701">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-203" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="16782" id="PMC2885310.nxml.gz-203" start="16776">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-204" type="identity">
+      <class id="association" label=""/>
+      <span end="16799" id="PMC2885310.nxml.gz-204" start="16788">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-205" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-206" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17097" id="PMC2885310.nxml.gz-206" start="16835">When analyses were restricted to overweight women, we noted that the GDM risk was reduced by 24% for each sleep hour increment (RR = 0.76; 95% CI 0.57-1.00 adjusted for maternal age and race/ethnicity), but again the association was not statistically significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-207" type="identity">
+      <class id="noted" label=""/>
+      <span end="16894" id="PMC2885310.nxml.gz-207" start="16889">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-208" type="identity">
+      <class id="but" label=""/>
+      <span end="17041" id="PMC2885310.nxml.gz-208" start="17038">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-209" type="identity">
+      <class id="association" label=""/>
+      <span end="17063" id="PMC2885310.nxml.gz-209" start="17052">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-21" type="identity">
+      <class id="suggest" label=""/>
+      <span end="1605" id="PMC2885310.nxml.gz-21" start="1598">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-210" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-211" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17220" id="PMC2885310.nxml.gz-211" start="17099">Reported sleep duration before pregnancy was highly correlated with sleep duration during pregnancy (ρ = 0.92, p &lt; 0.002)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-212" type="identity">
+      <class id="correlated" label=""/>
+      <span end="17161" id="PMC2885310.nxml.gz-212" start="17151">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-213" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17344" id="PMC2885310.nxml.gz-213" start="17222">Results were similar when analyses were repeated using maternal nightly sleep duration prior to pregnancy (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-214" type="identity">
+      <class id="similar" label=""/>
+      <span end="17242" id="PMC2885310.nxml.gz-214" start="17235">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-215" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18536" id="PMC2885310.nxml.gz-215" start="18358">As can be seen from the bottom panel of Table2, maternal snoring was associated with a statistically non-significant 1.86-fold increased risk of GDM (RR = 1.86; 95% CI 0.88-3.94)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-216" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-217" type="identity">
+      <class id="associated" label=""/>
+      <span end="18437" id="PMC2885310.nxml.gz-217" start="18427">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-218" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18632" id="PMC2885310.nxml.gz-218" start="18538">An elevated risk remained after adjustment for pre-pregnancy BMI (RR = 1.54; 95% CI 0.71-3.35)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-219" type="identity">
+      <class id="remained" label=""/>
+      <span end="18563" id="PMC2885310.nxml.gz-219" start="18555">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-22" type="identity">
+      <class id="associations" label=""/>
+      <span end="1618" id="PMC2885310.nxml.gz-22" start="1606">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18741" id="PMC2885310.nxml.gz-220" start="18634">The risk of GDM was particularly elevated among overweight women who also reported snoring during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-221" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18666" id="PMC2885310.nxml.gz-221" start="18654">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-222" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19688" id="PMC2885310.nxml.gz-222" start="19598">The data are insufficient to adequately interpret relative risk estimates for lean snorers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-223" type="identity">
+      <class id="insufficient" label=""/>
+      <span end="19623" id="PMC2885310.nxml.gz-223" start="19611">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-224" type="identity">
+      <class id="estimates" label=""/>
+      <span end="19671" id="PMC2885310.nxml.gz-224" start="19662">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-225" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19964" id="PMC2885310.nxml.gz-225" start="19701">Using sleep duration and snoring information, provided in early pregnancy, we were able to detect associations between sleep characteristics and maternal plasma 1-hour glucose concentrations after a 50-gram oral glucose challenge screening test later in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-226" type="identity">
+      <class id="information" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-227" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="19798" id="PMC2885310.nxml.gz-227" start="19792">detect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-22706" type="identity">
+      <class id="this...study" label=""/>
+      <span end="10096" id="PMC2885310.nxml.gz-22707" start="10092">this</span>
+      <span end="10115" id="PMC2885310.nxml.gz-22708" start="10110">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-22709" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10427" id="PMC2885310.nxml.gz-22710" start="10081">Given that this is the first study to be conducted among pregnant women, and that pre-pregnancy BMI may reasonably be considered a confounder or a covariate along the causal pathway between maternal habitual sleep behaviors and GDM, we were careful to assess the potential independent contributions of the sleep variables (from pre-pregnancy BMI)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-228" type="identity">
+      <class id="associations" label=""/>
+      <span end="19811" id="PMC2885310.nxml.gz-228" start="19799">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-229" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20044" id="PMC2885310.nxml.gz-229" start="19966">Curvilinear relations were observed across nocturnal sleep duration categories</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1903" id="PMC2885310.nxml.gz-23" start="1689">Though consistent with studies of men and non-pregnant women, larger studies that include objective measures of sleep duration, quality and apnea are needed to obtain more precise estimates of observed associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-230" type="identity">
+      <class id="relations" label=""/>
+      <span end="19987" id="PMC2885310.nxml.gz-230" start="19978">relations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-231" type="identity">
+      <class id="observed" label=""/>
+      <span end="20001" id="PMC2885310.nxml.gz-231" start="19993">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-232" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20526" id="PMC2885310.nxml.gz-232" start="20311">Collectively, the findings from this pilot study provides evidence consistent with the notion that glucose homeostasis in pregnancy is sensitive to maternal habitual short sleep duration and snoring during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-233" type="identity">
+      <class id="findings" label=""/>
+      <span end="20337" id="PMC2885310.nxml.gz-233" start="20329">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-234" type="identity">
+      <class id="this...study" label=""/>
+      <span end="20347" id="PMC2885310.nxml.gz-234" start="20343">this</span>
+      <span end="20359" id="PMC2885310.nxml.gz-235" start="20354">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-236" type="identity">
+      <class id="evidence" label=""/>
+      <span end="20377" id="PMC2885310.nxml.gz-236" start="20369">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-237" type="identity">
+      <class id="consistent" label=""/>
+      <span end="20388" id="PMC2885310.nxml.gz-237" start="20378">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-238" type="identity">
+      <class id="notion" label=""/>
+      <span end="20404" id="PMC2885310.nxml.gz-238" start="20398">notion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-239" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20721" id="PMC2885310.nxml.gz-239" start="20528">To our knowledge, this is the first examination of the relation between plasma glucose concentrations, GDM risk and sleep parameters (i.e., snoring and habitual sleep duration) during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-24" type="identity">
+      <class id="though" label=""/>
+      <span end="1695" id="PMC2885310.nxml.gz-24" start="1689">Though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-240" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-241" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="20544" id="PMC2885310.nxml.gz-241" start="20528">To our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-242" type="identity">
+      <class id="first" label=""/>
+      <span end="20563" id="PMC2885310.nxml.gz-242" start="20558">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-243" type="identity">
+      <class id="relation" label=""/>
+      <span end="20591" id="PMC2885310.nxml.gz-243" start="20583">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20908" id="PMC2885310.nxml.gz-244" start="20723">A large literature primarily focused on men and non-pregnant women suggest that sleep loss adversely affects glucose metabolism and increases the risk of type 2 diabetes [4,11,16,32-35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-245" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="20741" id="PMC2885310.nxml.gz-245" start="20725">large literature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-246" type="identity">
+      <class id="primarily" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-247" type="identity">
+      <class id="suggest" label=""/>
+      <span end="20797" id="PMC2885310.nxml.gz-247" start="20790">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-248" type="identity">
+      <class id="affects" label=""/>
+      <span end="20831" id="PMC2885310.nxml.gz-248" start="20824">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-249" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21119" id="PMC2885310.nxml.gz-249" start="20910">In their cross sectional study of 740 Canadians (323 men and 417 women), Chaput et al noted that short sleep duration (&lt;7 hours) was associated with prevalent type 2 diabetes (OR = 1.58; 95% CI 1.13-2.31) [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-25" type="identity">
+      <class id="consistent" label=""/>
+      <span end="1706" id="PMC2885310.nxml.gz-25" start="1696">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-250" type="identity">
+      <class id="noted" label=""/>
+      <span end="21001" id="PMC2885310.nxml.gz-250" start="20996">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-251" type="identity">
+      <class id="associated" label=""/>
+      <span end="21053" id="PMC2885310.nxml.gz-251" start="21043">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-252" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21346" id="PMC2885310.nxml.gz-252" start="21121">Ayas et al, in their study of 70,026 US nurses, followed for 10 years, reported that individuals who slept ≤ 5 hours per night had a significantly higher risk of symptomatic incident diabetes (OR = 1.34; 95% CI 1.04-1.72) [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-253" type="identity">
+      <class id="reported" label=""/>
+      <span end="21200" id="PMC2885310.nxml.gz-253" start="21192">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21709" id="PMC2885310.nxml.gz-254" start="21348">Analysis of data from the Massachusetts Male Aging Study revealed that short sleep duration at baseline (≤5 or 6 hours per night) was associated with elevated risk of developing incident type 2 diabetes after adjustment for covariates, including age, hypertension, smoking, self-rated health, waist circumference, education, total testosterone and cortisol [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-255" type="identity">
+      <class id="revealed" label=""/>
+      <span end="21413" id="PMC2885310.nxml.gz-255" start="21405">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-256" type="identity">
+      <class id="associated" label=""/>
+      <span end="21492" id="PMC2885310.nxml.gz-256" start="21482">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22084" id="PMC2885310.nxml.gz-257" start="21711">Further, Gangwisch et al, in their analysis of data from the first National Health and Nutrition Examination Survey (NHANES I) noted that individuals reporting ≤ 5 hours of sleep (OR = 1.47; 95% CI 1.03-2.09) and those reporting sleeping ≥ 9 hours (OR = 1.52; 95% CI 1.06-2.18) had increased risks of developing diabetes as compared to those reporting 7 hours of sleep [34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-259" type="identity">
+      <class id="noted" label=""/>
+      <span end="21843" id="PMC2885310.nxml.gz-259" start="21838">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-26" type="identity">
+      <class id="larger...studies" label=""/>
+      <span end="1765" id="PMC2885310.nxml.gz-26" start="1751">larger studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-260" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22283" id="PMC2885310.nxml.gz-260" start="22086">Our findings of elevated risks of incident GDM among women reporting both long and short sleep durations in early pregnancy are consistent with these earlier reports from men and non pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-261" type="identity">
+      <class id="findings" label=""/>
+      <span end="22098" id="PMC2885310.nxml.gz-261" start="22090">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-262" type="identity">
+      <class id="consistent" label=""/>
+      <span end="22224" id="PMC2885310.nxml.gz-262" start="22214">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-263" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22251" id="PMC2885310.nxml.gz-263" start="22236">earlier reports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22680" id="PMC2885310.nxml.gz-264" start="22285">Our observations of impaired post-load glucose tolerance and increased risk of GDM among women who snore during pregnancy are also consistent with a growing body of epidemiological evidence that documents markers of the severity of obstructive sleep apnea (OSA) and increased risk of type 2 diabetes in diverse populations of men and non-pregnant women from various geographic regions [32,36-38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-265" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22301" id="PMC2885310.nxml.gz-265" start="22289">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-266" type="identity">
+      <class id="consistent" label=""/>
+      <span end="22426" id="PMC2885310.nxml.gz-266" start="22416">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-267" type="identity">
+      <class id="growing" label=""/>
+      <span end="22441" id="PMC2885310.nxml.gz-267" start="22434">growing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-268" type="identity">
+      <class id="evidence" label=""/>
+      <span end="22474" id="PMC2885310.nxml.gz-268" start="22466">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-269" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22489" id="PMC2885310.nxml.gz-269" start="22480">documents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-27" type="identity">
+      <class id="studies...are_needed" label=""/>
+      <span end="1765" id="PMC2885310.nxml.gz-27" start="1758">studies</span>
+      <span end="1845" id="PMC2885310.nxml.gz-28" start="1835">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-270" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22891" id="PMC2885310.nxml.gz-270" start="22682">In a cross-sectional study of elderly Danish men and women, investigators noted that self-reported snoring was associated with abnormal glucose tolerance test results after control for confounding factors [36]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-271" type="identity">
+      <class id="noted" label=""/>
+      <span end="22761" id="PMC2885310.nxml.gz-271" start="22756">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-272" type="identity">
+      <class id="associated" label=""/>
+      <span end="22803" id="PMC2885310.nxml.gz-272" start="22793">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-273" type="identity">
+      <class id="confounding_factors" label=""/>
+      <span end="22886" id="PMC2885310.nxml.gz-273" start="22867">confounding factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-274" type="identity">
+      <class id="these_findings" label=""/>
+      <span end="22907" id="PMC2885310.nxml.gz-274" start="22893">These findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-275" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23193" id="PMC2885310.nxml.gz-275" start="22893">These findings were subsequently corroborated and extended by others, including, Al-Delaimy et al [32] who reported that self-reported regular snoring was independently associated with a 2-fold increased risk (RR = 2.03; 95% CI 1.71-2.40) of developing type 2 diabetes over a 10-year follow-up period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-276" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22938" id="PMC2885310.nxml.gz-276" start="22926">corroborated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-277" type="identity">
+      <class id="extended" label=""/>
+      <span end="22951" id="PMC2885310.nxml.gz-277" start="22943">extended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-278" type="identity">
+      <class id="reported" label=""/>
+      <span end="23008" id="PMC2885310.nxml.gz-278" start="23000">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-279" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="23061" id="PMC2885310.nxml.gz-279" start="23048">independently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-280" type="identity">
+      <class id="associated" label=""/>
+      <span end="23072" id="PMC2885310.nxml.gz-280" start="23062">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23434" id="PMC2885310.nxml.gz-281" start="23195">Lindberg et al [37], in their cross sectional study of 6,799 Swedish women, for instance, reported that self-reported snoring and excessive daytime sleepiness was an independent risk factor for type 2 diabetes (OR = 1.82; 95% CI 0.97-3.43)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-282" type="identity">
+      <class id="reported" label=""/>
+      <span end="23293" id="PMC2885310.nxml.gz-282" start="23285">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-283" type="identity">
+      <class id="independent" label=""/>
+      <span end="23372" id="PMC2885310.nxml.gz-283" start="23361">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-284" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23694" id="PMC2885310.nxml.gz-284" start="23436">In a population-based Swedish study of 2,668 men followed for 10-years, investigators reported that the multivariable adjusted relative risk for incident type 2 diabetes was highest for obese snorers (OR = 7.0; 95% CI 2.9-16.9) than for lean non-snorers [38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-285" type="identity">
+      <class id="reported" label=""/>
+      <span end="23530" id="PMC2885310.nxml.gz-285" start="23522">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-286" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23901" id="PMC2885310.nxml.gz-286" start="23696">In our study we found that the adjusted relative risk of GDM was highest among overweight mothers who snored during pregnancy (OR = 6.91; 95% CI 2.87-16.3) when compared with lean mothers who did not snore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-287" type="identity">
+      <class id="our_study" label=""/>
+      <span end="23708" id="PMC2885310.nxml.gz-287" start="23699">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-288" type="identity">
+      <class id="found" label=""/>
+      <span end="23717" id="PMC2885310.nxml.gz-288" start="23712">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-289" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24023" id="PMC2885310.nxml.gz-289" start="23903">In summary, available data support the notion that habitual snoring may be a risk factor for abnormal glucose metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-29" type="identity">
+      <class id="estimates" label=""/>
+      <span end="1878" id="PMC2885310.nxml.gz-29" start="1869">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-290" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23929" id="PMC2885310.nxml.gz-290" start="23915">available data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-291" type="identity">
+      <class id="support" label=""/>
+      <span end="23937" id="PMC2885310.nxml.gz-291" start="23930">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-292" type="identity">
+      <class id="notion" label=""/>
+      <span end="23948" id="PMC2885310.nxml.gz-292" start="23942">notion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-293" type="identity">
+      <class id="may_be" label=""/>
+      <span end="23977" id="PMC2885310.nxml.gz-293" start="23971">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-294" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24168" id="PMC2885310.nxml.gz-294" start="24025">Our finding extends this literature by adding preliminary evidence that links snoring with pregnancy-related impaired glucose tolerance and GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-295" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="24036" id="PMC2885310.nxml.gz-295" start="24025">Our finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-296" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="24044" id="PMC2885310.nxml.gz-296" start="24037">extends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-297" type="identity">
+      <class id="preliminary_evidence" label=""/>
+      <span end="24091" id="PMC2885310.nxml.gz-297" start="24071">preliminary evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-298" type="identity">
+      <class id="links" label=""/>
+      <span end="24102" id="PMC2885310.nxml.gz-298" start="24097">links</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-299" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="295" id="PMC2885310.nxml.gz-3" start="146">Insufficient sleep and poor sleep quality, considered endemic in modern society, are associated with obesity, impaired glucose tolerance and diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-30" type="identity">
+      <class id="observed" label=""/>
+      <span end="1890" id="PMC2885310.nxml.gz-30" start="1882">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24427" id="PMC2885310.nxml.gz-301" start="24227">First, our determination of maternal sleep duration and snoring was based on reports made early during pregnancy, so reporting was not conditional on pregnancy outcomes or on signs and symptoms of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-302" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24303" id="PMC2885310.nxml.gz-302" start="24295">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-303" type="identity">
+      <class id="was_not" label=""/>
+      <span end="24361" id="PMC2885310.nxml.gz-303" start="24354">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-304" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24538" id="PMC2885310.nxml.gz-304" start="24429">Our results suggest that habitual short/long sleep duration and snoring precede the clinical diagnosis of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-305" type="identity">
+      <class id="suggest" label=""/>
+      <span end="24448" id="PMC2885310.nxml.gz-305" start="24441">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-306" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24612" id="PMC2885310.nxml.gz-306" start="24540">Second, the high follow-up rate (&gt;95%) minimized possible selection bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-307" type="identity">
+      <class id="possible" label=""/>
+      <span end="24597" id="PMC2885310.nxml.gz-307" start="24589">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-308" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="24612" id="PMC2885310.nxml.gz-308" start="24608">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-309" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-31" type="identity">
+      <class id="associations" label=""/>
+      <span end="1903" id="PMC2885310.nxml.gz-31" start="1891">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-310" type="identity">
+      <class id="however" label=""/>
+      <span end="24621" id="PMC2885310.nxml.gz-310" start="24614">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-311" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24677" id="PMC2885310.nxml.gz-311" start="24614">However, several limitations merit discussion and consideration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-312" type="identity">
+      <class id="limitations" label=""/>
+      <span end="24642" id="PMC2885310.nxml.gz-312" start="24631">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-313" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24648" id="PMC2885310.nxml.gz-313" start="24643">merit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-314" type="identity">
+      <class id="consideration" label=""/>
+      <span end="24677" id="PMC2885310.nxml.gz-314" start="24664">consideration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24807" id="PMC2885310.nxml.gz-315" start="24679">Maternal habitual sleep duration and snoring was obtained from self-report, and thus are likely susceptible to misclassification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-316" type="identity">
+      <class id="thus" label=""/>
+      <span end="24763" id="PMC2885310.nxml.gz-316" start="24759">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-317" type="identity">
+      <class id="likely" label=""/>
+      <span end="24774" id="PMC2885310.nxml.gz-317" start="24768">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-318" type="identity">
+      <class id="misclassification" label=""/>
+      <span end="24807" id="PMC2885310.nxml.gz-318" start="24790">misclassification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-319" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25041" id="PMC2885310.nxml.gz-319" start="24809">Reported sleep duration is known to be only moderately correlated with wrist actigraph-measured sleep duration (ρ = 0.47), and reports are generally longer by approximately 34 minutes for each hour of objectively measured sleep [39]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2014" id="PMC2885310.nxml.gz-32" start="1917">Insufficient sleep duration and poor sleep quality are considered to be endemic in modern society</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-320" type="identity">
+      <class id="is_known" label=""/>
+      <span end="24841" id="PMC2885310.nxml.gz-320" start="24833">is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-321" type="identity">
+      <class id="only" label=""/>
+      <span end="24852" id="PMC2885310.nxml.gz-321" start="24848">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-322" type="identity">
+      <class id="correlated" label=""/>
+      <span end="24874" id="PMC2885310.nxml.gz-322" start="24864">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-323" type="identity">
+      <class id="generally" label=""/>
+      <span end="24957" id="PMC2885310.nxml.gz-323" start="24948">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-324" type="identity">
+      <class id="approximately" label=""/>
+      <span end="24981" id="PMC2885310.nxml.gz-324" start="24968">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-325" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25142" id="PMC2885310.nxml.gz-325" start="25043">The use of self-reported snoring as a tool to detect sleep disordered breathing is well established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-326" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="25142" id="PMC2885310.nxml.gz-326" start="25126">well established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-327" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25303" id="PMC2885310.nxml.gz-327" start="25144">Investigators have shown that self-reported snoring correlates well with objective findings from nocturnal polysomnography, especially in frequent snorers [40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-328" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="25168" id="PMC2885310.nxml.gz-328" start="25158">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-329" type="identity">
+      <class id="correlates" label=""/>
+      <span end="25206" id="PMC2885310.nxml.gz-329" start="25196">correlates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-33" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="1982" id="PMC2885310.nxml.gz-33" start="1972">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-330" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25236" id="PMC2885310.nxml.gz-330" start="25217">objective findings </span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-331" type="identity">
+      <class id="findings" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-332" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-333" type="identity">
+      <class id="has_not_been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-334" type="identity">
+      <class id="shown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-335" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-336" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-337" type="identity">
+      <class id="necessary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-338" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25749" id="PMC2885310.nxml.gz-338" start="25557">Our pilot study was also limited by the relatively small sample of GDM cases (n = 68) and the imprecision of relative risk estimates which were reflected by their wide 95% confidence intervals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-339" type="identity">
+      <class id="limited" label=""/>
+      <span end="25589" id="PMC2885310.nxml.gz-339" start="25582">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-34" type="identity">
+      <class id="findings" label=""/>
+      <span end="2024" id="PMC2885310.nxml.gz-34" start="2016">Findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-340" type="identity">
+      <class id="small" label=""/>
+      <span end="25613" id="PMC2885310.nxml.gz-340" start="25608">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-341" type="identity">
+      <class id="estimates" label=""/>
+      <span end="25689" id="PMC2885310.nxml.gz-341" start="25680">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-342" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-343" type="identity">
+      <class id="although" label=""/>
+      <span end="25937" id="PMC2885310.nxml.gz-343" start="25929">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-344" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26236" id="PMC2885310.nxml.gz-344" start="25929">Although qualitative results (i.e., normal/abnormal blood glucose concentrations) for the diagnostic test were available for all 251 subjects, specific glucose concentrations for each time point (i.e., fasting; 1-hour; 2-hour; and 3-hour post glucose load) were unavailable for approximately 44% of subjects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-345" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="26202" id="PMC2885310.nxml.gz-345" start="26191">unavailable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-346" type="identity">
+      <class id="approximately" label=""/>
+      <span end="26220" id="PMC2885310.nxml.gz-346" start="26207">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-347" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26379" id="PMC2885310.nxml.gz-347" start="26238">Lastly, the generalizability of our study may be limited, as our cohort was primarily comprised of Non-Hispanic White and well-educated women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-348" type="identity">
+      <class id="our_study" label=""/>
+      <span end="26279" id="PMC2885310.nxml.gz-348" start="26270">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-349" type="identity">
+      <class id="may_be" label=""/>
+      <span end="26286" id="PMC2885310.nxml.gz-349" start="26280">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2349" id="PMC2885310.nxml.gz-35" start="2016">Findings from epidemiological and animal experimental studies indicate that chronic partial sleep loss is associated with increased risks of obesity and a myriad of obesity-related disorders including impaired glucose tolerance, hypertension, diabetes, metabolic syndrome, coronary heart disease, stroke and premature mortality [1-8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-350" type="identity">
+      <class id="limited" label=""/>
+      <span end="26294" id="PMC2885310.nxml.gz-350" start="26287">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-351" type="identity">
+      <class id="as" label=""/>
+      <span end="26298" id="PMC2885310.nxml.gz-351" start="26296">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-353" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26632" id="PMC2885310.nxml.gz-353" start="26381">The pathophysiological mechanisms underlying these consistently observed associations of short sleep duration, sleep-related breathing disorders, including snoring, with altered glucose metabolism and diabetes are likely to be multifactorial [2,43,44]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-354" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="26425" id="PMC2885310.nxml.gz-354" start="26415">underlying</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-355" type="identity">
+      <class id="consistently" label=""/>
+      <span end="26444" id="PMC2885310.nxml.gz-355" start="26432">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-356" type="identity">
+      <class id="observed" label=""/>
+      <span end="26453" id="PMC2885310.nxml.gz-356" start="26445">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-357" type="identity">
+      <class id="associations" label=""/>
+      <span end="26466" id="PMC2885310.nxml.gz-357" start="26454">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-358" type="identity">
+      <class id="likely" label=""/>
+      <span end="26601" id="PMC2885310.nxml.gz-358" start="26595">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-359" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="26622" id="PMC2885310.nxml.gz-359" start="26608">multifactorial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-36" type="identity">
+      <class id="indicate" label=""/>
+      <span end="2086" id="PMC2885310.nxml.gz-36" start="2078">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-360" type="identity">
+      <class id="notably" label=""/>
+      <span end="26641" id="PMC2885310.nxml.gz-360" start="26634">Notably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-361" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26922" id="PMC2885310.nxml.gz-361" start="26634">Notably, high sympathetic nervous system activity, intermittent hypoxemia, dysregulation of the HPA axis, endothelial dysfunction and alterations in cytokine and adipokine synthesis and release have all been proposed mechanisms for these consistently observed epidemiological observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-362" type="identity">
+      <class id="have...been" label=""/>
+      <span end="26832" id="PMC2885310.nxml.gz-362" start="26828">have</span>
+      <span end="26841" id="PMC2885310.nxml.gz-363" start="26837">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-364" type="identity">
+      <class id="proposed" label=""/>
+      <span end="26850" id="PMC2885310.nxml.gz-364" start="26842">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-365" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-366" type="identity">
+      <class id="consistently" label=""/>
+      <span end="26884" id="PMC2885310.nxml.gz-366" start="26872">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-367" type="identity">
+      <class id="observed" label=""/>
+      <span end="26893" id="PMC2885310.nxml.gz-367" start="26885">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-368" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="26922" id="PMC2885310.nxml.gz-368" start="26910">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-369" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-37" type="identity">
+      <class id="associated" label=""/>
+      <span end="2132" id="PMC2885310.nxml.gz-37" start="2122">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-371" type="identity">
+      <class id="recently" label=""/>
+      <span end="27072" id="PMC2885310.nxml.gz-371" start="27064">Recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-372" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27187" id="PMC2885310.nxml.gz-372" start="27064">Recently, investigators reported that mild sleep restriction induces marked reduction in basal glucagon concentrations [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-373" type="identity">
+      <class id="reported" label=""/>
+      <span end="27096" id="PMC2885310.nxml.gz-373" start="27088">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-374" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27403" id="PMC2885310.nxml.gz-374" start="27189">Furthermore, individuals with sleep disorders may be predisposed to insulin resistance and glucose intolerance due to sleep-related dysregulation of the HPA axis with consequent elevations in serum cortisol [16,45]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-375" type="identity">
+      <class id="may_be" label=""/>
+      <span end="27241" id="PMC2885310.nxml.gz-375" start="27235">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-376" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="27253" id="PMC2885310.nxml.gz-376" start="27242">predisposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-377" type="identity">
+      <class id="due_to" label=""/>
+      <span end="27306" id="PMC2885310.nxml.gz-377" start="27300">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-378" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27626" id="PMC2885310.nxml.gz-378" start="27405">In a community dwelling sample of 2,751 middle aged men and women, Kumari et al reported that short sleep duration and increased sleep disturbance are independently associated with diurnal slope in cortisol secretion [45]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-379" type="identity">
+      <class id="reported" label=""/>
+      <span end="27493" id="PMC2885310.nxml.gz-379" start="27485">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2641" id="PMC2885310.nxml.gz-38" start="2351">The impact of short sleep duration on the risk of diabetes has been shown in several epidemiological studies, with significant increases in the incidence of diabetes among individuals who report habitual short sleep duration and those who report having difficulty maintaining sleep [4,9-11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-380" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="27569" id="PMC2885310.nxml.gz-380" start="27556">independently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-381" type="identity">
+      <class id="associated" label=""/>
+      <span end="27580" id="PMC2885310.nxml.gz-381" start="27570">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-382" type="identity">
+      <class id="alternatively" label=""/>
+      <span end="27641" id="PMC2885310.nxml.gz-382" start="27628">Alternatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-383" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27907" id="PMC2885310.nxml.gz-383" start="27628">Alternatively, cyclical hypoxemia with re-oxygenation, similar to repeated ischemia-reperfusion damage, may promote the formation of reactive oxygen species that may then elicit the release of pro-inflammatory cytokines including interleukin-6 and tumor necrosis factor-α [46,47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-384" type="identity">
+      <class id="similar_to" label=""/>
+      <span end="27693" id="PMC2885310.nxml.gz-384" start="27683">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-385" type="identity">
+      <class id="may" label=""/>
+      <span end="27735" id="PMC2885310.nxml.gz-385" start="27732">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-386" type="identity">
+      <class id="may" label=""/>
+      <span end="27793" id="PMC2885310.nxml.gz-386" start="27790">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-387" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28054" id="PMC2885310.nxml.gz-387" start="27909">Investigators have shown that both acute total and short-term partial sleep loss results in elevated C-reactive protein (CRP) concentrations [48]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-388" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="27933" id="PMC2885310.nxml.gz-388" start="27923">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-389" type="identity">
+      <class id="notably" label=""/>
+      <span end="28063" id="PMC2885310.nxml.gz-389" start="28056">Notably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-39" type="identity">
+      <class id="impact" label=""/>
+      <span end="2361" id="PMC2885310.nxml.gz-39" start="2355">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-390" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28398" id="PMC2885310.nxml.gz-390" start="28056">Notably, investigators have reported that short sleep duration and other parameters of sleep disturbance during mid and late pregnancy are associated with increased systematic inflammation and higher stimulated levels of IL-6 [49,50]; and we have previously reported that early pregnancy CRP concentrations are predictive of incident GDM [51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-391" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="28092" id="PMC2885310.nxml.gz-391" start="28079">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-393" type="identity">
+      <class id="associated" label=""/>
+      <span end="28205" id="PMC2885310.nxml.gz-393" start="28195">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-394" type="identity">
+      <class id="previously" label=""/>
+      <span end="28313" id="PMC2885310.nxml.gz-394" start="28303">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-395" type="identity">
+      <class id="reported" label=""/>
+      <span end="28322" id="PMC2885310.nxml.gz-395" start="28314">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-396" type="identity">
+      <class id="predictive" label=""/>
+      <span end="28377" id="PMC2885310.nxml.gz-396" start="28367">predictive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-397" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28550" id="PMC2885310.nxml.gz-397" start="28400">Collectively, these data suggest that sleep disturbances may augment pro-inflammatory responses that may then contribute to altered glucose metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-398" type="identity">
+      <class id="suggest" label=""/>
+      <span end="28432" id="PMC2885310.nxml.gz-398" start="28425">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-399" type="identity">
+      <class id="may" label=""/>
+      <span end="28460" id="PMC2885310.nxml.gz-399" start="28457">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-4" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-40" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="2424" id="PMC2885310.nxml.gz-40" start="2410">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-400" type="identity">
+      <class id="may" label=""/>
+      <span end="28504" id="PMC2885310.nxml.gz-400" start="28501">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-401" type="identity">
+      <class id="contribute" label=""/>
+      <span end="28520" id="PMC2885310.nxml.gz-401" start="28510">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-402" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28705" id="PMC2885310.nxml.gz-402" start="28552">Causal biological mechanisms for the observed positive, though statistically in-significant association between long sleep duration and GDM are not clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-403" type="identity">
+      <class id="observed" label=""/>
+      <span end="28597" id="PMC2885310.nxml.gz-403" start="28589">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-404" type="identity">
+      <class id="though" label=""/>
+      <span end="28614" id="PMC2885310.nxml.gz-404" start="28608">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-405" type="identity">
+      <class id="association" label=""/>
+      <span end="28655" id="PMC2885310.nxml.gz-405" start="28644">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-406" type="identity">
+      <class id="not_clear" label=""/>
+      <span end="28705" id="PMC2885310.nxml.gz-406" start="28696">not clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-407" type="identity">
+      <class id="some" label=""/>
+      <span end="28711" id="PMC2885310.nxml.gz-407" start="28707">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-408" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28997" id="PMC2885310.nxml.gz-408" start="28707">Some investigators, documenting similar positive association between long sleep duration and type 2 diabetes mellitus speculate that the association may be due in part to residual confounding by undiagnosed health conditions, co-morbid depression, unemployment, or poor general health [1,4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-409" type="identity">
+      <class id="similar" label=""/>
+      <span end="28746" id="PMC2885310.nxml.gz-409" start="28739">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-41" type="identity">
+      <class id="several...studies" label=""/>
+      <span end="2435" id="PMC2885310.nxml.gz-41" start="2428">several</span>
+      <span end="2459" id="PMC2885310.nxml.gz-42" start="2452">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-410" type="identity">
+      <class id="association" label=""/>
+      <span end="28767" id="PMC2885310.nxml.gz-410" start="28756">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-411" type="identity">
+      <class id="speculate" label=""/>
+      <span end="28834" id="PMC2885310.nxml.gz-411" start="28825">speculate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-412" type="identity">
+      <class id="association" label=""/>
+      <span end="28855" id="PMC2885310.nxml.gz-412" start="28844">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-413" type="identity">
+      <class id="may_be" label=""/>
+      <span end="28862" id="PMC2885310.nxml.gz-413" start="28856">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-414" type="identity">
+      <class id="due...to" label=""/>
+      <span end="28866" id="PMC2885310.nxml.gz-414" start="28863">due</span>
+      <span end="28877" id="PMC2885310.nxml.gz-415" start="28875">to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-416" type="identity">
+      <class id="in_part" label=""/>
+      <span end="28874" id="PMC2885310.nxml.gz-416" start="28867">in part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-417" type="identity">
+      <class id="confounding" label=""/>
+      <span end="28898" id="PMC2885310.nxml.gz-417" start="28887">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-418" type="identity">
+      <class id="despite" label=""/>
+      <span end="29006" id="PMC2885310.nxml.gz-418" start="28999">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-419" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29193" id="PMC2885310.nxml.gz-419" start="28999">Despite unclear mechanisms, the positive relationship between later pregnancy hyperglycemia and GDM risk were evident among women who reported short/long sleep duration and snoring in our cohort</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-420" type="identity">
+      <class id="unclear" label=""/>
+      <span end="29014" id="PMC2885310.nxml.gz-420" start="29007">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-422" type="identity">
+      <class id="relationship" label=""/>
+      <span end="29052" id="PMC2885310.nxml.gz-422" start="29040">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-423" type="identity">
+      <class id="evident" label=""/>
+      <span end="29116" id="PMC2885310.nxml.gz-423" start="29109">evident</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-424" type="identity">
+      <class id="reported" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-425" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29281" id="PMC2885310.nxml.gz-425" start="29195">The risks were particularly elevated among overweight women with these sleep disorders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-426" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="29222" id="PMC2885310.nxml.gz-426" start="29210">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-427" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29411" id="PMC2885310.nxml.gz-427" start="29295">These preliminary findings suggest associations of short sleep duration and snoring with glucose intolerance and GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-428" type="identity">
+      <class id="preliminary" label=""/>
+      <span end="29312" id="PMC2885310.nxml.gz-428" start="29301">preliminary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-429" type="identity">
+      <class id="findings" label=""/>
+      <span end="29321" id="PMC2885310.nxml.gz-429" start="29313">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2926" id="PMC2885310.nxml.gz-43" start="2643">Moreover, accumulating evidence link habitual snoring and sleep apnea, both part of a spectrum of sleep-related breathing disorders, with cardiometabolic abnormalities that include hypertension, dyslipidemia, obesity, hyperglycemia, insulin resistance and type 2 diabetes [2,7,12-15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-430" type="identity">
+      <class id="suggest" label=""/>
+      <span end="29329" id="PMC2885310.nxml.gz-430" start="29322">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-431" type="identity">
+      <class id="associations" label=""/>
+      <span end="29342" id="PMC2885310.nxml.gz-431" start="29330">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-432" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29635" id="PMC2885310.nxml.gz-432" start="29413">Though consistent with studies of men and non-pregnant women, larger prospective studies that include objective measures of sleep duration, sleep quality, and sleep apnea during pregnancy are needed to confirm our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-433" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="29419" id="PMC2885310.nxml.gz-433" start="29413">Though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-434" type="identity">
+      <class id="consistent" label=""/>
+      <span end="29430" id="PMC2885310.nxml.gz-434" start="29420">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-435" type="identity">
+      <class id="larger...studies" label=""/>
+      <span end="29481" id="PMC2885310.nxml.gz-435" start="29475">larger</span>
+      <span end="29501" id="PMC2885310.nxml.gz-436" start="29494">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-437" type="identity">
+      <class id="studies...are_needed" label=""/>
+      <span end="29501" id="PMC2885310.nxml.gz-437" start="29494">studies</span>
+      <span end="29611" id="PMC2885310.nxml.gz-438" start="29601">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-439" type="identity">
+      <class id="confirm" label=""/>
+      <span end="29622" id="PMC2885310.nxml.gz-439" start="29615">confirm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-44" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2674" id="PMC2885310.nxml.gz-44" start="2653">accumulating evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-440" type="identity">
+      <class id="findings" label=""/>
+      <span end="29635" id="PMC2885310.nxml.gz-440" start="29627">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-441" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29865" id="PMC2885310.nxml.gz-441" start="29637">Enhanced knowledge of possible metabolic consequences of sleep disturbances in pregnancy will likely have important clinical implications in the prevention and treatment of impaired glucose tolerance and GDM among pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-442" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-443" type="identity">
+      <class id="future_work" label=""/>
+      <span end="29655" id="PMC2885310.nxml.gz-443" start="29637">Enhanced knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-444" type="identity">
+      <class id="possible" label=""/>
+      <span end="29667" id="PMC2885310.nxml.gz-444" start="29659">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-445" type="identity">
+      <class id="consequences" label=""/>
+      <span end="29690" id="PMC2885310.nxml.gz-445" start="29678">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-446" type="identity">
+      <class id="will" label=""/>
+      <span end="29730" id="PMC2885310.nxml.gz-446" start="29726">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-447" type="identity">
+      <class id="likely" label=""/>
+      <span end="29737" id="PMC2885310.nxml.gz-447" start="29731">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-448" type="identity">
+      <class id="important" label=""/>
+      <span end="29752" id="PMC2885310.nxml.gz-448" start="29743">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-449" type="identity">
+      <class id="implications" label=""/>
+      <span end="29774" id="PMC2885310.nxml.gz-449" start="29762">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-45" type="identity">
+      <class id="link" label=""/>
+      <span end="2679" id="PMC2885310.nxml.gz-45" start="2675">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-46" type="identity">
+      <class id="although" label=""/>
+      <span end="2936" id="PMC2885310.nxml.gz-46" start="2928">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3364" id="PMC2885310.nxml.gz-47" start="2928">Although the exact mechanisms underlying these associations have yet to be fully elucidated, evidence from experimental studies suggest that insufficient sleep and sleep fragmentation result in metabolic and neuroendocrine alterations, particularly alterations in the hypothalamic-pituitary adrenal (HPA) axis, that may contribute to the development of impaired glucose tolerance, insulin resistance and type 2 diabetes mellitus [16-20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-48" type="identity">
+      <class id="associations" label=""/>
+      <span end="2987" id="PMC2885310.nxml.gz-48" start="2975">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-49" type="identity">
+      <class id="yet" label=""/>
+      <span end="2996" id="PMC2885310.nxml.gz-49" start="2993">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-5" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="199" id="PMC2885310.nxml.gz-5" start="189">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-50" type="identity">
+      <class id="evidence" label=""/>
+      <span end="3029" id="PMC2885310.nxml.gz-50" start="3021">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-51" type="identity">
+      <class id="suggest" label=""/>
+      <span end="3063" id="PMC2885310.nxml.gz-51" start="3056">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-52" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="3176" id="PMC2885310.nxml.gz-52" start="3164">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-53" type="identity">
+      <class id="may" label=""/>
+      <span end="3247" id="PMC2885310.nxml.gz-53" start="3244">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-54" type="identity">
+      <class id="contribute" label=""/>
+      <span end="3258" id="PMC2885310.nxml.gz-54" start="3248">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3555" id="PMC2885310.nxml.gz-55" start="3366">Moreover, experimental studies in humans [21,22] and animals [23,24] have demonstrated that intermittent hypoxia, known to occur in sleep apnea, exerts adverse effects on glucose metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-56" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="3452" id="PMC2885310.nxml.gz-56" start="3440">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-57" type="identity">
+      <class id="known" label=""/>
+      <span end="3485" id="PMC2885310.nxml.gz-57" start="3480">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-58" type="identity">
+      <class id="effects" label=""/>
+      <span end="3533" id="PMC2885310.nxml.gz-58" start="3526">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-59" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3833" id="PMC2885310.nxml.gz-59" start="3557">Most sleep studies, however, have excluded pregnant women; hence very little is known about how insufficient sleep and sleep disordered breathing during gestation contribute to increased risks of medical complications of pregnancy including gestational diabetes mellitus (GDM)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-6" type="identity">
+      <class id="associated" label=""/>
+      <span end="241" id="PMC2885310.nxml.gz-6" start="231">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-60" type="identity">
+      <class id="however" label=""/>
+      <span end="3584" id="PMC2885310.nxml.gz-60" start="3577">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-61" type="identity">
+      <class id="hence" label=""/>
+      <span end="3621" id="PMC2885310.nxml.gz-61" start="3616">hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-62" type="identity">
+      <class id="very_little_is_known" label=""/>
+      <span end="3642" id="PMC2885310.nxml.gz-62" start="3622">very little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-63" type="identity">
+      <class id="how" label=""/>
+      <span end="3652" id="PMC2885310.nxml.gz-63" start="3649">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-64" type="identity">
+      <class id="contribute" label=""/>
+      <span end="3730" id="PMC2885310.nxml.gz-64" start="3720">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-65" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3774" id="PMC2885310.nxml.gz-65" start="3761">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-66" type="identity">
+      <class id="complications" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-67" type="identity">
+      <class id="to_the_best_of_our_knowledge" label=""/>
+      <span end="3863" id="PMC2885310.nxml.gz-67" start="3835">To the best of our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3969" id="PMC2885310.nxml.gz-68" start="3835">To the best of our knowledge no one has evaluated the impact of sleep duration and snoring on maternal glucose metabolism in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-69" type="identity">
+      <class id="no_one" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-7" type="identity">
+      <class id="little...is_known" label=""/>
+      <span end="303" id="PMC2885310.nxml.gz-7" start="297">Little</span>
+      <span end="322" id="PMC2885310.nxml.gz-8" start="314">is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-70" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="3870" id="PMC2885310.nxml.gz-70" start="3864">no one</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-71" type="identity">
+      <class id="impact" label=""/>
+      <span end="3895" id="PMC2885310.nxml.gz-71" start="3889">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4159" id="PMC2885310.nxml.gz-72" start="3971">In this pilot study, we assessed associations of maternal self-reported sleep duration and snoring during early pregnancy with glucose intolerance and a diagnosis of GDM later in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-73" type="identity">
+      <class id="this...study" label=""/>
+      <span end="3978" id="PMC2885310.nxml.gz-73" start="3974">this</span>
+      <span end="3990" id="PMC2885310.nxml.gz-74" start="3985">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-75" type="identity">
+      <class id="assessed" label=""/>
+      <span end="4003" id="PMC2885310.nxml.gz-75" start="3995">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-76" type="identity">
+      <class id="associations" label=""/>
+      <span end="4016" id="PMC2885310.nxml.gz-76" start="4004">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-77" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4543" id="PMC2885310.nxml.gz-77" start="4310">We hypothesized that maternal habitual short sleep duration and snoring during early pregnancy were positively associated with post load glucose concentrations later in pregnancy and with an increased risk of clinically diagnosed GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-78" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="4325" id="PMC2885310.nxml.gz-78" start="4313">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-79" type="identity">
+      <class id="associated" label=""/>
+      <span end="4431" id="PMC2885310.nxml.gz-79" start="4421">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-80" type="identity">
+      <class id="this...study" label=""/>
+      <span end="4588" id="PMC2885310.nxml.gz-80" start="4584">This</span>
+      <span end="4614" id="PMC2885310.nxml.gz-81" start="4609">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-82" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4758" id="PMC2885310.nxml.gz-82" start="4584">This preliminary (pilot) study is based on data collected from a cohort of women attending prenatal care clinics affiliated with Swedish Medical Center in Seattle, Washington</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-83" type="identity">
+      <class id="preliminary" label=""/>
+      <span end="4600" id="PMC2885310.nxml.gz-83" start="4589">preliminary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4986" id="PMC2885310.nxml.gz-84" start="4760">The cohort study was designed to evaluate the influence of maternal diet, physical activity and the other life style factors on the occurrence of preeclampsia, gestational diabetes mellitus and other adverse pregnancy outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-85" type="identity">
+      <class id="designed_to" label=""/>
+      <span end="4792" id="PMC2885310.nxml.gz-85" start="4781">designed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-86" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="4801" id="PMC2885310.nxml.gz-86" start="4790">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-87" type="identity">
+      <class id="influence" label=""/>
+      <span end="4815" id="PMC2885310.nxml.gz-87" start="4806">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-88" type="identity">
+      <class id="factors" label=""/>
+      <span end="4884" id="PMC2885310.nxml.gz-88" start="4877">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-89" type="identity">
+      <class id="given" label=""/>
+      <span end="6786" id="PMC2885310.nxml.gz-89" start="6781">Given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="453" id="PMC2885310.nxml.gz-9" start="297">Little, however, is known about the consequences of insufficient sleep and poor sleep quality during pregnancy on glucose tolerance and gestational diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7050" id="PMC2885310.nxml.gz-90" start="6781">Given that pregnant women, particularly those in the first trimester, are known to require 30-45 more minutes of sleep per night than their non-pregnant counterparts [25-27], we a priori defined those women who reported sleeping 9 hours per night as the reference group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-91" type="identity">
+      <class id="known" label=""/>
+      <span end="6860" id="PMC2885310.nxml.gz-91" start="6855">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-92" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="6871" id="PMC2885310.nxml.gz-92" start="6864">require</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-94" type="identity">
+      <class id="our_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-95" type="identity">
+      <class id="according_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-96" type="identity">
+      <class id="recommendations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-98" type="identity">
+      <class id="confounding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2885310.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9389" id="PMC2885310.nxml.gz-99" start="9325">We evaluated confounding due to several maternal characteristics</span>
+    </annotation>
+  </document>
+</knowtator-project>

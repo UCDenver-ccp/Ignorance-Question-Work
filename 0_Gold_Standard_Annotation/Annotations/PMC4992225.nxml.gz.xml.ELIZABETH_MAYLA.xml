@@ -1,0 +1,2026 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4992225.nxml.gz" text-file="PMC4992225.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="235" id="PMC4992225.nxml.gz-1" start="134">Mood disorders in pregnancy and post-partum period are common and considered as a public health issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-100" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-101" type="identity">
+      <class id="role" label=""/>
+      <span end="6014" id="PMC4992225.nxml.gz-101" start="6010">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-102" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6230" id="PMC4992225.nxml.gz-102" start="6057">Studies have shown that low serum 25-hydroxyvitamin D concentration is associated with psychological symptoms like anxiety, depression and reduced cognitive function [26,27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-103" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="6075" id="PMC4992225.nxml.gz-103" start="6065">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-104" type="identity">
+      <class id="associated" label=""/>
+      <span end="6138" id="PMC4992225.nxml.gz-104" start="6128">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-105" type="identity">
+      <class id="few" label=""/>
+      <span end="6235" id="PMC4992225.nxml.gz-105" start="6232">Few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-106" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6340" id="PMC4992225.nxml.gz-106" start="6232">Few case reports have suggested an interaction between season or latitude and psychological problems [28,29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-107" type="identity">
+      <class id="suggested" label=""/>
+      <span end="6263" id="PMC4992225.nxml.gz-107" start="6254">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-108" type="identity">
+      <class id="interaction" label=""/>
+      <span end="6278" id="PMC4992225.nxml.gz-108" start="6267">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-109" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="6332" id="PMC4992225.nxml.gz-109" start="6324">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-11" type="identity">
+      <class id="effects" label=""/>
+      <span end="415" id="PMC4992225.nxml.gz-11" start="408">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6468" id="PMC4992225.nxml.gz-110" start="6342">In a study by Mozaffari- Khosravi et al., high doses of vitamin D have been effective in men and women who were depressed [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-111" type="identity">
+      <class id="have_been" label=""/>
+      <span end="6417" id="PMC4992225.nxml.gz-111" start="6408">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6615" id="PMC4992225.nxml.gz-112" start="6470">Li et al. suggested that more accurate clinical trials are required to reach a conclusion about the effectiveness of vitamin D on depression [31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-113" type="identity">
+      <class id="suggested" label=""/>
+      <span end="6489" id="PMC4992225.nxml.gz-113" start="6480">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-114" type="identity">
+      <class id="required" label=""/>
+      <span end="6537" id="PMC4992225.nxml.gz-114" start="6529">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-115" type="identity">
+      <class id="conclusion" label=""/>
+      <span end="6559" id="PMC4992225.nxml.gz-115" start="6549">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6780" id="PMC4992225.nxml.gz-116" start="6617">Considering the possible connection between low serum vitamin D and depression, researchers studied the relationship between low vitamin D and perinatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-117" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="6628" id="PMC4992225.nxml.gz-117" start="6617">Considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-118" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-119" type="identity">
+      <class id="possible" label=""/>
+      <span end="6641" id="PMC4992225.nxml.gz-119" start="6633">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-12" type="identity">
+      <class id="related" label=""/>
+      <span end="437" id="PMC4992225.nxml.gz-12" start="430">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-120" type="identity">
+      <class id="connection" label=""/>
+      <span end="6652" id="PMC4992225.nxml.gz-120" start="6642">connection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-121" type="identity">
+      <class id="relationship" label=""/>
+      <span end="6733" id="PMC4992225.nxml.gz-121" start="6721">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-122" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7005" id="PMC4992225.nxml.gz-122" start="6782">Murphy et al. in a study with a small sample size (97 participants), observed an association between maternal low serum concentrations of 25-hydroxyvitamin D and high depression scores within several post-partum visits [32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-123" type="identity">
+      <class id="small" label=""/>
+      <span end="6819" id="PMC4992225.nxml.gz-123" start="6814">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-124" type="identity">
+      <class id="observed" label=""/>
+      <span end="6859" id="PMC4992225.nxml.gz-124" start="6851">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-125" type="identity">
+      <class id="association" label=""/>
+      <span end="6874" id="PMC4992225.nxml.gz-125" start="6863">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7186" id="PMC4992225.nxml.gz-126" start="7007">Robinson et al. studied the relationship between the maternal serum 25-hydroxyvitamin D concentrations measured in the 18thweek of gestation and postnatal depression in 796 people</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-127" type="identity">
+      <class id="relationship" label=""/>
+      <span end="7047" id="PMC4992225.nxml.gz-127" start="7035">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-128" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7308" id="PMC4992225.nxml.gz-128" start="7188">They found that low serum 25-hydroxyvitamin D levels in the second trimester were a risk factor for postnatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-129" type="identity">
+      <class id="found" label=""/>
+      <span end="7198" id="PMC4992225.nxml.gz-129" start="7193">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="544" id="PMC4992225.nxml.gz-13" start="453">This study evaluated the effect of vitamin D3supplementation on perinatal depression scores</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7573" id="PMC4992225.nxml.gz-130" start="7455">Brandenburg et al. studied the association between maternal 25-hydroxyvitamin D concentration and antenatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-131" type="identity">
+      <class id="association" label=""/>
+      <span end="7497" id="PMC4992225.nxml.gz-131" start="7486">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7895" id="PMC4992225.nxml.gz-132" start="7746">It has been shown that mothers with higher depression scores had lower levels of 25-hydroxyvitamin D compared to who had lower depression scores [34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-133" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="7763" id="PMC4992225.nxml.gz-133" start="7749">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8089" id="PMC4992225.nxml.gz-134" start="7897">On the contrary to the above mentioned studies, Neilson et al., in a case–control study, found that an increase in 25-hydroxyvitamin D level can enhance the possibility of postnatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-135" type="identity">
+      <class id="contrary" label=""/>
+      <span end="7912" id="PMC4992225.nxml.gz-135" start="7904">contrary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-136" type="identity">
+      <class id="found" label=""/>
+      <span end="7991" id="PMC4992225.nxml.gz-136" start="7986">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-137" type="identity">
+      <class id="can" label=""/>
+      <span end="8041" id="PMC4992225.nxml.gz-137" start="8038">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-138" type="identity">
+      <class id="enhance" label=""/>
+      <span end="8049" id="PMC4992225.nxml.gz-138" start="8042">enhance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-139" type="identity">
+      <class id="possibility" label=""/>
+      <span end="8065" id="PMC4992225.nxml.gz-139" start="8054">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-14" type="identity">
+      <class id="this_study" label=""/>
+      <span end="463" id="PMC4992225.nxml.gz-14" start="453">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8467" id="PMC4992225.nxml.gz-140" start="8281">They have stated that, these unexpected results could be due to genetic differences which lead to a disturbance in conversion of 25-hydroxyvitamin D into its active form, calcitriol [35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-141" type="identity">
+      <class id="stated" label=""/>
+      <span end="8297" id="PMC4992225.nxml.gz-141" start="8291">stated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-142" type="identity">
+      <class id="unexpected" label=""/>
+      <span end="8320" id="PMC4992225.nxml.gz-142" start="8310">unexpected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-143" type="identity">
+      <class id="could_be" label=""/>
+      <span end="8337" id="PMC4992225.nxml.gz-143" start="8329">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-144" type="identity">
+      <class id="differences" label=""/>
+      <span end="8364" id="PMC4992225.nxml.gz-144" start="8353">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-145" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8598" id="PMC4992225.nxml.gz-145" start="8469">According to our knowledge, there was no clinical trial that has evaluated the effectiveness of vitamin D on perinatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-146" type="identity">
+      <class id="according_to" label=""/>
+      <span end="8481" id="PMC4992225.nxml.gz-146" start="8469">According to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-147" type="identity">
+      <class id="to_our_knowledge" label=""/>
+      <span end="8495" id="PMC4992225.nxml.gz-147" start="8479">to our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-148" type="identity">
+      <class id="there_was_no" label=""/>
+      <span end="8509" id="PMC4992225.nxml.gz-148" start="8497">there was no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-149" type="identity">
+      <class id="hence" label=""/>
+      <span end="8605" id="PMC4992225.nxml.gz-149" start="8600">Hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-15" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="473" id="PMC4992225.nxml.gz-15" start="464">evaluated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8728" id="PMC4992225.nxml.gz-150" start="8600">Hence, we aimed this study to assess the effectiveness of vitamin D3supplementation on antenatal and postnatal depression levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-151" type="identity">
+      <class id="aimed" label=""/>
+      <span end="8615" id="PMC4992225.nxml.gz-151" start="8610">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-152" type="identity">
+      <class id="this...study" label=""/>
+      <span end="8626" id="PMC4992225.nxml.gz-152" start="8616">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-153" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="8636" id="PMC4992225.nxml.gz-153" start="8627">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10670" id="PMC4992225.nxml.gz-154" start="10551">Advantage of this questionnaire is that it focuses on psychological signs of depression rather than physical signs [36]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-155" type="identity">
+      <class id="focuses" label=""/>
+      <span end="10601" id="PMC4992225.nxml.gz-155" start="10594">focuses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-156" type="identity">
+      <class id="rather" label=""/>
+      <span end="10645" id="PMC4992225.nxml.gz-156" start="10639">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-158" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10826" id="PMC4992225.nxml.gz-159" start="10736">After that, several studies have validated its use throughout the antenatal period [37–39]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-16" type="identity">
+      <class id="effect" label=""/>
+      <span end="484" id="PMC4992225.nxml.gz-16" start="478">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-160" type="identity">
+      <class id="validated" label=""/>
+      <span end="10778" id="PMC4992225.nxml.gz-160" start="10769">validated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10912" id="PMC4992225.nxml.gz-161" start="10828">In western studies, this questionnaire has had high reliability and validity [40,41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-162" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="10891" id="PMC4992225.nxml.gz-162" start="10880">reliability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-163" type="identity">
+      <class id="validity" label=""/>
+      <span end="10904" id="PMC4992225.nxml.gz-163" start="10896">validity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11192" id="PMC4992225.nxml.gz-164" start="11062">Cut-off points with values more than 9, 12, 13, and 14 were used in different studies to determine perinatal depression [37,43,44]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-165" type="identity">
+      <class id="different" label=""/>
+      <span end="11139" id="PMC4992225.nxml.gz-165" start="11130">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11370" id="PMC4992225.nxml.gz-166" start="11194">In the present study, we used the cut-off point of &gt; 13 as greater likelihood of having depression disorder, according to Mazhari and Nakhaee’s study in Iranian population [42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-167" type="identity">
+      <class id="present_study" label=""/>
+      <span end="11214" id="PMC4992225.nxml.gz-167" start="11201">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-168" type="identity">
+      <class id="as" label=""/>
+      <span end="11252" id="PMC4992225.nxml.gz-168" start="11250">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-169" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="11271" id="PMC4992225.nxml.gz-169" start="11261">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1554" id="PMC4992225.nxml.gz-17" start="1468">The two groups were similar in relation to baseline 25-hydroxyvitamin D concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-170" type="identity">
+      <class id="according_to" label=""/>
+      <span end="11315" id="PMC4992225.nxml.gz-170" start="11303">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-171" type="identity">
+      <class id="therefore" label=""/>
+      <span end="11381" id="PMC4992225.nxml.gz-171" start="11372">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11527" id="PMC4992225.nxml.gz-172" start="11372">Therefore, at baseline we excluded those mothers with the EPDS scores of &gt;13 and they were referred to a psychologist for further evaluation and management</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11612" id="PMC4992225.nxml.gz-173" start="11529">The cut-off points of &lt;9 and 9–13 were used as low and moderate risk for depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-174" type="identity">
+      <class id="as" label=""/>
+      <span end="11575" id="PMC4992225.nxml.gz-174" start="11573">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-175" type="identity">
+      <class id="according_to" label=""/>
+      <span end="11973" id="PMC4992225.nxml.gz-175" start="11961">According to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12094" id="PMC4992225.nxml.gz-176" start="11961">According to the Institute of Medicine (IOM), we considered vitamin D deficiency as a serum 25-hydroxyvitamin D of less than 20 ng/ml</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-177" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="12020" id="PMC4992225.nxml.gz-177" start="12010">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-178" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-179" type="identity">
+      <class id="as" label=""/>
+      <span end="12044" id="PMC4992225.nxml.gz-179" start="12042">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-18" type="identity">
+      <class id="similar" label=""/>
+      <span end="1495" id="PMC4992225.nxml.gz-18" start="1488">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12276" id="PMC4992225.nxml.gz-180" start="12096">We also considered vitamin D insufficiency as a serum 25-hydroxyvitamin D of 21–29 ng/ml, and the participants who had serum 25-hydroxyvitamin D of ≥ 30 ng/ml as sufficient [19,46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-181" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="12114" id="PMC4992225.nxml.gz-181" start="12104">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-183" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="12138" id="PMC4992225.nxml.gz-183" start="12125">insufficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-184" type="identity">
+      <class id="as" label=""/>
+      <span end="12141" id="PMC4992225.nxml.gz-184" start="12139">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-185" type="identity">
+      <class id="as" label=""/>
+      <span end="12257" id="PMC4992225.nxml.gz-185" start="12255">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-186" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13126" id="PMC4992225.nxml.gz-186" start="12918">Intervention in the supplement consumer (vitamin D) group: In 2007 and 2010, the Canadian Pediatric Association recommended a daily amount of 2000 IU of vitamin D for pregnant and breast-feeding women [47,46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-187" type="identity">
+      <class id="recommended" label=""/>
+      <span end="13041" id="PMC4992225.nxml.gz-187" start="13030">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-188" type="identity">
+      <class id="therefore" label=""/>
+      <span end="13137" id="PMC4992225.nxml.gz-188" start="13128">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13263" id="PMC4992225.nxml.gz-189" start="13128">Therefore, this group received two 1000 unit vitamin D3pills (Totally 2000 IU) daily from the 26–28 weeks of gestation until childbirth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-19" type="identity">
+      <class id="relation" label=""/>
+      <span end="1507" id="PMC4992225.nxml.gz-19" start="1499">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14168" id="PMC4992225.nxml.gz-190" start="14006">In Iran, iron and folic acid supplements are routinely given to all pregnant mothers and some mothers based on doctors’ order may consume multivitamins or calcium</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-191" type="identity">
+      <class id="some" label=""/>
+      <span end="14099" id="PMC4992225.nxml.gz-191" start="14095">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-192" type="identity">
+      <class id="may" label=""/>
+      <span end="14135" id="PMC4992225.nxml.gz-192" start="14132">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14531" id="PMC4992225.nxml.gz-193" start="14449">We could not find a similar study to use its means for determining the sample size</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-195" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="14466" id="PMC4992225.nxml.gz-195" start="14452">could not find</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-197" type="identity">
+      <class id="therefore" label=""/>
+      <span end="14542" id="PMC4992225.nxml.gz-197" start="14533">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-198" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14728" id="PMC4992225.nxml.gz-198" start="14533">Therefore, considering the following values: effect size = 0.5, α = 0.05, β = 0.20, to the power of 80 % and using the formula (16/∆2, ∆ = 0.05), the sample size was estimated at 64 in each group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-199" type="identity">
+      <class id="estimated" label=""/>
+      <span end="14708" id="PMC4992225.nxml.gz-199" start="14699">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-2" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-20" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1563" id="PMC4992225.nxml.gz-20" start="1556">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-200" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14821" id="PMC4992225.nxml.gz-200" start="14730">Considering the possible losses, the sample size was set at 74 people in each group finally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-201" type="identity">
+      <class id="considering" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-202" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="14741" id="PMC4992225.nxml.gz-202" start="14730">Considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-203" type="identity">
+      <class id="possible" label=""/>
+      <span end="14754" id="PMC4992225.nxml.gz-203" start="14746">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15887" id="PMC4992225.nxml.gz-204" start="15728">We conducted stratified analyses by parity status to assess whether the trend of effectiveness is different among the two nulliparous and multiparous subgroups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-205" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="15787" id="PMC4992225.nxml.gz-205" start="15778">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-206" type="identity">
+      <class id="whether" label=""/>
+      <span end="15795" id="PMC4992225.nxml.gz-206" start="15788">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-207" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16722" id="PMC4992225.nxml.gz-207" start="16685">16/169 women did not refer to the lab</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-208" type="identity">
+      <class id="did_not" label=""/>
+      <span end="16705" id="PMC4992225.nxml.gz-208" start="16698">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16913" id="PMC4992225.nxml.gz-209" start="16784">Another significant factor for sample loss was that a number of the women did not return to the specified hospital for childbirth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1707" id="PMC4992225.nxml.gz-21" start="1556">However, at childbirth, the vitamin D group had significantly higher 25-hydroxyvitamin D concentration in comparison to the control group ( p &lt; 0.001 )</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-210" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="16826" id="PMC4992225.nxml.gz-210" start="16815">sample loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-211" type="identity">
+      <class id="number_of" label=""/>
+      <span end="16847" id="PMC4992225.nxml.gz-211" start="16838">number of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-212" type="identity">
+      <class id="did_not" label=""/>
+      <span end="16865" id="PMC4992225.nxml.gz-212" start="16858">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-213" type="identity">
+      <class id="however" label=""/>
+      <span end="17403" id="PMC4992225.nxml.gz-213" start="17396">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17522" id="PMC4992225.nxml.gz-214" start="17396">However, they were different regarding to using other supplements outside the study’s protocol and planned pregnancy (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-215" type="identity">
+      <class id="different" label=""/>
+      <span end="17424" id="PMC4992225.nxml.gz-215" start="17415">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-217" type="identity">
+      <class id="observed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-218" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18721" id="PMC4992225.nxml.gz-218" start="18717">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-219" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18804" id="PMC4992225.nxml.gz-219" start="18717">Only, 4 women (2.2 %) were sufficient (25-hydroxyvitamin D concentration of ≥ 30 ng/mL)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-22" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-221" type="identity">
+      <class id="observed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-222" type="identity">
+      <class id="while" label=""/>
+      <span end="22398" id="PMC4992225.nxml.gz-222" start="22393">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-223" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22595" id="PMC4992225.nxml.gz-223" start="22393">While, the mean depression scores were significantly lower in the vitamin D group than the control one at 38–40 weeks of gestation ( p  = 0.01) also, at 4 and 8 weeks after birth ( p  &gt; 0.001) (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22964" id="PMC4992225.nxml.gz-224" start="22760">Results showed that in the vitamin D group the number of participants with depression scores of &lt;9 were more than the control group at 38–40 weeks of gestation also, at 4 and 8 weeks after birth (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-225" type="identity">
+      <class id="showed" label=""/>
+      <span end="22774" id="PMC4992225.nxml.gz-225" start="22768">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-226" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23120" id="PMC4992225.nxml.gz-226" start="22966">The repeated measures analysis showed that the control group had gone through significant changes with regards to depression scores ( p  &lt; 0.001) (Fig. 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-227" type="identity">
+      <class id="showed" label=""/>
+      <span end="23003" id="PMC4992225.nxml.gz-227" start="22997">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-228" type="identity">
+      <class id="however" label=""/>
+      <span end="23261" id="PMC4992225.nxml.gz-228" start="23254">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-229" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23393" id="PMC4992225.nxml.gz-229" start="23254">However, the scores at 4 and 8 weeks after birth were lower than the baseline depression scores (( p  = 0.048 and p  = 0.014, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-230" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-231" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-232" type="identity">
+      <class id="showed" label=""/>
+      <span end="23492" id="PMC4992225.nxml.gz-232" start="23486">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-233" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23889" id="PMC4992225.nxml.gz-233" start="23730">Pairwise comparisons showed that the scores at 38–40 weeks, 4 and 8 weeks postpartum were significantly lower than the baseline depression scores ( p  &lt; 0.001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-234" type="identity">
+      <class id="showed" label=""/>
+      <span end="23757" id="PMC4992225.nxml.gz-234" start="23751">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-235" type="identity">
+      <class id="however" label=""/>
+      <span end="23898" id="PMC4992225.nxml.gz-235" start="23891">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23997" id="PMC4992225.nxml.gz-236" start="23891">However, the depression scores at 4 and 8 weeks after birth were not different significantly ( p  = 0.217)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-237" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24361" id="PMC4992225.nxml.gz-237" start="24125">The results showed that in both subgroups, the vitamin D group had statistically significant higher 25-hydroxyvitamin D concentrations at childbirth and lower depression score at 4 and 8 weeks postpartum than the control group (Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-238" type="identity">
+      <class id="showed" label=""/>
+      <span end="24143" id="PMC4992225.nxml.gz-238" start="24137">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-239" type="identity">
+      <class id="while" label=""/>
+      <span end="24368" id="PMC4992225.nxml.gz-239" start="24363">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2287" id="PMC4992225.nxml.gz-24" start="2146">The present trial showed that consuming 2000 IU vitamin D3daily during late pregnancy was effective in decreasing perinatal depression levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-240" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24498" id="PMC4992225.nxml.gz-240" start="24363">While, any statistically significant differences were not observed regarding to depression scores at 38–40 weeks of gestation (Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-241" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25478" id="PMC4992225.nxml.gz-241" start="25322">We examined the correlation between change in vitamin D concentrations and change in depression scores at 38–40 weeks of gestation, 4 and 8 weeks postpartum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-242" type="identity">
+      <class id="examined" label=""/>
+      <span end="25333" id="PMC4992225.nxml.gz-242" start="25325">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-243" type="identity">
+      <class id="correlation" label=""/>
+      <span end="25349" id="PMC4992225.nxml.gz-243" start="25338">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-245" type="identity">
+      <class id="effect" label=""/>
+      <span end="25700" id="PMC4992225.nxml.gz-245" start="25694">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-246" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25892" id="PMC4992225.nxml.gz-246" start="25791">According to our knowledge, this study was the first trial held on vitamin D and perinatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-247" type="identity">
+      <class id="according_to" label=""/>
+      <span end="25803" id="PMC4992225.nxml.gz-247" start="25791">According to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-248" type="identity">
+      <class id="to_our_knowledge" label=""/>
+      <span end="25817" id="PMC4992225.nxml.gz-248" start="25801">to our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-249" type="identity">
+      <class id="first" label=""/>
+      <span end="25843" id="PMC4992225.nxml.gz-249" start="25838">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-25" type="identity">
+      <class id="showed" label=""/>
+      <span end="2170" id="PMC4992225.nxml.gz-25" start="2164">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-250" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26022" id="PMC4992225.nxml.gz-250" start="25894">Results showed that at baseline, in 72.8 % of the participants, serum 25-hydroxyvitamin D concentrations were lower than20 ng/mL</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-251" type="identity">
+      <class id="showed" label=""/>
+      <span end="25908" id="PMC4992225.nxml.gz-251" start="25902">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-252" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26144" id="PMC4992225.nxml.gz-252" start="26024">They were suffering from vitamin D deficiency based on new perspective towards normal serum vitamin D concentration [46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-253" type="identity">
+      <class id="based_on" label=""/>
+      <span end="26078" id="PMC4992225.nxml.gz-253" start="26070">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-254" type="identity">
+      <class id="new" label=""/>
+      <span end="26082" id="PMC4992225.nxml.gz-254" start="26079">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-255" type="identity">
+      <class id="although" label=""/>
+      <span end="26154" id="PMC4992225.nxml.gz-255" start="26146">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-256" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26312" id="PMC4992225.nxml.gz-256" start="26146">Although 67.3 % of the blood samples were taken in the winter, 81 % of the participants were exposed to sunlight or had outdoor activities for at least 15 min per day</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26486" id="PMC4992225.nxml.gz-257" start="26314">Considering the factors affecting vitamin D production such as clothing type, skin color and the time of day being exposed to the sun [48–50], these results are justifiable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-258" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-259" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="26325" id="PMC4992225.nxml.gz-259" start="26314">Considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2383" id="PMC4992225.nxml.gz-26" start="2289">We suggest further clinical trial in pregnant mothers who are at risk for postnatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-260" type="identity">
+      <class id="factors" label=""/>
+      <span end="26337" id="PMC4992225.nxml.gz-260" start="26330">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-261" type="identity">
+      <class id="affecting" label=""/>
+      <span end="26347" id="PMC4992225.nxml.gz-261" start="26338">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-262" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="26486" id="PMC4992225.nxml.gz-262" start="26475">justifiable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26614" id="PMC4992225.nxml.gz-264" start="26488">Vitamin D deficiency is a widespread global problem, which even can observe in the countries which get enough sunlight [49,51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-265" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="26539" id="PMC4992225.nxml.gz-265" start="26525">global problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-266" type="identity">
+      <class id="problem" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-267" type="identity">
+      <class id="even" label=""/>
+      <span end="26551" id="PMC4992225.nxml.gz-267" start="26547">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-268" type="identity">
+      <class id="can" label=""/>
+      <span end="26555" id="PMC4992225.nxml.gz-268" start="26552">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-269" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26698" id="PMC4992225.nxml.gz-269" start="26616">The high prevalence of vitamin D deficiency in Iran was showed in numerous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-27" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2299" id="PMC4992225.nxml.gz-27" start="2292">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-270" type="identity">
+      <class id="showed" label=""/>
+      <span end="26678" id="PMC4992225.nxml.gz-270" start="26672">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-271" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27005" id="PMC4992225.nxml.gz-271" start="26881">Saki et al., showed high prevalence of vitamin D deficiency in southern Iranian children, more than 80 % were deficient [53]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-272" type="identity">
+      <class id="showed" label=""/>
+      <span end="26900" id="PMC4992225.nxml.gz-272" start="26894">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-273" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27109" id="PMC4992225.nxml.gz-273" start="27007">Also, Omani et al. found vitamin D deficiency in 52.9 % of women aged 20–74 years in Shiraz, Iran [54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-274" type="identity">
+      <class id="found" label=""/>
+      <span end="27031" id="PMC4992225.nxml.gz-274" start="27026">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-275" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27611" id="PMC4992225.nxml.gz-275" start="27432">In the present study, the mean vitamin D concentrations in vitamin D group were significantly higher after taking 2000 IU of vitamin D supplementation per day for at least 8 weeks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-276" type="identity">
+      <class id="present_study" label=""/>
+      <span end="27452" id="PMC4992225.nxml.gz-276" start="27439">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-277" type="identity">
+      <class id="at_least" label=""/>
+      <span end="27603" id="PMC4992225.nxml.gz-277" start="27595">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-278" type="identity">
+      <class id="nonetheless" label=""/>
+      <span end="27624" id="PMC4992225.nxml.gz-278" start="27613">Nonetheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-279" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27710" id="PMC4992225.nxml.gz-279" start="27613">Nonetheless, only 9.7 % in the vitamin D group achieved serum concentrations higher than 30 ng/mL</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28" type="identity">
+      <class id="future_work" label=""/>
+      <span end="2307" id="PMC4992225.nxml.gz-28" start="2300">further</span>
+      <span end="2322" id="PMC4992225.nxml.gz-29" start="2317">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-280" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="27630" id="PMC4992225.nxml.gz-280" start="27626">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-281" type="identity">
+      <class id="in_contrast" label=""/>
+      <span end="27723" id="PMC4992225.nxml.gz-281" start="27712">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-282" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27904" id="PMC4992225.nxml.gz-282" start="27712">In contrast, in the previous studies 2000 IU vitamin D supplementation was more sufficient to increase serum 25-hydroxyvitamin D concentrations up to the adequate amount (≥32 ng/mL) [18,57,58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-283" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="27748" id="PMC4992225.nxml.gz-283" start="27732">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-284" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28155" id="PMC4992225.nxml.gz-284" start="27906">In those studies, vitamin D supplementations started at the end of the first trimester or at the beginning of the second trimester and their participants had higher initial 25-hydroxyvitamin D concentrations compared to the participants in our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-285" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28555" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="4111" id="PMC4992225.nxml.gz-28556" start="4103">have led</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28557" type="identity">
+      <class id="several_studies"/>
+      <span end="10763" id="PMC4992225.nxml.gz-28558" start="10748">several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28559" type="identity">
+      <class id="subject_scope"/>
+      <span end="23614" id="PMC4992225.nxml.gz-28560" start="23474">The results showed, between the two groups, the difference regards to over-time reduction of depression scores was significant ( p  &lt; 0.001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28561" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="25664" id="PMC4992225.nxml.gz-28562" start="25660">This</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28563" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="25679" id="PMC4992225.nxml.gz-28564" start="25674">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28565" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="25689" id="PMC4992225.nxml.gz-28566" start="25680">evaluated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28567" type="identity">
+      <class id="subject_scope"/>
+      <span end="25789" id="PMC4992225.nxml.gz-28568" start="25660">This clinical trial evaluated the effect of 2000 IU of vitamin D3supplement per day during late pregnancy on perinatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28569" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="28125" id="PMC4992225.nxml.gz-28570" start="28114">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28571" type="identity">
+      <class id="problem_complication"/>
+      <span end="30399" id="PMC4992225.nxml.gz-28572" start="30393">exited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28573" type="identity">
+      <class id="full_unknown"/>
+      <span end="33092" id="PMC4992225.nxml.gz-28574" start="33084">have not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-28575" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="34155" id="PMC4992225.nxml.gz-28576" start="34146">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-287" type="identity">
+      <class id="our_study" label=""/>
+      <span end="28155" id="PMC4992225.nxml.gz-287" start="28146">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-288" type="identity">
+      <class id="therefore" label=""/>
+      <span end="28925" id="PMC4992225.nxml.gz-288" start="28916">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-289" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29075" id="PMC4992225.nxml.gz-289" start="28916">Therefore, it is justifiable that in our study, vitamin D group had lower 25-hydroxyvitamin D concentration compared to those were in the study by Taheri et al</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-290" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="28944" id="PMC4992225.nxml.gz-290" start="28933">justifiable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-291" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-292" type="identity">
+      <class id="our_study" label=""/>
+      <span end="28962" id="PMC4992225.nxml.gz-292" start="28953">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-293" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29229" id="PMC4992225.nxml.gz-293" start="29077">Considering cut-off point of ≥9, data analysis showed that a lot of participants (more than 50 %) were susceptible to prenatal depression at 26–28 weeks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-294" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="29088" id="PMC4992225.nxml.gz-294" start="29077">Considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-295" type="identity">
+      <class id="showed" label=""/>
+      <span end="29130" id="PMC4992225.nxml.gz-295" start="29124">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-296" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29438" id="PMC4992225.nxml.gz-296" start="29322">In previous studies, the prevalence of antenatal depression had been studied, using various tools and cut-off points</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-297" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="29341" id="PMC4992225.nxml.gz-297" start="29325">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-298" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29925" id="PMC4992225.nxml.gz-298" start="29798">Depression was reported in 8.6 % of European mothers, in 19.5 % of Middle Eastern mothers, and in 17.5 % of South Asian mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-299" type="identity">
+      <class id="reported" label=""/>
+      <span end="29821" id="PMC4992225.nxml.gz-299" start="29813">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-3" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="210" id="PMC4992225.nxml.gz-3" start="200">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-30" type="identity">
+      <class id="at_risk" label=""/>
+      <span end="2358" id="PMC4992225.nxml.gz-30" start="2351">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-300" type="identity">
+      <class id="however" label=""/>
+      <span end="29988" id="PMC4992225.nxml.gz-300" start="29981">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30177" id="PMC4992225.nxml.gz-301" start="29981">However, the EPDS has been widely used in screening, not providing a diagnosis, for perinatal depression, it has been reported that its score is highly correlated with physician diagnostic opinion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-302" type="identity">
+      <class id="reported" label=""/>
+      <span end="30107" id="PMC4992225.nxml.gz-302" start="30099">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-303" type="identity">
+      <class id="correlated" label=""/>
+      <span end="30143" id="PMC4992225.nxml.gz-303" start="30133">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-304" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30336" id="PMC4992225.nxml.gz-304" start="30179">Several studies have been shown that, with cutoff score of 12–13, this scale develops into more indicative in identifying real depression in women [36,37,42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-305" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="30194" id="PMC4992225.nxml.gz-305" start="30179">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-306" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="30210" id="PMC4992225.nxml.gz-306" start="30195">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-307" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-308" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="30285" id="PMC4992225.nxml.gz-308" start="30275">indicative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-309" type="identity">
+      <class id="identifying" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2789" id="PMC4992225.nxml.gz-31" start="2688">Mood disorders in pregnancy and post-partum period are common and considered as a public health issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-310" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30557" id="PMC4992225.nxml.gz-310" start="30338">The participants who had depression scores of &gt;13 were exited from this clinical trial and referred to psychiatrist for further assessment and treatment, because, the nature of our study was preventative than management</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-311" type="identity">
+      <class id="because" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-312" type="identity">
+      <class id="our_study" label=""/>
+      <span end="30524" id="PMC4992225.nxml.gz-312" start="30515">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-313" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-314" type="identity">
+      <class id="our_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-315" type="identity">
+      <class id="while" label=""/>
+      <span end="30677" id="PMC4992225.nxml.gz-315" start="30672">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-316" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30889" id="PMC4992225.nxml.gz-316" start="30672">While in a study by Cassidy- Bushrow et al., in African-American women, an inverse relationship was observed between maternal 25-hydroxyvitamin D concentration at the early stages of pregnancy and antenatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-317" type="identity">
+      <class id="relationship" label=""/>
+      <span end="30767" id="PMC4992225.nxml.gz-317" start="30755">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-318" type="identity">
+      <class id="observed" label=""/>
+      <span end="30780" id="PMC4992225.nxml.gz-318" start="30772">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-319" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31120" id="PMC4992225.nxml.gz-319" start="30891">There was an inverse relationship between the vitamin D logarithm and depression scores, as by adding one unit to the vitamin D concentration logarithm, equal to 2.72 ng/mL, a 46 % reduction in the depression scores occurred [63]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-32" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-320" type="identity">
+      <class id="relationship" label=""/>
+      <span end="30924" id="PMC4992225.nxml.gz-320" start="30912">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-321" type="identity">
+      <class id="as" label=""/>
+      <span end="30982" id="PMC4992225.nxml.gz-321" start="30980">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-322" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31319" id="PMC4992225.nxml.gz-322" start="31122">In another study in US, in 498 pregnant mothers with the mean gestational age of 15 weeks, generally there was an inverse relationship between 25-hydroxyvitamin D concentration and depression level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-323" type="identity">
+      <class id="another_study" label=""/>
+      <span end="31138" id="PMC4992225.nxml.gz-323" start="31125">another study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-324" type="identity">
+      <class id="generally" label=""/>
+      <span end="31222" id="PMC4992225.nxml.gz-324" start="31213">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-325" type="identity">
+      <class id="relationship" label=""/>
+      <span end="31256" id="PMC4992225.nxml.gz-325" start="31244">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-326" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31553" id="PMC4992225.nxml.gz-326" start="31462">It is worth mentioning that their tools for determining depression were different than ours</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-327" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-328" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="31484" id="PMC4992225.nxml.gz-328" start="31468">worth mentioning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-329" type="identity">
+      <class id="different" label=""/>
+      <span end="31543" id="PMC4992225.nxml.gz-329" start="31534">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-33" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2764" id="PMC4992225.nxml.gz-33" start="2754">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-330" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31760" id="PMC4992225.nxml.gz-330" start="31622">It was a possible reason that we did not observe any relationship between antenatal depression score and 25-hydroxyvitamin D concentration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-331" type="identity">
+      <class id="possible" label=""/>
+      <span end="31639" id="PMC4992225.nxml.gz-331" start="31631">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-332" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="31646" id="PMC4992225.nxml.gz-332" start="31640">reason</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-333" type="identity">
+      <class id="did_not" label=""/>
+      <span end="31662" id="PMC4992225.nxml.gz-333" start="31655">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-334" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31854" id="PMC4992225.nxml.gz-334" start="31762">Also in our study, selection of participants at the beginning was through convenience method</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-335" type="identity">
+      <class id="our_study" label=""/>
+      <span end="31779" id="PMC4992225.nxml.gz-335" start="31770">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-336" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="31854" id="PMC4992225.nxml.gz-336" start="31836">convenience method</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-337" type="identity">
+      <class id="surprisingly" label=""/>
+      <span end="31868" id="PMC4992225.nxml.gz-337" start="31856">Surprisingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-338" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32058" id="PMC4992225.nxml.gz-338" start="31856">Surprisingly, the change in vitamin D concentration (baseline to childbirth) was not correlated with changes in depression scores from baseline to 38–40 weeks of gestation or to 4 and 8 weeks postpartum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-339" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-34" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-340" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32209" id="PMC4992225.nxml.gz-340" start="32060">The present trial showed that consuming 2000 IU vitamin D3per day in late pregnancy was effective in decreasing depression scores in perinatal period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-341" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="32077" id="PMC4992225.nxml.gz-341" start="32064">present trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-342" type="identity">
+      <class id="showed" label=""/>
+      <span end="32084" id="PMC4992225.nxml.gz-342" start="32078">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-343" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32395" id="PMC4992225.nxml.gz-343" start="32211">The vitamin D and control groups were similar regarding to general characteristics except for two variables: unplanned pregnancy and using other supplements out of the study’s protocol</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-344" type="identity">
+      <class id="similar" label=""/>
+      <span end="32256" id="PMC4992225.nxml.gz-344" start="32249">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-345" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="32304" id="PMC4992225.nxml.gz-345" start="32294">except for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-346" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="32395" id="PMC4992225.nxml.gz-346" start="32368">out of the study’s protocol</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-347" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32574" id="PMC4992225.nxml.gz-347" start="32482">Previous studies reported that unplanned pregnancy is a risk factor for perinatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-348" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="32498" id="PMC4992225.nxml.gz-348" start="32482">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-349" type="identity">
+      <class id="reported" label=""/>
+      <span end="32507" id="PMC4992225.nxml.gz-349" start="32499">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-35" type="identity">
+      <class id="public_health" label=""/>
+      <span end="2783" id="PMC4992225.nxml.gz-35" start="2770">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-350" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="32549" id="PMC4992225.nxml.gz-350" start="32538">risk factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-351" type="identity">
+      <class id="nonetheless" label=""/>
+      <span end="32587" id="PMC4992225.nxml.gz-351" start="32576">Nonetheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-352" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32683" id="PMC4992225.nxml.gz-352" start="32576">Nonetheless, in our study, the vitamin D group had significantly lower depression scores after intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-353" type="identity">
+      <class id="our_study" label=""/>
+      <span end="32601" id="PMC4992225.nxml.gz-353" start="32592">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-354" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32807" id="PMC4992225.nxml.gz-354" start="32685">The effectiveness of calcium supplementation on prevention of perinatal depression has been shown in a previous study [65]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-355" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="32702" id="PMC4992225.nxml.gz-355" start="32689">effectiveness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-356" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="32782" id="PMC4992225.nxml.gz-356" start="32768">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-357" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="32802" id="PMC4992225.nxml.gz-357" start="32788">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-358" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32980" id="PMC4992225.nxml.gz-358" start="32809">The control group consumed extra supplements such as calcium more frequently, nonetheless this group had significantly higher depression scores compared to vitamin D group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-359" type="identity">
+      <class id="nonetheless" label=""/>
+      <span end="32898" id="PMC4992225.nxml.gz-359" start="32887">nonetheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-36" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2789" id="PMC4992225.nxml.gz-36" start="2784">issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-360" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33151" id="PMC4992225.nxml.gz-360" start="32982">Previous clinical trials, in which vitamin D supplementations were consumed during pregnancy [18,58], have not evaluated the antenatal and postnatal depression disorders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-361" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32990" id="PMC4992225.nxml.gz-361" start="32982">Previous</span>
+      <span end="33006" id="PMC4992225.nxml.gz-362" start="33000">trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-363" type="identity">
+      <class id="previous" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-364" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-365" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="33102" id="PMC4992225.nxml.gz-365" start="33089">not evaluated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-366" type="identity">
+      <class id="however" label=""/>
+      <span end="33160" id="PMC4992225.nxml.gz-366" start="33153">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-367" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33327" id="PMC4992225.nxml.gz-367" start="33153">However in a cross-sectional study in Japan, higher dietary vitamin D intake was independently associated with a lower prevalence of depressive symptoms during pregnancy [66]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-368" type="identity">
+      <class id="independently" label=""/>
+      <span end="33247" id="PMC4992225.nxml.gz-368" start="33234">independently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-369" type="identity">
+      <class id="associated" label=""/>
+      <span end="33258" id="PMC4992225.nxml.gz-369" start="33248">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3003" id="PMC4992225.nxml.gz-37" start="2791">In recent decades researchers have paid great amount of attention to these subjects and showed that mood illness related to childbirth can lead to serious complications for mother, fetus, newborn and family [1,2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-370" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="33346" id="PMC4992225.nxml.gz-370" start="33329">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-371" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33431" id="PMC4992225.nxml.gz-371" start="33329">On the other hand, the effect of vitamin D on depression in non-pregnant people are not entirely clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-372" type="identity">
+      <class id="effect" label=""/>
+      <span end="33358" id="PMC4992225.nxml.gz-372" start="33352">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-373" type="identity">
+      <class id="not...clear" label=""/>
+      <span end="33416" id="PMC4992225.nxml.gz-373" start="33413">not</span>
+      <span end="33431" id="PMC4992225.nxml.gz-374" start="33426">clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-375" type="identity">
+      <class id="some" label=""/>
+      <span end="33437" id="PMC4992225.nxml.gz-375" start="33433">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-376" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33543" id="PMC4992225.nxml.gz-376" start="33433">Some clinical trials in non-pregnant people showed that vitamin D was effective in decreasing depression level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-377" type="identity">
+      <class id="showed" label=""/>
+      <span end="33483" id="PMC4992225.nxml.gz-377" start="33477">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-378" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="33512" id="PMC4992225.nxml.gz-378" start="33503">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-379" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33829" id="PMC4992225.nxml.gz-379" start="33739">High doses of vitamin D were effective in decreasing depression levels after 3 months [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-38" type="identity">
+      <class id="attention" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-380" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="33777" id="PMC4992225.nxml.gz-380" start="33768">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-381" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-382" type="identity">
+      <class id="another_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-383" type="identity">
+      <class id="in_contrast" label=""/>
+      <span end="34053" id="PMC4992225.nxml.gz-383" start="34042">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-384" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34221" id="PMC4992225.nxml.gz-384" start="34042">In contrast, in another study 40,000 IU vitamin D per week was used for 6 months, but vitamin D was not effective in decreasing depression level compared to the control group [68]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-385" type="identity">
+      <class id="another_study" label=""/>
+      <span end="34071" id="PMC4992225.nxml.gz-385" start="34058">another study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-386" type="identity">
+      <class id="but" label=""/>
+      <span end="34127" id="PMC4992225.nxml.gz-386" start="34124">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-387" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-388" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34354" id="PMC4992225.nxml.gz-388" start="34223">Dean et al. found that 5000 IU vitamin D per day for 6 weeks had no effect on men and women’s cognitive and emotional function [69]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-389" type="identity">
+      <class id="found" label=""/>
+      <span end="34240" id="PMC4992225.nxml.gz-389" start="34235">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-39" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2856" id="PMC4992225.nxml.gz-39" start="2847">attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-390" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34407" id="PMC4992225.nxml.gz-390" start="34356">Vitamin D can affect brain function in several ways</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-391" type="identity">
+      <class id="affect" label=""/>
+      <span end="34376" id="PMC4992225.nxml.gz-391" start="34370">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-392" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34519" id="PMC4992225.nxml.gz-392" start="34409">The existence of receptors for the active form of vitamin D (1, 25(OH)2D) in the brain induces a direct effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-393" type="identity">
+      <class id="effect" label=""/>
+      <span end="34519" id="PMC4992225.nxml.gz-393" start="34513">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-394" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34717" id="PMC4992225.nxml.gz-394" start="34623">Its indirect effects are attributed to vitamin D’s effects on improvement of muscle activities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-395" type="identity">
+      <class id="effects" label=""/>
+      <span end="34643" id="PMC4992225.nxml.gz-395" start="34636">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-396" type="identity">
+      <class id="attributed" label=""/>
+      <span end="34658" id="PMC4992225.nxml.gz-396" start="34648">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-397" type="identity">
+      <class id="effects" label=""/>
+      <span end="34681" id="PMC4992225.nxml.gz-397" start="34674">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-398" type="identity">
+      <class id="as" label=""/>
+      <span end="34721" id="PMC4992225.nxml.gz-398" start="34719">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-399" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34820" id="PMC4992225.nxml.gz-399" start="34719">As a result of this improvement, physical activity increases and this have positive effects on health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-4" type="identity">
+      <class id="public_health" label=""/>
+      <span end="229" id="PMC4992225.nxml.gz-4" start="216">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-40" type="identity">
+      <class id="showed" label=""/>
+      <span end="2885" id="PMC4992225.nxml.gz-40" start="2879">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-400" type="identity">
+      <class id="effects" label=""/>
+      <span end="34810" id="PMC4992225.nxml.gz-400" start="34803">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-401" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34889" id="PMC4992225.nxml.gz-401" start="34822">An increase in vitamin D can cause parathyroid hormones to decrease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-402" type="identity">
+      <class id="can" label=""/>
+      <span end="34850" id="PMC4992225.nxml.gz-402" start="34847">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-403" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34957" id="PMC4992225.nxml.gz-403" start="34891">An increase in this hormone can lead to brain dysfunctions [70,71]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-404" type="identity">
+      <class id="can" label=""/>
+      <span end="34922" id="PMC4992225.nxml.gz-404" start="34919">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-405" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="34976" id="PMC4992225.nxml.gz-405" start="34959">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-406" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35069" id="PMC4992225.nxml.gz-406" start="34959">On the other hand, cytokines are messengers produced by immune cells which affect all tissues, including brain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-407" type="identity">
+      <class id="affect" label=""/>
+      <span end="35040" id="PMC4992225.nxml.gz-407" start="35034">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-408" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35161" id="PMC4992225.nxml.gz-408" start="35071">Nowadays, we know that brain cells such as microglia and astrocytes, can secrete cytokines</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-409" type="identity">
+      <class id="know" label=""/>
+      <span end="35088" id="PMC4992225.nxml.gz-409" start="35084">know</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-41" type="identity">
+      <class id="related" label=""/>
+      <span end="2911" id="PMC4992225.nxml.gz-41" start="2904">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-410" type="identity">
+      <class id="can" label=""/>
+      <span end="35143" id="PMC4992225.nxml.gz-410" start="35140">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-411" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35384" id="PMC4992225.nxml.gz-411" start="35269">Vitamin D may act as an anti-inflammatory agent in the brain by keeping harmful pro-inflammatory cytokines in check</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-412" type="identity">
+      <class id="may" label=""/>
+      <span end="35282" id="PMC4992225.nxml.gz-412" start="35279">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-413" type="identity">
+      <class id="as" label=""/>
+      <span end="35289" id="PMC4992225.nxml.gz-413" start="35287">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-414" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35450" id="PMC4992225.nxml.gz-414" start="35386">Vitamin D deficiency has been linked to pro-inflammatory disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-415" type="identity">
+      <class id="linked" label=""/>
+      <span end="35422" id="PMC4992225.nxml.gz-415" start="35416">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-416" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35673" id="PMC4992225.nxml.gz-416" start="35452">It is also possible that as a result of vascular changes in pregnancy the maternal cerebral environment is more vulnerable to inflammation perhaps, explaining in part the link between vitamin D and depression in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-417" type="identity">
+      <class id="possible" label=""/>
+      <span end="35471" id="PMC4992225.nxml.gz-417" start="35463">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-418" type="identity">
+      <class id="as" label=""/>
+      <span end="35479" id="PMC4992225.nxml.gz-418" start="35477">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-419" type="identity">
+      <class id="perhaps" label=""/>
+      <span end="35598" id="PMC4992225.nxml.gz-419" start="35591">perhaps</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-42" type="identity">
+      <class id="can" label=""/>
+      <span end="2929" id="PMC4992225.nxml.gz-42" start="2926">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-420" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="35610" id="PMC4992225.nxml.gz-420" start="35600">explaining</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-421" type="identity">
+      <class id="in_part" label=""/>
+      <span end="35618" id="PMC4992225.nxml.gz-421" start="35611">in part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-422" type="identity">
+      <class id="link" label=""/>
+      <span end="35627" id="PMC4992225.nxml.gz-422" start="35623">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-423" type="identity">
+      <class id="in_light_of" label=""/>
+      <span end="35686" id="PMC4992225.nxml.gz-423" start="35675">In light of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-424" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35913" id="PMC4992225.nxml.gz-424" start="35675">In light of the inflammatory nature of depression and the strong role of vitamin D as an anti-inflammatory and immunomodulator, inflammation may mediate the relationship between vitamin D deficiency and depression during pregnancy [73,74]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-425" type="identity">
+      <class id="role" label=""/>
+      <span end="35744" id="PMC4992225.nxml.gz-425" start="35740">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-426" type="identity">
+      <class id="as" label=""/>
+      <span end="35760" id="PMC4992225.nxml.gz-426" start="35758">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-427" type="identity">
+      <class id="may" label=""/>
+      <span end="35819" id="PMC4992225.nxml.gz-427" start="35816">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-428" type="identity">
+      <class id="mediate" label=""/>
+      <span end="35827" id="PMC4992225.nxml.gz-428" start="35820">mediate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-429" type="identity">
+      <class id="relationship" label=""/>
+      <span end="35844" id="PMC4992225.nxml.gz-429" start="35832">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-43" type="identity">
+      <class id="serious" label=""/>
+      <span end="2945" id="PMC4992225.nxml.gz-43" start="2938">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-430" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36053" id="PMC4992225.nxml.gz-430" start="35915">Previous studies have suggested that perinatal depression is more frequent and serious in primiparous women than multiparous women [75,76]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-431" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="35931" id="PMC4992225.nxml.gz-431" start="35915">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-432" type="identity">
+      <class id="suggested" label=""/>
+      <span end="35946" id="PMC4992225.nxml.gz-432" start="35937">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-433" type="identity">
+      <class id="serious" label=""/>
+      <span end="36001" id="PMC4992225.nxml.gz-433" start="35994">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-434" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36170" id="PMC4992225.nxml.gz-434" start="36055">It was interesting to investigate trend of vitamin D effectiveness in the two primiparous and multiparous subgroups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-435" type="identity">
+      <class id="interesting" label=""/>
+      <span end="36073" id="PMC4992225.nxml.gz-435" start="36062">interesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-436" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="36088" id="PMC4992225.nxml.gz-436" start="36074">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-437" type="identity">
+      <class id="trend" label=""/>
+      <span end="36094" id="PMC4992225.nxml.gz-437" start="36089">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-438" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="36121" id="PMC4992225.nxml.gz-438" start="36108">effectiveness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-439" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36240" id="PMC4992225.nxml.gz-439" start="36172">The findings were similar to the overall population except one thing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-44" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2959" id="PMC4992225.nxml.gz-44" start="2946">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-440" type="identity">
+      <class id="findings" label=""/>
+      <span end="36184" id="PMC4992225.nxml.gz-440" start="36176">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-441" type="identity">
+      <class id="similar_to" label=""/>
+      <span end="36200" id="PMC4992225.nxml.gz-441" start="36190">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-442" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="36230" id="PMC4992225.nxml.gz-442" start="36224">except</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-443" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36571" id="PMC4992225.nxml.gz-443" start="36380">Staying on vitamin D consumption until childbirth resulted in higher serum 25-hydroxyvitamin D concentration that induced the effect on postnatal depression exceeding than prenatal depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-444" type="identity">
+      <class id="effect" label=""/>
+      <span end="36512" id="PMC4992225.nxml.gz-444" start="36506">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-445" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36714" id="PMC4992225.nxml.gz-445" start="36573">A difference in nature of antenatal depression compared to postnatal depression can reflect another possible reason for achieving this result</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-446" type="identity">
+      <class id="difference" label=""/>
+      <span end="36585" id="PMC4992225.nxml.gz-446" start="36575">difference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-447" type="identity">
+      <class id="can" label=""/>
+      <span end="36656" id="PMC4992225.nxml.gz-447" start="36653">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-448" type="identity">
+      <class id="reflect" label=""/>
+      <span end="36664" id="PMC4992225.nxml.gz-448" start="36657">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-449" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="36672" id="PMC4992225.nxml.gz-449" start="36665">another</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-45" type="identity">
+      <class id="evidence" label=""/>
+      <span end="3013" id="PMC4992225.nxml.gz-45" start="3005">Evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-450" type="identity">
+      <class id="possible" label=""/>
+      <span end="36681" id="PMC4992225.nxml.gz-450" start="36673">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-451" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="36688" id="PMC4992225.nxml.gz-451" start="36682">reason</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-452" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36871" id="PMC4992225.nxml.gz-452" start="36716">Depression scores decreased in the both our groups over time which indicates that depression could be more critical during pregnancy than postpartum period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-453" type="identity">
+      <class id="indicates" label=""/>
+      <span end="36792" id="PMC4992225.nxml.gz-453" start="36783">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-454" type="identity">
+      <class id="could_be" label=""/>
+      <span end="36817" id="PMC4992225.nxml.gz-454" start="36809">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-455" type="identity">
+      <class id="critical" label=""/>
+      <span end="36831" id="PMC4992225.nxml.gz-455" start="36823">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-456" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36995" id="PMC4992225.nxml.gz-456" start="36873">The pleasant feeling of motherhood can probably play a role in decreasing depression specially in primiparous mothers [77]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-457" type="identity">
+      <class id="can" label=""/>
+      <span end="36911" id="PMC4992225.nxml.gz-457" start="36908">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-458" type="identity">
+      <class id="probably" label=""/>
+      <span end="36920" id="PMC4992225.nxml.gz-458" start="36912">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-459" type="identity">
+      <class id="role" label=""/>
+      <span end="36932" id="PMC4992225.nxml.gz-459" start="36928">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3112" id="PMC4992225.nxml.gz-46" start="3005">Evidence shows that postnatal depression is an extension of antenatal depression which continues postpartum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-460" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37078" id="PMC4992225.nxml.gz-460" start="36997">During pregnancy, women are worried about risks to their own and the fetus health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-461" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="37032" id="PMC4992225.nxml.gz-461" start="37025">worried</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-462" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37148" id="PMC4992225.nxml.gz-462" start="37080">Fear of labor pain is another concern of the modern-day mothers [78]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-463" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="37117" id="PMC4992225.nxml.gz-463" start="37110">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-464" type="identity">
+      <class id="therefore" label=""/>
+      <span end="37159" id="PMC4992225.nxml.gz-464" start="37150">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-465" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37214" id="PMC4992225.nxml.gz-465" start="37150">Therefore, a decreased perinatal depression level is justifiable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-466" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="37214" id="PMC4992225.nxml.gz-466" start="37203">justifiable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-467" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-468" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="37233" id="PMC4992225.nxml.gz-468" start="37216">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-469" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37332" id="PMC4992225.nxml.gz-469" start="37216">On the other hand, the difference between the two groups was meaningful concerning over-time reduction of depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-47" type="identity">
+      <class id="shows" label=""/>
+      <span end="3019" id="PMC4992225.nxml.gz-47" start="3014">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-470" type="identity">
+      <class id="difference" label=""/>
+      <span end="37249" id="PMC4992225.nxml.gz-470" start="37239">difference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-471" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="37287" id="PMC4992225.nxml.gz-471" start="37277">meaningful</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-472" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37518" id="PMC4992225.nxml.gz-472" start="37334">Meaning that over time, depression scores decreased much more in the vitamin D group in comparison to control group and this shows the possible effects of the vitamin D3supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-473" type="identity">
+      <class id="shows" label=""/>
+      <span end="37464" id="PMC4992225.nxml.gz-473" start="37459">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-474" type="identity">
+      <class id="possible" label=""/>
+      <span end="37477" id="PMC4992225.nxml.gz-474" start="37469">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-475" type="identity">
+      <class id="effects" label=""/>
+      <span end="37485" id="PMC4992225.nxml.gz-475" start="37478">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-476" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37675" id="PMC4992225.nxml.gz-476" start="37520">Another finding of this study was that vitamin D3supplementation was effective in decreasing depression level in both nulliparous and multiparous subgroups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-477" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="37535" id="PMC4992225.nxml.gz-477" start="37528">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-478" type="identity">
+      <class id="this_study" label=""/>
+      <span end="37549" id="PMC4992225.nxml.gz-478" start="37539">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-479" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="37598" id="PMC4992225.nxml.gz-479" start="37589">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3299" id="PMC4992225.nxml.gz-48" start="3114">This problem can have negative effects on infant development and can cause behavioral, cognitive, social and emotional problems in infant which could continue throughout childhood [3–5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-480" type="identity">
+      <class id="therefore" label=""/>
+      <span end="37819" id="PMC4992225.nxml.gz-480" start="37810">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-481" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37878" id="PMC4992225.nxml.gz-481" start="37810">Therefore, the participants’ honesty was one of this research limits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-482" type="identity">
+      <class id="limits" label=""/>
+      <span end="37878" id="PMC4992225.nxml.gz-482" start="37872">limits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-483" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38014" id="PMC4992225.nxml.gz-483" start="37937">This group of participants may not be representative of the target population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-484" type="identity">
+      <class id="may" label=""/>
+      <span end="37967" id="PMC4992225.nxml.gz-484" start="37964">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-485" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="37971" id="PMC4992225.nxml.gz-485" start="37968">not</span>
+      <span end="37989" id="PMC4992225.nxml.gz-486" start="37975">representative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-487" type="identity">
+      <class id="target" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-488" type="identity">
+      <class id="since" label=""/>
+      <span end="38021" id="PMC4992225.nxml.gz-488" start="38016">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-489" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38158" id="PMC4992225.nxml.gz-489" start="38016">Since mothers with depression level of &gt;13 were excluded from this study, the results can not extend to mothers with high levels of depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-49" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3126" id="PMC4992225.nxml.gz-49" start="3119">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-490" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-491" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="38109" id="PMC4992225.nxml.gz-491" start="38102">can not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-492" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="38116" id="PMC4992225.nxml.gz-492" start="38106">not extend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-493" type="identity">
+      <class id="extend" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-494" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38373" id="PMC4992225.nxml.gz-494" start="38160">Also, since more than 95 % of the mothers had lower than 30 ng/mL serum 25-hydroxyvitamin D concentration, it is not clear if the same results would be observed in mothers with higher levels of 25-hydroxyvitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-495" type="identity">
+      <class id="since" label=""/>
+      <span end="38171" id="PMC4992225.nxml.gz-495" start="38166">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-496" type="identity">
+      <class id="not...clear" label=""/>
+      <span end="38282" id="PMC4992225.nxml.gz-496" start="38273">not clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-497" type="identity">
+      <class id="if" label=""/>
+      <span end="38285" id="PMC4992225.nxml.gz-497" start="38283">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-498" type="identity">
+      <class id="would_be" label=""/>
+      <span end="38311" id="PMC4992225.nxml.gz-498" start="38303">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-499" type="identity">
+      <class id="observed" label=""/>
+      <span end="38320" id="PMC4992225.nxml.gz-499" start="38312">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-5" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="235" id="PMC4992225.nxml.gz-5" start="230">issue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-50" type="identity">
+      <class id="can" label=""/>
+      <span end="3130" id="PMC4992225.nxml.gz-50" start="3127">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-500" type="identity">
+      <class id="therefore" label=""/>
+      <span end="38384" id="PMC4992225.nxml.gz-500" start="38375">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-501" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38559" id="PMC4992225.nxml.gz-501" start="38375">Therefore, we suggest further clinical trials, using 2000 IU vitamin D on a larger population, mothers with high levels of depression, and high serum 25-hydroxyvitamin D concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-502" type="identity">
+      <class id="suggest" label=""/>
+      <span end="38396" id="PMC4992225.nxml.gz-502" start="38389">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-503" type="identity">
+      <class id="future_work" label=""/>
+      <span end="38404" id="PMC4992225.nxml.gz-503" start="38397">further</span>
+      <span end="38420" id="PMC4992225.nxml.gz-504" start="38414">trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-505" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38736" id="PMC4992225.nxml.gz-505" start="38561">The last weakness of this study was that it had the statistical authority to identify differences in depressive symptoms, but not in the diagnoses of major depressive disorder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-506" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-507" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="38578" id="PMC4992225.nxml.gz-507" start="38570">weakness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-508" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="38646" id="PMC4992225.nxml.gz-508" start="38635">to identify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-509" type="identity">
+      <class id="differences" label=""/>
+      <span end="38658" id="PMC4992225.nxml.gz-509" start="38647">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-51" type="identity">
+      <class id="effects" label=""/>
+      <span end="3152" id="PMC4992225.nxml.gz-51" start="3145">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-510" type="identity">
+      <class id="but_not" label=""/>
+      <span end="38690" id="PMC4992225.nxml.gz-510" start="38683">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-511" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38986" id="PMC4992225.nxml.gz-511" start="38750">In the present study, it was observed that 2000 IU vitamin D3per day for at least 8 weeks during late pregnancy, can be effective in decreasing perinatal depression levels (at 38–40 weeks of gestation also, at 4 and 8 weeks after birth)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-512" type="identity">
+      <class id="present_study" label=""/>
+      <span end="38770" id="PMC4992225.nxml.gz-512" start="38757">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-513" type="identity">
+      <class id="observed" label=""/>
+      <span end="38787" id="PMC4992225.nxml.gz-513" start="38779">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-514" type="identity">
+      <class id="at_least" label=""/>
+      <span end="38831" id="PMC4992225.nxml.gz-514" start="38823">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-515" type="identity">
+      <class id="can" label=""/>
+      <span end="38866" id="PMC4992225.nxml.gz-515" start="38863">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-516" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="38879" id="PMC4992225.nxml.gz-516" start="38870">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-52" type="identity">
+      <class id="can" label=""/>
+      <span end="3182" id="PMC4992225.nxml.gz-52" start="3179">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-53" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="3241" id="PMC4992225.nxml.gz-53" start="3233">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-54" type="identity">
+      <class id="could" label=""/>
+      <span end="3263" id="PMC4992225.nxml.gz-54" start="3258">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3471" id="PMC4992225.nxml.gz-55" start="3301">Prevalence of postpartum depression varies throughout the world; however researchers have used different scales and cut off points to describe this psychological disorder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-56" type="identity">
+      <class id="varies" label=""/>
+      <span end="3343" id="PMC4992225.nxml.gz-56" start="3337">varies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-57" type="identity">
+      <class id="however" label=""/>
+      <span end="3373" id="PMC4992225.nxml.gz-57" start="3366">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-58" type="identity">
+      <class id="different" label=""/>
+      <span end="3405" id="PMC4992225.nxml.gz-58" start="3396">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-59" type="identity">
+      <class id="describe" label=""/>
+      <span end="3443" id="PMC4992225.nxml.gz-59" start="3435">describe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="451" id="PMC4992225.nxml.gz-6" start="237">Researchers have studied the relationship between low serum vitamin D concentration and perinatal depression, although no clinical trial has been conducted on vitamin D’s effects on depression related to childbirth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-61" type="identity">
+      <class id="different" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3653" id="PMC4992225.nxml.gz-62" start="3576">This study has reported the prevalence of postnatal depression up to 60 % [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-63" type="identity">
+      <class id="reported" label=""/>
+      <span end="3599" id="PMC4992225.nxml.gz-63" start="3591">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3763" id="PMC4992225.nxml.gz-64" start="3655">The prevalence of postnatal depression in some Asian countries has been reported between 22 and 46.9 % [7,8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-65" type="identity">
+      <class id="some" label=""/>
+      <span end="3701" id="PMC4992225.nxml.gz-65" start="3697">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-66" type="identity">
+      <class id="has_been" label=""/>
+      <span end="3726" id="PMC4992225.nxml.gz-66" start="3718">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-67" type="identity">
+      <class id="reported" label=""/>
+      <span end="3735" id="PMC4992225.nxml.gz-67" start="3727">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3841" id="PMC4992225.nxml.gz-68" start="3765">Several studies have shown a high prevalence of postnatal depression in Iran</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-69" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="3780" id="PMC4992225.nxml.gz-69" start="3765">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-7" type="identity">
+      <class id="relationship" label=""/>
+      <span end="278" id="PMC4992225.nxml.gz-7" start="266">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-70" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="3791" id="PMC4992225.nxml.gz-70" start="3781">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4050" id="PMC4992225.nxml.gz-71" start="3843">In the meta-analysis of Veisani et al., postnatal depression was reported at 25.3 % [9], and in two recent studies in eastern and central part of Iran, the prevalence has been reported at 28.9–34.8 % [10,11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-72" type="identity">
+      <class id="reported" label=""/>
+      <span end="3916" id="PMC4992225.nxml.gz-72" start="3908">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-73" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="3957" id="PMC4992225.nxml.gz-73" start="3943">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-74" type="identity">
+      <class id="reported" label=""/>
+      <span end="4027" id="PMC4992225.nxml.gz-74" start="4019">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4273" id="PMC4992225.nxml.gz-75" start="4052">The spread and importance of postpartum depression have led researchers to create preventative methods such as educational programs, modified care, dietary supplements, antidepressant medication and social support [12–14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-76" type="identity">
+      <class id="importance" label=""/>
+      <span end="4077" id="PMC4992225.nxml.gz-76" start="4067">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-77" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5112" id="PMC4992225.nxml.gz-79" start="5011">Serum levels of PTH, calcium, and phosphate have influence on regulatory and production of 1,25(OH)2D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-8" type="identity">
+      <class id="although" label=""/>
+      <span end="355" id="PMC4992225.nxml.gz-8" start="347">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-80" type="identity">
+      <class id="influence" label=""/>
+      <span end="5069" id="PMC4992225.nxml.gz-80" start="5060">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5259" id="PMC4992225.nxml.gz-81" start="5114">Serum levels of 25-hydroxyvitamin D reflects the body’s vitamin D reserves and this is a well-known indicator for examining vitamin D status [15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-82" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="5158" id="PMC4992225.nxml.gz-82" start="5150">reflects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-83" type="identity">
+      <class id="well-known" label=""/>
+      <span end="5213" id="PMC4992225.nxml.gz-83" start="5203">well-known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-84" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="5223" id="PMC4992225.nxml.gz-84" start="5214">indicator</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5452" id="PMC4992225.nxml.gz-85" start="5261">Several studies have revealed that vitamin D supplementation can raise vitamin D reserves gradually, according to baseline concentration of vitamin D, dose and duration of consumption [16–18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-86" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="5276" id="PMC4992225.nxml.gz-86" start="5261">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-87" type="identity">
+      <class id="revealed" label=""/>
+      <span end="5290" id="PMC4992225.nxml.gz-87" start="5282">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-88" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5627" id="PMC4992225.nxml.gz-89" start="5454">In accordance to a guideline by Holick et al., 6–8 weeks consumption of a high dose vitamin D supplement are essential to obtain an adequate blood reserves of vitamin D [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-9" type="identity">
+      <class id="no...has_been_conducted" label=""/>
+      <span end="358" id="PMC4992225.nxml.gz-9" start="356">no</span>
+      <span end="392" id="PMC4992225.nxml.gz-10" start="374">has been conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-90" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5467" id="PMC4992225.nxml.gz-90" start="5454">In accordance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-91" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="5482" id="PMC4992225.nxml.gz-91" start="5473">guideline</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-92" type="identity">
+      <class id="essential" label=""/>
+      <span end="5572" id="PMC4992225.nxml.gz-92" start="5563">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5765" id="PMC4992225.nxml.gz-93" start="5629">It seems that in addition to calcium homeostasis and bone health, vitamin D is also essential for brain development and function [20,21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-94" type="identity">
+      <class id="seems" label=""/>
+      <span end="5637" id="PMC4992225.nxml.gz-94" start="5632">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-95" type="identity">
+      <class id="essential" label=""/>
+      <span end="5722" id="PMC4992225.nxml.gz-95" start="5713">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-96" type="identity">
+      <class id="therefore" label=""/>
+      <span end="5934" id="PMC4992225.nxml.gz-96" start="5925">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6055" id="PMC4992225.nxml.gz-97" start="5925">Therefore, the brain can regionally activate vitamin D, which implicates vitamin D’s role in brain function more prominent [22–25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-98" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4992225.nxml.gz-99" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="5997" id="PMC4992225.nxml.gz-99" start="5987">implicates</span>
+    </annotation>
+  </document>
+</knowtator-project>

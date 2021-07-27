@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3800883.nxml.gz" text-file="PMC3800883.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1609" id="PMC3800883.nxml.gz-10" start="1562">the present diet substances causes complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-11" type="identity">
+      <class id="complication" label=""/>
+      <span end="1609" id="PMC3800883.nxml.gz-11" start="1597">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1657" id="PMC3800883.nxml.gz-12" start="1616">Masanumasik patya is the need of the hour</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-13" type="identity">
+      <class id="the_need" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1869" id="PMC3800883.nxml.gz-14" start="1672">It is therefore clear that the diet of pregnant woman according to Ayurveda will prevent many complications of pregnancy, which will lead to healthy pregnancy &amp; healthy fetus &amp; finally good outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-15" type="identity">
+      <class id="will" label=""/>
+      <span end="1752" id="PMC3800883.nxml.gz-15" start="1748">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-16" type="identity">
+      <class id="complications" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-17" type="identity">
+      <class id="will" label=""/>
+      <span end="1804" id="PMC3800883.nxml.gz-17" start="1800">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-2" type="identity">
+      <class id="complications" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-3" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-5" type="identity">
+      <class id="will" label=""/>
+      <span end="562" id="PMC3800883.nxml.gz-5" start="558">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="985" id="PMC3800883.nxml.gz-6" start="876">patya advised is madhura, shita, drava (liquid), which will prevent dehydration &amp; supply required nourishment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-7" type="identity">
+      <class id="will" label=""/>
+      <span end="935" id="PMC3800883.nxml.gz-7" start="931">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1306" id="PMC3800883.nxml.gz-8" start="1247">Mild laxatives and basti, which will smoothen genital tract</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-9" type="identity">
+      <class id="will" label=""/>
+      <span end="1283" id="PMC3800883.nxml.gz-9" start="1279">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-928" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="478" id="PMC3800883.nxml.gz-929" start="464">very necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-930" type="identity">
+      <class id="subject_scope"/>
+      <span end="620" id="PMC3800883.nxml.gz-931" start="458">it is very necessary to promote the pregnant women to take proper diet i.e. masanumasik patya which will lead to healthly &amp; safe motherhood along with its outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3800883.nxml.gz-932" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="1657" id="PMC3800883.nxml.gz-933" start="1637">the need of the hour</span>
+    </annotation>
+  </document>
+</knowtator-project>

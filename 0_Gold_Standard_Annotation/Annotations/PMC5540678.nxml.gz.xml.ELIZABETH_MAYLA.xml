@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5540678.nxml.gz" text-file="PMC5540678.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="243" id="PMC5540678.nxml.gz-1" start="98">The possible role of maternal consumption of free sugar during pregnancy in the inception of respiratory and atopic diseases has not been studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="826" id="PMC5540678.nxml.gz-10" start="477">We analysed associations between maternal intake of free sugar in pregnancy (estimated by a food frequency questionnaire), and current doctor-diagnosed asthma, wheezing, hay fever, eczema, atopy, serum total IgE and lung function in children aged 7–9 years (n=8956 with information on maternal diet in pregnancy and at least one outcome of interest)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-100" type="identity">
+      <class id="potential" label=""/>
+      <span end="10731" id="PMC5540678.nxml.gz-100" start="10722">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-101" type="identity">
+      <class id="associations" label=""/>
+      <span end="10757" id="PMC5540678.nxml.gz-101" start="10745">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-102" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11322" id="PMC5540678.nxml.gz-102" start="10960">We therefore adjusted additionally for maternal pre-pregnancy body mass index (BMI) (self-reported), gestational age at delivery, birthweight, maternal weight gain during pregnancy (all abstracted from obstetric records) and child's BMI at age 7 years (based on measured height and weight at clinic) (see supplementary figure E1 showing a directed acyclic graph)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-103" type="identity">
+      <class id="therefore" label=""/>
+      <span end="10972" id="PMC5540678.nxml.gz-103" start="10963">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-104" type="identity">
+      <class id="in_order_to" label=""/>
+      <span end="11335" id="PMC5540678.nxml.gz-104" start="11324">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-105" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11588" id="PMC5540678.nxml.gz-105" start="11324">In order to assess confounding arising from other dimensions of diet, we additionally adjusted separately for maternal intake of vitamin E, zinc, selenium, n -3 polyunsaturated fatty acids (PUFAs), n -6 PUFAs, and total fruits and vegetables in pregnancy [1,29–31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-106" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="11342" id="PMC5540678.nxml.gz-106" start="11333">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-107" type="identity">
+      <class id="confounding" label=""/>
+      <span end="11354" id="PMC5540678.nxml.gz-107" start="11343">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-108" type="identity">
+      <class id="other" label=""/>
+      <span end="11373" id="PMC5540678.nxml.gz-108" start="11368">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11709" id="PMC5540678.nxml.gz-109" start="11590">To investigate confounding by post-natal sugar intake, we adjusted additionally for child's sugar intake at age 3 years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-11" type="identity">
+      <class id="associations" label=""/>
+      <span end="501" id="PMC5540678.nxml.gz-11" start="489">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-110" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="11604" id="PMC5540678.nxml.gz-110" start="11590">To investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-111" type="identity">
+      <class id="confounding" label=""/>
+      <span end="11616" id="PMC5540678.nxml.gz-111" start="11605">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-112" type="identity">
+      <class id="in_order_to" label=""/>
+      <span end="11722" id="PMC5540678.nxml.gz-112" start="11711">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12019" id="PMC5540678.nxml.gz-113" start="11711">In order to investigate potential unmeasured confounding by genetic or shared environmental or lifestyle factors, we used a parental comparison approach, whereby effect estimates for maternal sugar intake in pregnancy were compared with effect estimates for maternal and paternal sugar intake after pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-114" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="11734" id="PMC5540678.nxml.gz-114" start="11720">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-115" type="identity">
+      <class id="potential" label=""/>
+      <span end="11744" id="PMC5540678.nxml.gz-115" start="11735">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-116" type="identity">
+      <class id="confounding" label=""/>
+      <span end="11767" id="PMC5540678.nxml.gz-116" start="11756">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-117" type="identity">
+      <class id="effect" label=""/>
+      <span end="11879" id="PMC5540678.nxml.gz-117" start="11873">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-118" type="identity">
+      <class id="estimates" label=""/>
+      <span end="11889" id="PMC5540678.nxml.gz-118" start="11880">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-119" type="identity">
+      <class id="effect" label=""/>
+      <span end="11954" id="PMC5540678.nxml.gz-119" start="11948">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-12" type="identity">
+      <class id="estimated" label=""/>
+      <span end="563" id="PMC5540678.nxml.gz-12" start="554">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-120" type="identity">
+      <class id="estimates" label=""/>
+      <span end="11964" id="PMC5540678.nxml.gz-120" start="11955">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-121" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12343" id="PMC5540678.nxml.gz-121" start="12021">If there is a causal intrauterine effect, one would expect a stronger association with maternal intake in pregnancy than with maternal post-natal intake or paternal intake (the latter two exposures cannot have a direct biological effect on offspring asthma risk) (see further details in the supplementary material) [32,33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-122" type="identity">
+      <class id="if" label=""/>
+      <span end="12023" id="PMC5540678.nxml.gz-122" start="12021">If</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-124" type="identity">
+      <class id="effect" label=""/>
+      <span end="12061" id="PMC5540678.nxml.gz-124" start="12055">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-125" type="identity">
+      <class id="would" label=""/>
+      <span end="12072" id="PMC5540678.nxml.gz-125" start="12067">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-126" type="identity">
+      <class id="expect" label=""/>
+      <span end="12079" id="PMC5540678.nxml.gz-126" start="12073">expect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-127" type="identity">
+      <class id="association" label=""/>
+      <span end="12102" id="PMC5540678.nxml.gz-127" start="12091">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1120" id="PMC5540678.nxml.gz-13" start="828">After controlling for potential confounders, maternal intake of free sugar was positively associated with atopy (OR for highest versus lowest quintile of sugar intake 1.38, 95% CI 1.06–1.78; per quintile p-trend=0.006) and atopic asthma (OR 2.01, 95% CI 1.23–3.29; per quintile p-trend=0.004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-131" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12866" id="PMC5540678.nxml.gz-132" start="12599">To correct for potential loss to follow-up bias, we used inverse probability weighting and assigned to each woman a weight that was the inverse of the probability of her selection for given values of covariates (see further details in the supplementary material) [35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-133" type="identity">
+      <class id="potential" label=""/>
+      <span end="12623" id="PMC5540678.nxml.gz-133" start="12614">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-134" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="12646" id="PMC5540678.nxml.gz-134" start="12642">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-135" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13460" id="PMC5540678.nxml.gz-136" start="13213">Characteristics of the 8956 mother–child pairs who were included in the analyses and those of the 3122 mother–child pairs with information on maternal diet who were excluded because of incomplete outcome data are compared in supplementary table E1</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-137" type="identity">
+      <class id="because" label=""/>
+      <span end="13394" id="PMC5540678.nxml.gz-137" start="13387">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-138" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13408" id="PMC5540678.nxml.gz-138" start="13398">incomplete</span>
+      <span end="13421" id="PMC5540678.nxml.gz-139" start="13417">data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14" type="identity">
+      <class id="potential" label=""/>
+      <span end="859" id="PMC5540678.nxml.gz-14" start="850">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14337" id="PMC5540678.nxml.gz-140" start="14222">Their offspring were more likely to have weighed less at birth and to have had a lower BMI at age 7 years (table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-141" type="identity">
+      <class id="likely" label=""/>
+      <span end="14254" id="PMC5540678.nxml.gz-141" start="14248">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14851" id="PMC5540678.nxml.gz-142" start="14339">After adjustment for potential confounders, there was weak evidence for positive associations between maternal free sugar intake in pregnancy and childhood doctor-diagnosed asthma and childhood wheeze (OR comparing highest versus lowest quintile 1.31, 95% CI 0.98–1.75; per quintile p - trend=0.09 and 1.42, 95% CI 1.05–1.92; per quintile p - trend=0.08, respectively), and stronger evidence for a positive association with atopy at age 7 years (OR 1.38, 95% CI 1.06–1.78; per quintile p - trend=0.006) (table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-143" type="identity">
+      <class id="potential" label=""/>
+      <span end="14369" id="PMC5540678.nxml.gz-143" start="14360">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-144" type="identity">
+      <class id="confounders" label=""/>
+      <span end="14381" id="PMC5540678.nxml.gz-144" start="14370">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14428" type="identity">
+      <class id="whether"/>
+      <span end="3494" id="PMC5540678.nxml.gz-14429" start="3487">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14430" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="26392" id="PMC5540678.nxml.gz-14431" start="26385">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14432" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="26423" id="PMC5540678.nxml.gz-14433" start="26416">nor did</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14434" type="identity">
+      <class id="future_prediction"/>
+      <span end="27592" id="PMC5540678.nxml.gz-14435" start="27587">allow</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14436" type="identity">
+      <class id="whether"/>
+      <span end="31813" id="PMC5540678.nxml.gz-14437" start="31806">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14438" type="identity">
+      <class id="subject_scope"/>
+      <span end="33572" id="PMC5540678.nxml.gz-14439" start="33295">Furthermore, loss to follow-up bias has been shown to only slightly modify associations in longitudinal studies, including in ALSPAC [49], and the results of our inverse probability weighting analysis [35] confirmed that loss to follow-up is unlikely to have biased our results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-14440" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="34401" id="PMC5540678.nxml.gz-14441" start="34399">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-145" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="14406" id="PMC5540678.nxml.gz-145" start="14393">weak evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-146" type="identity">
+      <class id="associations" label=""/>
+      <span end="14432" id="PMC5540678.nxml.gz-146" start="14420">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-147" type="identity">
+      <class id="association" label=""/>
+      <span end="14757" id="PMC5540678.nxml.gz-147" start="14746">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15141" id="PMC5540678.nxml.gz-148" start="14970">Post hoc analysis showed a positive association between maternal intake of free sugar and atopic asthma (OR 2.01, 95% CI 1.23–3.29; per quintile p - trend=0.004) (table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-149" type="identity">
+      <class id="association" label=""/>
+      <span end="15017" id="PMC5540678.nxml.gz-149" start="15006">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-15" type="identity">
+      <class id="confounders" label=""/>
+      <span end="871" id="PMC5540678.nxml.gz-15" start="860">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-150" type="identity">
+      <class id="further_investigation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-151" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-152" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-153" type="identity">
+      <class id="confounding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22482" id="PMC5540678.nxml.gz-154" start="22173">Additional separate adjustment for maternal pre-pregnancy BMI, gestational age at delivery, birthweight, maternal weight gain during pregnancy and child's BMI at age 7 years did not substantially alter the main findings and therefore no further formal mediation analysis was conducted (supplementary table E3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-155" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22354" id="PMC5540678.nxml.gz-155" start="22347">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-156" type="identity">
+      <class id="therefore" label=""/>
+      <span end="22406" id="PMC5540678.nxml.gz-156" start="22397">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22804" id="PMC5540678.nxml.gz-157" start="22484">Additional separate adjustment for maternal intake of vitamin E, zinc, selenium, n-3 PUFAs, n-6 PUFAs, and total fruits and vegetables in pregnancy did not substantially alter the main findings (data not shown), nor did additional separate adjustment for child's free sugar intake at age 3 years (supplementary table E3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-158" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22639" id="PMC5540678.nxml.gz-158" start="22632">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23403" id="PMC5540678.nxml.gz-159" start="23136">The significant associations of maternal free sugar intake during pregnancy with childhood atopy and atopic asthma remained, unattenuated, on mutual adjustment for paternal (respectively, maternal) post-natal exposure (table 4and supplementary table E4, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-16" type="identity">
+      <class id="associated" label=""/>
+      <span end="928" id="PMC5540678.nxml.gz-16" start="918">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-160" type="identity">
+      <class id="associations" label=""/>
+      <span end="23164" id="PMC5540678.nxml.gz-160" start="23152">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-161" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23259" id="PMC5540678.nxml.gz-161" start="23251">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25248" id="PMC5540678.nxml.gz-162" start="25011">When we analysed the association between maternal free sugar intake and the number of positive reactions to cat, grass and dust mite allergens, we observed a stronger association for children with two or more positive reactions (table 5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-163" type="identity">
+      <class id="association" label=""/>
+      <span end="25043" id="PMC5540678.nxml.gz-163" start="25032">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-164" type="identity">
+      <class id="association" label=""/>
+      <span end="25189" id="PMC5540678.nxml.gz-164" start="25178">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25422" id="PMC5540678.nxml.gz-165" start="25250">We studied associations between maternal free sugar intake in pregnancy and childhood asthma status phenotypes, and did not observe any association (supplementary table E5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-166" type="identity">
+      <class id="associations" label=""/>
+      <span end="25273" id="PMC5540678.nxml.gz-166" start="25261">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-167" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25373" id="PMC5540678.nxml.gz-167" start="25366">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26458" id="PMC5540678.nxml.gz-168" start="26318">The exclusion of 17 women with implausible energy intake estimates did not alter the main results nor did exclusion of mothers with diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-169" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1237" id="PMC5540678.nxml.gz-17" start="1122">These associations were not confounded by intake of sugar in early childhood, which was unrelated to these outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26581" id="PMC5540678.nxml.gz-170" start="26460">Maternal “diabetes” was not associated with any respiratory or atopic outcome, but was associated with higher birthweight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-171" type="identity">
+      <class id="associated" label=""/>
+      <span end="26557" id="PMC5540678.nxml.gz-171" start="26547">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26932" id="PMC5540678.nxml.gz-172" start="26686">In this population-based birth cohort study, we found that a higher maternal intake of free sugar during pregnancy was associated with an increased risk of atopy and atopic asthma in the offspring, independently of sugar intake in early childhood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-173" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="26693" id="PMC5540678.nxml.gz-173" start="26689">this</span>
+      <span end="26729" id="PMC5540678.nxml.gz-174" start="26724">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-175" type="identity">
+      <class id="found" label=""/>
+      <span end="26739" id="PMC5540678.nxml.gz-175" start="26734">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-176" type="identity">
+      <class id="associated" label=""/>
+      <span end="26815" id="PMC5540678.nxml.gz-176" start="26805">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26988" id="PMC5540678.nxml.gz-177" start="26934">To the best of our knowledge, these are novel findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-178" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="26962" id="PMC5540678.nxml.gz-178" start="26934">To the best of our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-179" type="identity">
+      <class id="novel" label=""/>
+      <span end="26979" id="PMC5540678.nxml.gz-179" start="26974">novel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-18" type="identity">
+      <class id="associations" label=""/>
+      <span end="1140" id="PMC5540678.nxml.gz-18" start="1128">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-180" type="identity">
+      <class id="while" label=""/>
+      <span end="26995" id="PMC5540678.nxml.gz-180" start="26990">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27276" id="PMC5540678.nxml.gz-181" start="26990">While a previous ecological study reported a positive correlation between perinatal consumption of sugar and severe childhood asthma symptoms [9], the limitations of ecological studies for inferring causality are well known (not least because of the high likelihood of confounding) [36]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-182" type="identity">
+      <class id="correlation" label=""/>
+      <span end="27055" id="PMC5540678.nxml.gz-182" start="27044">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-183" type="identity">
+      <class id="severe" label=""/>
+      <span end="27105" id="PMC5540678.nxml.gz-183" start="27099">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-184" type="identity">
+      <class id="limitations" label=""/>
+      <span end="27152" id="PMC5540678.nxml.gz-184" start="27141">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-185" type="identity">
+      <class id="inferring" label=""/>
+      <span end="27188" id="PMC5540678.nxml.gz-185" start="27179">inferring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-186" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="27213" id="PMC5540678.nxml.gz-186" start="27203">well known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-187" type="identity">
+      <class id="because" label=""/>
+      <span end="27232" id="PMC5540678.nxml.gz-187" start="27225">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-188" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="27255" id="PMC5540678.nxml.gz-188" start="27245">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-189" type="identity">
+      <class id="confounding" label=""/>
+      <span end="27270" id="PMC5540678.nxml.gz-189" start="27259">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-19" type="identity">
+      <class id="confounded" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27440" id="PMC5540678.nxml.gz-190" start="27278">Furthermore, that study was unable to specifically investigate the potential role of maternal intake of sugar during pregnancy nor the specific role of free sugar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-191" type="identity">
+      <class id="unable_to" label=""/>
+      <span end="27315" id="PMC5540678.nxml.gz-191" start="27306">unable to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-192" type="identity">
+      <class id="potential" label=""/>
+      <span end="27354" id="PMC5540678.nxml.gz-192" start="27345">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-193" type="identity">
+      <class id="role" label=""/>
+      <span end="27359" id="PMC5540678.nxml.gz-193" start="27355">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-194" type="identity">
+      <class id="role" label=""/>
+      <span end="27426" id="PMC5540678.nxml.gz-194" start="27422">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27618" id="PMC5540678.nxml.gz-195" start="27442">Our longitudinal findings linking maternal free sugar intake in pregnancy to childhood atopy and atopic asthma extend the ecological results and allow stronger causal inference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-196" type="identity">
+      <class id="linking" label=""/>
+      <span end="27475" id="PMC5540678.nxml.gz-196" start="27468">linking</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-197" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-198" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="27633" id="PMC5540678.nxml.gz-198" start="27620">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27734" id="PMC5540678.nxml.gz-199" start="27620">Interestingly, the findings for atopy became stronger when we examined the association with multiple sensitisation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-2" type="identity">
+      <class id="possible" label=""/>
+      <span end="110" id="PMC5540678.nxml.gz-2" start="102">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-20" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-200" type="identity">
+      <class id="examined" label=""/>
+      <span end="27690" id="PMC5540678.nxml.gz-200" start="27682">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-201" type="identity">
+      <class id="association" label=""/>
+      <span end="27706" id="PMC5540678.nxml.gz-201" start="27695">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-202" type="identity">
+      <class id="although" label=""/>
+      <span end="27744" id="PMC5540678.nxml.gz-202" start="27736">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-203" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28024" id="PMC5540678.nxml.gz-203" start="27736">Although previous cross-sectional studies have reported a positive association between childhood consumption of sugar-containing drinks, including fruit juice, and asthma [5–8], intake of free sugar in early childhood in our study was not associated with any respiratory or atopic outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-204" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="27791" id="PMC5540678.nxml.gz-204" start="27778">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-205" type="identity">
+      <class id="association" label=""/>
+      <span end="27814" id="PMC5540678.nxml.gz-205" start="27803">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-206" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28205" id="PMC5540678.nxml.gz-206" start="28038">We speculate that high maternal fructose consumption may underlie the positive associations between maternal intake of free sugar and childhood atopy and atopic asthma</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-207" type="identity">
+      <class id="speculate" label=""/>
+      <span end="28050" id="PMC5540678.nxml.gz-207" start="28041">speculate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-208" type="identity">
+      <class id="may" label=""/>
+      <span end="28094" id="PMC5540678.nxml.gz-208" start="28091">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-209" type="identity">
+      <class id="associations" label=""/>
+      <span end="28129" id="PMC5540678.nxml.gz-209" start="28117">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1450" id="PMC5540678.nxml.gz-21" start="1239">Our results suggest that a higher maternal intake of free sugar during pregnancy is associated with an increased risk of atopy and atopic asthma in the offspring, independently of sugar intake in early childhood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28533" id="PMC5540678.nxml.gz-210" start="28207">Fructose, which is a major component of added sugars, and is present naturally in fruit juice and in sweetened drinks as added sucrose (ratio of fructose/glucose 50/50%) or isolated fructose, has been mooted as driving previous cross-sectional findings linking sugar-containing beverage consumption to asthma in children [7,8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-211" type="identity">
+      <class id="has...been" label=""/>
+      <span end="28407" id="PMC5540678.nxml.gz-211" start="28399">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-212" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28414" id="PMC5540678.nxml.gz-212" start="28408">mooted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-213" type="identity">
+      <class id="driving" label=""/>
+      <span end="28425" id="PMC5540678.nxml.gz-213" start="28418">driving</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-214" type="identity">
+      <class id="linking" label=""/>
+      <span end="28467" id="PMC5540678.nxml.gz-214" start="28460">linking</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-215" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28975" id="PMC5540678.nxml.gz-215" start="28828">A prospective randomised controlled trial in adults showed that dietary sugar, and especially fructose, increased levels of C-reactive protein [37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-216" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28886" id="PMC5540678.nxml.gz-216" start="28880">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-217" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29251" id="PMC5540678.nxml.gz-217" start="28977">Fructose also causes generation of uric acid [38], and experimental evidence in mice suggests that uric acid may be an essential initiator and amplifier of T-helper cell type 2 (Th2) immunity and allergic inflammation, through activation of inflammatory dendritic cells [39]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-218" type="identity">
+      <class id="experimental_evidence" label=""/>
+      <span end="29053" id="PMC5540678.nxml.gz-218" start="29032">experimental evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-219" type="identity">
+      <class id="suggests" label=""/>
+      <span end="29070" id="PMC5540678.nxml.gz-219" start="29062">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-22" type="identity">
+      <class id="suggest" label=""/>
+      <span end="1258" id="PMC5540678.nxml.gz-22" start="1251">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-220" type="identity">
+      <class id="may_be" label=""/>
+      <span end="29092" id="PMC5540678.nxml.gz-220" start="29086">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-221" type="identity">
+      <class id="essential" label=""/>
+      <span end="29105" id="PMC5540678.nxml.gz-221" start="29096">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-222" type="identity">
+      <class id="alternatively" label=""/>
+      <span end="29266" id="PMC5540678.nxml.gz-222" start="29253">Alternatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-223" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29359" id="PMC5540678.nxml.gz-223" start="29253">Alternatively, fructose might influence atopic immune responses by conditioning the gut microbiome [40,41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-224" type="identity">
+      <class id="might" label=""/>
+      <span end="29282" id="PMC5540678.nxml.gz-224" start="29277">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-225" type="identity">
+      <class id="influence" label=""/>
+      <span end="29292" id="PMC5540678.nxml.gz-225" start="29283">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-226" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29533" id="PMC5540678.nxml.gz-226" start="29361">The potential of maternal diet in pregnancy to influence inception of offspring allergic airways disease through this mechanism was recently confirmed in a mouse model [42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-227" type="identity">
+      <class id="potential" label=""/>
+      <span end="29374" id="PMC5540678.nxml.gz-227" start="29365">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-228" type="identity">
+      <class id="influence" label=""/>
+      <span end="29417" id="PMC5540678.nxml.gz-228" start="29408">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-229" type="identity">
+      <class id="recently" label=""/>
+      <span end="29501" id="PMC5540678.nxml.gz-229" start="29493">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-23" type="identity">
+      <class id="associated" label=""/>
+      <span end="1333" id="PMC5540678.nxml.gz-23" start="1323">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-230" type="identity">
+      <class id="confirmed" label=""/>
+      <span end="29511" id="PMC5540678.nxml.gz-230" start="29502">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-231" type="identity">
+      <class id="0_model" label=""/>
+      <span end="29528" id="PMC5540678.nxml.gz-231" start="29523">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-232" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29746" id="PMC5540678.nxml.gz-232" start="29535">We therefore propose that one explanation for our main findings is that high fetal exposure to fructose may cause persistence of Th2 immune responses post-natally and allergic inflammation in the developing lung</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-233" type="identity">
+      <class id="therefore" label=""/>
+      <span end="29547" id="PMC5540678.nxml.gz-233" start="29538">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-234" type="identity">
+      <class id="propose" label=""/>
+      <span end="29555" id="PMC5540678.nxml.gz-234" start="29548">propose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-235" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="29576" id="PMC5540678.nxml.gz-235" start="29561">one explanation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-236" type="identity">
+      <class id="may" label=""/>
+      <span end="29642" id="PMC5540678.nxml.gz-236" start="29639">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-237" type="identity">
+      <class id="in_contrast_to" label=""/>
+      <span end="29762" id="PMC5540678.nxml.gz-237" start="29748">In contrast to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-238" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30077" id="PMC5540678.nxml.gz-238" start="29748">In contrast to a previous study which reported a link between gestational diabetes and risk of atopic eczema and atopy in early childhood [43], we found no association between maternal diabetes during pregnancy and any outcome in the offspring, although, as expected [44], maternal diabetes was associated with higher birthweight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-239" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="29779" id="PMC5540678.nxml.gz-239" start="29765">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1607" id="PMC5540678.nxml.gz-24" start="1468">Higher maternal intake of sugar in pregnancy may increase the risk of allergy and allergic asthma in the offspring http://ow.ly/zehc30bFswP</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-240" type="identity">
+      <class id="link" label=""/>
+      <span end="29801" id="PMC5540678.nxml.gz-240" start="29797">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-241" type="identity">
+      <class id="found" label=""/>
+      <span end="29900" id="PMC5540678.nxml.gz-241" start="29895">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-242" type="identity">
+      <class id="although" label=""/>
+      <span end="30001" id="PMC5540678.nxml.gz-242" start="29993">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-243" type="identity">
+      <class id="as_expected" label=""/>
+      <span end="30014" id="PMC5540678.nxml.gz-243" start="30003">as expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-244" type="identity">
+      <class id="associated" label=""/>
+      <span end="30053" id="PMC5540678.nxml.gz-244" start="30043">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-245" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30217" id="PMC5540678.nxml.gz-245" start="30079">The lack of a relation with maternal diabetes would suggest that higher fetal exposure to glucose is unlikely to explain our main findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-246" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="30090" id="PMC5540678.nxml.gz-246" start="30083">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-247" type="identity">
+      <class id="relation" label=""/>
+      <span end="30101" id="PMC5540678.nxml.gz-247" start="30093">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-248" type="identity">
+      <class id="would" label=""/>
+      <span end="30130" id="PMC5540678.nxml.gz-248" start="30125">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-249" type="identity">
+      <class id="suggest" label=""/>
+      <span end="30138" id="PMC5540678.nxml.gz-249" start="30131">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-25" type="identity">
+      <class id="may" label=""/>
+      <span end="1516" id="PMC5540678.nxml.gz-25" start="1513">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-250" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="30188" id="PMC5540678.nxml.gz-250" start="30180">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-251" type="identity">
+      <class id="while" label=""/>
+      <span end="30224" id="PMC5540678.nxml.gz-251" start="30219">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-252" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30622" id="PMC5540678.nxml.gz-252" start="30219">While high fructose consumption has been proposed as a risk factor for obesity [45], we found no evidence to suggest that the associations between maternal free sugar intake and atopy and atopic asthma in the offspring were mediated by maternal BMI, gestational weight gain or child's BMI, nor by prematurity or low birthweight, assuming key assumptions necessary for mediation analyses were met [46,47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-253" type="identity">
+      <class id="has_been" label=""/>
+      <span end="30259" id="PMC5540678.nxml.gz-253" start="30251">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-254" type="identity">
+      <class id="proposed" label=""/>
+      <span end="30268" id="PMC5540678.nxml.gz-254" start="30260">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-255" type="identity">
+      <class id="found" label=""/>
+      <span end="30312" id="PMC5540678.nxml.gz-255" start="30307">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-256" type="identity">
+      <class id="no_evidence" label=""/>
+      <span end="30324" id="PMC5540678.nxml.gz-256" start="30313">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-257" type="identity">
+      <class id="suggest" label=""/>
+      <span end="30335" id="PMC5540678.nxml.gz-257" start="30328">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-258" type="identity">
+      <class id="associations" label=""/>
+      <span end="30357" id="PMC5540678.nxml.gz-258" start="30345">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-259" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="30451" id="PMC5540678.nxml.gz-259" start="30443">mediated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1751" id="PMC5540678.nxml.gz-26" start="1622">There has been considerable interest in the role of maternal diet in pregnancy in the aetiology of childhood asthma and atopy [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-260" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="30572" id="PMC5540678.nxml.gz-260" start="30561">assumptions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-261" type="identity">
+      <class id="necessary" label=""/>
+      <span end="30582" id="PMC5540678.nxml.gz-261" start="30573">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-262" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30966" id="PMC5540678.nxml.gz-262" start="30651">Strengths of the ALSPAC birth cohort include its size and population-based prospective design, rich information on numerous potential lifestyle and dietary confounders (including information on childhood free sugar intake and parental sugar intake outside of pregnancy), and detailed phenotypic outcome measurements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-264" type="identity">
+      <class id="potential" label=""/>
+      <span end="30784" id="PMC5540678.nxml.gz-264" start="30775">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-265" type="identity">
+      <class id="confounders" label=""/>
+      <span end="30818" id="PMC5540678.nxml.gz-265" start="30807">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-266" type="identity">
+      <class id="although" label=""/>
+      <span end="30976" id="PMC5540678.nxml.gz-266" start="30968">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-267" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31259" id="PMC5540678.nxml.gz-267" start="30968">Although the FFQ that we used had not been formally calibrated against other instruments such as diet diaries, it was based on the one used by Yarnell et al. [48], which has been validated against weighed dietary records and modified in the light of a more recent weighed dietary survey [13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-268" type="identity">
+      <class id="other" label=""/>
+      <span end="31044" id="PMC5540678.nxml.gz-268" start="31039">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-269" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-27" type="identity">
+      <class id="considerable" label=""/>
+      <span end="1649" id="PMC5540678.nxml.gz-27" start="1637">considerable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-270" type="identity">
+      <class id="has_been" label=""/>
+      <span end="31146" id="PMC5540678.nxml.gz-270" start="31138">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-271" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="31156" id="PMC5540678.nxml.gz-271" start="31147">validated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-272" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31415" id="PMC5540678.nxml.gz-272" start="31261">The FFQ lacked quantitative information on soft drink consumption and this will have led to underestimation of maternal free sugar intake during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-273" type="identity">
+      <class id="will" label=""/>
+      <span end="31340" id="PMC5540678.nxml.gz-273" start="31336">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-274" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="31368" id="PMC5540678.nxml.gz-274" start="31353">underestimation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-275" type="identity">
+      <class id="however" label=""/>
+      <span end="31424" id="PMC5540678.nxml.gz-275" start="31417">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-276" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31613" id="PMC5540678.nxml.gz-276" start="31417">However, as misclassification of maternal free sugar intake in pregnancy is likely to have been random with respect to childhood outcomes, the strength of associations may have been underestimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-277" type="identity">
+      <class id="misclassification" label=""/>
+      <span end="31446" id="PMC5540678.nxml.gz-277" start="31429">misclassification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-278" type="identity">
+      <class id="likely" label=""/>
+      <span end="31499" id="PMC5540678.nxml.gz-278" start="31493">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-279" type="identity">
+      <class id="have...been" label=""/>
+      <span end="31512" id="PMC5540678.nxml.gz-279" start="31503">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-28" type="identity">
+      <class id="interest" label=""/>
+      <span end="1658" id="PMC5540678.nxml.gz-28" start="1650">interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-280" type="identity">
+      <class id="associations" label=""/>
+      <span end="31584" id="PMC5540678.nxml.gz-280" start="31572">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-281" type="identity">
+      <class id="may" label=""/>
+      <span end="31588" id="PMC5540678.nxml.gz-281" start="31585">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-282" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="31613" id="PMC5540678.nxml.gz-282" start="31599">underestimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-283" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31779" id="PMC5540678.nxml.gz-283" start="31615">We were unable to assess associations with maternal sugar intake in early pregnancy; however, intakes in early and late pregnancy are likely to be highly correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-284" type="identity">
+      <class id="unable_to" label=""/>
+      <span end="31632" id="PMC5540678.nxml.gz-284" start="31623">unable to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-285" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-286" type="identity">
+      <class id="associations" label=""/>
+      <span end="31652" id="PMC5540678.nxml.gz-286" start="31640">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-287" type="identity">
+      <class id="however" label=""/>
+      <span end="31707" id="PMC5540678.nxml.gz-287" start="31700">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-288" type="identity">
+      <class id="likely" label=""/>
+      <span end="31755" id="PMC5540678.nxml.gz-288" start="31749">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-289" type="identity">
+      <class id="correlated" label=""/>
+      <span end="31779" id="PMC5540678.nxml.gz-289" start="31769">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-29" type="identity">
+      <class id="role" label=""/>
+      <span end="1670" id="PMC5540678.nxml.gz-29" start="1666">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-290" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32063" id="PMC5540678.nxml.gz-290" start="31781">We were unable to assess whether associations between maternal intake of free sugar in pregnancy and childhood atopy and atopic asthma persist beyond the age of 7 years, as no data on atopy (only data on asthma status) have been collected in ALSPAC children after the age of 7 years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-291" type="identity">
+      <class id="unable_to" label=""/>
+      <span end="31798" id="PMC5540678.nxml.gz-291" start="31789">unable to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-292" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-293" type="identity">
+      <class id="whether...and" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-295" type="identity">
+      <class id="associations" label=""/>
+      <span end="31826" id="PMC5540678.nxml.gz-295" start="31814">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-296" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="31953" id="PMC5540678.nxml.gz-296" start="31951">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-297" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="31961" id="PMC5540678.nxml.gz-297" start="31954">no data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-298" type="identity">
+      <class id="only" label=""/>
+      <span end="31976" id="PMC5540678.nxml.gz-298" start="31972">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-299" type="identity">
+      <class id="have_been" label=""/>
+      <span end="32009" id="PMC5540678.nxml.gz-299" start="32000">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-3" type="identity">
+      <class id="role" label=""/>
+      <span end="115" id="PMC5540678.nxml.gz-3" start="111">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2070" id="PMC5540678.nxml.gz-30" start="1753">Studies have focused particularly on the potentially beneficial effects of antioxidants, following the hypothesis that a declining intake of antioxidants in Westernised countries has led to a reduction in pulmonary antioxidant defences, and hence to an increase in prevalence of asthma and atopy in recent decades [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-300" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32346" id="PMC5540678.nxml.gz-300" start="32065">We think that confounding of the main findings by lifestyle or other aspects of maternal diet in pregnancy is unlikely, as we controlled for numerous potential confounders in the analyses, including nutrients and foods that have been previously linked to childhood asthma and atopy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-301" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32073" id="PMC5540678.nxml.gz-301" start="32068">think</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-302" type="identity">
+      <class id="confounding" label=""/>
+      <span end="32090" id="PMC5540678.nxml.gz-302" start="32079">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-303" type="identity">
+      <class id="other" label=""/>
+      <span end="32133" id="PMC5540678.nxml.gz-303" start="32128">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-304" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="32183" id="PMC5540678.nxml.gz-304" start="32175">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-305" type="identity">
+      <class id="potential" label=""/>
+      <span end="32224" id="PMC5540678.nxml.gz-305" start="32215">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-306" type="identity">
+      <class id="confounders" label=""/>
+      <span end="32236" id="PMC5540678.nxml.gz-306" start="32225">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-307" type="identity">
+      <class id="previously" label=""/>
+      <span end="32309" id="PMC5540678.nxml.gz-307" start="32299">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-308" type="identity">
+      <class id="linked" label=""/>
+      <span end="32316" id="PMC5540678.nxml.gz-308" start="32310">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-309" type="identity">
+      <class id="importantly" label=""/>
+      <span end="32359" id="PMC5540678.nxml.gz-309" start="32348">Importantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-31" type="identity">
+      <class id="potentially" label=""/>
+      <span end="1805" id="PMC5540678.nxml.gz-31" start="1794">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-310" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32454" id="PMC5540678.nxml.gz-310" start="32348">Importantly, the main findings were not confounded by the offspring's free sugar intake in early childhood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-311" type="identity">
+      <class id="confounded" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-312" type="identity">
+      <class id="while" label=""/>
+      <span end="32461" id="PMC5540678.nxml.gz-312" start="32456">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-313" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32717" id="PMC5540678.nxml.gz-313" start="32456">While the possibility of residual confounding cannot be ruled out, the null findings for maternal and paternal free sugar intakes after pregnancy make confounding by unmeasured familial behaviours linked to sugar intake and asthma risk a less likely explanation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-314" type="identity">
+      <class id="possibility" label=""/>
+      <span end="32477" id="PMC5540678.nxml.gz-314" start="32466">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-315" type="identity">
+      <class id="confounding" label=""/>
+      <span end="32501" id="PMC5540678.nxml.gz-315" start="32490">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-316" type="identity">
+      <class id="cannot_be" label=""/>
+      <span end="32511" id="PMC5540678.nxml.gz-316" start="32502">cannot be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-317" type="identity">
+      <class id="confounding" label=""/>
+      <span end="32618" id="PMC5540678.nxml.gz-317" start="32607">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-318" type="identity">
+      <class id="linked" label=""/>
+      <span end="32659" id="PMC5540678.nxml.gz-318" start="32653">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-319" type="identity">
+      <class id="less" label=""/>
+      <span end="32698" id="PMC5540678.nxml.gz-319" start="32694">less</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-32" type="identity">
+      <class id="effects" label=""/>
+      <span end="1824" id="PMC5540678.nxml.gz-32" start="1817">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-320" type="identity">
+      <class id="likely" label=""/>
+      <span end="32705" id="PMC5540678.nxml.gz-320" start="32699">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-321" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32882" id="PMC5540678.nxml.gz-321" start="32719">As with any longitudinal study, we cannot rule out the possibility that exclusion of mother–child pairs without complete information might have biased our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-322" type="identity">
+      <class id="cannot_rule_out" label=""/>
+      <span end="32769" id="PMC5540678.nxml.gz-322" start="32754">cannot rule out</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-323" type="identity">
+      <class id="possibility" label=""/>
+      <span end="32785" id="PMC5540678.nxml.gz-323" start="32774">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-324" type="identity">
+      <class id="might" label=""/>
+      <span end="32857" id="PMC5540678.nxml.gz-324" start="32852">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-325" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="32869" id="PMC5540678.nxml.gz-325" start="32863">biased</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-326" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-327" type="identity">
+      <class id="however" label=""/>
+      <span end="32891" id="PMC5540678.nxml.gz-327" start="32884">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-328" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33293" id="PMC5540678.nxml.gz-328" start="32884">However, it could be argued that, for our results to be totally spurious in those included in our analysis (and for the associations to be truly null in the population as a whole), associations in the excluded mother–child pairs would have to be in the opposite direction and much stronger, compared with the positive associations we reported in the included mother–child pairs, which seems extremely unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-329" type="identity">
+      <class id="could_be" label=""/>
+      <span end="32904" id="PMC5540678.nxml.gz-329" start="32896">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-33" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="1866" id="PMC5540678.nxml.gz-33" start="1856">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-330" type="identity">
+      <class id="argued" label=""/>
+      <span end="32911" id="PMC5540678.nxml.gz-330" start="32905">argued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-331" type="identity">
+      <class id="associations" label=""/>
+      <span end="33016" id="PMC5540678.nxml.gz-331" start="33004">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-332" type="identity">
+      <class id="associations" label=""/>
+      <span end="33077" id="PMC5540678.nxml.gz-332" start="33065">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-333" type="identity">
+      <class id="would" label=""/>
+      <span end="33118" id="PMC5540678.nxml.gz-333" start="33113">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-334" type="identity">
+      <class id="have_to_be" label=""/>
+      <span end="33129" id="PMC5540678.nxml.gz-334" start="33119">have to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-335" type="identity">
+      <class id="opposite" label=""/>
+      <span end="33145" id="PMC5540678.nxml.gz-335" start="33137">opposite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-336" type="identity">
+      <class id="associations" label=""/>
+      <span end="33214" id="PMC5540678.nxml.gz-336" start="33202">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-337" type="identity">
+      <class id="seems" label=""/>
+      <span end="33274" id="PMC5540678.nxml.gz-337" start="33269">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-338" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="33293" id="PMC5540678.nxml.gz-338" start="33285">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-339" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-34" type="identity">
+      <class id="hence" label=""/>
+      <span end="1999" id="PMC5540678.nxml.gz-34" start="1994">hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-340" type="identity">
+      <class id="bias" label=""/>
+      <span end="33330" id="PMC5540678.nxml.gz-340" start="33326">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-341" type="identity">
+      <class id="only" label=""/>
+      <span end="33353" id="PMC5540678.nxml.gz-341" start="33349">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-342" type="identity">
+      <class id="associations" label=""/>
+      <span end="33382" id="PMC5540678.nxml.gz-342" start="33370">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-343" type="identity">
+      <class id="confirmed" label=""/>
+      <span end="33510" id="PMC5540678.nxml.gz-343" start="33501">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-344" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="33545" id="PMC5540678.nxml.gz-344" start="33537">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-345" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="33560" id="PMC5540678.nxml.gz-345" start="33554">biased</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-346" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-347" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33801" id="PMC5540678.nxml.gz-347" start="33574">In view of the multiple analyses carried out and the post hoc nature of the findings for atopic asthma, we cannot exclude the possibility that the main findings occurred by chance; hence, they should be interpreted with caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-348" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-349" type="identity">
+      <class id="view" label=""/>
+      <span end="33581" id="PMC5540678.nxml.gz-349" start="33577">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2291" id="PMC5540678.nxml.gz-35" start="2072">An alternative hypothesis, which has received less attention, is that the epidemic of asthma and atopy in the West could partly be explained by an increasing dietary intake of foods and constituents which may be harmful</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-350" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33695" id="PMC5540678.nxml.gz-350" start="33681">cannot exclude</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-351" type="identity">
+      <class id="possibility" label=""/>
+      <span end="33711" id="PMC5540678.nxml.gz-351" start="33700">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-352" type="identity">
+      <class id="hence" label=""/>
+      <span end="33760" id="PMC5540678.nxml.gz-352" start="33755">hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-353" type="identity">
+      <class id="should_be" label=""/>
+      <span end="33776" id="PMC5540678.nxml.gz-353" start="33767">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-354" type="identity">
+      <class id="interpreted" label=""/>
+      <span end="33788" id="PMC5540678.nxml.gz-354" start="33777">interpreted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-355" type="identity">
+      <class id="caution" label=""/>
+      <span end="33801" id="PMC5540678.nxml.gz-355" start="33794">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-356" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33987" id="PMC5540678.nxml.gz-356" start="33803">Given the a priori nature of the hypothesis being tested, and the fact that some outcomes of interest are highly correlated, it did not seem appropriate to correct for multiple testing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-357" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33808" id="PMC5540678.nxml.gz-357" start="33803">Given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-358" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="33846" id="PMC5540678.nxml.gz-358" start="33836">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-359" type="identity">
+      <class id="some" label=""/>
+      <span end="33883" id="PMC5540678.nxml.gz-359" start="33879">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-36" type="identity">
+      <class id="alternative" label=""/>
+      <span end="2086" id="PMC5540678.nxml.gz-36" start="2075">alternative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-360" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-361" type="identity">
+      <class id="correlated" label=""/>
+      <span end="33926" id="PMC5540678.nxml.gz-361" start="33916">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-362" type="identity">
+      <class id="seem" label=""/>
+      <span end="33943" id="PMC5540678.nxml.gz-362" start="33939">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-363" type="identity">
+      <class id="however" label=""/>
+      <span end="33996" id="PMC5540678.nxml.gz-363" start="33989">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-364" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34104" id="PMC5540678.nxml.gz-364" start="33989">However, we plan to re-examine this hypothesis in another birth cohort to see if we can replicate the main findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-365" type="identity">
+      <class id="plan_to" label=""/>
+      <span end="34008" id="PMC5540678.nxml.gz-365" start="34001">plan to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-366" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="34035" id="PMC5540678.nxml.gz-366" start="34025">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-367" type="identity">
+      <class id="if" label=""/>
+      <span end="34069" id="PMC5540678.nxml.gz-367" start="34067">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-368" type="identity">
+      <class id="can" label=""/>
+      <span end="34076" id="PMC5540678.nxml.gz-368" start="34073">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-369" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34288" id="PMC5540678.nxml.gz-369" start="34150">We conclude that a higher maternal intake of free sugar during pregnancy may increase the risk of atopy and atopic asthma in the offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-37" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="2097" id="PMC5540678.nxml.gz-37" start="2087">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-370" type="identity">
+      <class id="may" label=""/>
+      <span end="34226" id="PMC5540678.nxml.gz-370" start="34223">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-371" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34418" id="PMC5540678.nxml.gz-371" start="34290">If these findings are replicated we would design an appropriate intervention study in pregnancy to establish or refute causality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-372" type="identity">
+      <class id="if" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-373" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="34292" id="PMC5540678.nxml.gz-373" start="34290">If</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-374" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="34322" id="PMC5540678.nxml.gz-374" start="34312">replicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-375" type="identity">
+      <class id="would" label=""/>
+      <span end="34331" id="PMC5540678.nxml.gz-375" start="34326">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-376" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-377" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-378" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34650" id="PMC5540678.nxml.gz-378" start="34420">Given the very high levels of sugar consumption currently in the West, where childhood allergy and asthma are so prevalent, confirmation of a causal link would raise exciting prospects for the primary prevention of these disorders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-379" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="34425" id="PMC5540678.nxml.gz-379" start="34420">Given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-38" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-380" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="34556" id="PMC5540678.nxml.gz-380" start="34544">confirmation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-381" type="identity">
+      <class id="link" label=""/>
+      <span end="34573" id="PMC5540678.nxml.gz-381" start="34569">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-382" type="identity">
+      <class id="would" label=""/>
+      <span end="34579" id="PMC5540678.nxml.gz-382" start="34574">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-383" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="34594" id="PMC5540678.nxml.gz-383" start="34586">exciting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-384" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-385" type="identity">
+      <class id="future_work" label=""/>
+      <span end="34604" id="PMC5540678.nxml.gz-385" start="34595">prospects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-39" type="identity">
+      <class id="less" label=""/>
+      <span end="2122" id="PMC5540678.nxml.gz-39" start="2118">less</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-4" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-40" type="identity">
+      <class id="attention" label=""/>
+      <span end="2132" id="PMC5540678.nxml.gz-40" start="2123">attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-41" type="identity">
+      <class id="could" label=""/>
+      <span end="2192" id="PMC5540678.nxml.gz-41" start="2187">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-42" type="identity">
+      <class id="partly" label=""/>
+      <span end="2199" id="PMC5540678.nxml.gz-42" start="2193">partly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-43" type="identity">
+      <class id="may_be" label=""/>
+      <span end="2283" id="PMC5540678.nxml.gz-43" start="2277">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2435" id="PMC5540678.nxml.gz-44" start="2293">Between 1970 and 2000, there was a 25% increase in the per capita consumption of all refined sugars in the USA, matching a worldwide trend [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-45" type="identity">
+      <class id="trend" label=""/>
+      <span end="2431" id="PMC5540678.nxml.gz-45" start="2426">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2765" id="PMC5540678.nxml.gz-46" start="2437">Current international dietary guidelines advise people to reduce their consumption of sugar, and more particularly free sugars, which comprise sugars (monosaccharides and disaccharides) added to foods or drinks by the manufacturer, cook or consumer, and sugars naturally present in honey, syrups and unsweetened fruit juices [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-47" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-48" type="identity">
+      <class id="future_work" label=""/>
+      <span end="2484" id="PMC5540678.nxml.gz-48" start="2478">advise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-49" type="identity">
+      <class id="while" label=""/>
+      <span end="2772" id="PMC5540678.nxml.gz-49" start="2767">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3076" id="PMC5540678.nxml.gz-50" start="2767">While in children a high consumption of sugar-sweetened beverages [5–7] and fruit juice [7,8] has been linked to asthma, and particularly atopic asthma [7], the relation between total maternal consumption of free sugar during pregnancy and respiratory and atopic outcomes in the offspring has not been studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-51" type="identity">
+      <class id="has_been" label=""/>
+      <span end="2869" id="PMC5540678.nxml.gz-51" start="2861">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-52" type="identity">
+      <class id="linked" label=""/>
+      <span end="2876" id="PMC5540678.nxml.gz-52" start="2870">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-53" type="identity">
+      <class id="relation" label=""/>
+      <span end="2936" id="PMC5540678.nxml.gz-53" start="2928">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-54" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-56" type="identity">
+      <class id="not_been_studied" label=""/>
+      <span end="3076" id="PMC5540678.nxml.gz-56" start="3060">not been studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-57" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3272" id="PMC5540678.nxml.gz-57" start="3078">One ecological study reported a correlation between perinatal consumption of sugar and severe childhood asthma symptoms [9], but could not specifically address maternal sugar intake in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-58" type="identity">
+      <class id="correlation" label=""/>
+      <span end="3121" id="PMC5540678.nxml.gz-58" start="3110">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-59" type="identity">
+      <class id="severe" label=""/>
+      <span end="3171" id="PMC5540678.nxml.gz-59" start="3165">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-6" type="identity">
+      <class id="not_been_studied" label=""/>
+      <span end="243" id="PMC5540678.nxml.gz-6" start="227">not been studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-60" type="identity">
+      <class id="could_not" label=""/>
+      <span end="3216" id="PMC5540678.nxml.gz-60" start="3207">could not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-61" type="identity">
+      <class id="not_specifically" label=""/>
+      <span end="3229" id="PMC5540678.nxml.gz-61" start="3213">not specifically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3464" id="PMC5540678.nxml.gz-62" start="3274">A recent Danish birth cohort study investigated the relation between soft drink consumption, but not total free sugar intake, during pregnancy and childhood asthma and allergic rhinitis [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-63" type="identity">
+      <class id="recent...study" label=""/>
+      <span end="3282" id="PMC5540678.nxml.gz-63" start="3276">recent</span>
+      <span end="3308" id="PMC5540678.nxml.gz-64" start="3303">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-65" type="identity">
+      <class id="investigated" label=""/>
+      <span end="3321" id="PMC5540678.nxml.gz-65" start="3309">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-66" type="identity">
+      <class id="relation" label=""/>
+      <span end="3334" id="PMC5540678.nxml.gz-66" start="3326">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-67" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3655" id="PMC5540678.nxml.gz-67" start="3466">We have investigated whether a high intake of free sugar in pregnancy is associated with adverse respiratory and atopic outcomes in the offspring in a large population-based UK birth cohort</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-68" type="identity">
+      <class id="investigated" label=""/>
+      <span end="3486" id="PMC5540678.nxml.gz-68" start="3474">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-69" type="identity">
+      <class id="whether...and" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="475" id="PMC5540678.nxml.gz-7" start="245">We aimed to study the relationship between maternal intake of free sugar during pregnancy and respiratory and atopic outcomes in the offspring in a population-based birth cohort, the Avon Longitudinal Study of Parents and Children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-71" type="identity">
+      <class id="associated" label=""/>
+      <span end="3549" id="PMC5540678.nxml.gz-71" start="3539">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5234" id="PMC5540678.nxml.gz-72" start="4985">The FFQ was used to estimate total energy intake and daily nutrient intake, by multiplying the daily frequency of consumption of a food by the nutrient content [14] of a standard portion [15] of that food, and summing this for all the foods consumed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-73" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5013" id="PMC5540678.nxml.gz-73" start="5005">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-74" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5279" id="PMC5540678.nxml.gz-74" start="5236">In this way free sugar intake was estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-75" type="identity">
+      <class id="estimated" label=""/>
+      <span end="5279" id="PMC5540678.nxml.gz-75" start="5270">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-76" type="identity">
+      <class id="Epistemics" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-77" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8719" id="PMC5540678.nxml.gz-77" start="8568">We selected potential confounding factors which are known (from existing literature) to be associated with one or more of the outcomes of interest [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-78" type="identity">
+      <class id="potential" label=""/>
+      <span end="8589" id="PMC5540678.nxml.gz-78" start="8580">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-79" type="identity">
+      <class id="confounding_factors" label=""/>
+      <span end="8609" id="PMC5540678.nxml.gz-79" start="8590">confounding factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-8" type="identity">
+      <class id="aimed" label=""/>
+      <span end="253" id="PMC5540678.nxml.gz-8" start="248">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-80" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="8625" id="PMC5540678.nxml.gz-80" start="8620">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-81" type="identity">
+      <class id="existing_literature" label=""/>
+      <span end="8651" id="PMC5540678.nxml.gz-81" start="8632">existing literature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-82" type="identity">
+      <class id="associated" label=""/>
+      <span end="8669" id="PMC5540678.nxml.gz-82" start="8659">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-83" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10511" id="PMC5540678.nxml.gz-84" start="10460">In Model 1 we adjusted for total energy intake only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-85" type="identity">
+      <class id="0_model" label=""/>
+      <span end="10468" id="PMC5540678.nxml.gz-85" start="10463">Model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-86" type="identity">
+      <class id="only" label=""/>
+      <span end="10511" id="PMC5540678.nxml.gz-86" start="10507">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10591" id="PMC5540678.nxml.gz-87" start="10513">In Model 2 we adjusted additionally for all potential confounders listed above</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-88" type="identity">
+      <class id="0_model" label=""/>
+      <span end="10521" id="PMC5540678.nxml.gz-88" start="10516">Model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-89" type="identity">
+      <class id="potential" label=""/>
+      <span end="10566" id="PMC5540678.nxml.gz-89" start="10557">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-9" type="identity">
+      <class id="relationship" label=""/>
+      <span end="279" id="PMC5540678.nxml.gz-9" start="267">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-90" type="identity">
+      <class id="confounders" label=""/>
+      <span end="10578" id="PMC5540678.nxml.gz-90" start="10567">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10958" id="PMC5540678.nxml.gz-91" start="10593">When evidence for associations persisted, we considered other factors which can be considered either as potential confounders or potential mediators of associations between maternal free sugar intake in pregnancy and childhood outcomes, i.e. prematurity [21,22], impaired fetal growth [21,23], maternal obesity and weight gain [24–26], and offspring obesity [27,28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-92" type="identity">
+      <class id="associations" label=""/>
+      <span end="10623" id="PMC5540678.nxml.gz-92" start="10611">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-93" type="identity">
+      <class id="considered" label=""/>
+      <span end="10648" id="PMC5540678.nxml.gz-93" start="10638">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-94" type="identity">
+      <class id="other" label=""/>
+      <span end="10654" id="PMC5540678.nxml.gz-94" start="10649">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-95" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10672" id="PMC5540678.nxml.gz-95" start="10669">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-96" type="identity">
+      <class id="considered" label=""/>
+      <span end="10686" id="PMC5540678.nxml.gz-96" start="10676">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-97" type="identity">
+      <class id="either" label=""/>
+      <span end="10693" id="PMC5540678.nxml.gz-97" start="10687">either</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-98" type="identity">
+      <class id="potential" label=""/>
+      <span end="10706" id="PMC5540678.nxml.gz-98" start="10697">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5540678.nxml.gz-99" type="identity">
+      <class id="confounders" label=""/>
+      <span end="10718" id="PMC5540678.nxml.gz-99" start="10707">confounders</span>
+    </annotation>
+  </document>
+</knowtator-project>

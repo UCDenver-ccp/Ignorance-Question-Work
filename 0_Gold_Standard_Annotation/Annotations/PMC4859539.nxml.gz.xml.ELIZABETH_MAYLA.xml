@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4859539.nxml.gz" text-file="PMC4859539.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="136" id="PMC4859539.nxml.gz-1" start="0">Circulating Cathelicidin Concentrations in a Cohort of Healthy Children: Influence of Age, Body Composition, Gender and Vitamin D Status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-10" type="identity">
+      <class id="related" label=""/>
+      <span end="361" id="PMC4859539.nxml.gz-10" start="354">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-100" type="identity">
+      <class id="differences" label=""/>
+      <span end="13339" id="PMC4859539.nxml.gz-100" start="13328">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14545" id="PMC4859539.nxml.gz-101" start="14288">In addition, there were no significant correlations found between concentration of cathelicidin and the child’s 25(OH)D concentration at birth, maternal 25(OH)D within one month of delivery, or maternal 25(OH)D area under the curve from pregnancy visits 3–7</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-102" type="identity">
+      <class id="found" label=""/>
+      <span end="14345" id="PMC4859539.nxml.gz-102" start="14340">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-105" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14765" id="PMC4859539.nxml.gz-105" start="14633">Within the entire cohort, age of the child and cathelicidin concentration demonstrated a positive correlation (ρ = 0.236, p = 0.005)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-106" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="14719" id="PMC4859539.nxml.gz-106" start="14707">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-107" type="identity">
+      <class id="correlation" label=""/>
+      <span end="14742" id="PMC4859539.nxml.gz-107" start="14731">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15059" id="PMC4859539.nxml.gz-108" start="14862">When the data were stratified by gender in post-hoc analyses, only the male population continued to demonstrate this correlation (ρ = 0.292, p = 0.014), while females did not (ρ = 0.103, p = 0.425)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-109" type="identity">
+      <class id="only" label=""/>
+      <span end="14928" id="PMC4859539.nxml.gz-109" start="14924">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1282" id="PMC4859539.nxml.gz-11" start="1078">The cohort’s median cathelicidin concentration was 28.1 ng/mL (range: 5.6–3368.6) and did not correlate with 25(OH)D, but was positively correlated with advancing age (ρ = 0.236 &amp; p = 0.005, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-110" type="identity">
+      <class id="correlation" label=""/>
+      <span end="14990" id="PMC4859539.nxml.gz-110" start="14979">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-111" type="identity">
+      <class id="while" label=""/>
+      <span end="15020" id="PMC4859539.nxml.gz-111" start="15015">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-113" type="identity">
+      <class id="although" label=""/>
+      <span end="15069" id="PMC4859539.nxml.gz-113" start="15061">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15259" id="PMC4859539.nxml.gz-114" start="15061">Although not statistically significant, a slightly negative trend of increased cathelicidin correlated with a decreased frequency of diagnosed infections within the last year (ρ = -0.147, p = 0.092)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-115" type="identity">
+      <class id="trend" label=""/>
+      <span end="15126" id="PMC4859539.nxml.gz-115" start="15121">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-116" type="identity">
+      <class id="correlated" label=""/>
+      <span end="15163" id="PMC4859539.nxml.gz-116" start="15153">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15502" id="PMC4859539.nxml.gz-117" start="15351">There was a significant positive correlation between age and cathelicidin concentration (ρ = 0.236, p = 0.005); ρ value represents Spearman correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-118" type="identity">
+      <class id="correlation" label=""/>
+      <span end="15395" id="PMC4859539.nxml.gz-118" start="15384">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-12" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-121" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16616" id="PMC4859539.nxml.gz-121" start="16433">In the group of children with a total circulating 25(OH)D concentration ≥20 ng /mL, cathelicidin concentration was significantly positively associated with age (ρ = 0.373, p = 0.0002)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-122" type="identity">
+      <class id="associated" label=""/>
+      <span end="16583" id="PMC4859539.nxml.gz-122" start="16573">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16796" id="PMC4859539.nxml.gz-123" start="16618">Within this same group, cathelicidin concentration was negatively associated with the number of documented infections a child experienced in the last year (ρ = -0.205, p = 0.047)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-124" type="identity">
+      <class id="associated" label=""/>
+      <span end="16694" id="PMC4859539.nxml.gz-124" start="16684">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-13" type="identity">
+      <class id="but" label=""/>
+      <span end="1199" id="PMC4859539.nxml.gz-13" start="1196">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18378" id="PMC4859539.nxml.gz-135" start="18224">In each of the models, however, the child’s age at their first follow-up visit was significantly and independently positively correlated with cathelicidin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-136" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-137" type="identity">
+      <class id="however" label=""/>
+      <span end="18254" id="PMC4859539.nxml.gz-137" start="18247">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-138" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="18338" id="PMC4859539.nxml.gz-138" start="18325">independently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-139" type="identity">
+      <class id="independent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-14" type="identity">
+      <class id="correlated" label=""/>
+      <span end="1225" id="PMC4859539.nxml.gz-14" start="1215">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-140" type="identity">
+      <class id="correlated" label=""/>
+      <span end="18360" id="PMC4859539.nxml.gz-140" start="18350">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18811" id="PMC4859539.nxml.gz-141" start="18596">Thus, Model 1 indicates that every 1-year increase in a child’s age is associated with a 0.145 unit increase in their log cathelicidin concentration, equivalent to a e0.145= 1.2-fold increase from 1 year to the next</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-142" type="identity">
+      <class id="thus" label=""/>
+      <span end="18600" id="PMC4859539.nxml.gz-142" start="18596">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-143" type="identity">
+      <class id="0_model" label=""/>
+      <span end="18607" id="PMC4859539.nxml.gz-143" start="18602">Model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-144" type="identity">
+      <class id="indicates" label=""/>
+      <span end="18619" id="PMC4859539.nxml.gz-144" start="18610">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-145" type="identity">
+      <class id="associated" label=""/>
+      <span end="18677" id="PMC4859539.nxml.gz-145" start="18667">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19074" id="PMC4859539.nxml.gz-146" start="18813">In Models 1 and 4), higher cathelicidin concentrations were significantly associated with male gender (beta = 0.318, p = 0.047), indicating that after adjusting for the other variables in the model, males’ cathelicidin levels were 1.4 times higher than females’</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-147" type="identity">
+      <class id="models" label=""/>
+      <span end="18822" id="PMC4859539.nxml.gz-147" start="18816">Models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-148" type="identity">
+      <class id="associated" label=""/>
+      <span end="18897" id="PMC4859539.nxml.gz-148" start="18887">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-149" type="identity">
+      <class id="indicating" label=""/>
+      <span end="18952" id="PMC4859539.nxml.gz-149" start="18942">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1620" id="PMC4859539.nxml.gz-15" start="1417">Increased age and male gender were correlated with increased cathelicidin when controlling for race/ethnicity, percent fat, and child’s current 25(OH)D concentration (p = 0.028 &amp; p = 0.047, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-150" type="identity">
+      <class id="0_model" label=""/>
+      <span end="19010" id="PMC4859539.nxml.gz-150" start="19005">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-151" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19252" id="PMC4859539.nxml.gz-151" start="19076">In Models 1 and 4, there was also a trend noted with the child’s percent fat being positively associated with cathelicidin (beta = 0.028, p = 0.052 and beta = 0.025, p = 0.087)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-152" type="identity">
+      <class id="models" label=""/>
+      <span end="19085" id="PMC4859539.nxml.gz-152" start="19079">Models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-153" type="identity">
+      <class id="trend" label=""/>
+      <span end="19117" id="PMC4859539.nxml.gz-153" start="19112">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-154" type="identity">
+      <class id="noted" label=""/>
+      <span end="19123" id="PMC4859539.nxml.gz-154" start="19118">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-155" type="identity">
+      <class id="associated" label=""/>
+      <span end="19180" id="PMC4859539.nxml.gz-155" start="19170">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20767" id="PMC4859539.nxml.gz-156" start="20464">In this study of healthy children whose mothers had participated in a vitamin D supplementation trial during pregnancy, despite differences in both maternal and childhood vitamin D status, there were no significant differences in cathelicidin concentration between the three racial/ethnic groups studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-157" type="identity">
+      <class id="this_study" label=""/>
+      <span end="20477" id="PMC4859539.nxml.gz-157" start="20467">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-158" type="identity">
+      <class id="despite" label=""/>
+      <span end="20591" id="PMC4859539.nxml.gz-158" start="20584">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-159" type="identity">
+      <class id="differences" label=""/>
+      <span end="20603" id="PMC4859539.nxml.gz-159" start="20592">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-16" type="identity">
+      <class id="correlated" label=""/>
+      <span end="1462" id="PMC4859539.nxml.gz-16" start="1452">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20912" id="PMC4859539.nxml.gz-160" start="20769">A positive correlation between age and cathelicidin and between gender and cathelicidin were noted, with higher concentrations in male children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-161" type="identity">
+      <class id="correlation" label=""/>
+      <span end="20791" id="PMC4859539.nxml.gz-161" start="20780">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-162" type="identity">
+      <class id="noted" label=""/>
+      <span end="20867" id="PMC4859539.nxml.gz-162" start="20862">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-163" type="identity">
+      <class id="regardless_of" label=""/>
+      <span end="20927" id="PMC4859539.nxml.gz-163" start="20914">Regardless of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21115" id="PMC4859539.nxml.gz-164" start="20914">Regardless of vitamin D status, there was no statistically significant difference in cathelicidin concentrations between subjects, consistent with the findings of other recent studies [6,7,12,14,17,20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-165" type="identity">
+      <class id="there_was_no" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-166" type="identity">
+      <class id="consistent" label=""/>
+      <span end="21055" id="PMC4859539.nxml.gz-166" start="21045">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-167" type="identity">
+      <class id="findings" label=""/>
+      <span end="21073" id="PMC4859539.nxml.gz-167" start="21065">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-168" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-169" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="21097" id="PMC4859539.nxml.gz-169" start="21083">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-17" type="identity">
+      <class id="this_study" label=""/>
+      <span end="1632" id="PMC4859539.nxml.gz-17" start="1622">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21256" id="PMC4859539.nxml.gz-170" start="21117">Varying observations, however, have been made when determining whether a correlation between 25(OH)D and cathelicidin concentrations exists</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-171" type="identity">
+      <class id="varying" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-172" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="21137" id="PMC4859539.nxml.gz-172" start="21117">Varying observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-173" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-174" type="identity">
+      <class id="however" label=""/>
+      <span end="21146" id="PMC4859539.nxml.gz-174" start="21139">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-175" type="identity">
+      <class id="have...been" label=""/>
+      <span end="21157" id="PMC4859539.nxml.gz-175" start="21148">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-176" type="identity">
+      <class id="whether" label=""/>
+      <span end="21187" id="PMC4859539.nxml.gz-176" start="21180">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21419" id="PMC4859539.nxml.gz-177" start="21258">In the literature, recent studies across a wide range of populations have demonstrated a positive correlation between 25(OH)D and cathelicidin [8–11,15,16,18,19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-178" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="21291" id="PMC4859539.nxml.gz-178" start="21277">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-179" type="identity">
+      <class id="wide_range" label=""/>
+      <span end="21311" id="PMC4859539.nxml.gz-179" start="21301">wide range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1711" id="PMC4859539.nxml.gz-18" start="1622">This study demonstrated that as children age, the concentration of cathelicidin increases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-180" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="21344" id="PMC4859539.nxml.gz-180" start="21332">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-181" type="identity">
+      <class id="correlation" label=""/>
+      <span end="21367" id="PMC4859539.nxml.gz-181" start="21356">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-182" type="identity">
+      <class id="differences" label=""/>
+      <span end="21432" id="PMC4859539.nxml.gz-182" start="21421">Differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21551" id="PMC4859539.nxml.gz-183" start="21421">Differences in age, health and initial vitamin D status between cohorts, as well as study design, may explain the conflicting data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-184" type="identity">
+      <class id="may" label=""/>
+      <span end="21522" id="PMC4859539.nxml.gz-184" start="21519">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-185" type="identity">
+      <class id="explain" label=""/>
+      <span end="21530" id="PMC4859539.nxml.gz-185" start="21523">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-186" type="identity">
+      <class id="conflicting" label=""/>
+      <span end="21546" id="PMC4859539.nxml.gz-186" start="21535">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-187" type="identity">
+      <class id="of_note" label=""/>
+      <span end="21560" id="PMC4859539.nxml.gz-187" start="21553">Of note</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21673" id="PMC4859539.nxml.gz-188" start="21553">Of note, most of the children in this study were not vitamin D deficient and the vitamin D ranges were relatively narrow</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-189" type="identity">
+      <class id="this_study" label=""/>
+      <span end="21596" id="PMC4859539.nxml.gz-189" start="21586">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-19" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="1645" id="PMC4859539.nxml.gz-19" start="1633">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21997" id="PMC4859539.nxml.gz-190" start="21675">Additionally, the lack of correlation may suggest that circulating cathelicidin concentration is not reflective of what is happening at the cellular level, and in this regard, cathelicidin mRNA expression by immune cells or target tissue may be a better indicator of vitamin D’s long-term effect on the cathelicidin system</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-191" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="21700" id="PMC4859539.nxml.gz-191" start="21693">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-192" type="identity">
+      <class id="correlation" label=""/>
+      <span end="21712" id="PMC4859539.nxml.gz-192" start="21701">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-193" type="identity">
+      <class id="may" label=""/>
+      <span end="21716" id="PMC4859539.nxml.gz-193" start="21713">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-194" type="identity">
+      <class id="suggest" label=""/>
+      <span end="21724" id="PMC4859539.nxml.gz-194" start="21717">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-195" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="21786" id="PMC4859539.nxml.gz-195" start="21772">not reflective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-196" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-197" type="identity">
+      <class id="what" label=""/>
+      <span end="21794" id="PMC4859539.nxml.gz-197" start="21790">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-198" type="identity">
+      <class id="may_be" label=""/>
+      <span end="21919" id="PMC4859539.nxml.gz-198" start="21913">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-199" type="identity">
+      <class id="better" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-2" type="identity">
+      <class id="influence" label=""/>
+      <span end="82" id="PMC4859539.nxml.gz-2" start="73">Influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1809" id="PMC4859539.nxml.gz-20" start="1713">Furthermore, male gender was significantly associated with increased cathelicidin concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-200" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="21928" id="PMC4859539.nxml.gz-200" start="21922">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-201" type="identity">
+      <class id="effect" label=""/>
+      <span end="21970" id="PMC4859539.nxml.gz-201" start="21964">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22070" id="PMC4859539.nxml.gz-202" start="21999">Adipose tissue is also believed to be associated with vitamin D [26–29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-203" type="identity">
+      <class id="believed" label=""/>
+      <span end="22030" id="PMC4859539.nxml.gz-203" start="22022">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-204" type="identity">
+      <class id="associated" label=""/>
+      <span end="22047" id="PMC4859539.nxml.gz-204" start="22037">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-206" type="identity">
+      <class id="this_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-207" type="identity">
+      <class id="there_was_no" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-208" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22476" id="PMC4859539.nxml.gz-209" start="22334">This result is consistent with the findings of Jeng et al., who also showed no correlation with BMI and cathelicidin in adults with sepsis [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-21" type="identity">
+      <class id="associated" label=""/>
+      <span end="1766" id="PMC4859539.nxml.gz-21" start="1756">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-210" type="identity">
+      <class id="consistent" label=""/>
+      <span end="22359" id="PMC4859539.nxml.gz-210" start="22349">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-211" type="identity">
+      <class id="findings" label=""/>
+      <span end="22377" id="PMC4859539.nxml.gz-211" start="22369">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-212" type="identity">
+      <class id="showed" label=""/>
+      <span end="22409" id="PMC4859539.nxml.gz-212" start="22403">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-213" type="identity">
+      <class id="although" label=""/>
+      <span end="22486" id="PMC4859539.nxml.gz-213" start="22478">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22613" id="PMC4859539.nxml.gz-214" start="22478">Although not significant, a negative trend was seen between the number of infections a child experienced and cathelicidin concentration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-215" type="identity">
+      <class id="trend" label=""/>
+      <span end="22520" id="PMC4859539.nxml.gz-215" start="22515">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22753" id="PMC4859539.nxml.gz-216" start="22615">This suggests that cathelicidin may have a protective benefit in preventing disease, which is consistent with its antimicrobial properties</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-217" type="identity">
+      <class id="suggests" label=""/>
+      <span end="22628" id="PMC4859539.nxml.gz-217" start="22620">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-218" type="identity">
+      <class id="may" label=""/>
+      <span end="22650" id="PMC4859539.nxml.gz-218" start="22647">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-219" type="identity">
+      <class id="protective" label=""/>
+      <span end="22668" id="PMC4859539.nxml.gz-219" start="22658">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2004" id="PMC4859539.nxml.gz-22" start="1811">The lack of association between vitamin D status and cathelicidin in this study may be due to the narrow range in observed 25(OH)D values and warrants additional studies for further observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-220" type="identity">
+      <class id="consistent" label=""/>
+      <span end="22719" id="PMC4859539.nxml.gz-220" start="22709">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22855" id="PMC4859539.nxml.gz-221" start="22755">This is an exciting area of study; especially as antibiotic resistance becomes an increasing problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-222" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-223" type="identity">
+      <class id="future_work" label=""/>
+      <span end="22788" id="PMC4859539.nxml.gz-223" start="22766">exciting area of study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-224" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-225" type="identity">
+      <class id="problem" label=""/>
+      <span end="22855" id="PMC4859539.nxml.gz-225" start="22848">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-226" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22986" id="PMC4859539.nxml.gz-226" start="22857">Investigating ways to improve natural immune function and limit the number of infections people experience is of great importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-22638" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25361" id="PMC4859539.nxml.gz-22639" start="25354">assists</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-22640" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="25376" id="PMC4859539.nxml.gz-22641" start="25365">identifying</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-227" type="identity">
+      <class id="future_work" label=""/>
+      <span end="22875" id="PMC4859539.nxml.gz-227" start="22857">Investigating ways</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-228" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-229" type="identity">
+      <class id="number_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-23" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="1822" id="PMC4859539.nxml.gz-23" start="1815">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-230" type="identity">
+      <class id="importance" label=""/>
+      <span end="22986" id="PMC4859539.nxml.gz-230" start="22976">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23064" id="PMC4859539.nxml.gz-231" start="22988">In this study, a positive correlation between age and cathelicidin was shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-232" type="identity">
+      <class id="this...study" label=""/>
+      <span end="23001" id="PMC4859539.nxml.gz-232" start="22991">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-233" type="identity">
+      <class id="correlation" label=""/>
+      <span end="23025" id="PMC4859539.nxml.gz-233" start="23014">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-234" type="identity">
+      <class id="was_shown" label=""/>
+      <span end="23064" id="PMC4859539.nxml.gz-234" start="23055">was shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-236" type="identity">
+      <class id="showed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-237" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23490" id="PMC4859539.nxml.gz-237" start="23300">This positive correlation between cathelicidin and age was also shown in the oral environment when examining cathelicidin concentrations in saliva in healthy children aged 2 to 18 years [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-238" type="identity">
+      <class id="correlation" label=""/>
+      <span end="23325" id="PMC4859539.nxml.gz-238" start="23314">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-239" type="identity">
+      <class id="also_shown" label=""/>
+      <span end="23369" id="PMC4859539.nxml.gz-239" start="23359">also shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-24" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-240" type="identity">
+      <class id="importantly" label=""/>
+      <span end="23503" id="PMC4859539.nxml.gz-240" start="23492">Importantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-241" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23834" id="PMC4859539.nxml.gz-241" start="23492">Importantly, as Alvarez–Rodriguez and colleagues have found a negative correlation between age and immune function in healthy adult subjects, especially those over the age of 60 [15], perhaps innate immune function, in particular cytokine function, increases with age for a period of time, reaches a threshold and then decreases later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-242" type="identity">
+      <class id="as" label=""/>
+      <span end="23507" id="PMC4859539.nxml.gz-242" start="23505">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-243" type="identity">
+      <class id="found" label=""/>
+      <span end="23551" id="PMC4859539.nxml.gz-243" start="23546">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-244" type="identity">
+      <class id="correlation" label=""/>
+      <span end="23574" id="PMC4859539.nxml.gz-244" start="23563">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-245" type="identity">
+      <class id="perhaps" label=""/>
+      <span end="23683" id="PMC4859539.nxml.gz-245" start="23676">perhaps</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-246" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="23849" id="PMC4859539.nxml.gz-246" start="23836">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-247" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24000" id="PMC4859539.nxml.gz-247" start="23836">Interestingly, our findings that male gender correlates with cathelicidin peeks further interest in understanding gender differences in regards to the immune system</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-248" type="identity">
+      <class id="findings" label=""/>
+      <span end="23863" id="PMC4859539.nxml.gz-248" start="23855">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-249" type="identity">
+      <class id="correlates" label=""/>
+      <span end="23891" id="PMC4859539.nxml.gz-249" start="23881">correlates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-25" type="identity">
+      <class id="this...study" label=""/>
+      <span end="1890" id="PMC4859539.nxml.gz-25" start="1880">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-250" type="identity">
+      <class id="future_work" label=""/>
+      <span end="23932" id="PMC4859539.nxml.gz-250" start="23910">peeks further interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-251" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-252" type="identity">
+      <class id="differences" label=""/>
+      <span end="23968" id="PMC4859539.nxml.gz-252" start="23957">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-253" type="identity">
+      <class id="notably" label=""/>
+      <span end="24009" id="PMC4859539.nxml.gz-253" start="24002">Notably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24172" id="PMC4859539.nxml.gz-254" start="24002">Notably, in the aforementioned study examining localized cathelicidin concentrations in saliva, the female gender was found to positively correlate with cathelicidin [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-255" type="identity">
+      <class id="found" label=""/>
+      <span end="24125" id="PMC4859539.nxml.gz-255" start="24120">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-256" type="identity">
+      <class id="correlate" label=""/>
+      <span end="24149" id="PMC4859539.nxml.gz-256" start="24140">correlate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-257" type="identity">
+      <class id="these_findings" label=""/>
+      <span end="24188" id="PMC4859539.nxml.gz-257" start="24174">These findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-258" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24293" id="PMC4859539.nxml.gz-258" start="24174">These findings highlight the differences one may find when examining localized and circulating levels of immune factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-259" type="identity">
+      <class id="highlight" label=""/>
+      <span end="24198" id="PMC4859539.nxml.gz-259" start="24189">highlight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-26" type="identity">
+      <class id="may_be" label=""/>
+      <span end="1897" id="PMC4859539.nxml.gz-26" start="1891">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-260" type="identity">
+      <class id="differences" label=""/>
+      <span end="24214" id="PMC4859539.nxml.gz-260" start="24203">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-261" type="identity">
+      <class id="may" label=""/>
+      <span end="24222" id="PMC4859539.nxml.gz-261" start="24219">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-262" type="identity">
+      <class id="factors" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-263" type="identity">
+      <class id="limitations" label=""/>
+      <span end="24306" id="PMC4859539.nxml.gz-263" start="24295">Limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24402" id="PMC4859539.nxml.gz-264" start="24295">Limitations of this study include the cohort size and an unequal distribution of subjects within age groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-265" type="identity">
+      <class id="this_study" label=""/>
+      <span end="24320" id="PMC4859539.nxml.gz-265" start="24310">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-266" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24780" id="PMC4859539.nxml.gz-266" start="24690">As such, this study should be repeated with a larger sample size to replicate its findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-267" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-268" type="identity">
+      <class id="should_be" label=""/>
+      <span end="24719" id="PMC4859539.nxml.gz-268" start="24710">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-269" type="identity">
+      <class id="findings" label=""/>
+      <span end="24780" id="PMC4859539.nxml.gz-269" start="24772">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-27" type="identity">
+      <class id="due_to" label=""/>
+      <span end="1904" id="PMC4859539.nxml.gz-27" start="1898">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-270" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25001" id="PMC4859539.nxml.gz-270" start="24782">Inclusion of older children and young adults would allow cathelicidin to be followed throughout a longer period of childhood development and further describe how cathelicidin and innate immune function develop over time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-271" type="identity">
+      <class id="would" label=""/>
+      <span end="24832" id="PMC4859539.nxml.gz-271" start="24827">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-272" type="identity">
+      <class id="allow" label=""/>
+      <span end="24838" id="PMC4859539.nxml.gz-272" start="24833">allow</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-273" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-274" type="identity">
+      <class id="describe" label=""/>
+      <span end="24939" id="PMC4859539.nxml.gz-274" start="24931">describe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-275" type="identity">
+      <class id="how" label=""/>
+      <span end="24943" id="PMC4859539.nxml.gz-275" start="24940">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-276" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25240" id="PMC4859539.nxml.gz-276" start="25003">Lastly, total circulating cathelicidin was measured rather than cell-specific mRNA expression of cathelicidin or 1,25(OH)2D3concentration [17], which may be more closely linked with vitamin D status during fetal and childhood development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-277" type="identity">
+      <class id="rather" label=""/>
+      <span end="25061" id="PMC4859539.nxml.gz-277" start="25055">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-278" type="identity">
+      <class id="may_be" label=""/>
+      <span end="25159" id="PMC4859539.nxml.gz-278" start="25153">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-279" type="identity">
+      <class id="linked" label=""/>
+      <span end="25179" id="PMC4859539.nxml.gz-279" start="25173">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-28" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="1921" id="PMC4859539.nxml.gz-28" start="1909">narrow range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-280" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25349" id="PMC4859539.nxml.gz-280" start="25242">In conclusion, this study is the first to examine cathelicidin concentrations in healthy children over time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-281" type="identity">
+      <class id="conclusion" label=""/>
+      <span end="25255" id="PMC4859539.nxml.gz-281" start="25245">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-282" type="identity">
+      <class id="this_study" label=""/>
+      <span end="25267" id="PMC4859539.nxml.gz-282" start="25257">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-283" type="identity">
+      <class id="first" label=""/>
+      <span end="25280" id="PMC4859539.nxml.gz-283" start="25275">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-284" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25463" id="PMC4859539.nxml.gz-284" start="25351">It assists in identifying the normal ranges of circulating cathelicidin concentrations found in healthy children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-285" type="identity">
+      <class id="found" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-286" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25564" id="PMC4859539.nxml.gz-286" start="25465">It also supports the premise that cathelicidin increases with increasing age, particularly in males</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-287" type="identity">
+      <class id="supports" label=""/>
+      <span end="25481" id="PMC4859539.nxml.gz-287" start="25473">supports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-288" type="identity">
+      <class id="premise" label=""/>
+      <span end="25493" id="PMC4859539.nxml.gz-288" start="25486">premise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-289" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25694" id="PMC4859539.nxml.gz-289" start="25566">With further study, cathelicidin may serve as a biomarker of enhanced immune function over time in children with age-based norms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-29" type="identity">
+      <class id="observed" label=""/>
+      <span end="1933" id="PMC4859539.nxml.gz-29" start="1925">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-290" type="identity">
+      <class id="further_study" label=""/>
+      <span end="25584" id="PMC4859539.nxml.gz-290" start="25571">further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-291" type="identity">
+      <class id="may" label=""/>
+      <span end="25602" id="PMC4859539.nxml.gz-291" start="25599">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-292" type="identity">
+      <class id="serve" label=""/>
+      <span end="25608" id="PMC4859539.nxml.gz-292" start="25603">serve</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="254" id="PMC4859539.nxml.gz-3" start="147">Cathelicidin is an antimicrobial peptide whose circulating levels are related to vitamin D status in adults</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-30" type="identity">
+      <class id="warrants" label=""/>
+      <span end="1961" id="PMC4859539.nxml.gz-30" start="1953">warrants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-31" type="identity">
+      <class id="additional_studies" label=""/>
+      <span end="1980" id="PMC4859539.nxml.gz-31" start="1962">additional studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-32" type="identity">
+      <class id="observation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2879" id="PMC4859539.nxml.gz-33" start="2577">Previous studies have focused on cathelicidin and vitamin D concentrations in patient populations affected by various illnesses or diseases [6], such as tuberculosis [7], pneumonia [8], sepsis [9], HIV [10–12], and end-stage renal disease hemodialysis [13], as well as healthy adult populations [14–19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-34" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="2593" id="PMC4859539.nxml.gz-34" start="2577">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-35" type="identity">
+      <class id="affected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3298" id="PMC4859539.nxml.gz-36" start="2881">Additionally, while one study examined the levels of maternal and neonatal vitamin D and cathelicidin concentrations in healthy children at delivery, there is a lack of research to determine correlations between vitamin D status and cathelicidin among healthy children over time [20], as well as which factors such as age of the child, gender, and body composition may independently impact cathelicidin concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-37" type="identity">
+      <class id="while" label=""/>
+      <span end="2900" id="PMC4859539.nxml.gz-37" start="2895">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-38" type="identity">
+      <class id="one_study" label=""/>
+      <span end="2910" id="PMC4859539.nxml.gz-38" start="2901">one study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-39" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="3049" id="PMC4859539.nxml.gz-39" start="3042">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-4" type="identity">
+      <class id="related" label=""/>
+      <span end="224" id="PMC4859539.nxml.gz-4" start="217">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-40" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="3071" id="PMC4859539.nxml.gz-40" start="3059">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-41" type="identity">
+      <class id="correlations" label=""/>
+      <span end="3084" id="PMC4859539.nxml.gz-41" start="3072">correlations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-42" type="identity">
+      <class id="which" label=""/>
+      <span end="3182" id="PMC4859539.nxml.gz-42" start="3177">which</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-43" type="identity">
+      <class id="factors" label=""/>
+      <span end="3190" id="PMC4859539.nxml.gz-43" start="3183">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-44" type="identity">
+      <class id="may" label=""/>
+      <span end="3249" id="PMC4859539.nxml.gz-44" start="3246">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-45" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="3263" id="PMC4859539.nxml.gz-45" start="3250">independently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-46" type="identity">
+      <class id="independent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-47" type="identity">
+      <class id="impact" label=""/>
+      <span end="3270" id="PMC4859539.nxml.gz-47" start="3264">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3569" id="PMC4859539.nxml.gz-48" start="3300">To address this gap in the literature, the aim of this follow-up study was to determine if maternal vitamin D status during pregnancy and/or a child’s current vitamin D status affect the circulating concentration of cathelicidin in healthy children years after delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-49" type="identity">
+      <class id="gap" label=""/>
+      <span end="3319" id="PMC4859539.nxml.gz-49" start="3316">gap</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="468" id="PMC4859539.nxml.gz-5" start="256">This study sought to determine if circulating cathelicidin concentrations in healthy children are related to the age of the child, body composition and vitamin D status at birth and at the time of the study visit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-50" type="identity">
+      <class id="aim" label=""/>
+      <span end="3346" id="PMC4859539.nxml.gz-50" start="3343">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-51" type="identity">
+      <class id="this...study" label=""/>
+      <span end="3354" id="PMC4859539.nxml.gz-51" start="3350">this</span>
+      <span end="3370" id="PMC4859539.nxml.gz-52" start="3365">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-53" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="3387" id="PMC4859539.nxml.gz-53" start="3375">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-54" type="identity">
+      <class id="if" label=""/>
+      <span end="3390" id="PMC4859539.nxml.gz-54" start="3388">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-55" type="identity">
+      <class id="affect" label=""/>
+      <span end="3482" id="PMC4859539.nxml.gz-55" start="3476">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3753" id="PMC4859539.nxml.gz-56" start="3571">A second aim was to determine if the concentration of cathelicidin and vitamin D correlate with the number of infections a child experiences during childhood and as a function of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-57" type="identity">
+      <class id="aim" label=""/>
+      <span end="3583" id="PMC4859539.nxml.gz-57" start="3580">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-58" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="3600" id="PMC4859539.nxml.gz-58" start="3588">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-59" type="identity">
+      <class id="if" label=""/>
+      <span end="3603" id="PMC4859539.nxml.gz-59" start="3601">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-6" type="identity">
+      <class id="this...study" label=""/>
+      <span end="266" id="PMC4859539.nxml.gz-6" start="256">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-60" type="identity">
+      <class id="correlate" label=""/>
+      <span end="3661" id="PMC4859539.nxml.gz-60" start="3652">correlate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-61" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4308" id="PMC4859539.nxml.gz-61" start="3969">It was hypothesized that (1) total current circulating 25(OH)D would be positively correlated with cathelicidin in children; (2) children with higher plasma cathelicidin concentrations would have had fewer infections than children with lower cathelicidin concentrations; and (3) cathelicidin concentration would increase with advancing age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-62" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="3988" id="PMC4859539.nxml.gz-62" start="3976">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-63" type="identity">
+      <class id="would_be" label=""/>
+      <span end="4040" id="PMC4859539.nxml.gz-63" start="4032">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-64" type="identity">
+      <class id="correlated" label=""/>
+      <span end="4062" id="PMC4859539.nxml.gz-64" start="4052">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-65" type="identity">
+      <class id="would" label=""/>
+      <span end="4159" id="PMC4859539.nxml.gz-65" start="4154">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-66" type="identity">
+      <class id="would" label=""/>
+      <span end="4280" id="PMC4859539.nxml.gz-66" start="4275">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-67" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-68" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-69" type="identity">
+      <class id="hypotheses" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-7" type="identity">
+      <class id="sought" label=""/>
+      <span end="273" id="PMC4859539.nxml.gz-7" start="267">sought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-70" type="identity">
+      <class id="here" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8340" id="PMC4859539.nxml.gz-71" start="8227">A post-hoc analysis was conducted to determine if BMI and percent fat had an effect on cathelicidin concentration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-72" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="8273" id="PMC4859539.nxml.gz-72" start="8261">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-73" type="identity">
+      <class id="if" label=""/>
+      <span end="8276" id="PMC4859539.nxml.gz-73" start="8274">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-74" type="identity">
+      <class id="effect" label=""/>
+      <span end="8310" id="PMC4859539.nxml.gz-74" start="8304">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9001" id="PMC4859539.nxml.gz-75" start="8488">Four multivariable regressions were performed to assess whether any significant associations existed between the natural logarithm of each subject’s cathelicidin concentration and each of the following vitamin D measurements: (1) child’s current 25(OH)D at time of follow-up, (2) child’s 25(OH)D at birth, (3) maternal 25(OH)D throughout pregnancy (Visits 3 to 7 as area under the curve), and (4) maternal 25(OH)D one month before delivery; all analyses controlled for race/ethnicity, age, gender, and percent fat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-76" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="8543" id="PMC4859539.nxml.gz-76" start="8534">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-77" type="identity">
+      <class id="whether" label=""/>
+      <span end="8551" id="PMC4859539.nxml.gz-77" start="8544">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-78" type="identity">
+      <class id="associations" label=""/>
+      <span end="8580" id="PMC4859539.nxml.gz-78" start="8568">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9675" id="PMC4859539.nxml.gz-79" start="9577">The size of this study’s cohort provided us with 80% power to detect correlations as small as 0.24</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-8" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="286" id="PMC4859539.nxml.gz-8" start="274">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-80" type="identity">
+      <class id="this_study" label=""/>
+      <span end="9599" id="PMC4859539.nxml.gz-80" start="9589">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-81" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="9645" id="PMC4859539.nxml.gz-81" start="9636">to detect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-82" type="identity">
+      <class id="correlations" label=""/>
+      <span end="9658" id="PMC4859539.nxml.gz-82" start="9646">correlations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-83" type="identity">
+      <class id="small" label=""/>
+      <span end="9667" id="PMC4859539.nxml.gz-83" start="9662">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10455" id="PMC4859539.nxml.gz-84" start="10333">Of the children in the cohort, 20.3% were found to be vitamin D deficient, as defined by a 25(OH)D concentration &lt;20 ng/mL</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-85" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="10386" id="PMC4859539.nxml.gz-85" start="10375">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-86" type="identity">
+      <class id="of_note" label=""/>
+      <span end="12070" id="PMC4859539.nxml.gz-86" start="12063">Of note</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12225" id="PMC4859539.nxml.gz-87" start="12063">Of note, one of these children was obese, one had seasonal allergies treated with a long-term steroid nasal spray, and the third had a history of febrile seizures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12621" id="PMC4859539.nxml.gz-88" start="12370">White mothers were found to have a significantly higher 25(OH)D concentration (45.8 ng/mL; 114.5 nmol/L) than both Black (34.8 ng/mL; 87.0 nmol/L) and Hispanic mothers (38.0 ng/mL; 95.0 nmol/L) throughout pregnancy (p≤0.0001 and ≤0.0001, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-89" type="identity">
+      <class id="found" label=""/>
+      <span end="12394" id="PMC4859539.nxml.gz-89" start="12389">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-9" type="identity">
+      <class id="if" label=""/>
+      <span end="289" id="PMC4859539.nxml.gz-9" start="287">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12773" id="PMC4859539.nxml.gz-90" start="12623">Black and Hispanic mothers were found to have a statistically significant difference in 25(OH)D concentrations throughout pregnancy as well (p≤0.0001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-91" type="identity">
+      <class id="found" label=""/>
+      <span end="12660" id="PMC4859539.nxml.gz-91" start="12655">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12862" id="PMC4859539.nxml.gz-92" start="12775">A similar pattern was demonstrated in children’s 25(OH)D at the time of follow-up visit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-93" type="identity">
+      <class id="similar" label=""/>
+      <span end="12784" id="PMC4859539.nxml.gz-93" start="12777">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-94" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="12792" id="PMC4859539.nxml.gz-94" start="12785">pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-95" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="12809" id="PMC4859539.nxml.gz-95" start="12797">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13190" id="PMC4859539.nxml.gz-96" start="12864">White children had a mean 25(OH)D concentration of 35.1 ng/mL (87.8 nmol/L) at the follow-up visit, which was also found to be significantly higher than both Black and Hispanic children with mean 25(OH)D concentrations of 22.5 ng/mL (56.3 nmol/L) and 25.4 ng/mL (63.5 nmol/L), respectively (p≤0.0001 and ≤0.0001, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-97" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="12990" id="PMC4859539.nxml.gz-97" start="12979">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-98" type="identity">
+      <class id="despite" label=""/>
+      <span end="13327" id="PMC4859539.nxml.gz-98" start="13320">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4859539.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13472" id="PMC4859539.nxml.gz-99" start="13320">Despite differences in vitamin D status, there were no significant associations between cathelicidin, race/ethnicity and vitamin D status (see Table 2 )</span>
+    </annotation>
+  </document>
+</knowtator-project>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4653409.nxml.gz" text-file="PMC4653409.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="239" id="PMC4653409.nxml.gz-1" start="126">Studies have shown that maternal obesity is associated with increased risk of Gestational Diabetes Mellitus (GDM)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-10" type="identity">
+      <class id="important" label=""/>
+      <span end="598" id="PMC4653409.nxml.gz-10" start="589">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="785" id="PMC4653409.nxml.gz-11" start="684">the literature remains inconclusive on the role of dietary factors in the development of this disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-1199" type="identity">
+      <class id="role"/>
+      <span end="3904" id="PMC4653409.nxml.gz-1200" start="3900">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-12" type="identity">
+      <class id="remains" label=""/>
+      <span end="706" id="PMC4653409.nxml.gz-12" start="699">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-1201" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="3895" id="PMC4653409.nxml.gz-1202" start="3876">to better elucidate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-13" type="identity">
+      <class id="inconclusive" label=""/>
+      <span end="719" id="PMC4653409.nxml.gz-13" start="707">inconclusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-14" type="identity">
+      <class id="role" label=""/>
+      <span end="731" id="PMC4653409.nxml.gz-14" start="727">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="909" id="PMC4653409.nxml.gz-15" start="798">To evaluate and relate pre-pregnancy body mass index (PPBMI), weight gain and energy intake at diagnosis of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-17" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="809" id="PMC4653409.nxml.gz-17" start="798">To evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-18" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-19" type="identity">
+      <class id="relate" label=""/>
+      <span end="820" id="PMC4653409.nxml.gz-19" start="814">relate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-2" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="144" id="PMC4653409.nxml.gz-2" start="134">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3847" id="PMC4653409.nxml.gz-20" start="3621">The importance of nutritional counseling before conception and during pregnancy should be emphasized in order to encourage proper PPBMI and avoidance of excessive gestational weight gain, since both are related to risk for GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-21" type="identity">
+      <class id="importance" label=""/>
+      <span end="3635" id="PMC4653409.nxml.gz-21" start="3625">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-22" type="identity">
+      <class id="should_be" label=""/>
+      <span end="3710" id="PMC4653409.nxml.gz-22" start="3701">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-23" type="identity">
+      <class id="encourage" label=""/>
+      <span end="3743" id="PMC4653409.nxml.gz-23" start="3734">encourage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-24" type="identity">
+      <class id="related" label=""/>
+      <span end="3831" id="PMC4653409.nxml.gz-24" start="3824">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-25" type="identity">
+      <class id="further_studies" label=""/>
+      <span end="3864" id="PMC4653409.nxml.gz-25" start="3849">Further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3975" id="PMC4653409.nxml.gz-26" start="3849">Further studies are needed to better elucidate the role of dietary factors and specific nutrients in the risk for this disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-27" type="identity">
+      <class id="studies...are_needed" label=""/>
+      <span end="3875" id="PMC4653409.nxml.gz-27" start="3857">studies are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-3" type="identity">
+      <class id="associated" label=""/>
+      <span end="180" id="PMC4653409.nxml.gz-3" start="170">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="459" id="PMC4653409.nxml.gz-4" start="390">Excessive gestational weight gain is also associated with risk of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-5" type="identity">
+      <class id="associated" label=""/>
+      <span end="442" id="PMC4653409.nxml.gz-5" start="432">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="559" id="PMC4653409.nxml.gz-6" start="461">Moreover, dietary factors, before and during pregnancy, have been linked to increased risk for GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-7" type="identity">
+      <class id="have...been" label=""/>
+      <span end="526" id="PMC4653409.nxml.gz-7" start="517">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-8" type="identity">
+      <class id="linked" label=""/>
+      <span end="533" id="PMC4653409.nxml.gz-8" start="527">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653409.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="673" id="PMC4653409.nxml.gz-9" start="561">Nutritional intervention is important for the control of GDM, as it provides benefits to mother and fetal health</span>
+    </annotation>
+  </document>
+</knowtator-project>

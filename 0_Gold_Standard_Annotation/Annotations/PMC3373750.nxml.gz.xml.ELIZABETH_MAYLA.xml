@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3373750.nxml.gz" text-file="PMC3373750.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-1" type="identity">
+      <class id="little_is_known" label=""/>
+      <span end="151" id="PMC3373750.nxml.gz-1" start="136">Little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-10" type="identity">
+      <class id="asked" label=""/>
+      <span end="726" id="PMC3373750.nxml.gz-10" start="721">asked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-11" type="identity">
+      <class id="if" label=""/>
+      <span end="735" id="PMC3373750.nxml.gz-11" start="733">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-12" type="identity">
+      <class id="how" label=""/>
+      <span end="810" id="PMC3373750.nxml.gz-12" start="807">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-13" type="identity">
+      <class id="asked" label=""/>
+      <span end="863" id="PMC3373750.nxml.gz-13" start="858">asked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-14" type="identity">
+      <class id="questions" label=""/>
+      <span end="882" id="PMC3373750.nxml.gz-14" start="873">questions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1424" id="PMC3373750.nxml.gz-19" start="1345">We did not find any medical record documentation of a discussion about herb use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-2" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="275" id="PMC3373750.nxml.gz-2" start="136">Little is known about the use of herbs in low income underserved mothers and patterns of communication about herb use to prenatal providers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-20" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="1360" id="PMC3373750.nxml.gz-20" start="1348">did not find</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1665" id="PMC3373750.nxml.gz-21" start="1550">In this study 39% of women reported using herbs during pregnancy, a higher frequency than reported in other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-22" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-23" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-24" type="identity">
+      <class id="controversy" label=""/>
+      <span end="1639" id="PMC3373750.nxml.gz-24" start="1635">than</span>
+      <span end="1665" id="PMC3373750.nxml.gz-25" start="1652">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1911" id="PMC3373750.nxml.gz-26" start="1772">It is important that providers be given the tools to empower them to discuss herbal medicine use with patients, and are encouraged to do so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-2633" type="identity">
+      <class id="future_work"/>
+      <span end="1902" id="PMC3373750.nxml.gz-2634" start="1892">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-27" type="identity">
+      <class id="important" label=""/>
+      <span end="1787" id="PMC3373750.nxml.gz-27" start="1778">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-28" type="identity">
+      <class id="encourage" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="473" id="PMC3373750.nxml.gz-3" start="277">We sought to examine these issues among women delivering at Boston Medical Center (BMC), an urban medical center serving many of the low income and underserved populations of Boston, Massachusetts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-4" type="identity">
+      <class id="sought" label=""/>
+      <span end="286" id="PMC3373750.nxml.gz-4" start="280">sought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-5" type="identity">
+      <class id="to...examine" label=""/>
+      <span end="297" id="PMC3373750.nxml.gz-5" start="287">to examine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-6" type="identity">
+      <class id="issues" label=""/>
+      <span end="310" id="PMC3373750.nxml.gz-6" start="304">issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="660" id="PMC3373750.nxml.gz-7" start="484">We interviewed women from the inpatient post-natal unit at BMC about what herbs they used during pregnancy, socioeconomic factors, changes to diet, and use of prenatal vitamins</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-8" type="identity">
+      <class id="what" label=""/>
+      <span end="557" id="PMC3373750.nxml.gz-8" start="553">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3373750.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="924" id="PMC3373750.nxml.gz-9" start="718">We asked women if they discussed the use of herbs with their prenatal care provider, and how satisfied they were with these discussions; we asked the same questions about prenatal vitamin use for comparison</span>
+    </annotation>
+  </document>
+</knowtator-project>

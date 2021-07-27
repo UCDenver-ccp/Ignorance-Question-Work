@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4683322.nxml.gz" text-file="PMC4683322.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-10" type="identity">
+      <class id="could_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2085" id="PMC4683322.nxml.gz-11" start="2003">The data show new way to study porcine hepatic function of glucocorticoid receptor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-12" type="identity">
+      <class id="new" label=""/>
+      <span end="2020" id="PMC4683322.nxml.gz-12" start="2017">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-1205" type="identity">
+      <class id="subject_scope"/>
+      <span end="362" id="PMC4683322.nxml.gz-1206" start="169">Glucocorticoid receptor (GR) has been previously demonstrated an important transcriptional factor of hepatic metabolic genes in the neonates under a maternal gestational betaine supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-1207" type="identity">
+      <class id="future_prediction"/>
+      <span end="2102" id="PMC4683322.nxml.gz-1208" start="2096">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2208" id="PMC4683322.nxml.gz-13" start="2087">The data may be useful as comparison with human health care studies of methyl donor supplementation in the mothers’ diets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-14" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-15" type="identity">
+      <class id="may_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3066" id="PMC4683322.nxml.gz-16" start="2870">Glucocorticoid receptor (GR) has been previously demonstrated an important transcriptional factor of hepatic metabolic genes in the neonates under a maternal gestational betaine supplementation[1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-17" type="identity">
+      <class id="has...been" label=""/>
+      <span end="2907" id="PMC4683322.nxml.gz-17" start="2899">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-18" type="identity">
+      <class id="previously" label=""/>
+      <span end="2918" id="PMC4683322.nxml.gz-18" start="2908">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-19" type="identity">
+      <class id="important" label=""/>
+      <span end="2944" id="PMC4683322.nxml.gz-19" start="2935">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-2" type="identity">
+      <class id="has...been" label=""/>
+      <span end="206" id="PMC4683322.nxml.gz-2" start="198">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-21" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-3" type="identity">
+      <class id="previously" label=""/>
+      <span end="217" id="PMC4683322.nxml.gz-3" start="207">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="692" id="PMC4683322.nxml.gz-5" start="569">Here we provide accompanying data about the expression of hepatic miRNAs targeting porcine GR 3′UTR in the neonatal piglets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-6" type="identity">
+      <class id="here" label=""/>
+      <span end="573" id="PMC4683322.nxml.gz-6" start="569">Here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2001" id="PMC4683322.nxml.gz-8" start="1894">miRNAs participation in post-transcription of genes could be included in other studies of fetal programming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4683322.nxml.gz-9" type="identity">
+      <class id="future_work" label=""/>
+      <span end="1980" id="PMC4683322.nxml.gz-9" start="1946">could be included in other studies</span>
+    </annotation>
+  </document>
+</knowtator-project>

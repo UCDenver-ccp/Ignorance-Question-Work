@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3513049.nxml.gz" text-file="PMC3513049.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-1" type="identity">
+      <class id="is" label=""/>
+      <span end="6" id="PMC3513049.nxml.gz-1" start="4">Is</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-10" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="205" id="PMC3513049.nxml.gz-10" start="195">Hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-11" type="identity">
+      <class id="recently" label=""/>
+      <span end="224" id="PMC3513049.nxml.gz-11" start="216">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="495" id="PMC3513049.nxml.gz-12" start="291">Another factor possibly associated with pet ownership is increased Vitamin D among family members as pet keeping may be correlated with lifestyles involving increased outdoor exposure, such as dog walking</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-13" type="identity">
+      <class id="possibly" label=""/>
+      <span end="314" id="PMC3513049.nxml.gz-13" start="306">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-14" type="identity">
+      <class id="associated" label=""/>
+      <span end="325" id="PMC3513049.nxml.gz-14" start="315">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-15" type="identity">
+      <class id="may_be" label=""/>
+      <span end="410" id="PMC3513049.nxml.gz-15" start="404">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-16" type="identity">
+      <class id="correlated" label=""/>
+      <span end="421" id="PMC3513049.nxml.gz-16" start="411">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="596" id="PMC3513049.nxml.gz-17" start="497">Prenatal vitamin D inadequacy has been hypothesized as a risk factor for pediatric atopy and asthma</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-18" type="identity">
+      <class id="has...been" label=""/>
+      <span end="535" id="PMC3513049.nxml.gz-18" start="527">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-19" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="548" id="PMC3513049.nxml.gz-19" start="536">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-2" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="55" id="PMC3513049.nxml.gz-2" start="4">Is Pet Ownership Associated with Higher Vitamin D?
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-21" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="621" id="PMC3513049.nxml.gz-21" start="607">To investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-22" type="identity">
+      <class id="potential" label=""/>
+      <span end="631" id="PMC3513049.nxml.gz-22" start="622">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-23" type="identity">
+      <class id="relationships" label=""/>
+      <span end="645" id="PMC3513049.nxml.gz-23" start="632">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-2635" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-2637" type="identity">
+      <class id="subject_scope"/>
+      <span end="803" id="PMC3513049.nxml.gz-2638" start="607">To investigate potential relationships between household pet exposure and cord blood vitamin D concentrations, we analyzed information from a large, geographically-based, general risk birth cohort</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-2639" type="identity">
+      <class id="subject_scope"/>
+      <span end="1113" id="PMC3513049.nxml.gz-2640" start="984">Because of notable differences in vitamin D concentrations between African Americans and Whites, analyses were stratified by race</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-2641" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="1853" id="PMC3513049.nxml.gz-2642" start="1845">but only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-27" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1002" id="PMC3513049.nxml.gz-27" start="995">notable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1435" id="PMC3513049.nxml.gz-28" start="1229">For Whites, but not African Americans, having no pet compared to 1 or &gt;1 pet during pregnancy was associated with lower cord blood vitamin D concentrations (37.7, 45.2, 47.0 nmol/L, respectively, P = 0.001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-29" type="identity">
+      <class id="associated" label=""/>
+      <span end="1337" id="PMC3513049.nxml.gz-29" start="1327">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-3" type="identity">
+      <class id="associated" label=""/>
+      <span end="31" id="PMC3513049.nxml.gz-3" start="21">Associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1665" id="PMC3513049.nxml.gz-30" start="1437">Considering type of pet, the relationship for no pet compared to 1 or &gt;1 dog (37.7, 46.1, 49.9 nmol/L, respectively, P = 0.001) was similar to that for no pet versus 1 or &gt;1 cat (37.7, 43.0, 46.5 nmol/L, respectively, P = 0.065)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-31" type="identity">
+      <class id="relationship" label=""/>
+      <span end="1478" id="PMC3513049.nxml.gz-31" start="1466">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1866" id="PMC3513049.nxml.gz-32" start="1680">In a large ethnically diverse cohort of newborns, the presence of a pet in the home during the prenatal time period was associated with higher cord blood vitamin D, but only among Whites</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-33" type="identity">
+      <class id="associated" label=""/>
+      <span end="1810" id="PMC3513049.nxml.gz-33" start="1800">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-34" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2021" id="PMC3513049.nxml.gz-35" start="1868">This racial difference may reflect an impact on pet owner behavior resulting in increased outdoor exposure that is limited to lighter skinned individuals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-36" type="identity">
+      <class id="may" label=""/>
+      <span end="1894" id="PMC3513049.nxml.gz-36" start="1891">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-37" type="identity">
+      <class id="impact" label=""/>
+      <span end="1912" id="PMC3513049.nxml.gz-37" start="1906">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2198" id="PMC3513049.nxml.gz-38" start="2032">as the effect doesn't vary by cats versus dogs, differences by race in factors correlated with pet ownership or variations in pet keeping styles may be more important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-39" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="289" id="PMC3513049.nxml.gz-4" start="77">Pet keeping has been linked with decreased risk of allergic sensitization, which has been associated with the Hygiene Hypothesis; and more recently, by ourselves and others, to particular home microbiome patterns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-41" type="identity">
+      <class id="correlated" label=""/>
+      <span end="2121" id="PMC3513049.nxml.gz-41" start="2111">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-42" type="identity">
+      <class id="may_be" label=""/>
+      <span end="2183" id="PMC3513049.nxml.gz-42" start="2177">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-43" type="identity">
+      <class id="important" label=""/>
+      <span end="2198" id="PMC3513049.nxml.gz-43" start="2189">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2271" id="PMC3513049.nxml.gz-44" start="2200">Vitamin D should be considered in studies of pets and atopic conditions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-45" type="identity">
+      <class id="should_be" label=""/>
+      <span end="2219" id="PMC3513049.nxml.gz-45" start="2210">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-46" type="identity">
+      <class id="considered" label=""/>
+      <span end="2230" id="PMC3513049.nxml.gz-46" start="2220">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-5" type="identity">
+      <class id="has...been" label=""/>
+      <span end="97" id="PMC3513049.nxml.gz-5" start="89">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-6" type="identity">
+      <class id="linked" label=""/>
+      <span end="104" id="PMC3513049.nxml.gz-6" start="98">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-7" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-8" type="identity">
+      <class id="has...been" label=""/>
+      <span end="166" id="PMC3513049.nxml.gz-8" start="158">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3513049.nxml.gz-9" type="identity">
+      <class id="associated" label=""/>
+      <span end="177" id="PMC3513049.nxml.gz-9" start="167">associated</span>
+    </annotation>
+  </document>
+</knowtator-project>

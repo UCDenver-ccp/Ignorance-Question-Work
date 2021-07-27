@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6039335.nxml.gz" text-file="PMC6039335.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="109" id="PMC6039335.nxml.gz-1" start="0">Genetic, management, and nutritional factors affecting intramuscular fat deposition in beef cattle — A review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="774" id="PMC6039335.nxml.gz-10" start="711">Cattle management factors are also important for IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-100" type="identity">
+      <class id="effects" label=""/>
+      <span end="11249" id="PMC6039335.nxml.gz-100" start="11242">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11592" id="PMC6039335.nxml.gz-101" start="11341">In their study, genotype differences were generally observed in IMF contents of 4 muscles ( biceps femoris , supraspinatus , semitendinosus , longissimus lumborum , and infraspinatus ), although semitendinosus muscle IMF did not differ among genotypes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-102" type="identity">
+      <class id="generally" label=""/>
+      <span end="11392" id="PMC6039335.nxml.gz-102" start="11383">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-103" type="identity">
+      <class id="although" label=""/>
+      <span end="11535" id="PMC6039335.nxml.gz-103" start="11527">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-10649" type="identity">
+      <class id="full_unknown"/>
+      <span end="45405" id="PMC6039335.nxml.gz-10650" start="45392">not specified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-10651" type="identity">
+      <class id="studies...are_warranted"/>
+      <span end="57660" id="PMC6039335.nxml.gz-10652" start="57639">studies are warranted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-107" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11899" id="PMC6039335.nxml.gz-107" start="11762">However, substitution of equivalent amount of energy from grazed pasture with high-energy grain-based feed has not increased IMF contents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-108" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-109" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="11769" id="PMC6039335.nxml.gz-109" start="11762">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-11" type="identity">
+      <class id="important" label=""/>
+      <span end="755" id="PMC6039335.nxml.gz-11" start="746">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12116" id="PMC6039335.nxml.gz-110" start="11901">Selecting a sire is important for high-quality beef production; animals with high genetic potential will generally exhibit higher MS at slaughter age, whereas animals with low genetic potential will give low MS [50]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-111" type="identity">
+      <class id="important" label=""/>
+      <span end="11930" id="PMC6039335.nxml.gz-111" start="11921">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-112" type="identity">
+      <class id="will" label=""/>
+      <span end="12005" id="PMC6039335.nxml.gz-112" start="12001">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-113" type="identity">
+      <class id="generally" label=""/>
+      <span end="12015" id="PMC6039335.nxml.gz-113" start="12006">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-114" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="12059" id="PMC6039335.nxml.gz-114" start="12052">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-115" type="identity">
+      <class id="will" label=""/>
+      <span end="12099" id="PMC6039335.nxml.gz-115" start="12095">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12297" id="PMC6039335.nxml.gz-116" start="12138">Several management factors, including weaning age, castration, slaughter age and weight, nutrition and other environmental conditions can affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-117" type="identity">
+      <class id="other" label=""/>
+      <span end="12246" id="PMC6039335.nxml.gz-117" start="12241">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-118" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="12275" id="PMC6039335.nxml.gz-118" start="12272">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-119" type="identity">
+      <class id="affect" label=""/>
+      <span end="12282" id="PMC6039335.nxml.gz-119" start="12276">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1012" id="PMC6039335.nxml.gz-12" start="844">The effects of several management factors, including weaning age, castration, slaughter weight and age, and environmental conditions on IMF deposition are also reviewed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12372" id="PMC6039335.nxml.gz-120" start="12312">Weaning age is known to affect IMF deposition and MS in beef</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-121" type="identity">
+      <class id="affect" label=""/>
+      <span end="12342" id="PMC6039335.nxml.gz-121" start="12336">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-122" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="12389" id="PMC6039335.nxml.gz-122" start="12374">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12511" id="PMC6039335.nxml.gz-123" start="12374">Several studies have reported that early weaning or early weaning combined with a high-grain diet increases IMF deposition in beef cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-124" type="identity">
+      <class id="effect" label=""/>
+      <span end="13287" id="PMC6039335.nxml.gz-124" start="13281">Effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13344" id="PMC6039335.nxml.gz-125" start="13281">Effect of weaning age has been studied in Shorthorn calves [52]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-126" type="identity">
+      <class id="has...been" label=""/>
+      <span end="13311" id="PMC6039335.nxml.gz-126" start="13303">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-127" type="identity">
+      <class id="however" label=""/>
+      <span end="13666" id="PMC6039335.nxml.gz-127" start="13659">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-128" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13767" id="PMC6039335.nxml.gz-128" start="13659">However, weaning treatment did not affect feed efficiency, post weaning growth, MS, and other carcass traits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-13" type="identity">
+      <class id="effects" label=""/>
+      <span end="855" id="PMC6039335.nxml.gz-13" start="848">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14423" id="PMC6039335.nxml.gz-130" start="14079">In the Angus study, early weaning at 105 d of age and high concentrate feeding for 148 d followed by grazing and feedlot entry increased both the MS and hot carcass weight (HCW) compared with normal weaning at 253 d of age (normally weaned calves stayed with their dams to graze on pasture), although feedlot performance remained unchanged [54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-131" type="identity">
+      <class id="although" label=""/>
+      <span end="14379" id="PMC6039335.nxml.gz-131" start="14371">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14589" id="PMC6039335.nxml.gz-132" start="14425">The authors suggested that metabolic imprinting by early weaning and a high concentrate feeding before grazing is a feasible method to improve MS and carcass weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-133" type="identity">
+      <class id="suggested" label=""/>
+      <span end="14446" id="PMC6039335.nxml.gz-133" start="14437">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-134" type="identity">
+      <class id="feasible" label=""/>
+      <span end="14549" id="PMC6039335.nxml.gz-134" start="14541">feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15185" id="PMC6039335.nxml.gz-135" start="14917">A molecular study revealed that early weaning and a high-starch diet activated precocious pre-adipocyte differentiation and fat accumulation by activating adipogenic peroxisome proliferator-activated receptor-gamma (PPARG) and CCAAT/enhancer-binding protein α pathways</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-136" type="identity">
+      <class id="revealed" label=""/>
+      <span end="14943" id="PMC6039335.nxml.gz-136" start="14935">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15568" id="PMC6039335.nxml.gz-137" start="15396">Smith and Johnson [57] suggested that the glucose contribution to fat synthesis decreases as cattle become fatter, whereas acetate use increases, especially in the IMF area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-138" type="identity">
+      <class id="suggested" label=""/>
+      <span end="15428" id="PMC6039335.nxml.gz-138" start="15419">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-139" type="identity">
+      <class id="contribution" label=""/>
+      <span end="15458" id="PMC6039335.nxml.gz-139" start="15446">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1187" id="PMC6039335.nxml.gz-14" start="1014">Nutritional factors, including fat metabolism, digestion and absorption of feed, glucose/starch availability, and vitamin A, D, and C levels are important for IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-140" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="15518" id="PMC6039335.nxml.gz-140" start="15511">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15705" id="PMC6039335.nxml.gz-141" start="15570">Those authors also suggested that providing dietary glucose sources (e.g., high-starch diet) at an early age can improve IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-142" type="identity">
+      <class id="suggested" label=""/>
+      <span end="15598" id="PMC6039335.nxml.gz-142" start="15589">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-143" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15682" id="PMC6039335.nxml.gz-143" start="15679">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-145" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16817" id="PMC6039335.nxml.gz-146" start="16652">The authors suggested that feeding concentrate plus roughage or starch after early weaning at a young age could alter adipogenic and lipogenic potential in loin meat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-147" type="identity">
+      <class id="suggested" label=""/>
+      <span end="16673" id="PMC6039335.nxml.gz-147" start="16664">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-148" type="identity">
+      <class id="could" label=""/>
+      <span end="16763" id="PMC6039335.nxml.gz-148" start="16758">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-149" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-15" type="identity">
+      <class id="important" label=""/>
+      <span end="1168" id="PMC6039335.nxml.gz-15" start="1159">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16945" id="PMC6039335.nxml.gz-150" start="16831">Castration of bulls generally increases IMF content in several cattle breeds, although it reduces growth rate [40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-151" type="identity">
+      <class id="generally" label=""/>
+      <span end="16860" id="PMC6039335.nxml.gz-151" start="16851">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-152" type="identity">
+      <class id="although" label=""/>
+      <span end="16917" id="PMC6039335.nxml.gz-152" start="16909">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-153" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17478" id="PMC6039335.nxml.gz-153" start="17263">A 2016 report of nationwide pooled data in Korean cattle revealed that the majority (76%) of bulls had a QG 3, whereas 85.5% of castrated cattle showed grades of QG 1 or higher (QG1, QG1+, and QG1++) ([59];Figure 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-154" type="identity">
+      <class id="revealed" label=""/>
+      <span end="17328" id="PMC6039335.nxml.gz-154" start="17320">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-155" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="17381" id="PMC6039335.nxml.gz-155" start="17374">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18908" id="PMC6039335.nxml.gz-156" start="18807">However, these changes with slaugther age were not observed in double-muscled Belgian Blue bulls [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-157" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-158" type="identity">
+      <class id="however" label=""/>
+      <span end="18814" id="PMC6039335.nxml.gz-158" start="18807">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-159" type="identity">
+      <class id="not_observed" label=""/>
+      <span end="18866" id="PMC6039335.nxml.gz-159" start="18854">not observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1422" id="PMC6039335.nxml.gz-16" start="1189">Manipulating IMF deposition through developmental programming via metabolic imprinting is a recently proposed nutritional method to change potential IMF deposition during the fetal and neonatal periods in rodents and domestic animals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18972" id="PMC6039335.nxml.gz-160" start="18910">The MS generally increases with slaughter age in Korean cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-161" type="identity">
+      <class id="generally" label=""/>
+      <span end="18926" id="PMC6039335.nxml.gz-161" start="18917">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19697" id="PMC6039335.nxml.gz-162" start="19622">This study suggested that changes in MS with slaughter age vary among farms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-163" type="identity">
+      <class id="suggested" label=""/>
+      <span end="19642" id="PMC6039335.nxml.gz-163" start="19633">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-164" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="19685" id="PMC6039335.nxml.gz-164" start="19681">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19764" id="PMC6039335.nxml.gz-165" start="19699">The difference may be due to genetic factors, management, or feed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-166" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19720" id="PMC6039335.nxml.gz-166" start="19714">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-167" type="identity">
+      <class id="due_to" label=""/>
+      <span end="19727" id="PMC6039335.nxml.gz-167" start="19721">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19860" id="PMC6039335.nxml.gz-168" start="19766">Decreasing slaughter age may be better for reducing production costs when feed prices are high</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-169" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19797" id="PMC6039335.nxml.gz-169" start="19791">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-17" type="identity">
+      <class id="recently" label=""/>
+      <span end="1289" id="PMC6039335.nxml.gz-17" start="1281">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20075" id="PMC6039335.nxml.gz-170" start="19862">Pethick et al [69] suggested that a prolonged feeding period gives the cattle time to obtain high IMF levels because time is needed for muscle to reach maturity, followed by time for the muscle to fill up with IMF</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-171" type="identity">
+      <class id="suggested" label=""/>
+      <span end="19890" id="PMC6039335.nxml.gz-171" start="19881">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-172" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="20084" id="PMC6039335.nxml.gz-172" start="20077">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20178" id="PMC6039335.nxml.gz-173" start="20077">However, feed efficiency decreases as animals age due to a decrease in the rate of muscle growth [70]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-174" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-175" type="identity">
+      <class id="thus" label=""/>
+      <span end="20184" id="PMC6039335.nxml.gz-175" start="20180">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20317" id="PMC6039335.nxml.gz-176" start="20180">Thus, animals with low genetic potential for QG are not recommended for a long fattening stage, which would result in low feed efficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-177" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-178" type="identity">
+      <class id="recommended" label=""/>
+      <span end="20247" id="PMC6039335.nxml.gz-178" start="20236">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-179" type="identity">
+      <class id="would" label=""/>
+      <span end="20287" id="PMC6039335.nxml.gz-179" start="20282">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-18" type="identity">
+      <class id="proposed" label=""/>
+      <span end="1298" id="PMC6039335.nxml.gz-18" start="1290">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20517" id="PMC6039335.nxml.gz-180" start="20319">In addition, a long fattening period could result in low yield grade (YG) because long-term fattening increases backfat thickness and carcass weight, which negatively affect YG in Korean cattle [59]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-181" type="identity">
+      <class id="could" label=""/>
+      <span end="20361" id="PMC6039335.nxml.gz-181" start="20356">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-182" type="identity">
+      <class id="affect" label=""/>
+      <span end="20492" id="PMC6039335.nxml.gz-182" start="20486">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20691" id="PMC6039335.nxml.gz-183" start="20519">Slaughter age needs to be optimised to get maximum profits for farmers by monitoring the QG and quantity grade of carcasses, feed costs, and carcass prices (auction prices)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-184" type="identity">
+      <class id="needs" label=""/>
+      <span end="20538" id="PMC6039335.nxml.gz-184" start="20533">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-185" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20795" id="PMC6039335.nxml.gz-185" start="20711">IMF content or MS generally increases with slaughter weight in several cattle breeds</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-186" type="identity">
+      <class id="generally" label=""/>
+      <span end="20738" id="PMC6039335.nxml.gz-186" start="20729">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-187" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21003" id="PMC6039335.nxml.gz-187" start="20797">The National Beef Quality Audit of the USA (beef of steers and heifers in 28 packing plants during October–December 1991) found that MS increased with increasing slaugher weight from 173 to over 543 kg [71]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-188" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="20924" id="PMC6039335.nxml.gz-188" start="20919">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22271" id="PMC6039335.nxml.gz-189" start="22117">Several factors, including MS or QG, feed costs, and carcass prices need to be considered to determine the optimum slaughter weight for the maximum profit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-19" type="identity">
+      <class id="potential" label=""/>
+      <span end="1337" id="PMC6039335.nxml.gz-19" start="1328">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-190" type="identity">
+      <class id="need_to_be" label=""/>
+      <span end="22195" id="PMC6039335.nxml.gz-190" start="22185">need to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-191" type="identity">
+      <class id="considered" label=""/>
+      <span end="22206" id="PMC6039335.nxml.gz-191" start="22196">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-192" type="identity">
+      <class id="to_determine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22439" id="PMC6039335.nxml.gz-193" start="22287">Studies have demonstrated that environmental conditions, such as temperature stress, can negatively affect animal growth and beef quality in cattle [74]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-194" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22375" id="PMC6039335.nxml.gz-194" start="22372">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-195" type="identity">
+      <class id="affect" label=""/>
+      <span end="22393" id="PMC6039335.nxml.gz-195" start="22387">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22759" id="PMC6039335.nxml.gz-196" start="22634">Our recent study indicated that a lower ambient temperature decreased growth and feed efficiency in Korean cattle steers [78]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-197" type="identity">
+      <class id="recent...study" label=""/>
+      <span end="22650" id="PMC6039335.nxml.gz-197" start="22638">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-198" type="identity">
+      <class id="indicated" label=""/>
+      <span end="22660" id="PMC6039335.nxml.gz-198" start="22651">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22930" id="PMC6039335.nxml.gz-199" start="22761">Heat stress can also negatively affect animal performance, including growth, milk production, reproduction, feed intake, overall health, and well-being in cattle [79,80]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-2" type="identity">
+      <class id="affecting" label=""/>
+      <span end="54" id="PMC6039335.nxml.gz-2" start="45">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1592" id="PMC6039335.nxml.gz-20" start="1534">The coordination of several factors affects IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-200" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22776" id="PMC6039335.nxml.gz-200" start="22773">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-201" type="identity">
+      <class id="affect" label=""/>
+      <span end="22799" id="PMC6039335.nxml.gz-201" start="22793">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23313" id="PMC6039335.nxml.gz-202" start="23106">The authors suggested that mild heat stress in summer and mild cold stress in winter may be beneficial to fat deposition under ad libitum feeding conditions for cattle fed in an unprotected, unsheltered area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-203" type="identity">
+      <class id="suggested" label=""/>
+      <span end="23127" id="PMC6039335.nxml.gz-203" start="23118">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-204" type="identity">
+      <class id="may_be" label=""/>
+      <span end="23197" id="PMC6039335.nxml.gz-204" start="23191">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23426" id="PMC6039335.nxml.gz-205" start="23315">They also suggested that animals deposit fat in the winter to provide insulation for the body under cold stress</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-206" type="identity">
+      <class id="suggested" label=""/>
+      <span end="23334" id="PMC6039335.nxml.gz-206" start="23325">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-207" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23513" id="PMC6039335.nxml.gz-207" start="23428">Animals may require more energy to meet the increased maintenance energy requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-208" type="identity">
+      <class id="may" label=""/>
+      <span end="23439" id="PMC6039335.nxml.gz-208" start="23436">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-209" type="identity">
+      <class id="require" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-21" type="identity">
+      <class id="affects" label=""/>
+      <span end="1577" id="PMC6039335.nxml.gz-21" start="1570">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23732" id="PMC6039335.nxml.gz-210" start="23515">Young [81] suggested that energy requirements increase during winter or when animals are under cold stress, as increased heat production is needed to maintain body temperature by shivering or other thermogenic process</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-211" type="identity">
+      <class id="suggested" label=""/>
+      <span end="23535" id="PMC6039335.nxml.gz-211" start="23526">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23818" id="PMC6039335.nxml.gz-212" start="23734">Angus crossbred cattle exposed to greater heat stress tend to have a greater MS [82]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-213" type="identity">
+      <class id="tend" label=""/>
+      <span end="23792" id="PMC6039335.nxml.gz-213" start="23788">tend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23893" id="PMC6039335.nxml.gz-214" start="23820">The authors mentioned that slight heat stress might induce IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-215" type="identity">
+      <class id="might" label=""/>
+      <span end="23871" id="PMC6039335.nxml.gz-215" start="23866">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24001" id="PMC6039335.nxml.gz-216" start="23895">Seasonal variations in carcass characteristics have been observed in Korean cattle steers by our group [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-217" type="identity">
+      <class id="have...been" label=""/>
+      <span end="23951" id="PMC6039335.nxml.gz-217" start="23942">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-218" type="identity">
+      <class id="therefore" label=""/>
+      <span end="24160" id="PMC6039335.nxml.gz-218" start="24151">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-219" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24230" id="PMC6039335.nxml.gz-219" start="24151">Therefore, the poor YG in winter may be due, in part, to high backfat thickness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-22" type="identity">
+      <class id="thus" label=""/>
+      <span end="1598" id="PMC6039335.nxml.gz-22" start="1594">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-220" type="identity">
+      <class id="may_be" label=""/>
+      <span end="24190" id="PMC6039335.nxml.gz-220" start="24184">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-221" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="24194" id="PMC6039335.nxml.gz-221" start="24191">due</span>
+      <span end="24207" id="PMC6039335.nxml.gz-222" start="24205">to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-223" type="identity">
+      <class id="in_part" label=""/>
+      <span end="24203" id="PMC6039335.nxml.gz-223" start="24196">in part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24295" id="PMC6039335.nxml.gz-224" start="24232">However, both MS and QG were best in autumn and worst in spring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-225" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-226" type="identity">
+      <class id="however" label=""/>
+      <span end="24239" id="PMC6039335.nxml.gz-226" start="24232">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-227" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24480" id="PMC6039335.nxml.gz-227" start="24367">Our recent study also revealed that growth performance was not affected by mild heat stress in Korean cattle [83]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-228" type="identity">
+      <class id="recent_study" label=""/>
+      <span end="24383" id="PMC6039335.nxml.gz-228" start="24371">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-229" type="identity">
+      <class id="revealed" label=""/>
+      <span end="24397" id="PMC6039335.nxml.gz-229" start="24389">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1723" id="PMC6039335.nxml.gz-23" start="1594">Thus, a combination of several strategies may be needed to manipulate IMF deposition, depending on the consumer’s beef preference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-230" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24697" id="PMC6039335.nxml.gz-230" start="24482">Overall, severe temperature stress may have significant negative effects on animal production, including growth performance and product quality, although mild temperature stress may differentially affect production.</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-231" type="identity">
+      <class id="may" label=""/>
+      <span end="24520" id="PMC6039335.nxml.gz-231" start="24517">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-232" type="identity">
+      <class id="effects" label=""/>
+      <span end="24554" id="PMC6039335.nxml.gz-232" start="24547">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-233" type="identity">
+      <class id="although" label=""/>
+      <span end="24635" id="PMC6039335.nxml.gz-233" start="24627">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-234" type="identity">
+      <class id="may" label=""/>
+      <span end="24663" id="PMC6039335.nxml.gz-234" start="24660">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-235" type="identity">
+      <class id="affect" label=""/>
+      <span end="24685" id="PMC6039335.nxml.gz-235" start="24679">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25019" id="PMC6039335.nxml.gz-236" start="24719">Several nutritional factors including fat metabolism, fat digestion and absorption, glucose/starch availability, roughage vs. concentrate ratio, dietary energy and protein levels, vitamins A, D, and C levels, fetal nutritional programming, and stage-specific feeding systems can affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-237" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24997" id="PMC6039335.nxml.gz-237" start="24994">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-238" type="identity">
+      <class id="affect" label=""/>
+      <span end="25004" id="PMC6039335.nxml.gz-238" start="24998">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-239" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-24" type="identity">
+      <class id="may_be" label=""/>
+      <span end="1642" id="PMC6039335.nxml.gz-24" start="1636">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-240" type="identity">
+      <class id="required" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-241" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26320" id="PMC6039335.nxml.gz-241" start="26151">The activity of ATP citrate lyase is known to be low in ruminants [87]; thus, glucose is used as a lipogenic substrate less in ruminants than in monogastric animals [87]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-242" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="26193" id="PMC6039335.nxml.gz-242" start="26185">is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-243" type="identity">
+      <class id="thus" label=""/>
+      <span end="26227" id="PMC6039335.nxml.gz-243" start="26223">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26433" id="PMC6039335.nxml.gz-244" start="26322">However, glucose is believed to be preferred to acetate as a substrate for FA synthesis for IMF deposition [88]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-245" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="26329" id="PMC6039335.nxml.gz-245" start="26322">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-246" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-247" type="identity">
+      <class id="believed" label=""/>
+      <span end="26350" id="PMC6039335.nxml.gz-247" start="26342">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27068" id="PMC6039335.nxml.gz-248" start="26800">Using an in vitro system of adipose tissue from Angus and Wagyu steers, Rhoades et al [91] reported that the rate of glucose incorporation into FA was over two times higher than the rate of acetate incorporation into IMF, although they were similar in subcutaneous fat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-249" type="identity">
+      <class id="although" label=""/>
+      <span end="27030" id="PMC6039335.nxml.gz-249" start="27022">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-25" type="identity">
+      <class id="future_work" label=""/>
+      <span end="1649" id="PMC6039335.nxml.gz-25" start="1643">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-250" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27271" id="PMC6039335.nxml.gz-250" start="27070">The same authors suggested that feeding a corn-based diet increased glucose uptake in IMF, whereas feeding a hay-based diet may promote subcutaneous fat deposition via incorporation of acetate into FAs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-251" type="identity">
+      <class id="suggested" label=""/>
+      <span end="27096" id="PMC6039335.nxml.gz-251" start="27087">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-253" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="27168" id="PMC6039335.nxml.gz-253" start="27161">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-254" type="identity">
+      <class id="may" label=""/>
+      <span end="27197" id="PMC6039335.nxml.gz-254" start="27194">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-255" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27494" id="PMC6039335.nxml.gz-255" start="27456">Fat addition can affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-256" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="27472" id="PMC6039335.nxml.gz-256" start="27469">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-257" type="identity">
+      <class id="affect" label=""/>
+      <span end="27479" id="PMC6039335.nxml.gz-257" start="27473">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-258" type="identity">
+      <class id="therefore" label=""/>
+      <span end="27748" id="PMC6039335.nxml.gz-258" start="27739">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-259" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27898" id="PMC6039335.nxml.gz-259" start="27739">Therefore, increased glucose availability is important for providing glycerol for IMF deposition in ruminants [69], similar to monogastric animals such as pigs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-26" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="1692" id="PMC6039335.nxml.gz-26" start="1680">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-260" type="identity">
+      <class id="important" label=""/>
+      <span end="27793" id="PMC6039335.nxml.gz-260" start="27784">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-261" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28031" id="PMC6039335.nxml.gz-261" start="27900">Increasing propionate production for glucose synthesis is also important for IMF deposition, especially during the fattening period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-262" type="identity">
+      <class id="important" label=""/>
+      <span end="27972" id="PMC6039335.nxml.gz-262" start="27963">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-263" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="28048" id="PMC6039335.nxml.gz-263" start="28033">For this reason</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28163" id="PMC6039335.nxml.gz-264" start="28033">For this reason, a large amount of concentrate is fed during the fattening period in Japanese Wagyu and Korean beef cattle [95,96]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-265" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28292" id="PMC6039335.nxml.gz-265" start="28165">High levels of IMF deposition requires excess energy con sumption above the maintenance and normal production requirements [69]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-266" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="28203" id="PMC6039335.nxml.gz-266" start="28195">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-267" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-268" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-269" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28942" id="PMC6039335.nxml.gz-269" start="28783">These results suggest that higher energy levels are required for IMF deposition than for general body fat deposition, including for subcutaneous fat deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2182" id="PMC6039335.nxml.gz-27" start="1875">Intramuscular fat (IMF) deposition or marbling in muscle including the longissimus thoracis et lumborum , infraspinatus , and biceps femoris , especially in Korean cattle (also called Hanwoo) and Japanese Black cattle, is one of the most important traits influencing beef quality and palatability attributes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-270" type="identity">
+      <class id="suggest" label=""/>
+      <span end="28804" id="PMC6039335.nxml.gz-270" start="28797">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-271" type="identity">
+      <class id="required" label=""/>
+      <span end="28843" id="PMC6039335.nxml.gz-271" start="28835">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-272" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29328" id="PMC6039335.nxml.gz-272" start="29165">Cortisol is also an important regulator of energy metabolism, including the regulation of lipolysis and lipogenesis, and increases plasma NEFA concentrations [100]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-273" type="identity">
+      <class id="important" label=""/>
+      <span end="29194" id="PMC6039335.nxml.gz-273" start="29185">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-274" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29813" id="PMC6039335.nxml.gz-274" start="29528">In addition, our recent research has shown that transport stress causes temporal increases in circulating cortisol and NEFA concentrations, along with a decrease in circulating TG concentration in pregnant Holstein heifers [103], consistent with transport stress also causing lipolysis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-275" type="identity">
+      <class id="recent_research" label=""/>
+      <span end="29560" id="PMC6039335.nxml.gz-275" start="29545">recent research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-276" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="29768" id="PMC6039335.nxml.gz-276" start="29758">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-277" type="identity">
+      <class id="thus" label=""/>
+      <span end="29819" id="PMC6039335.nxml.gz-277" start="29815">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29949" id="PMC6039335.nxml.gz-278" start="29815">Thus, stressors, such as temperature and transportation, may have a negative effect on IMF deposition through lipolysis in beef cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-279" type="identity">
+      <class id="may" label=""/>
+      <span end="29875" id="PMC6039335.nxml.gz-279" start="29872">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-28" type="identity">
+      <class id="important" label=""/>
+      <span end="2122" id="PMC6039335.nxml.gz-28" start="2113">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-280" type="identity">
+      <class id="effect" label=""/>
+      <span end="29898" id="PMC6039335.nxml.gz-280" start="29892">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-281" type="identity">
+      <class id="therefore" label=""/>
+      <span end="29960" id="PMC6039335.nxml.gz-281" start="29951">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-282" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30103" id="PMC6039335.nxml.gz-282" start="29951">Therefore, fat degradation by lipolysis should be minimized to prevent loss of IMF, and management and transport systems that minimize stress are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-283" type="identity">
+      <class id="should_be" label=""/>
+      <span end="30000" id="PMC6039335.nxml.gz-283" start="29991">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-284" type="identity">
+      <class id="are_needed" label=""/>
+      <span end="30103" id="PMC6039335.nxml.gz-284" start="30093">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-285" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30223" id="PMC6039335.nxml.gz-285" start="30105">Fat supplementation for extra energy supply has been recommended during cold or heat stress to prevent fat degradation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-286" type="identity">
+      <class id="has_been" label=""/>
+      <span end="30157" id="PMC6039335.nxml.gz-286" start="30149">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-287" type="identity">
+      <class id="recommended" label=""/>
+      <span end="30169" id="PMC6039335.nxml.gz-287" start="30158">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-288" type="identity">
+      <class id="however" label=""/>
+      <span end="30377" id="PMC6039335.nxml.gz-288" start="30370">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-289" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30542" id="PMC6039335.nxml.gz-289" start="30370">However, some studies have revealed that mild temperature stress can increase body fat deposition and marbling for insulation and other purposes [74,82], as described above</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2274" id="PMC6039335.nxml.gz-29" start="2184">Marbling is positively correlated with juiciness, tenderness, and palatability of beef [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-290" type="identity">
+      <class id="some" label=""/>
+      <span end="30383" id="PMC6039335.nxml.gz-290" start="30379">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-291" type="identity">
+      <class id="revealed" label=""/>
+      <span end="30405" id="PMC6039335.nxml.gz-291" start="30397">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-292" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="30438" id="PMC6039335.nxml.gz-292" start="30435">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-293" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-294" type="identity">
+      <class id="further_study" label=""/>
+      <span end="30557" id="PMC6039335.nxml.gz-294" start="30544">Further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-295" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30648" id="PMC6039335.nxml.gz-295" start="30544">Further study is warranted to clarify how stress intensity affects animal performance and fat deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-296" type="identity">
+      <class id="is_warranted" label=""/>
+      <span end="30570" id="PMC6039335.nxml.gz-296" start="30558">is warranted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-297" type="identity">
+      <class id="how" label=""/>
+      <span end="30585" id="PMC6039335.nxml.gz-297" start="30582">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-298" type="identity">
+      <class id="affects" label=""/>
+      <span end="30610" id="PMC6039335.nxml.gz-298" start="30603">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-299" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31132" id="PMC6039335.nxml.gz-299" start="31045">Manipulating dietary fat digestion and absorption in the small intestine may enhance MS</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="383" id="PMC6039335.nxml.gz-3" start="120">Intramuscular fat (IMF) content in skeletal muscle including the longissimus dorsi muscle (LM), also known as marbling fat, is one of the most important factors determining beef quality in several countries including Korea, Japan, Australia, and the United States</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-30" type="identity">
+      <class id="correlated" label=""/>
+      <span end="2217" id="PMC6039335.nxml.gz-30" start="2207">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-300" type="identity">
+      <class id="may" label=""/>
+      <span end="31121" id="PMC6039335.nxml.gz-300" start="31118">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31196" id="PMC6039335.nxml.gz-301" start="31134">Emulsifying fat may affect the digestion and absorption of fat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-302" type="identity">
+      <class id="may" label=""/>
+      <span end="31153" id="PMC6039335.nxml.gz-302" start="31150">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-303" type="identity">
+      <class id="affect" label=""/>
+      <span end="31160" id="PMC6039335.nxml.gz-303" start="31154">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-304" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31771" id="PMC6039335.nxml.gz-304" start="31720">Bile acid supplementation may enhance fat digestion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-305" type="identity">
+      <class id="may" label=""/>
+      <span end="31749" id="PMC6039335.nxml.gz-305" start="31746">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-306" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32107" id="PMC6039335.nxml.gz-306" start="31861">Ursodeoxycholic acid supplementation increased IMF and QG in Wagyu heifers [26], demonstrating that bile acid supplementation improves IMF deposition, probably by increasing intestinal fat digestion and absorption by increasing fat emulsification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-307" type="identity">
+      <class id="probably" label=""/>
+      <span end="32020" id="PMC6039335.nxml.gz-307" start="32012">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-308" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32246" id="PMC6039335.nxml.gz-308" start="32173">Consuming surplus net energy is an important factor for deposition of IMF</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-309" type="identity">
+      <class id="important" label=""/>
+      <span end="32217" id="PMC6039335.nxml.gz-309" start="32208">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2859" id="PMC6039335.nxml.gz-31" start="2718">The production of highly marbled beef in Korea is essential to compete with cheap imported beef that has a relatively low marbling score (MS)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-310" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32454" id="PMC6039335.nxml.gz-310" start="32248">Feeding cereal grains is one way to raise net energy supply because energy dense grains can be utilized in the rumen and the small intestine to produce volatile fatty acids and glucose for energy production</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-311" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="32280" id="PMC6039335.nxml.gz-311" start="32273">one way</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-312" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32339" id="PMC6039335.nxml.gz-312" start="32336">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-313" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32666" id="PMC6039335.nxml.gz-313" start="32456">Maximum starch utilization can be achieved by optimizing fermentation of starch in the rumen to produce propionate (gluconeogenic precursor) and maximizing starch digestion and absorption in the small intestine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-314" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="32486" id="PMC6039335.nxml.gz-314" start="32483">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32924" id="PMC6039335.nxml.gz-315" start="32772">A considerable amount of glucose is absorbed from the small intestine when high-starch diets are fed, especially during the beef cattle fattening period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-316" type="identity">
+      <class id="considerable" label=""/>
+      <span end="32786" id="PMC6039335.nxml.gz-316" start="32774">considerable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-317" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33042" id="PMC6039335.nxml.gz-317" start="32926">Ørskov [110] reported that up to 42% of dietary starch may escape ruminal fermentation and reach the small intestine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-318" type="identity">
+      <class id="may" label=""/>
+      <span end="32984" id="PMC6039335.nxml.gz-318" start="32981">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-319" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33493" id="PMC6039335.nxml.gz-319" start="33291">A meta-analysis of starch digestion in dairy cows revealed that the ruminal digestibility of corn was 57.4% [112], demonstrating that a substantial portion of corn can be digested in the small intestine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-32" type="identity">
+      <class id="essential" label=""/>
+      <span end="2777" id="PMC6039335.nxml.gz-32" start="2768">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-320" type="identity">
+      <class id="revealed" label=""/>
+      <span end="33349" id="PMC6039335.nxml.gz-320" start="33341">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-321" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33458" id="PMC6039335.nxml.gz-321" start="33455">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-322" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33668" id="PMC6039335.nxml.gz-322" start="33495">The same report estimated that up to 2 kg of starch/d can be digested in the small intestine of dairy cows; the average starch digestibility in the small intestine was 60.6%</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-323" type="identity">
+      <class id="estimated" label=""/>
+      <span end="33520" id="PMC6039335.nxml.gz-323" start="33511">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-324" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33552" id="PMC6039335.nxml.gz-324" start="33549">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-325" type="identity">
+      <class id="therefore" label=""/>
+      <span end="33679" id="PMC6039335.nxml.gz-325" start="33670">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-326" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33830" id="PMC6039335.nxml.gz-326" start="33670">Therefore, a better method to achieve high digestibility of starch in the small intestine is required to provide high post-absorptive glucose to the host animal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-327" type="identity">
+      <class id="future_work" label=""/>
+      <span end="33696" id="PMC6039335.nxml.gz-327" start="33681">a better method</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-328" type="identity">
+      <class id="required" label=""/>
+      <span end="33771" id="PMC6039335.nxml.gz-328" start="33763">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-329" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34071" id="PMC6039335.nxml.gz-329" start="33832">Pethick et al [69] reported that a high level of diet processing can increase the accessibility of dietary starch granules for both rumen and small intestine amylases, resulting in maximum glucose availability to the fattening animal [113]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3091" id="PMC6039335.nxml.gz-33" start="2861">Several countries, including Korea, Japan, Australia and the USA, have considered IMF content as important to beef quality grade (QG), whereas European countries, including France and Germany, prefer leaner meat (less IMF content)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-330" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33900" id="PMC6039335.nxml.gz-330" start="33897">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-331" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34324" id="PMC6039335.nxml.gz-331" start="34187">Grain type and processing affect IMF content [115]: maize is more effective at increasing IMF content than is barley, followed by sorghum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-332" type="identity">
+      <class id="affect" label=""/>
+      <span end="34219" id="PMC6039335.nxml.gz-332" start="34213">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-333" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34612" id="PMC6039335.nxml.gz-333" start="34433">Bindon [115] suggested that maize produces increased glucose from digestion in the small intestine and that steam flaking increases digestion in both the rumen and small intestine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-334" type="identity">
+      <class id="suggested" label=""/>
+      <span end="34455" id="PMC6039335.nxml.gz-334" start="34446">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-335" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34883" id="PMC6039335.nxml.gz-335" start="34614">Pethick et al [69] suggested that feed that has a high glycemic index to allow rapid glucose absorption and concomitant high insulin levels through either grain feeding instead of grass finishing or grain processing provides increased net energy levels for FA synthesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-336" type="identity">
+      <class id="suggested" label=""/>
+      <span end="34642" id="PMC6039335.nxml.gz-336" start="34633">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-337" type="identity">
+      <class id="either" label=""/>
+      <span end="34768" id="PMC6039335.nxml.gz-337" start="34762">either</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-338" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="34900" id="PMC6039335.nxml.gz-338" start="34885">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-339" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35026" id="PMC6039335.nxml.gz-339" start="34885">Several studies have reported higher IMF content in high concentrate diets compared with low concentrate diets (reviewed in Wood et al [116])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-34" type="identity">
+      <class id="important" label=""/>
+      <span end="2967" id="PMC6039335.nxml.gz-34" start="2958">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-340" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35849" id="PMC6039335.nxml.gz-340" start="35552">In bulls of two Portuguese breeds (Alentejana and Barrosã), the effects of high (70% concentrate 30% maize silage) and low isoenergetic and isonitrogenous concentrates (30% concentrate 70% maize silage) on IMF contents were examined in the longissimus lumborum and the semitendinosus muscles [119]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-341" type="identity">
+      <class id="effects" label=""/>
+      <span end="35623" id="PMC6039335.nxml.gz-341" start="35616">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-342" type="identity">
+      <class id="however" label=""/>
+      <span end="36004" id="PMC6039335.nxml.gz-342" start="35997">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-343" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36153" id="PMC6039335.nxml.gz-343" start="35997">However, this difference was not observed in Alentejana bulls, indicating a breed difference in IMF content in response to the roughage-to-concentrate ratio</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-344" type="identity">
+      <class id="not_observed" label=""/>
+      <span end="36038" id="PMC6039335.nxml.gz-344" start="36026">not observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-345" type="identity">
+      <class id="indicating" label=""/>
+      <span end="36070" id="PMC6039335.nxml.gz-345" start="36060">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-346" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36315" id="PMC6039335.nxml.gz-346" start="36272">Similarly, dietary forage level affected MS</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-347" type="identity">
+      <class id="affected" label=""/>
+      <span end="36312" id="PMC6039335.nxml.gz-347" start="36304">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-348" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36805" id="PMC6039335.nxml.gz-348" start="36616">The effects of roughage/concentrate ratio on body fat deposition and the expression of angiogenic and adipogenic factors in adipose tissue have been examined in fattening Wagyu steers [122]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-349" type="identity">
+      <class id="effects" label=""/>
+      <span end="36627" id="PMC6039335.nxml.gz-349" start="36620">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-35" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="3003" id="PMC6039335.nxml.gz-35" start="2996">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-350" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="37173" id="PMC6039335.nxml.gz-350" start="37166">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-351" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37283" id="PMC6039335.nxml.gz-351" start="37166">However, fat weights in the subcutaneous, mesenteric, and intermuscular regions were not different between the groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-352" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37626" id="PMC6039335.nxml.gz-352" start="37285">The expression of adipogenic factors (CCAAT/enhancer binding protein beta, CCAAT/enhancer binding protein alpha, and PPARG) in the subcutaneous fat and IMF was higher in the high-concentrate group than that in the low-concentrate group, indicating that the dietary roughage/concentrate ratio affects adipogenic gene expression in fat tissues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-353" type="identity">
+      <class id="indicating" label=""/>
+      <span end="37532" id="PMC6039335.nxml.gz-353" start="37522">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-354" type="identity">
+      <class id="affects" label=""/>
+      <span end="37584" id="PMC6039335.nxml.gz-354" start="37577">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-355" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37827" id="PMC6039335.nxml.gz-355" start="37628">The same authors suggested that total IMF within the LM in the high-concentrate group might be greater than that in the low-concentrate group by stimulating intramuscular preadipocyte differentiation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-356" type="identity">
+      <class id="suggested" label=""/>
+      <span end="37654" id="PMC6039335.nxml.gz-356" start="37645">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-357" type="identity">
+      <class id="might" label=""/>
+      <span end="37719" id="PMC6039335.nxml.gz-357" start="37714">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-358" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38123" id="PMC6039335.nxml.gz-358" start="37829">Concentrate diets are generally a major glucose source through either production of rumen propionate or glucose absorption from the small intestine from a rumen-bypassed concentrate, as described above, whereas roughage is a major acetate source that results from the rumen fermentation process</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-359" type="identity">
+      <class id="generally" label=""/>
+      <span end="37860" id="PMC6039335.nxml.gz-359" start="37851">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3239" id="PMC6039335.nxml.gz-36" start="3093">Understanding the factors affecting IMF deposition and the mechanisms responsible for its deposition is important when manipulating IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-360" type="identity">
+      <class id="either" label=""/>
+      <span end="37898" id="PMC6039335.nxml.gz-360" start="37892">either</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-361" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="38039" id="PMC6039335.nxml.gz-361" start="38032">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-362" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38331" id="PMC6039335.nxml.gz-362" start="38125">Higher IMF deposition with higher concentrate feeding may occur if IMF preferentially uses glucose as a substrate for FA synthesis, while subcutaneous fat uses acetate, as described by Smith and Crouse [88]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-363" type="identity">
+      <class id="may" label=""/>
+      <span end="38182" id="PMC6039335.nxml.gz-363" start="38179">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-364" type="identity">
+      <class id="if" label=""/>
+      <span end="38191" id="PMC6039335.nxml.gz-364" start="38189">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-365" type="identity">
+      <class id="while" label=""/>
+      <span end="38262" id="PMC6039335.nxml.gz-365" start="38257">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-366" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38632" id="PMC6039335.nxml.gz-366" start="38368">Studies in pigs indicate that a deficiency of essential amino acids such as lysine increases IMF content [123,124], and it has been suggested that an amino acid imbalance relative to energy levels may increase IMF content in cattle (reviewed in Pethick et al [69])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-367" type="identity">
+      <class id="indicate" label=""/>
+      <span end="38392" id="PMC6039335.nxml.gz-367" start="38384">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-368" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="38509" id="PMC6039335.nxml.gz-368" start="38491">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-369" type="identity">
+      <class id="may" label=""/>
+      <span end="38568" id="PMC6039335.nxml.gz-369" start="38565">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-37" type="identity">
+      <class id="affecting" label=""/>
+      <span end="3128" id="PMC6039335.nxml.gz-37" start="3119">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-370" type="identity">
+      <class id="limited" label=""/>
+      <span end="38641" id="PMC6039335.nxml.gz-370" start="38634">Limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-371" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38745" id="PMC6039335.nxml.gz-371" start="38634">Limited information is available on the effects of the dietary energy-to-protein ratio on IMF content in cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-372" type="identity">
+      <class id="effects" label=""/>
+      <span end="38681" id="PMC6039335.nxml.gz-372" start="38674">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-373" type="identity">
+      <class id="effects" label=""/>
+      <span end="38754" id="PMC6039335.nxml.gz-373" start="38747">Effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-374" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="38988" id="PMC6039335.nxml.gz-374" start="38747">Effects of dietary energy (TDN: 70%, 80%; DM basis) and protein levels (crude protein [CP]: 11.9%, 14.3%; DM basis) on growth performance, carcass characteristics and meat quality were examined in F1 Angus×Chinese Xiangxi yellow cattle [125]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-375" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39142" id="PMC6039335.nxml.gz-375" start="38990">Steers in the high-energy group had greater LM IMF content than those in the low-energy group, whereas dietary protein levels did not affect IMF content</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-376" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="39092" id="PMC6039335.nxml.gz-376" start="39085">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-377" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39569" id="PMC6039335.nxml.gz-377" start="39453">However, dietary protein levels do not affect IMF deposition in Angus or Shorthorn steers (reviewed in Bindon [115])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-378" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-379" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="39460" id="PMC6039335.nxml.gz-379" start="39453">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-38" type="identity">
+      <class id="important" label=""/>
+      <span end="3206" id="PMC6039335.nxml.gz-38" start="3197">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-380" type="identity">
+      <class id="therefore" label=""/>
+      <span end="39580" id="PMC6039335.nxml.gz-380" start="39571">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-381" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39710" id="PMC6039335.nxml.gz-381" start="39571">Therefore, current studies are inconsistent in their results and conclusions on the effects of dietary protein levels affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-382" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="39597" id="PMC6039335.nxml.gz-382" start="39582">current studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-383" type="identity">
+      <class id="inconsistent" label=""/>
+      <span end="39614" id="PMC6039335.nxml.gz-383" start="39602">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-384" type="identity">
+      <class id="effects" label=""/>
+      <span end="39662" id="PMC6039335.nxml.gz-384" start="39655">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-385" type="identity">
+      <class id="affect" label=""/>
+      <span end="39695" id="PMC6039335.nxml.gz-385" start="39689">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-386" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="39815" id="PMC6039335.nxml.gz-386" start="39722">Several vitamins, including vitamins A, D, and C, are implicated in regulating IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-387" type="identity">
+      <class id="implicated" label=""/>
+      <span end="39786" id="PMC6039335.nxml.gz-387" start="39776">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-388" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40233" id="PMC6039335.nxml.gz-388" start="40104">A negative correlation was observed between serum retinol concentrations and carcass MS values in Japanese Black cattle [130,131]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-389" type="identity">
+      <class id="correlation" label=""/>
+      <span end="40126" id="PMC6039335.nxml.gz-389" start="40115">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4034" id="PMC6039335.nxml.gz-39" start="3567">Factors affecting IMF deposition can be sub-categorized into genetic (breed and sex differences, heritability), management (weaning age, castration, slaughter weight and age, and environment), and nutritional factors (fat metabolism, fat digestion and absorption, glucose/starch availability, roughage vs concentrate ratio, dietary energy and protein levels, vitamins A, D, and C levels, fetal and neonatal nutritional programming, and stage-specific feeding systems)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-390" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="40250" id="PMC6039335.nxml.gz-390" start="40235">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-391" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40403" id="PMC6039335.nxml.gz-391" start="40235">Several studies have shown that restricting vitamin A in the diet, or low beta-carotene (a precursor of vitamin A) intake, increases body fat, including IMF, deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-392" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="40261" id="PMC6039335.nxml.gz-392" start="40251">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-393" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="40979" id="PMC6039335.nxml.gz-393" start="40842">The appropriate age for, and duration of, vitamin A deple tion or supplementation have been suggested as important factors that affect MS</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-394" type="identity">
+      <class id="suggested" label=""/>
+      <span end="40943" id="PMC6039335.nxml.gz-394" start="40934">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-395" type="identity">
+      <class id="important" label=""/>
+      <span end="40956" id="PMC6039335.nxml.gz-395" start="40947">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-396" type="identity">
+      <class id="affect" label=""/>
+      <span end="40976" id="PMC6039335.nxml.gz-396" start="40970">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-397" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41349" id="PMC6039335.nxml.gz-397" start="41172">They suggested that serum vitamin A level affects the LM MS during the early fattening stage and that restricting vitamin A during the later stages of growth affects growth rate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-398" type="identity">
+      <class id="suggested" label=""/>
+      <span end="41186" id="PMC6039335.nxml.gz-398" start="41177">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-399" type="identity">
+      <class id="affects" label=""/>
+      <span end="41221" id="PMC6039335.nxml.gz-399" start="41214">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-4" type="identity">
+      <class id="important" label=""/>
+      <span end="272" id="PMC6039335.nxml.gz-4" start="263">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-40" type="identity">
+      <class id="affecting" label=""/>
+      <span end="3584" id="PMC6039335.nxml.gz-40" start="3575">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-400" type="identity">
+      <class id="affects" label=""/>
+      <span end="41337" id="PMC6039335.nxml.gz-400" start="41330">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-401" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41642" id="PMC6039335.nxml.gz-401" start="41351">Oka et al [134] recommended selective restriction of dietary vitamin A from 14 to 22 or 25 months of age to improve MS and QG without adverse health effects (blindness, arthritis, and muscular edema), given the effect of vitamin A restriction from 23 months of age in improving MS is minimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-402" type="identity">
+      <class id="recommended" label=""/>
+      <span end="41378" id="PMC6039335.nxml.gz-402" start="41367">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-403" type="identity">
+      <class id="effects" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-404" type="identity">
+      <class id="effect" label=""/>
+      <span end="41568" id="PMC6039335.nxml.gz-404" start="41562">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-405" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="41832" id="PMC6039335.nxml.gz-405" start="41644">Continuous dietary vitamin A restriction during the late fattening phase is not recommended because prolonged vitamin A restriction may lead to health problems and retard growth rate [130]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-406" type="identity">
+      <class id="recommended" label=""/>
+      <span end="41735" id="PMC6039335.nxml.gz-406" start="41724">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-407" type="identity">
+      <class id="may" label=""/>
+      <span end="41779" id="PMC6039335.nxml.gz-407" start="41776">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-408" type="identity">
+      <class id="problems" label=""/>
+      <span end="41803" id="PMC6039335.nxml.gz-408" start="41795">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-409" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="42158" id="PMC6039335.nxml.gz-409" start="41960">A continuous supply of normal levels of dietary vitamin A during the entire growth period may also result in poor marbling and QG, even if the growth rate were normal and no health problems occurred</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-41" type="identity">
+      <class id="differences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-410" type="identity">
+      <class id="may" label=""/>
+      <span end="42053" id="PMC6039335.nxml.gz-410" start="42050">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-411" type="identity">
+      <class id="even" label=""/>
+      <span end="42095" id="PMC6039335.nxml.gz-411" start="42091">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-412" type="identity">
+      <class id="if" label=""/>
+      <span end="42098" id="PMC6039335.nxml.gz-412" start="42096">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-413" type="identity">
+      <class id="problems" label=""/>
+      <span end="42149" id="PMC6039335.nxml.gz-413" start="42141">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-414" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="42345" id="PMC6039335.nxml.gz-414" start="42160">Kawachi [137] described that the number of adipocytes increases in muscle between 13 and 19 months of age, so feeding a vitamin A-deficient diet during this stage may stimulate marbling</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-415" type="identity">
+      <class id="may" label=""/>
+      <span end="42326" id="PMC6039335.nxml.gz-415" start="42323">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-416" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="42567" id="PMC6039335.nxml.gz-416" start="42347">The appropriate concentration range for restriction of vita min A has been suggested as an important factor for enhancing MS and preventing health-related problems, including the incidence of blindness and muscular edema</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-417" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="42431" id="PMC6039335.nxml.gz-417" start="42413">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-418" type="identity">
+      <class id="important" label=""/>
+      <span end="42447" id="PMC6039335.nxml.gz-418" start="42438">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-419" type="identity">
+      <class id="problems" label=""/>
+      <span end="42510" id="PMC6039335.nxml.gz-419" start="42502">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-42" type="identity">
+      <class id="here" label=""/>
+      <span end="4040" id="PMC6039335.nxml.gz-42" start="4036">Here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-420" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="42888" id="PMC6039335.nxml.gz-420" start="42777">Oka [134] recommended that vitamin A-deficient levels not fall below 30 IU/dL to enhance MS and maintain health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-421" type="identity">
+      <class id="recommended" label=""/>
+      <span end="42798" id="PMC6039335.nxml.gz-421" start="42787">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-422" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="43271" id="PMC6039335.nxml.gz-422" start="43048">Ward et al [140] examined nutrigenetic interactions between the alcohol dehydrogenase 1C ( ADH1C ) single nucleotide polymorphism ( ADH1C c.-64T&gt;C) and vitamin A levels and the impact on IMF deposition in Angus-cross steers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-423" type="identity">
+      <class id="interactions" label=""/>
+      <span end="43099" id="PMC6039335.nxml.gz-423" start="43087">interactions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-424" type="identity">
+      <class id="impact" label=""/>
+      <span end="43231" id="PMC6039335.nxml.gz-424" start="43225">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-425" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="43399" id="PMC6039335.nxml.gz-425" start="43273">A significant interaction was detected between ADH1C c.-64T&gt;C genotype and vitamin A supplementation for IMF content in the LM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-426" type="identity">
+      <class id="interaction" label=""/>
+      <span end="43298" id="PMC6039335.nxml.gz-426" start="43287">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-427" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="43943" id="PMC6039335.nxml.gz-427" start="43727">They concluded that the TT genotype of ADH1C c.-64T&gt;C is related to greater IMF than the CC genotype when vitamin A is restricted, and ADH1C c.-64T&gt;C could be a genetic marker for enhancing marbling in feedlot steers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-428" type="identity">
+      <class id="related" label=""/>
+      <span end="43791" id="PMC6039335.nxml.gz-428" start="43784">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-429" type="identity">
+      <class id="could_be" label=""/>
+      <span end="43885" id="PMC6039335.nxml.gz-429" start="43877">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4105" id="PMC6039335.nxml.gz-43" start="4036">Here, we also review these factors affecting IMF deposition in cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-430" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="44179" id="PMC6039335.nxml.gz-430" start="44170">One study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-431" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44303" id="PMC6039335.nxml.gz-431" start="44170">One study reported that 1,25-dihydroxyvitamin D3inhibited lipid accumulation by inhibiting key adipogenic factors such as PPARG [143]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-432" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44430" id="PMC6039335.nxml.gz-432" start="44305">Wang et al [144] suggested that the vitamin D receptor (VDR) competes with PPARG for binding to the retinoid X receptor (RXR)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-433" type="identity">
+      <class id="suggested" label=""/>
+      <span end="44331" id="PMC6039335.nxml.gz-433" start="44322">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-434" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44547" id="PMC6039335.nxml.gz-434" start="44432">Higher VDR/RXR binding may decrease formation of the PPARG/RXR heterodimer, thus inhibiting adipogenesis (Figure 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-435" type="identity">
+      <class id="may" label=""/>
+      <span end="44458" id="PMC6039335.nxml.gz-435" start="44455">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-436" type="identity">
+      <class id="thus" label=""/>
+      <span end="44512" id="PMC6039335.nxml.gz-436" start="44508">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-437" type="identity">
+      <class id="few...studies" label=""/>
+      <span end="44552" id="PMC6039335.nxml.gz-437" start="44549">Few</span>
+      <span end="44568" id="PMC6039335.nxml.gz-438" start="44561">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-439" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44632" id="PMC6039335.nxml.gz-439" start="44549">Few in vivo studies have been performed on the effect of vitamin D on beef marbling</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-44" type="identity">
+      <class id="affecting" label=""/>
+      <span end="4080" id="PMC6039335.nxml.gz-44" start="4071">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-440" type="identity">
+      <class id="have...been" label=""/>
+      <span end="44578" id="PMC6039335.nxml.gz-440" start="44569">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-441" type="identity">
+      <class id="effect" label=""/>
+      <span end="44602" id="PMC6039335.nxml.gz-441" start="44596">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-442" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44776" id="PMC6039335.nxml.gz-442" start="44634">While vitamin A restriction improves marbling, but vitamin D restriction did not significantly affect marbling in Angus crossbred steers [133]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-443" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="44639" id="PMC6039335.nxml.gz-443" start="44634">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-445" type="identity">
+      <class id="affect" label=""/>
+      <span end="44735" id="PMC6039335.nxml.gz-445" start="44729">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-446" type="identity">
+      <class id="further_study" label=""/>
+      <span end="44791" id="PMC6039335.nxml.gz-446" start="44778">Further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-447" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44873" id="PMC6039335.nxml.gz-447" start="44778">Further study is needed to clarify the effects of dietary vitamin D on MS and QG in beef cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-448" type="identity">
+      <class id="study...is_needed" label=""/>
+      <span end="44791" id="PMC6039335.nxml.gz-448" start="44786">study</span>
+      <span end="44801" id="PMC6039335.nxml.gz-449" start="44792">is needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4837" id="PMC6039335.nxml.gz-45" start="4653">It is important to identify the mechanisms responsible for initial muscle and fat cell growth during the developmental stage of cattle to better understand IMF deposition in later life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-450" type="identity">
+      <class id="effects" label=""/>
+      <span end="44824" id="PMC6039335.nxml.gz-450" start="44817">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-451" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45010" id="PMC6039335.nxml.gz-451" start="44875">Smith et al [145] suggested a possible connection between 1,25-dihydroxyvitamin D3and calcium homeostasis in the regulation of marbling</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-452" type="identity">
+      <class id="suggested" label=""/>
+      <span end="44902" id="PMC6039335.nxml.gz-452" start="44893">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-453" type="identity">
+      <class id="possible" label=""/>
+      <span end="44913" id="PMC6039335.nxml.gz-453" start="44905">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-454" type="identity">
+      <class id="connection" label=""/>
+      <span end="44924" id="PMC6039335.nxml.gz-454" start="44914">connection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-455" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45181" id="PMC6039335.nxml.gz-455" start="45012">The increase in blood 1,25-dihydroxyvitamin D3levels in response to decreased calcium intake may downregulate preadipocyte differentiation, thus decreasing beef marbling</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-456" type="identity">
+      <class id="may" label=""/>
+      <span end="45108" id="PMC6039335.nxml.gz-456" start="45105">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-457" type="identity">
+      <class id="thus" label=""/>
+      <span end="45156" id="PMC6039335.nxml.gz-457" start="45152">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-458" type="identity">
+      <class id="thus" label=""/>
+      <span end="45337" id="PMC6039335.nxml.gz-458" start="45333">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-459" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45422" id="PMC6039335.nxml.gz-459" start="45333">Thus, the dietary vitamin C requirement for beef cattle is not specified in the NRC [146]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-46" type="identity">
+      <class id="important" label=""/>
+      <span end="4668" id="PMC6039335.nxml.gz-46" start="4659">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-463" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45600" id="PMC6039335.nxml.gz-463" start="45544">In addition, vitamin C may help to regulate adipogenesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-464" type="identity">
+      <class id="may" label=""/>
+      <span end="45570" id="PMC6039335.nxml.gz-464" start="45567">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-465" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45761" id="PMC6039335.nxml.gz-465" start="45602">Vitamin C increased preadipocyte growth of 3T3 L1 cells [148] and also had a positive effect on differentiation of sheep preadipocytes in primary culture [149]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-466" type="identity">
+      <class id="effect" label=""/>
+      <span end="45694" id="PMC6039335.nxml.gz-466" start="45688">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-467" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45896" id="PMC6039335.nxml.gz-467" start="45763">A rumen-protected form of vitamin C is preferred as a dietary supplement because vitamin C is most likely degraded in the rumen [146]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-468" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="45811" id="PMC6039335.nxml.gz-468" start="45802">preferred</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-469" type="identity">
+      <class id="most_likely" label=""/>
+      <span end="45868" id="PMC6039335.nxml.gz-469" start="45857">most likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-47" type="identity">
+      <class id="better_understand" label=""/>
+      <span end="4808" id="PMC6039335.nxml.gz-47" start="4791">better understand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-470" type="identity">
+      <class id="further_study" label=""/>
+      <span end="46350" id="PMC6039335.nxml.gz-470" start="46337">Further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-471" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="46451" id="PMC6039335.nxml.gz-471" start="46337">Further study is necessary to clarify the effects of dietary vitamin C on MS and QG in other breeds of beef cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-472" type="identity">
+      <class id="necessary" label=""/>
+      <span end="46363" id="PMC6039335.nxml.gz-472" start="46354">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-473" type="identity">
+      <class id="effects" label=""/>
+      <span end="46386" id="PMC6039335.nxml.gz-473" start="46379">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-475" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="46660" id="PMC6039335.nxml.gz-475" start="46484">Fetal programming or prenatal programing is the concept that mammalian embryonic and fetal development are linked to environmental changes, thus affecting the entire life [152]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-476" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="46539" id="PMC6039335.nxml.gz-476" start="46528">the concept</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-477" type="identity">
+      <class id="linked" label=""/>
+      <span end="46597" id="PMC6039335.nxml.gz-477" start="46591">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-478" type="identity">
+      <class id="thus" label=""/>
+      <span end="46628" id="PMC6039335.nxml.gz-478" start="46624">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-479" type="identity">
+      <class id="affecting" label=""/>
+      <span end="46638" id="PMC6039335.nxml.gz-479" start="46629">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5301" id="PMC6039335.nxml.gz-48" start="5178">Du et al [16] proposed that myogenic, adipogenic, and fibrogenic cells are derived from common mesenchymal progenitor cells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-480" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="46772" id="PMC6039335.nxml.gz-480" start="46662">The development of adipose tissue coincides with myogenesis during a particular time in fetal development [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-481" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="46705" id="PMC6039335.nxml.gz-481" start="46696">coincides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-482" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="46926" id="PMC6039335.nxml.gz-482" start="46774">The gestation period is very important because it determines the fate of progenitor cells that will become muscle cells, fibroblasts, or adipocytes [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-483" type="identity">
+      <class id="important" label=""/>
+      <span end="46812" id="PMC6039335.nxml.gz-483" start="46803">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-484" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="47070" id="PMC6039335.nxml.gz-484" start="46928">Nutritional manipulation of the fetus during gestation may affect animal performance and modify the quality and quantity of livestock products</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-485" type="identity">
+      <class id="may" label=""/>
+      <span end="46986" id="PMC6039335.nxml.gz-485" start="46983">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-486" type="identity">
+      <class id="affect" label=""/>
+      <span end="46993" id="PMC6039335.nxml.gz-486" start="46987">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-487" type="identity">
+      <class id="therefore" label=""/>
+      <span end="47081" id="PMC6039335.nxml.gz-487" start="47072">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-488" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="47214" id="PMC6039335.nxml.gz-488" start="47072">Therefore, fetal nutritional programming via nutrition of dams during gestation may be one way to increase marbling in offspring later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-489" type="identity">
+      <class id="may_be" label=""/>
+      <span end="47158" id="PMC6039335.nxml.gz-489" start="47152">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-49" type="identity">
+      <class id="proposed" label=""/>
+      <span end="5200" id="PMC6039335.nxml.gz-49" start="5192">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-490" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="47231" id="PMC6039335.nxml.gz-490" start="47216">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-491" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="47332" id="PMC6039335.nxml.gz-491" start="47216">Several studies have shown that fetal nutritional programming affects growth and/or beef quality, including marbling</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-492" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="47242" id="PMC6039335.nxml.gz-492" start="47232">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-493" type="identity">
+      <class id="affects" label=""/>
+      <span end="47285" id="PMC6039335.nxml.gz-493" start="47278">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-494" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="47513" id="PMC6039335.nxml.gz-494" start="47334">For example, the effects of a 30% nutrient restriction in cows at early to mid-gestation on offspring (steers and heifers) growth and adiposity were tested in Angus×Gelbvieh [153]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-495" type="identity">
+      <class id="effects" label=""/>
+      <span end="47358" id="PMC6039335.nxml.gz-495" start="47351">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-496" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="47755" id="PMC6039335.nxml.gz-496" start="47515">Adipocyte diameter in subcutaneous, mesenteric, and omental fat was larger in offspring of dams nutritionally restricted than in animals from dams with normal dietary intake (100% of NRC recommendations), but marbling data were not reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-497" type="identity">
+      <class id="recommendations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-498" type="identity">
+      <class id="not_reported" label=""/>
+      <span end="47755" id="PMC6039335.nxml.gz-498" start="47743">not reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-499" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="47863" id="PMC6039335.nxml.gz-499" start="47757">In their study, YG was reduced, and HCW tended to be reduced in offspring of dams nutritionally restricted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="452" id="PMC6039335.nxml.gz-5" start="385">Genetics and breed, management, and nutrition affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5466" id="PMC6039335.nxml.gz-50" start="5303">Briefly, they proposed that mesenchymal stem cells are first committed to the myogenic and adipogenic–fibrogenic cell lineages during fetal muscle development [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-500" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="47803" id="PMC6039335.nxml.gz-500" start="47797">tended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-501" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="48114" id="PMC6039335.nxml.gz-501" start="47865">In addition, nutritional restriction during early and mid gestation reduced ovarian characteristics (wet ovary weight, luteal tissue weight) of heifers, indicating negative effects of fetal programming on productive efficiency of replacement heifers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-502" type="identity">
+      <class id="indicating" label=""/>
+      <span end="48028" id="PMC6039335.nxml.gz-502" start="48018">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-503" type="identity">
+      <class id="effects" label=""/>
+      <span end="48045" id="PMC6039335.nxml.gz-503" start="48038">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-506" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="48607" id="PMC6039335.nxml.gz-506" start="48469">This study indicates little or no effect of reduced maternal energy status during midgestation on offspring IMF deposition and muscle mass</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-507" type="identity">
+      <class id="indicates" label=""/>
+      <span end="48489" id="PMC6039335.nxml.gz-507" start="48480">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-508" type="identity">
+      <class id="effect" label=""/>
+      <span end="48509" id="PMC6039335.nxml.gz-508" start="48503">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-509" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="49085" id="PMC6039335.nxml.gz-509" start="48609">Improving the nutritional condition of cows during pregnancy affects growth, fat deposition, and beef quality in steers; steers from cows grazing with better pasture (Thinopyrum–Elymus–Psathrystachus, CP 11.1% to 6.0%) during mid- to late gestation had greater live body weight at slaughter, HCW, and tenderness, and had an increased tendency for IMF deposition compared with offspring of cows grazing on native range (Bouteloua–Hesperostipa–Pascopyron, CP 6.5% to 5.4%) [155]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-51" type="identity">
+      <class id="proposed" label=""/>
+      <span end="5325" id="PMC6039335.nxml.gz-51" start="5317">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-510" type="identity">
+      <class id="affects" label=""/>
+      <span end="48677" id="PMC6039335.nxml.gz-510" start="48670">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-511" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="48951" id="PMC6039335.nxml.gz-511" start="48943">tendency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-512" type="identity">
+      <class id="effects" label=""/>
+      <span end="49094" id="PMC6039335.nxml.gz-512" start="49087">Effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-513" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="49420" id="PMC6039335.nxml.gz-513" start="49087">Effects of nutritional restriction from early gestation to parturition and/or throughout lactation on offspring growth and production characteristics to 30 mo of age and health and reproductive performance of cows were studied in large maternal grazing systems with offspring of Hereford cows mated to Piedmontese or Wagyu sires [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-516" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="49784" id="PMC6039335.nxml.gz-516" start="49680">However, the fetal programming did not significantly affect beef quality characteristics at 30 mo of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-517" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-518" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="49687" id="PMC6039335.nxml.gz-518" start="49680">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-519" type="identity">
+      <class id="affect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5911" id="PMC6039335.nxml.gz-52" start="5760">Du et al [17] suggested that a shift in development of mesenchymal stem cells from myogenesis to adipogenesis may increase IMF deposition later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-520" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="50062" id="PMC6039335.nxml.gz-520" start="49786">In addition, authors emphasize importance of survival and health of cows and calves and of subsequent reproductive performance of cows for relative contribution of fetal programming to the profitability of beef production systems when developmental programming is applied [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-521" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="49816" id="PMC6039335.nxml.gz-521" start="49807">emphasize</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-522" type="identity">
+      <class id="importance" label=""/>
+      <span end="49827" id="PMC6039335.nxml.gz-522" start="49817">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-523" type="identity">
+      <class id="contribution" label=""/>
+      <span end="49946" id="PMC6039335.nxml.gz-523" start="49934">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-524" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="50290" id="PMC6039335.nxml.gz-524" start="50064">Radunz et al [156] tested the effects of three maternal late- gestational dietary energy sources (grass hay, corn, and dried corn distillers grains with solubles) on progeny postnatal growth and beef MS in an Angus cross-breed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-525" type="identity">
+      <class id="effects" label=""/>
+      <span end="50101" id="PMC6039335.nxml.gz-525" start="50094">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-526" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="50765" id="PMC6039335.nxml.gz-526" start="50585">The authors suggested that the prepartum maternal dietary energy source during late gestation can alter the development of fetal adipose tissue, affecting IMF deposition in progeny</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-527" type="identity">
+      <class id="suggested" label=""/>
+      <span end="50606" id="PMC6039335.nxml.gz-527" start="50597">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-528" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="50682" id="PMC6039335.nxml.gz-528" start="50679">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-529" type="identity">
+      <class id="affecting" label=""/>
+      <span end="50739" id="PMC6039335.nxml.gz-529" start="50730">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-53" type="identity">
+      <class id="suggested" label=""/>
+      <span end="5783" id="PMC6039335.nxml.gz-53" start="5774">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-530" type="identity">
+      <class id="however" label=""/>
+      <span end="50774" id="PMC6039335.nxml.gz-530" start="50767">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-531" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="50977" id="PMC6039335.nxml.gz-531" start="50767">However, studies during postnatal periods (after weaning or finishing period) show that feeding a high starch diet along with early weaning in steers generally increased marbling, as described above [51,53,157]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-532" type="identity">
+      <class id="generally" label=""/>
+      <span end="50926" id="PMC6039335.nxml.gz-532" start="50917">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-533" type="identity">
+      <class id="thus" label=""/>
+      <span end="50983" id="PMC6039335.nxml.gz-533" start="50979">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-534" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="51100" id="PMC6039335.nxml.gz-534" start="50979">Thus, the dietary energy source may differentially influence marbling and IMF deposition, depending on the feeding period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-535" type="identity">
+      <class id="may" label=""/>
+      <span end="51014" id="PMC6039335.nxml.gz-535" start="51011">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-536" type="identity">
+      <class id="influence" label=""/>
+      <span end="51039" id="PMC6039335.nxml.gz-536" start="51030">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-537" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="51081" id="PMC6039335.nxml.gz-537" start="51069">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-538" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="51356" id="PMC6039335.nxml.gz-538" start="51102">Overall, nutritional manipulation during the early, mid-, or late gestation period may affects adiposity or marbling of beef, but these effects are generally small and often masked by postnatal nutritional status, as mentioned by Bell and Greenwood [158]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-539" type="identity">
+      <class id="may" label=""/>
+      <span end="51188" id="PMC6039335.nxml.gz-539" start="51185">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-54" type="identity">
+      <class id="may" label=""/>
+      <span end="5873" id="PMC6039335.nxml.gz-54" start="5870">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-540" type="identity">
+      <class id="affects" label=""/>
+      <span end="51196" id="PMC6039335.nxml.gz-540" start="51189">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-541" type="identity">
+      <class id="effects" label=""/>
+      <span end="51245" id="PMC6039335.nxml.gz-541" start="51238">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-542" type="identity">
+      <class id="generally" label=""/>
+      <span end="51259" id="PMC6039335.nxml.gz-542" start="51250">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-543" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="51282" id="PMC6039335.nxml.gz-543" start="51276">masked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-544" type="identity">
+      <class id="further_study" label=""/>
+      <span end="51371" id="PMC6039335.nxml.gz-544" start="51358">Further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-545" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="51606" id="PMC6039335.nxml.gz-545" start="51358">Further study is warranted to understand what mechanisms affect the adipogenic potential by nutritional modulation during the fetal period at specific gestation stages, thereafter affecting marbling and IMF deposition at the progeny slaughter stage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-546" type="identity">
+      <class id="is_warranted" label=""/>
+      <span end="51384" id="PMC6039335.nxml.gz-546" start="51372">is warranted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-547" type="identity">
+      <class id="what" label=""/>
+      <span end="51403" id="PMC6039335.nxml.gz-547" start="51399">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-548" type="identity">
+      <class id="affect" label=""/>
+      <span end="51421" id="PMC6039335.nxml.gz-548" start="51415">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-549" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6574" id="PMC6039335.nxml.gz-55" start="6437">It has been suggested that adipocyte formation in muscle begins approximately between late gestation and 250 d after birth in cattle [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-550" type="identity">
+      <class id="affecting" label=""/>
+      <span end="51547" id="PMC6039335.nxml.gz-550" start="51538">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-551" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="51785" id="PMC6039335.nxml.gz-551" start="51608">Proper nutritional levels and proper selection of the types of energy sources for dams during each period of gestation stages may improve future production efficiency of progeny</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-552" type="identity">
+      <class id="may" label=""/>
+      <span end="51737" id="PMC6039335.nxml.gz-552" start="51734">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-553" type="identity">
+      <class id="future" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-554" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="51752" id="PMC6039335.nxml.gz-554" start="51746">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-555" type="identity">
+      <class id="some" label=""/>
+      <span end="51791" id="PMC6039335.nxml.gz-555" start="51787">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-556" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="51911" id="PMC6039335.nxml.gz-556" start="51787">Some of the results presented above suggest restricted nutrition at certain stages of pregnancy has more favourable outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-557" type="identity">
+      <class id="suggest" label=""/>
+      <span end="51830" id="PMC6039335.nxml.gz-557" start="51823">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-558" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="52066" id="PMC6039335.nxml.gz-558" start="51913">Bell and Greenwood [158] also suggest that effects of fetal programming during early-mid-gestation on postnatal growth or composition are generally minor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-559" type="identity">
+      <class id="suggest" label=""/>
+      <span end="51950" id="PMC6039335.nxml.gz-559" start="51943">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-56" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="6458" id="PMC6039335.nxml.gz-56" start="6440">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-560" type="identity">
+      <class id="effects" label=""/>
+      <span end="51963" id="PMC6039335.nxml.gz-560" start="51956">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-561" type="identity">
+      <class id="generally" label=""/>
+      <span end="52060" id="PMC6039335.nxml.gz-561" start="52051">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-562" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="52369" id="PMC6039335.nxml.gz-562" start="52068">One of the mechanisms responsible for the effect of fetal nutritional programming on growth and adiposity of progeny is epigenetic modification (DNA methylation, histone modification, and microRNA) of gene expression during early development and permanent changes in offspring phenotypes in later life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-563" type="identity">
+      <class id="effect" label=""/>
+      <span end="52116" id="PMC6039335.nxml.gz-563" start="52110">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-564" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="52513" id="PMC6039335.nxml.gz-564" start="52371">Epigenetic modifications have been suggested to occur during development (fetal programming), growth, and fat deposition in cattle [13,18,159]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-565" type="identity">
+      <class id="have_been" label=""/>
+      <span end="52405" id="PMC6039335.nxml.gz-565" start="52396">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-566" type="identity">
+      <class id="suggested" label=""/>
+      <span end="52415" id="PMC6039335.nxml.gz-566" start="52406">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-567" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="52676" id="PMC6039335.nxml.gz-567" start="52515">Our previous study showed the possible involvement of DNA methylation in regulating tissue-specific expression of PPARG gene in IMF and muscle of beef cattle [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-568" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="52533" id="PMC6039335.nxml.gz-568" start="52519">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-569" type="identity">
+      <class id="possible" label=""/>
+      <span end="52553" id="PMC6039335.nxml.gz-569" start="52545">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-57" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6837" id="PMC6039335.nxml.gz-57" start="6763">Both hyperplasia and hypertrophy are involved in IMF deposition (Figure 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-570" type="identity">
+      <class id="thus" label=""/>
+      <span end="52835" id="PMC6039335.nxml.gz-570" start="52831">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-571" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="53041" id="PMC6039335.nxml.gz-571" start="52831">Thus, Korean and Japanese beef production systems have focused on production of highly marbled beef to satisfy their customers and to protect their beef industry against imported beef that has relatively low MS</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-572" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="53232" id="PMC6039335.nxml.gz-572" start="53043">As described above, several nutritional factors affect IMF deposition, and these factors must be considered to prepare a proper diet to improve marbling at the proper time in the life cycle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-573" type="identity">
+      <class id="affect" label=""/>
+      <span end="53097" id="PMC6039335.nxml.gz-573" start="53091">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-574" type="identity">
+      <class id="must...be" label=""/>
+      <span end="53139" id="PMC6039335.nxml.gz-574" start="53132">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-575" type="identity">
+      <class id="considered" label=""/>
+      <span end="53150" id="PMC6039335.nxml.gz-575" start="53140">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-576" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-577" type="identity">
+      <class id="generally" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-578" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="53992" id="PMC6039335.nxml.gz-578" start="53831">In addition, Japanese farmers generally restrict vitamin A levels in the diet during the mid-fattening stage to produce highly marbled Japanese Black cattle beef</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-579" type="identity">
+      <class id="generally" label=""/>
+      <span end="53870" id="PMC6039335.nxml.gz-579" start="53861">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-58" type="identity">
+      <class id="involved" label=""/>
+      <span end="6808" id="PMC6039335.nxml.gz-58" start="6800">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-580" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="54118" id="PMC6039335.nxml.gz-580" start="53994">Similarly, a growth stage-specific feeding system has generally been applied to Korean cattle to produce highly marbled beef</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-581" type="identity">
+      <class id="generally" label=""/>
+      <span end="54057" id="PMC6039335.nxml.gz-581" start="54048">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-582" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="54368" id="PMC6039335.nxml.gz-582" start="54269">The feeding strategy for highly marbled Korean cattle beef has been also described by Jo et al [96]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-583" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="54289" id="PMC6039335.nxml.gz-583" start="54281">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-584" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="55552" id="PMC6039335.nxml.gz-584" start="55416">In this article, we reviewed several factors (genetic, management, and nutritional factors) affecting IMF deposition in cattle (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-585" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="55431" id="PMC6039335.nxml.gz-585" start="55419">this article</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-586" type="identity">
+      <class id="affecting" label=""/>
+      <span end="55517" id="PMC6039335.nxml.gz-586" start="55508">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-587" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="55663" id="PMC6039335.nxml.gz-587" start="55554">IMF deposition can positively affect beef taste including tenderness and flavor, favoring highly marbled beef</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-588" type="identity">
+      <class id="affect" label=""/>
+      <span end="55590" id="PMC6039335.nxml.gz-588" start="55584">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-589" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56037" id="PMC6039335.nxml.gz-589" start="55835">This program has several limitations: the high proportion of concentrate in the diet and long fattening period (&gt;30 months, especially in Korean cattle and Japanese Black cattle) may increase feed costs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-59" type="identity">
+      <class id="therefore" label=""/>
+      <span end="6848" id="PMC6039335.nxml.gz-59" start="6839">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-590" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="55871" id="PMC6039335.nxml.gz-590" start="55860">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-591" type="identity">
+      <class id="limitations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-592" type="identity">
+      <class id="may" label=""/>
+      <span end="56017" id="PMC6039335.nxml.gz-592" start="56014">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-593" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56155" id="PMC6039335.nxml.gz-593" start="56039">Excess energy supplied to mature animals during the late fattening period may significantly decrease feed efficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-594" type="identity">
+      <class id="may" label=""/>
+      <span end="56116" id="PMC6039335.nxml.gz-594" start="56113">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-595" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56287" id="PMC6039335.nxml.gz-595" start="56157">This may decrease digestibility of feed, increase animal feed waste, and eventually raise issues of animal industry sustainability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-596" type="identity">
+      <class id="may" label=""/>
+      <span end="56165" id="PMC6039335.nxml.gz-596" start="56162">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-597" type="identity">
+      <class id="issues" label=""/>
+      <span end="56253" id="PMC6039335.nxml.gz-597" start="56247">issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-598" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56419" id="PMC6039335.nxml.gz-598" start="56289">Current methods to increase IMF deposition are generally limited to increasing overall body fat deposition, including inedible fat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-599" type="identity">
+      <class id="generally" label=""/>
+      <span end="56345" id="PMC6039335.nxml.gz-599" start="56336">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-6" type="identity">
+      <class id="affect" label=""/>
+      <span end="437" id="PMC6039335.nxml.gz-6" start="431">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6968" id="PMC6039335.nxml.gz-60" start="6839">Therefore, strategies that up-regulate both hyperplasia and hypertrophy of fat cells are effective ways to improve IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-600" type="identity">
+      <class id="limited" label=""/>
+      <span end="56353" id="PMC6039335.nxml.gz-600" start="56346">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-601" type="identity">
+      <class id="further_studies" label=""/>
+      <span end="56436" id="PMC6039335.nxml.gz-601" start="56421">Further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-602" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56643" id="PMC6039335.nxml.gz-602" start="56421">Further studies are needed to develop methods for producing highly marbled beef without increasing overall body fat deposition, including internal (abdominal, perirenal, mesenteric) and external (subcutaneous) inedible fat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-603" type="identity">
+      <class id="studies_are_needed" label=""/>
+      <span end="56447" id="PMC6039335.nxml.gz-603" start="56429">studies are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-604" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56725" id="PMC6039335.nxml.gz-604" start="56645">In addition, high IMF deposition may negatively affect YG (or retail beef yield)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-605" type="identity">
+      <class id="may" label=""/>
+      <span end="56681" id="PMC6039335.nxml.gz-605" start="56678">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-606" type="identity">
+      <class id="affect" label=""/>
+      <span end="56699" id="PMC6039335.nxml.gz-606" start="56693">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-607" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56894" id="PMC6039335.nxml.gz-607" start="56727">Some sires may have high breeding value for both IMF and YG, and selection of such sires is likely to be beneficial for increasing IMF deposition without decreasing YG</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-608" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-609" type="identity">
+      <class id="may" label=""/>
+      <span end="56741" id="PMC6039335.nxml.gz-609" start="56738">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-61" type="identity">
+      <class id="future_work" label=""/>
+      <span end="6860" id="PMC6039335.nxml.gz-61" start="6850">strategies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-610" type="identity">
+      <class id="likely" label=""/>
+      <span end="56825" id="PMC6039335.nxml.gz-610" start="56819">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-611" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="56998" id="PMC6039335.nxml.gz-611" start="56896">Applying a single factor (e.g., nutritional or genetic) may not be adequate to increase IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-612" type="identity">
+      <class id="may" label=""/>
+      <span end="56955" id="PMC6039335.nxml.gz-612" start="56952">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-613" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="57187" id="PMC6039335.nxml.gz-613" start="57000">Development of new fusion technologies (e.g., nutrigenomics) with genetic, epigenetic, and nutritional factors may be more efficient to optimize IMF deposition and improve feed efficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-614" type="identity">
+      <class id="new" label=""/>
+      <span end="57018" id="PMC6039335.nxml.gz-614" start="57015">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-615" type="identity">
+      <class id="may_be" label=""/>
+      <span end="57117" id="PMC6039335.nxml.gz-615" start="57111">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-616" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="57320" id="PMC6039335.nxml.gz-616" start="57189">Nutritional programming during the fetal and neonatal periods has been suggested as a promising method to manipulate IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-617" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="57269" id="PMC6039335.nxml.gz-617" start="57251">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-618" type="identity">
+      <class id="promising" label=""/>
+      <span end="57284" id="PMC6039335.nxml.gz-618" start="57275">promising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-619" type="identity">
+      <class id="further_studies" label=""/>
+      <span end="57337" id="PMC6039335.nxml.gz-619" start="57322">Further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7320" id="PMC6039335.nxml.gz-62" start="7166">The nutritional and physiological condition of the fetus and the early postnatal stage affects the number of adipocytes in adipose tissues of animals [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-620" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="57448" id="PMC6039335.nxml.gz-620" start="57322">Further studies are warranted to test the feasibility of early nutritional programming for regulating IMF deposition in cattle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-621" type="identity">
+      <class id="studies...are_warranted" label=""/>
+      <span end="57337" id="PMC6039335.nxml.gz-621" start="57330">studies</span>
+      <span end="57351" id="PMC6039335.nxml.gz-622" start="57338">are warranted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-623" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="57626" id="PMC6039335.nxml.gz-623" start="57450">There has been increasing concerns by consumers about the negative impact of extremely highly marbled beef on human health, such as cardiovascular diseases and arteriosclerosis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-624" type="identity">
+      <class id="concerns" label=""/>
+      <span end="57484" id="PMC6039335.nxml.gz-624" start="57476">concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-625" type="identity">
+      <class id="impact" label=""/>
+      <span end="57523" id="PMC6039335.nxml.gz-625" start="57517">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-626" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="57851" id="PMC6039335.nxml.gz-626" start="57628">Additional studies are warranted to produce beef with appropriate levels of IMF deposition to satisfy beef quality and taste, support human health, and sustain the animal industry, depending on the situation of each country</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-627" type="identity">
+      <class id="studies...are_warranted" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-629" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-63" type="identity">
+      <class id="affects" label=""/>
+      <span end="7260" id="PMC6039335.nxml.gz-63" start="7253">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-630" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="57821" id="PMC6039335.nxml.gz-630" start="57809">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-64" type="identity">
+      <class id="thus" label=""/>
+      <span end="7326" id="PMC6039335.nxml.gz-64" start="7322">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7431" id="PMC6039335.nxml.gz-65" start="7322">Thus, managing maternal nutrition is a potentially effective way to promote adipogenesis in fetal muscle [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-66" type="identity">
+      <class id="potentially" label=""/>
+      <span end="7372" id="PMC6039335.nxml.gz-66" start="7361">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-67" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7604" id="PMC6039335.nxml.gz-67" start="7433">Du et al [17] suggested that the order of effectiveness of nutritional management for manipulating IMF deposition is fetal stage&gt;neonatal stage&gt; weaning stage&gt;older stages</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-68" type="identity">
+      <class id="suggested" label=""/>
+      <span end="7456" id="PMC6039335.nxml.gz-68" start="7447">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-69" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7754" id="PMC6039335.nxml.gz-69" start="7606">Harper and Pethick [23] recommended that producers focus on individuals with high genetic capacity to create more preadipocytes within animal muscle</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-7" type="identity">
+      <class id="here" label=""/>
+      <span end="587" id="PMC6039335.nxml.gz-7" start="583">Here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-70" type="identity">
+      <class id="recommended" label=""/>
+      <span end="7641" id="PMC6039335.nxml.gz-70" start="7630">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8121" id="PMC6039335.nxml.gz-71" start="7893">Albrecht et al [24] reported that hyperplasia of preadipocytes also plays an important role in marbling formation during postnatal growth of IMF because new marbling flecks appear after recruitment and filling with preadipocytes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-72" type="identity">
+      <class id="important" label=""/>
+      <span end="7979" id="PMC6039335.nxml.gz-72" start="7970">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-73" type="identity">
+      <class id="role" label=""/>
+      <span end="7984" id="PMC6039335.nxml.gz-73" start="7980">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-74" type="identity">
+      <class id="thus" label=""/>
+      <span end="8566" id="PMC6039335.nxml.gz-74" start="8562">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8749" id="PMC6039335.nxml.gz-75" start="8562">Thus, during the late fattening stage of beef cattle, marbling adipocytes may grow continuously even though development of abdominal, intermuscular, and subcutaneous fat may slow or cease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-76" type="identity">
+      <class id="may" label=""/>
+      <span end="8639" id="PMC6039335.nxml.gz-76" start="8636">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-77" type="identity">
+      <class id="even" label=""/>
+      <span end="8662" id="PMC6039335.nxml.gz-77" start="8658">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-78" type="identity">
+      <class id="though" label=""/>
+      <span end="8669" id="PMC6039335.nxml.gz-78" start="8663">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-79" type="identity">
+      <class id="may" label=""/>
+      <span end="8735" id="PMC6039335.nxml.gz-79" start="8732">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="709" id="PMC6039335.nxml.gz-8" start="583">Here, we review results of research on genetic factors (breed and sex differences and heritability) that affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8881" id="PMC6039335.nxml.gz-80" start="8795">Intramuscular fat content in the LM varies significantly depending on the cattle breed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-81" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="8837" id="PMC6039335.nxml.gz-81" start="8831">varies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-82" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="8864" id="PMC6039335.nxml.gz-82" start="8852">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-84" type="identity">
+      <class id="generally" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9500" id="PMC6039335.nxml.gz-85" start="9466">
+Sex affects IMF content in the LM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-86" type="identity">
+      <class id="affects" label=""/>
+      <span end="9478" id="PMC6039335.nxml.gz-86" start="9471">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9617" id="PMC6039335.nxml.gz-87" start="9502">Castrating bulls gener ally increases IMF content in several breeds, including Korean cattle and Holstein [9,38–40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-88" type="identity">
+      <class id="generally" label=""/>
+      <span end="9529" id="PMC6039335.nxml.gz-88" start="9519">gener ally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9849" id="PMC6039335.nxml.gz-89" start="9772">Heritability of the marbling trait has been reported in several cattle breeds</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-9" type="identity">
+      <class id="affect" label=""/>
+      <span end="694" id="PMC6039335.nxml.gz-9" start="688">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-90" type="identity">
+      <class id="has_been" label=""/>
+      <span end="9815" id="PMC6039335.nxml.gz-90" start="9807">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9972" id="PMC6039335.nxml.gz-91" start="9851">Utrera and Van Vleck [41] presented estimates of heritability for cattle carcass traits in 72 studies (1962 through 2004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-92" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="9896" id="PMC6039335.nxml.gz-92" start="9887">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10609" id="PMC6039335.nxml.gz-93" start="10527">The genetic potential of individual cattle can significantly affect IMF deposition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-94" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-95" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10573" id="PMC6039335.nxml.gz-95" start="10570">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-96" type="identity">
+      <class id="affect" label=""/>
+      <span end="10594" id="PMC6039335.nxml.gz-96" start="10588">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10839" id="PMC6039335.nxml.gz-97" start="10611">Greenwood et al [30] conducted a study to test effects of genotypes and nutrition during the immediate postweaning period on IMF contents in 5 muscles, marbling, and subcutaneous fat (rib fat or P8 rump fat) in Bos Taurus steers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-98" type="identity">
+      <class id="effects" label=""/>
+      <span end="10665" id="PMC6039335.nxml.gz-98" start="10658">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6039335.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11339" id="PMC6039335.nxml.gz-99" start="11123">Following weaning, steers were grown with a forage-only system and forage with high-energy supplemented system to test effects of a high-energy grain-based substitution on fat deposition with 5 times serial slaughter</span>
+    </annotation>
+  </document>
+</knowtator-project>

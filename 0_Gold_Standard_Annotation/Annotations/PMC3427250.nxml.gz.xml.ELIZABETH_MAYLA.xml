@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3427250.nxml.gz" text-file="PMC3427250.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="271" id="PMC3427250.nxml.gz-1" start="103">An increasing number of studies suggest that vitamin D deficiency during pregnancy is associated with multiple adverse health outcomes in mothers, neonates and children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-10" type="identity">
+      <class id="this...study" label=""/>
+      <span end="394" id="PMC3427250.nxml.gz-10" start="384">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-100" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15317" id="PMC3427250.nxml.gz-100" start="15142">Only 24.2% of all pregnant women started taking multivitamins before pregnancy, while 46.6% of these women started taking multivitamins within the first trimester of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-102" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15146" id="PMC3427250.nxml.gz-102" start="15142">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-103" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15227" id="PMC3427250.nxml.gz-103" start="15222">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17240" id="PMC3427250.nxml.gz-104" start="17184">First trimester BMI used as a proxy for prepregnancy BMI</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-105" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="17219" id="PMC3427250.nxml.gz-105" start="17214">proxy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-106" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17749" id="PMC3427250.nxml.gz-106" start="17626">On the other hand risk of severe vitamin D deficiency decreased for women who reported alcohol consumption during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-107" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="17643" id="PMC3427250.nxml.gz-107" start="17626">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-10712" type="identity">
+      <class id="full_unknown"/>
+      <span end="23514" id="PMC3427250.nxml.gz-10713" start="23511">not</span>
+      <span end="23534" id="PMC3427250.nxml.gz-10714" start="23523">established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-10715" type="identity">
+      <class id="subject_scope"/>
+      <span end="23686" id="PMC3427250.nxml.gz-10716" start="23341">As those authors recognize that the evidence to propose such intakes is scarce and as long as the health benefits of having serum 25(OH)D levels higher than 30 ng/ml are not clearly established particularly in pregnant women, the Belgian Superior Health council still recommends a vitamin D supplement of 20 µg/day or 800 IU during pregnancy[58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-10717" type="identity">
+      <class id="full_unknown"/>
+      <span end="23907" id="PMC3427250.nxml.gz-10718" start="23897">absence of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-108" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="17643" id="PMC3427250.nxml.gz-108" start="17626">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-109" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="17764" id="PMC3427250.nxml.gz-109" start="17751">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-11" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="492" id="PMC3427250.nxml.gz-11" start="483">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17923" id="PMC3427250.nxml.gz-110" start="17751">Interestingly, risk of severe vitamin D deficiency decreased with more frequent use of sunscreen lotion and increased for women who reported preference for shadow (Table 5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-111" type="identity">
+      <class id="despite" label=""/>
+      <span end="19384" id="PMC3427250.nxml.gz-111" start="19377">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19573" id="PMC3427250.nxml.gz-112" start="19377">Despite the fact that more than 60% of the pregnant women reported taking multivitamins containing vitamin D during pregnancy, nearly 45% of the women were vitamin D deficient (25-(OH)D &lt;20 ng/ml)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19920" id="PMC3427250.nxml.gz-113" start="19727">A previous small study in Brussels suggested that the prevalence of vitamin D deficiency was high among the adult population and that immigrants were at greater risk of vitamin D deficiency[32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-114" type="identity">
+      <class id="suggested" label=""/>
+      <span end="19771" id="PMC3427250.nxml.gz-114" start="19762">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-115" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20074" id="PMC3427250.nxml.gz-115" start="19922">Other small-scale studies in Belgium showed a high prevalence of vitamin D deficiency among Belgian postmenopausal osteoporotic women[33]and elderly[34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-116" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="19947" id="PMC3427250.nxml.gz-116" start="19928">small-scale studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20183" id="PMC3427250.nxml.gz-117" start="20076">However, the present study is the first national survey on vitamin D status among pregnant women in Belgium</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-118" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-119" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1242" id="PMC3427250.nxml.gz-12" start="990">Of all women, 74.1% (95%CI = 71.8–76.5%) were vitamin D insufficient (25-(OH)D &lt;30 ng/ml), 44.6% (95%CI = 41.9–47.3%) were vitamin D deficient (25-(OH)D &lt;20 ng/ml), while 12.1% (95%CI = 10.3–13.8%) were severely vitamin D deficient (25-(OH)D &lt;10 ng/ml)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-120" type="identity">
+      <class id="present_study" label=""/>
+      <span end="20102" id="PMC3427250.nxml.gz-120" start="20089">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-121" type="identity">
+      <class id="first" label=""/>
+      <span end="20115" id="PMC3427250.nxml.gz-121" start="20110">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-122" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20472" id="PMC3427250.nxml.gz-122" start="20185">The high prevalence of vitamin D deficiency in Belgium stems from the fact that the contribution of dietary sources to the vitamin D status is negligible as was shown by the Flemish food consumption survey among preschoolers which estimated the mean vitamin D intake at only 2 µg/day[35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-124" type="identity">
+      <class id="estimated" label=""/>
+      <span end="20425" id="PMC3427250.nxml.gz-124" start="20416">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-125" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="20459" id="PMC3427250.nxml.gz-125" start="20455">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20684" id="PMC3427250.nxml.gz-126" start="20474">The prevalence of vitamin deficiency (25-(OH)D &lt;20 ng/ml) is high in many European countries[36]–[43]and some studies suggest that pregnant women in Europe are also at high risk of vitamin D deficiency[29],[30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-127" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="20591" id="PMC3427250.nxml.gz-127" start="20579">some studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-128" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-129" type="identity">
+      <class id="suggest" label=""/>
+      <span end="20599" id="PMC3427250.nxml.gz-129" start="20592">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-13" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1160" id="PMC3427250.nxml.gz-13" start="1155">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21040" id="PMC3427250.nxml.gz-130" start="20874">The variations of 25-(OH)D concentration with seasons reflect the changes in UVB exposure, one of the main determinants of vitamin D status in many European countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-131" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="20935" id="PMC3427250.nxml.gz-131" start="20928">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-132" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="20993" id="PMC3427250.nxml.gz-132" start="20981">determinants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21201" id="PMC3427250.nxml.gz-133" start="21042">The association of vitamin D status with BMI has been attributed to an excessive storage of vitamin D in fat tissue decreasing thereby serum concentrations[47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-134" type="identity">
+      <class id="association" label=""/>
+      <span end="21057" id="PMC3427250.nxml.gz-134" start="21046">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-135" type="identity">
+      <class id="has...been" label=""/>
+      <span end="21095" id="PMC3427250.nxml.gz-135" start="21087">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-136" type="identity">
+      <class id="attributed" label=""/>
+      <span end="21106" id="PMC3427250.nxml.gz-136" start="21096">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21369" id="PMC3427250.nxml.gz-137" start="21203">Ethnicity was also a major determinant of vitamin D status in the present study, as previously reported in the adult population[32]and in pregnant women[29],[48],[49]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-138" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="21241" id="PMC3427250.nxml.gz-138" start="21230">determinant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-139" type="identity">
+      <class id="present_study" label=""/>
+      <span end="21282" id="PMC3427250.nxml.gz-139" start="21269">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1382" id="PMC3427250.nxml.gz-14" start="1244">Of all women included, 62.0% reported taking vitamin D-containing multivitamins, of which only 24.2% started taking those before pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-140" type="identity">
+      <class id="previously" label=""/>
+      <span end="21297" id="PMC3427250.nxml.gz-140" start="21287">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21684" id="PMC3427250.nxml.gz-141" start="21587">In addition education level was associated with vitamin D status in our pregnant women population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-142" type="identity">
+      <class id="associated" label=""/>
+      <span end="21629" id="PMC3427250.nxml.gz-142" start="21619">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-143" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21823" id="PMC3427250.nxml.gz-143" start="21686">Smoking increased the risk of both vitamin D deficiency and severe vitamin D deficiency; the mechanism for this appears to be unclear[50]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-144" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="21811" id="PMC3427250.nxml.gz-144" start="21798">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-145" type="identity">
+      <class id="unclear" label=""/>
+      <span end="21819" id="PMC3427250.nxml.gz-145" start="21812">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-146" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="21838" id="PMC3427250.nxml.gz-146" start="21825">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-147" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21951" id="PMC3427250.nxml.gz-147" start="21825">Interestingly the risk for severe vitamin D deficiency was lower among women who reported alcohol consumption during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22004" id="PMC3427250.nxml.gz-148" start="21953">The latter has been found also among Korean men[51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-149" type="identity">
+      <class id="has_been_found" label=""/>
+      <span end="21978" id="PMC3427250.nxml.gz-149" start="21964">has been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-15" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1338" id="PMC3427250.nxml.gz-15" start="1334">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22141" id="PMC3427250.nxml.gz-150" start="22006">Variables influencing the formation of previtamin D3 in the skin include skin pigmentation and intensity of the solar UV light[52]–[55]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-151" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="22027" id="PMC3427250.nxml.gz-151" start="22016">influencing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22297" id="PMC3427250.nxml.gz-152" start="22143">In summer, light-skinned people who spend at least 15 minutes outside during the day with their hands and face exposed will have adequate vitamin D levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-153" type="identity">
+      <class id="will" label=""/>
+      <span end="22266" id="PMC3427250.nxml.gz-153" start="22262">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22423" id="PMC3427250.nxml.gz-154" start="22299">Sunscreen lotions prevent UV radiation from reaching the skin and might therefore reduce the skin’s vitamin D production[56]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-155" type="identity">
+      <class id="might" label=""/>
+      <span end="22370" id="PMC3427250.nxml.gz-155" start="22365">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-156" type="identity">
+      <class id="therefore" label=""/>
+      <span end="22380" id="PMC3427250.nxml.gz-156" start="22371">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-157" type="identity">
+      <class id="however" label=""/>
+      <span end="22432" id="PMC3427250.nxml.gz-157" start="22425">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22486" id="PMC3427250.nxml.gz-158" start="22425">However, another study found this effect to be only minor[57]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-159" type="identity">
+      <class id="effect" label=""/>
+      <span end="22465" id="PMC3427250.nxml.gz-159" start="22459">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1983" id="PMC3427250.nxml.gz-16" start="1808">In conclusion, vitamin D deficiency is highly prevalent among pregnant women in Belgium and this raises concerns about the health consequences for the mother and the offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-160" type="identity">
+      <class id="only" label=""/>
+      <span end="22476" id="PMC3427250.nxml.gz-160" start="22472">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22806" id="PMC3427250.nxml.gz-161" start="22700">The latter is possibly due to the fact that women using sunscreen lotion are more often exposed to the sun</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-162" type="identity">
+      <class id="possibly" label=""/>
+      <span end="22722" id="PMC3427250.nxml.gz-162" start="22714">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-163" type="identity">
+      <class id="due_to" label=""/>
+      <span end="22729" id="PMC3427250.nxml.gz-163" start="22723">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23091" id="PMC3427250.nxml.gz-164" start="22914">The adequate intake of vitamin D during pregnancy and lactation is unknown, although it appears to be greater than the current dietary recommendations of 400 IU/d or 10 µg/d[58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-165" type="identity">
+      <class id="unknown" label=""/>
+      <span end="22988" id="PMC3427250.nxml.gz-165" start="22981">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-166" type="identity">
+      <class id="although" label=""/>
+      <span end="22998" id="PMC3427250.nxml.gz-166" start="22990">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-167" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="23015" id="PMC3427250.nxml.gz-167" start="23002">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-168" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="23064" id="PMC3427250.nxml.gz-168" start="23049">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-169" type="identity">
+      <class id="some" label=""/>
+      <span end="23097" id="PMC3427250.nxml.gz-169" start="23093">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-17" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="1920" id="PMC3427250.nxml.gz-17" start="1905">raises concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23339" id="PMC3427250.nxml.gz-170" start="23093">Some studies suggest that the dietary requirement during pregnancy and lactation may be as high as 6000 IU/d[59]and recognize that at least 1500–2000 IU/d of vitamin D may be needed in order to maintain a blood level of 25(OH)D above 30 ng/ml[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-171" type="identity">
+      <class id="suggest" label=""/>
+      <span end="23113" id="PMC3427250.nxml.gz-171" start="23106">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-172" type="identity">
+      <class id="may_be" label=""/>
+      <span end="23180" id="PMC3427250.nxml.gz-172" start="23174">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-173" type="identity">
+      <class id="at_least" label=""/>
+      <span end="23232" id="PMC3427250.nxml.gz-173" start="23224">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-174" type="identity">
+      <class id="may_be" label=""/>
+      <span end="23267" id="PMC3427250.nxml.gz-174" start="23261">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-175" type="identity">
+      <class id="future_work" label=""/>
+      <span end="23274" id="PMC3427250.nxml.gz-175" start="23268">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-176" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-177" type="identity">
+      <class id="evidence...is_scarce" label=""/>
+      <span end="23385" id="PMC3427250.nxml.gz-177" start="23377">evidence</span>
+      <span end="23419" id="PMC3427250.nxml.gz-178" start="23410">is scarce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-179" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2119" id="PMC3427250.nxml.gz-18" start="1985">A targeted screening strategy to detect and treat women at high risk of severe vitamin D deficiency is needed in Belgium and in Europe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-180" type="identity">
+      <class id="still" label=""/>
+      <span end="23608" id="PMC3427250.nxml.gz-180" start="23603">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-181" type="identity">
+      <class id="recommends" label=""/>
+      <span end="23619" id="PMC3427250.nxml.gz-181" start="23609">recommends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-182" type="identity">
+      <class id="however" label=""/>
+      <span end="23695" id="PMC3427250.nxml.gz-182" start="23688">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23888" id="PMC3427250.nxml.gz-183" start="23688">However, the vitamin D content of multivitamins for pregnant women in Belgium is only 400 IU indicating even this recommendation is not followed as pregnant women only take one multivitamin pill a day</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-184" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="23773" id="PMC3427250.nxml.gz-184" start="23769">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-185" type="identity">
+      <class id="indicating" label=""/>
+      <span end="23791" id="PMC3427250.nxml.gz-185" start="23781">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-186" type="identity">
+      <class id="even" label=""/>
+      <span end="23796" id="PMC3427250.nxml.gz-186" start="23792">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-187" type="identity">
+      <class id="recommendation" label=""/>
+      <span end="23816" id="PMC3427250.nxml.gz-187" start="23802">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-188" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24082" id="PMC3427250.nxml.gz-189" start="23890">In the absence of survey data from other European countries, we suspect that the prevalence of vitamin D deficiency in Belgium likely reflects the situation in other Western European countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-19" type="identity">
+      <class id="strategy" label=""/>
+      <span end="2014" id="PMC3427250.nxml.gz-19" start="2006">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-190" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-192" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-193" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="23961" id="PMC3427250.nxml.gz-193" start="23954">suspect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-194" type="identity">
+      <class id="likely" label=""/>
+      <span end="24023" id="PMC3427250.nxml.gz-194" start="24017">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24254" id="PMC3427250.nxml.gz-195" start="24084">This assumption is based on the fact that the main risk factors associated with vitamin D deficiency (sun exposure and/or ethnicity) are common to many European countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-196" type="identity">
+      <class id="assumption" label=""/>
+      <span end="24099" id="PMC3427250.nxml.gz-196" start="24089">assumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-197" type="identity">
+      <class id="associated" label=""/>
+      <span end="24158" id="PMC3427250.nxml.gz-197" start="24148">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-198" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24448" id="PMC3427250.nxml.gz-198" start="24256">In addition to the uncertainty concerning the optimal vitamin D intakes preventing vitamin D deficiency, there exists also a lack of recommendations to treat vitamin D deficient pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-199" type="identity">
+      <class id="uncertainty" label=""/>
+      <span end="24286" id="PMC3427250.nxml.gz-199" start="24275">uncertainty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-2" type="identity">
+      <class id="number_of_studies" label=""/>
+      <span end="134" id="PMC3427250.nxml.gz-2" start="117">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-20" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-200" type="identity">
+      <class id="concerning" label=""/>
+      <span end="24297" id="PMC3427250.nxml.gz-200" start="24287">concerning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-201" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="24388" id="PMC3427250.nxml.gz-201" start="24381">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-202" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="24404" id="PMC3427250.nxml.gz-202" start="24389">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-203" type="identity">
+      <class id="even" label=""/>
+      <span end="24454" id="PMC3427250.nxml.gz-203" start="24450">Even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24564" id="PMC3427250.nxml.gz-204" start="24450">Even in the last published guidelines the treatment of vitamin D deficient women is not specifically discussed[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-205" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-206" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24550" id="PMC3427250.nxml.gz-206" start="24534">not specifically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-207" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24850" id="PMC3427250.nxml.gz-207" start="24566">The uncovering of the magnitude of vitamin D deficiency in pregnant women in Belgium (and Western Europe) should be translated into new research in order to fill the huge knowledge gap concerning the adequate amount of vitamin D to prevent and treat vitamin D deficient pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-208" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24580" id="PMC3427250.nxml.gz-208" start="24570">uncovering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-209" type="identity">
+      <class id="should_be" label=""/>
+      <span end="24681" id="PMC3427250.nxml.gz-209" start="24672">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-21" type="identity">
+      <class id="future_work" label=""/>
+      <span end="2094" id="PMC3427250.nxml.gz-21" start="2085">is needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-210" type="identity">
+      <class id="new_research" label=""/>
+      <span end="24710" id="PMC3427250.nxml.gz-210" start="24698">new research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-211" type="identity">
+      <class id="in_order_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-212" type="identity">
+      <class id="knowledge_gap" label=""/>
+      <span end="24750" id="PMC3427250.nxml.gz-212" start="24737">knowledge gap</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-213" type="identity">
+      <class id="concerning" label=""/>
+      <span end="24761" id="PMC3427250.nxml.gz-213" start="24751">concerning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25027" id="PMC3427250.nxml.gz-214" start="24852">In addition, an increasing number of studies suggest that gestational vitamin D deficiency is associated with multiple adverse health outcomes in mothers and children[16]–[22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-215" type="identity">
+      <class id="number_of_studies" label=""/>
+      <span end="24896" id="PMC3427250.nxml.gz-215" start="24879">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-216" type="identity">
+      <class id="suggest" label=""/>
+      <span end="24904" id="PMC3427250.nxml.gz-216" start="24897">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-217" type="identity">
+      <class id="associated" label=""/>
+      <span end="24956" id="PMC3427250.nxml.gz-217" start="24946">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-218" type="identity">
+      <class id="therefore" label=""/>
+      <span end="25038" id="PMC3427250.nxml.gz-218" start="25029">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-219" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25237" id="PMC3427250.nxml.gz-219" start="25029">Therefore, there is an urgent need of randomised controlled trials of vitamin D supplementation to investigate the maternal and neonatal health benefits of correcting vitamin D deficiency during pregnancy[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2201" id="PMC3427250.nxml.gz-22" start="2135">Vitamin D status is a well-known determinant of bone health[1],[2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-220" type="identity">
+      <class id="urgent" label=""/>
+      <span end="25058" id="PMC3427250.nxml.gz-220" start="25052">urgent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-221" type="identity">
+      <class id="need" label=""/>
+      <span end="25063" id="PMC3427250.nxml.gz-221" start="25059">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-222" type="identity">
+      <class id="to_investigate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-223" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25431" id="PMC3427250.nxml.gz-223" start="25239">Given the high prevalence of vitamin D deficiency in pregnant women in Belgium and probably in many European countries, a vitamin D nutrition policy is needed at the country and European level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-224" type="identity">
+      <class id="probably" label=""/>
+      <span end="25330" id="PMC3427250.nxml.gz-224" start="25322">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-225" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-226" type="identity">
+      <class id="future_work" label=""/>
+      <span end="25397" id="PMC3427250.nxml.gz-226" start="25388">is needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-227" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25583" id="PMC3427250.nxml.gz-227" start="25433">The current vitamin D recommendations for pregnant women are clearly insufficient to prevent and even more to treat vitamin D deficient pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-228" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="25470" id="PMC3427250.nxml.gz-228" start="25455">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-229" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="25514" id="PMC3427250.nxml.gz-229" start="25502">insufficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-23" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2167" id="PMC3427250.nxml.gz-23" start="2157">well-known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-230" type="identity">
+      <class id="even" label=""/>
+      <span end="25534" id="PMC3427250.nxml.gz-230" start="25530">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-231" type="identity">
+      <class id="until" label=""/>
+      <span end="25590" id="PMC3427250.nxml.gz-231" start="25585">Until</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-232" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25794" id="PMC3427250.nxml.gz-232" start="25585">Until the adequate treatment of vitamin D deficient pregnant women is established, a safe approach may be to correct vitamin D deficiency by targeting pregnant women at high risk of severe vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-233" type="identity">
+      <class id="may_be" label=""/>
+      <span end="25690" id="PMC3427250.nxml.gz-233" start="25684">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-234" type="identity">
+      <class id="future_work" label=""/>
+      <span end="25735" id="PMC3427250.nxml.gz-234" start="25726">targeting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26080" id="PMC3427250.nxml.gz-235" start="25796">In addition the current vitamin D content of multivitamins for pregnancy, 400 IU, do not even comply with the current Belgian recommendations of 800 IU per day, therefore a prudent step should at least be to increase the vitamin D content in multivitamins for pregnant women to 800 IU</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-236" type="identity">
+      <class id="even" label=""/>
+      <span end="25889" id="PMC3427250.nxml.gz-236" start="25885">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-237" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="25937" id="PMC3427250.nxml.gz-237" start="25922">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-238" type="identity">
+      <class id="therefore" label=""/>
+      <span end="25966" id="PMC3427250.nxml.gz-238" start="25957">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-239" type="identity">
+      <class id="prudent" label=""/>
+      <span end="25976" id="PMC3427250.nxml.gz-239" start="25969">prudent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2512" id="PMC3427250.nxml.gz-24" start="2372">The ubiquitous presence of vitamin D receptors in most tissues, including the placenta, suggests that vitamin D may have other roles as well</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-240" type="identity">
+      <class id="should" label=""/>
+      <span end="25988" id="PMC3427250.nxml.gz-240" start="25982">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-241" type="identity">
+      <class id="at_least" label=""/>
+      <span end="25997" id="PMC3427250.nxml.gz-241" start="25989">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26335" id="PMC3427250.nxml.gz-242" start="26082">In conclusion, despite that more than 60% of the pregnant women reported taking multivitamins containing vitamin D, vitamin D deficiency is highly prevalent among pregnant women in Belgium and up to 12% of pregnant women are severely vitamin D deficient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-243" type="identity">
+      <class id="despite" label=""/>
+      <span end="26104" id="PMC3427250.nxml.gz-243" start="26097">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26497" id="PMC3427250.nxml.gz-244" start="26337">A targeted screening strategy to detect and treat women at high risk of severe vitamin D deficiency is clearly needed in Belgium and in other European countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-245" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-246" type="identity">
+      <class id="strategy" label=""/>
+      <span end="26366" id="PMC3427250.nxml.gz-246" start="26358">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-247" type="identity">
+      <class id="future_work" label=""/>
+      <span end="26439" id="PMC3427250.nxml.gz-247" start="26437">is</span>
+      <span end="26454" id="PMC3427250.nxml.gz-248" start="26448">needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-249" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-25" type="identity">
+      <class id="suggests" label=""/>
+      <span end="2468" id="PMC3427250.nxml.gz-25" start="2460">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-250" type="identity">
+      <class id="while" label=""/>
+      <span end="26504" id="PMC3427250.nxml.gz-250" start="26499">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26719" id="PMC3427250.nxml.gz-251" start="26499">While several observational studies point to correlations between vitamin D insufficiency and maternal and neonatal ill health, experimental evidence from supplementation clinical trials is needed to inform health policy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-252" type="identity">
+      <class id="point" label=""/>
+      <span end="26540" id="PMC3427250.nxml.gz-252" start="26535">point</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-253" type="identity">
+      <class id="correlations" label=""/>
+      <span end="26556" id="PMC3427250.nxml.gz-253" start="26544">correlations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-254" type="identity">
+      <class id="experimental_evidence" label=""/>
+      <span end="26648" id="PMC3427250.nxml.gz-254" start="26627">experimental evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-255" type="identity">
+      <class id="future_work" label=""/>
+      <span end="26695" id="PMC3427250.nxml.gz-255" start="26686">is needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-26" type="identity">
+      <class id="may" label=""/>
+      <span end="2487" id="PMC3427250.nxml.gz-26" start="2484">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-27" type="identity">
+      <class id="other" label=""/>
+      <span end="2498" id="PMC3427250.nxml.gz-27" start="2493">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-28" type="identity">
+      <class id="roles" label=""/>
+      <span end="2504" id="PMC3427250.nxml.gz-28" start="2499">roles</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2700" id="PMC3427250.nxml.gz-29" start="2514">Adequate vitamin D intake is associated with a lower risk of cancer[7],[8],[9],[10],[11], cardiovascular diseases[12], autoimmune diseases[13], neurological disorders[14]and diabetes[15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-3" type="identity">
+      <class id="suggest" label=""/>
+      <span end="142" id="PMC3427250.nxml.gz-3" start="135">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-30" type="identity">
+      <class id="associated" label=""/>
+      <span end="2553" id="PMC3427250.nxml.gz-30" start="2543">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2999" id="PMC3427250.nxml.gz-31" start="2702">In addition, an increasing number of studies suggest that vitamin D deficiency during pregnancy is associated with multiple adverse health outcomes in mothers (gestational diabetes and pre-eclampsia), in neonates (wheezing) and children (low bone mineral density, type-1 diabetes, eczema)[16]–[22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-32" type="identity">
+      <class id="number_of_studies" label=""/>
+      <span end="2746" id="PMC3427250.nxml.gz-32" start="2729">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-33" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2754" id="PMC3427250.nxml.gz-33" start="2747">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-34" type="identity">
+      <class id="associated" label=""/>
+      <span end="2811" id="PMC3427250.nxml.gz-34" start="2801">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3252" id="PMC3427250.nxml.gz-35" start="3001">However there is so far no conclusive evidence about the causality of these relationships, as no randomised controlled trials of vitamin D supplementation with an appropriate assessment of a variety of health outcomes have been carried out to date[21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-36" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-37" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="3008" id="PMC3427250.nxml.gz-37" start="3001">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-38" type="identity">
+      <class id="no_conclusive_evidence" label=""/>
+      <span end="3047" id="PMC3427250.nxml.gz-38" start="3025">no conclusive evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-39" type="identity">
+      <class id="relationships" label=""/>
+      <span end="3090" id="PMC3427250.nxml.gz-39" start="3077">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-4" type="identity">
+      <class id="associated" label=""/>
+      <span end="199" id="PMC3427250.nxml.gz-4" start="189">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-40" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="3097" id="PMC3427250.nxml.gz-40" start="3095">no</span>
+      <span end="3126" id="PMC3427250.nxml.gz-41" start="3120">trials</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-42" type="identity">
+      <class id="variety" label=""/>
+      <span end="3199" id="PMC3427250.nxml.gz-42" start="3192">variety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3835" id="PMC3427250.nxml.gz-43" start="3744">Due to its longer half-life, 25-(OH)D is considered the best bio-marker of vitamin D status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-44" type="identity">
+      <class id="is_considered" label=""/>
+      <span end="3795" id="PMC3427250.nxml.gz-44" start="3782">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4341" id="PMC3427250.nxml.gz-45" start="4228">The role of 1,25-(OH)2D during pregnancy to increase intestinal calcium absorption is since long acknowledged[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-46" type="identity">
+      <class id="role" label=""/>
+      <span end="4236" id="PMC3427250.nxml.gz-46" start="4232">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-47" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4337" id="PMC3427250.nxml.gz-47" start="4320">long acknowledged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4465" id="PMC3427250.nxml.gz-48" start="4343">The cut-off points used to define vitamin D insufficiency and deficiency are not well established and remain controversial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-49" type="identity">
+      <class id="not_well_established" label=""/>
+      <span end="4440" id="PMC3427250.nxml.gz-49" start="4420">not well established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="371" id="PMC3427250.nxml.gz-5" start="273">There are no representative country data available on vitamin D status of pregnant women in Europe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-50" type="identity">
+      <class id="remain" label=""/>
+      <span end="4451" id="PMC3427250.nxml.gz-50" start="4445">remain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-51" type="identity">
+      <class id="controversial" label=""/>
+      <span end="4465" id="PMC3427250.nxml.gz-51" start="4452">controversial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4707" id="PMC3427250.nxml.gz-52" start="4467">Nevertheless there is a consensus to consider serum 25-(OH)D below 20 ng/ml as inadequately low[25], and some evidence suggests that values higher than 30 ng/ml may be associated with better health outcomes in the adult population.[26],[27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-53" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="4479" id="PMC3427250.nxml.gz-53" start="4467">Nevertheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-54" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4500" id="PMC3427250.nxml.gz-54" start="4491">consensus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-55" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4512" id="PMC3427250.nxml.gz-55" start="4504">consider</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-56" type="identity">
+      <class id="some_evidence" label=""/>
+      <span end="4585" id="PMC3427250.nxml.gz-56" start="4572">some evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-57" type="identity">
+      <class id="suggests" label=""/>
+      <span end="4594" id="PMC3427250.nxml.gz-57" start="4586">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-58" type="identity">
+      <class id="may_be" label=""/>
+      <span end="4634" id="PMC3427250.nxml.gz-58" start="4628">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-59" type="identity">
+      <class id="associated" label=""/>
+      <span end="4645" id="PMC3427250.nxml.gz-59" start="4635">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-6" type="identity">
+      <class id="no...available" label=""/>
+      <span end="285" id="PMC3427250.nxml.gz-6" start="283">no</span>
+      <span end="323" id="PMC3427250.nxml.gz-7" start="314">available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4809" id="PMC3427250.nxml.gz-60" start="4709">The uncertainty concerning the optimal serum 25-(OH)D concentration in pregnant women is even higher</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-61" type="identity">
+      <class id="uncertainty" label=""/>
+      <span end="4724" id="PMC3427250.nxml.gz-61" start="4713">uncertainty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-62" type="identity">
+      <class id="concerning" label=""/>
+      <span end="4735" id="PMC3427250.nxml.gz-62" start="4725">concerning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-63" type="identity">
+      <class id="even" label=""/>
+      <span end="4802" id="PMC3427250.nxml.gz-63" start="4798">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4910" id="PMC3427250.nxml.gz-64" start="4811">As long as the proposed values are not validated in clinical trials the controversy will remain[28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-65" type="identity">
+      <class id="proposed" label=""/>
+      <span end="4834" id="PMC3427250.nxml.gz-65" start="4826">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-66" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="4859" id="PMC3427250.nxml.gz-66" start="4846">not validated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-67" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="4894" id="PMC3427250.nxml.gz-67" start="4883">controversy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-68" type="identity">
+      <class id="will" label=""/>
+      <span end="4899" id="PMC3427250.nxml.gz-68" start="4895">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-69" type="identity">
+      <class id="remain" label=""/>
+      <span end="4906" id="PMC3427250.nxml.gz-69" start="4900">remain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5080" id="PMC3427250.nxml.gz-70" start="4912">There is a growing concern about the health consequences of the high prevalence of vitamin D deficiency worldwide among the general population, including pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-71" type="identity">
+      <class id="growing" label=""/>
+      <span end="4930" id="PMC3427250.nxml.gz-71" start="4923">growing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-72" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4938" id="PMC3427250.nxml.gz-72" start="4931">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-73" type="identity">
+      <class id="concern" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-74" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4968" id="PMC3427250.nxml.gz-74" start="4956">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5221" id="PMC3427250.nxml.gz-75" start="5082">The adequacy of the current vitamin D dietary recommendations to reach an optimal vitamin D status during pregnancy has been questioned[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-76" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-77" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="5143" id="PMC3427250.nxml.gz-77" start="5128">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-78" type="identity">
+      <class id="has_been_questioned" label=""/>
+      <span end="5217" id="PMC3427250.nxml.gz-78" start="5198">has been questioned</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-79" type="identity">
+      <class id="although" label=""/>
+      <span end="5231" id="PMC3427250.nxml.gz-79" start="5223">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="575" id="PMC3427250.nxml.gz-8" start="373">The aim of this study was to estimate the prevalence of vitamin D deficiency among Belgian pregnant women and to assess the determinants of vitamin D status in the first and third trimester of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5444" id="PMC3427250.nxml.gz-80" start="5223">Although previous small surveys suggest that vitamin D deficiency among pregnant women is common in Europe[29],[30], there are no reliable country-wide estimates of vitamin D status of pregnant women in European countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-81" type="identity">
+      <class id="suggest" label=""/>
+      <span end="5262" id="PMC3427250.nxml.gz-81" start="5255">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-82" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-84" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5361" id="PMC3427250.nxml.gz-84" start="5350">no reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5706" id="PMC3427250.nxml.gz-85" start="5446">Therefore the aim of this study was to carry out the first national representative random sample survey on vitamin D status in pregnant women in a European country and to assess the determinants of vitamin D status in the first and third trimester of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-86" type="identity">
+      <class id="therefore" label=""/>
+      <span end="5455" id="PMC3427250.nxml.gz-86" start="5446">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-87" type="identity">
+      <class id="aim" label=""/>
+      <span end="5463" id="PMC3427250.nxml.gz-87" start="5460">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-88" type="identity">
+      <class id="this_study" label=""/>
+      <span end="5477" id="PMC3427250.nxml.gz-88" start="5467">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-89" type="identity">
+      <class id="first" label=""/>
+      <span end="5504" id="PMC3427250.nxml.gz-89" start="5499">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-9" type="identity">
+      <class id="aim" label=""/>
+      <span end="380" id="PMC3427250.nxml.gz-9" start="377">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-90" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="5623" id="PMC3427250.nxml.gz-90" start="5614">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6961" id="PMC3427250.nxml.gz-91" start="6833">In each clinic all gynaecologist-obstetricians were invited to participate in order to level out a possible gynaecologist effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-92" type="identity">
+      <class id="possible" label=""/>
+      <span end="6940" id="PMC3427250.nxml.gz-92" start="6932">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-93" type="identity">
+      <class id="effect" label=""/>
+      <span end="6961" id="PMC3427250.nxml.gz-93" start="6955">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7918" id="PMC3427250.nxml.gz-94" start="7808">First trimester BMI was used as a proxy for prepregnancy BMI for both first and third trimester pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-95" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="7847" id="PMC3427250.nxml.gz-95" start="7842">proxy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12155" id="PMC3427250.nxml.gz-96" start="12099">First trimester BMI used as a proxy for prepregnancy BMI</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-97" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="12134" id="PMC3427250.nxml.gz-97" start="12129">proxy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-98" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14447" id="PMC3427250.nxml.gz-98" start="14224">For both first and third trimester women there was a clear seasonal trend in the mean serum 25-(OH)D concentrations with lowest concentrations in winter and highest during spring and summer, while decreasing again in autumn</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3427250.nxml.gz-99" type="identity">
+      <class id="trend" label=""/>
+      <span end="14297" id="PMC3427250.nxml.gz-99" start="14292">trend</span>
+    </annotation>
+  </document>
+</knowtator-project>

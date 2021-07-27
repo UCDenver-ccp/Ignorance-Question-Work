@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2874300.nxml.gz" text-file="PMC2874300.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="279" id="PMC2874300.nxml.gz-1" start="90">Over the last half-century, chronic disease incidence, including allergic manifestations (AM), has increased exponentially in developed nations and amongst the wealthy in developing nations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-10" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="835" id="PMC2874300.nxml.gz-10" start="825">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-11" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="851" id="PMC2874300.nxml.gz-11" start="841">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1245" id="PMC2874300.nxml.gz-12" start="987">While there is little conclusive evidence to support that a prudent diet is protective against AM especially after birth, modest evidence suggests that a prenatal maternal nutrition high in n-3 and micronutrients (e.g. vitamins C, D and E) protect against AM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-13" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-14" type="identity">
+      <class id="little_conclusive_evidence" label=""/>
+      <span end="1028" id="PMC2874300.nxml.gz-14" start="1002">little conclusive evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-15" type="identity">
+      <class id="evidence_to_support" label=""/>
+      <span end="1039" id="PMC2874300.nxml.gz-15" start="1020">evidence to support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-16" type="identity">
+      <class id="modest_evidence" label=""/>
+      <span end="1124" id="PMC2874300.nxml.gz-16" start="1109">modest evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-17" type="identity">
+      <class id="suggests" label=""/>
+      <span end="1133" id="PMC2874300.nxml.gz-17" start="1125">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1380" id="PMC2874300.nxml.gz-18" start="1247">This indicates that there may be a window of opportunity during fetal development in which allergic manifestation risk may be altered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-19" type="identity">
+      <class id="indicates" label=""/>
+      <span end="1261" id="PMC2874300.nxml.gz-19" start="1252">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-2" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="212" id="PMC2874300.nxml.gz-2" start="189">increased exponentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-20" type="identity">
+      <class id="may_be" label=""/>
+      <span end="1279" id="PMC2874300.nxml.gz-20" start="1273">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-22" type="identity">
+      <class id="may_be" label=""/>
+      <span end="1372" id="PMC2874300.nxml.gz-22" start="1366">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1444" id="PMC2874300.nxml.gz-23" start="1382">The effect of breastfeeding on the prevention AM is unresolved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-24" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1392" id="PMC2874300.nxml.gz-24" start="1386">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-26" type="identity">
+      <class id="unresolved" label=""/>
+      <span end="1444" id="PMC2874300.nxml.gz-26" start="1434">unresolved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-2625" type="identity">
+      <class id="controversy"/>
+      <span end="992" id="PMC2874300.nxml.gz-2626" start="987">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-2627" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="1303" id="PMC2874300.nxml.gz-2628" start="1282">window of opportunity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-2629" type="identity">
+      <class id="future_work"/>
+      <span end="1518" id="PMC2874300.nxml.gz-2630" start="1508">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1620" id="PMC2874300.nxml.gz-27" start="1446">Despite this, exclusive breastfeeding to 4-6 months should be encouraged as human milk contains numerous immunological properties and is associated with other health benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-28" type="identity">
+      <class id="despite" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-29" type="identity">
+      <class id="controversy" label=""/>
+      <span end="1453" id="PMC2874300.nxml.gz-29" start="1446">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="772" id="PMC2874300.nxml.gz-3" start="618">While diet can impact health at any life stage, it is likely to be most important during the fetal and infancy periods, when the immune system is immature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-30" type="identity">
+      <class id="should_be" label=""/>
+      <span end="1507" id="PMC2874300.nxml.gz-30" start="1498">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-32" type="identity">
+      <class id="associated" label=""/>
+      <span end="1593" id="PMC2874300.nxml.gz-32" start="1583">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-33" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1744" id="PMC2874300.nxml.gz-33" start="1622">If breastfeeding is not possible, hydrolyzed formulas seem to confer a greater protective effect than traditional formulas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-34" type="identity">
+      <class id="possible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-35" type="identity">
+      <class id="seem" label=""/>
+      <span end="1680" id="PMC2874300.nxml.gz-35" start="1676">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-36" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1857" id="PMC2874300.nxml.gz-38" start="1746">Solid foods should be introduced at age 4-6 months. The order of introduction seems to have little effect on AM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-39" type="identity">
+      <class id="should_be" label=""/>
+      <span end="1767" id="PMC2874300.nxml.gz-39" start="1758">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-4" type="identity">
+      <class id="impact" label=""/>
+      <span end="639" id="PMC2874300.nxml.gz-4" start="633">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-40" type="identity">
+      <class id="seems" label=""/>
+      <span end="1829" id="PMC2874300.nxml.gz-40" start="1824">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1981" id="PMC2874300.nxml.gz-41" start="1859">At present, it is impossible to conclusively state that a particular dietary pattern or food will alter AM risk in infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-43" type="identity">
+      <class id="impossible" label=""/>
+      <span end="1887" id="PMC2874300.nxml.gz-43" start="1877">impossible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-44" type="identity">
+      <class id="will" label=""/>
+      <span end="1956" id="PMC2874300.nxml.gz-44" start="1952">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-5" type="identity">
+      <class id="likely" label=""/>
+      <span end="678" id="PMC2874300.nxml.gz-5" start="672">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-6" type="identity">
+      <class id="important" label=""/>
+      <span end="699" id="PMC2874300.nxml.gz-6" start="690">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="985" id="PMC2874300.nxml.gz-7" start="774">Based on an extensive review of the literature, we considered this hypothesis for the 3 nutritional progressions from fetal life through infancy: prenatal nutrition, breastfeeding and introduction of solid foods</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-8" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2874300.nxml.gz-9" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6022422.nxml.gz" text-file="PMC6022422.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="54" id="PMC6022422.nxml.gz-1" start="0">Visfatin as a predictor for growth of fetus and infant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1145" id="PMC6022422.nxml.gz-10" start="1000">In a separate study on group B, visfatin levels in the first and second trimesters showed a significant negative correlation with infant’s weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-101" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="11325" id="PMC6022422.nxml.gz-101" start="11316">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-102" type="identity">
+      <class id="relationship" label=""/>
+      <span end="11342" id="PMC6022422.nxml.gz-102" start="11330">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11533" id="PMC6022422.nxml.gz-103" start="11452">The visfatin regulation mechanism in human fetal blood circulation is unknown(12)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-104" type="identity">
+      <class id="unknown" label=""/>
+      <span end="11529" id="PMC6022422.nxml.gz-104" start="11522">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-105" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11658" id="PMC6022422.nxml.gz-105" start="11535">However, recent studies have proposed the presence of a relationship between maternal serum visfatin level and fetal growth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-106" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-107" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-108" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="11558" id="PMC6022422.nxml.gz-108" start="11544">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-109" type="identity">
+      <class id="proposed" label=""/>
+      <span end="11572" id="PMC6022422.nxml.gz-109" start="11564">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-11" type="identity">
+      <class id="correlation" label=""/>
+      <span end="1124" id="PMC6022422.nxml.gz-11" start="1113">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-110" type="identity">
+      <class id="relationship" label=""/>
+      <span end="11603" id="PMC6022422.nxml.gz-110" start="11591">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-111" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11919" id="PMC6022422.nxml.gz-111" start="11660">A strong relationship was found between maternal serum visfatin and neonatal anthropometric indicators in groups A and B, with a possible mechanism of maternal visfatin entering the fetal blood circulation through the placenta as a result of endocrine changes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-112" type="identity">
+      <class id="relationship" label=""/>
+      <span end="11681" id="PMC6022422.nxml.gz-112" start="11669">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-113" type="identity">
+      <class id="possible" label=""/>
+      <span end="11797" id="PMC6022422.nxml.gz-113" start="11789">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12516" id="PMC6022422.nxml.gz-114" start="12395">Moreover, umbilical cord serum visfatin concentrations were found to have a positive relationship with insulin levels(13)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-115" type="identity">
+      <class id="relationship" label=""/>
+      <span end="12492" id="PMC6022422.nxml.gz-115" start="12480">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12666" id="PMC6022422.nxml.gz-116" start="12518">Mazaki-Tovi analyzed the relationship of increased maternal serum visfatin with gestational diabetes mellitus infection and the birth of LGA infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-117" type="identity">
+      <class id="relationship" label=""/>
+      <span end="12555" id="PMC6022422.nxml.gz-117" start="12543">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13006" id="PMC6022422.nxml.gz-118" start="12912">One of the reasons for a visfatin effect on fetal development is its effect on sirtuins (SIRT)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-119" type="identity">
+      <class id="effect" label=""/>
+      <span end="12952" id="PMC6022422.nxml.gz-119" start="12946">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1353" id="PMC6022422.nxml.gz-12" start="1147">A significant correlation was observed between the first and second trimesters visfatin level with infant’s height in both groups, such that this relationship was positive in group A and negative in group B</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-120" type="identity">
+      <class id="effect" label=""/>
+      <span end="12987" id="PMC6022422.nxml.gz-120" start="12981">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-121" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13281" id="PMC6022422.nxml.gz-121" start="13008">SIRTs are a class of proteins that have a role in cellular processes associated with body metabolism such as cell differentiation, aging, transcription, apoptosis, inflammation, and stress resistance, as well as energy efficiency and alertness during low-calorie situations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-122" type="identity">
+      <class id="role" label=""/>
+      <span end="13054" id="PMC6022422.nxml.gz-122" start="13050">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-123" type="identity">
+      <class id="associated" label=""/>
+      <span end="13087" id="PMC6022422.nxml.gz-123" start="13077">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-124" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13515" id="PMC6022422.nxml.gz-124" start="13317">SIRT 1 (SIRT1) affects chromatin modulation, and therefore suppresses transcription and interacts with transcription factors, and is capable of positive or negative regulation of gene expression(15)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-125" type="identity">
+      <class id="affects" label=""/>
+      <span end="13339" id="PMC6022422.nxml.gz-125" start="13332">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13734" id="PMC6022422.nxml.gz-126" start="13517">Through involvement in NAD+synthesis needed for SIRT activity, visfatin has a major role in the regulation of SIRT1-dependent transcription, and this leads to the metabolism of energy and differentiation of stem cells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-127" type="identity">
+      <class id="role" label=""/>
+      <span end="13605" id="PMC6022422.nxml.gz-127" start="13601">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-128" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="14156" id="PMC6022422.nxml.gz-128" start="14141">This means that</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-129" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14240" id="PMC6022422.nxml.gz-129" start="14141">This means that Nampt promotes osteocyte differentiation through a pathway mediated by SIRT1(16,17)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-13" type="identity">
+      <class id="correlation" label=""/>
+      <span end="1172" id="PMC6022422.nxml.gz-13" start="1161">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14315" id="PMC6022422.nxml.gz-130" start="14242">High levels of SIRT1 expression in the human brain have been revealed(18)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-131" type="identity">
+      <class id="have_been" label=""/>
+      <span end="14302" id="PMC6022422.nxml.gz-131" start="14293">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-132" type="identity">
+      <class id="revealed" label=""/>
+      <span end="14311" id="PMC6022422.nxml.gz-132" start="14303">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14609" id="PMC6022422.nxml.gz-133" start="14471">SIRTs have an important role in the process of synapse promotion and modulation of their strength, which is important for memory formation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-134" type="identity">
+      <class id="important" label=""/>
+      <span end="14494" id="PMC6022422.nxml.gz-134" start="14485">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-135" type="identity">
+      <class id="role" label=""/>
+      <span end="14499" id="PMC6022422.nxml.gz-135" start="14495">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-136" type="identity">
+      <class id="important" label=""/>
+      <span end="14588" id="PMC6022422.nxml.gz-136" start="14579">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14779" id="PMC6022422.nxml.gz-137" start="14611">During neuronal development, SIRT1 has a important role in promoting xonal elongation, neurite outgrowth, and dendritic branching via several targets and mechanisms(19)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-138" type="identity">
+      <class id="important" label=""/>
+      <span end="14661" id="PMC6022422.nxml.gz-138" start="14652">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-139" type="identity">
+      <class id="role" label=""/>
+      <span end="14666" id="PMC6022422.nxml.gz-139" start="14662">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-14" type="identity">
+      <class id="relationship" label=""/>
+      <span end="1305" id="PMC6022422.nxml.gz-14" start="1293">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15087" id="PMC6022422.nxml.gz-140" start="14878">The NAD+dependent deacetylase SIRT1 is implicated in energy balance regulation by its effect on pro-opiomelanocortin and agouti-related peptide (AgRP) neurons in the arcuate nucleus of the hypothalamusthis(20)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-141" type="identity">
+      <class id="implicated" label=""/>
+      <span end="14927" id="PMC6022422.nxml.gz-141" start="14917">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-142" type="identity">
+      <class id="effect" label=""/>
+      <span end="14970" id="PMC6022422.nxml.gz-142" start="14964">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-143" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15261" id="PMC6022422.nxml.gz-143" start="15144">Obesity is correlated with low NAD+/SIRT pathway expression in adipose tissue of BMI-discordant monozygotic twins(22)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-144" type="identity">
+      <class id="correlated" label=""/>
+      <span end="15165" id="PMC6022422.nxml.gz-144" start="15155">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-145" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15828" id="PMC6022422.nxml.gz-145" start="15601">The persistence of the relationship between postpartum maternal serum visfatin levels and anthropometric indicators can be attributed to excretion of visfatin in mother’s milk, which was confirmed by Bienertová-Vašků et al.(25)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-146" type="identity">
+      <class id="relationship" label=""/>
+      <span end="15636" id="PMC6022422.nxml.gz-146" start="15624">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-147" type="identity">
+      <class id="attributed" label=""/>
+      <span end="15734" id="PMC6022422.nxml.gz-147" start="15724">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-148" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15797" id="PMC6022422.nxml.gz-148" start="15788">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16406" id="PMC6022422.nxml.gz-149" start="16269">Based on maternal colostrum visfatin levels, the aurors were able to predict neonatal weight loss in the first three days of birth(25,26)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1543" id="PMC6022422.nxml.gz-15" start="1355">Linear regression analysis revealed that first and second trimester visfatin levels were significant independent predictors of infant’s weight in group B and infant’s height in both groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-150" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="16345" id="PMC6022422.nxml.gz-150" start="16338">predict</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-151" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16617" id="PMC6022422.nxml.gz-151" start="16408">Visfatin by effect on the production of SIRT1, consequently, interference in the development of the brain and energy balance regulation may be associated with head circumferences and weights of fetus and child</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-152" type="identity">
+      <class id="effect" label=""/>
+      <span end="16426" id="PMC6022422.nxml.gz-152" start="16420">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-153" type="identity">
+      <class id="may_be" label=""/>
+      <span end="16550" id="PMC6022422.nxml.gz-153" start="16544">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-154" type="identity">
+      <class id="associated" label=""/>
+      <span end="16561" id="PMC6022422.nxml.gz-154" start="16551">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16720" id="PMC6022422.nxml.gz-155" start="16619">According to these results, visfatin can have a major role in regulating neonatal obesity after birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-156" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16659" id="PMC6022422.nxml.gz-156" start="16656">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-157" type="identity">
+      <class id="role" label=""/>
+      <span end="16677" id="PMC6022422.nxml.gz-157" start="16673">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16773" id="PMC6022422.nxml.gz-158" start="16722">The above studies confirm the present study results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-159" type="identity">
+      <class id="confirm" label=""/>
+      <span end="16747" id="PMC6022422.nxml.gz-159" start="16740">confirm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-16" type="identity">
+      <class id="revealed" label=""/>
+      <span end="1390" id="PMC6022422.nxml.gz-16" start="1382">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-160" type="identity">
+      <class id="present_study" label=""/>
+      <span end="16765" id="PMC6022422.nxml.gz-160" start="16752">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-161" type="identity">
+      <class id="generally" label=""/>
+      <span end="16784" id="PMC6022422.nxml.gz-161" start="16775">Generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16875" id="PMC6022422.nxml.gz-162" start="16775">Generally, these results show that visfatin has a major role in maternal-fetal metabolic interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-163" type="identity">
+      <class id="role" label=""/>
+      <span end="16835" id="PMC6022422.nxml.gz-163" start="16831">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-164" type="identity">
+      <class id="interaction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17158" id="PMC6022422.nxml.gz-165" start="16877">Our results further show different metabolic regulations in groups A and B, which may be due to differences in expression of SIRT1, glucose transfer or insulin resistance as a result of resistance to glucose entry to fetal tissues for unknown reasons, which require further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-166" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-167" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="16911" id="PMC6022422.nxml.gz-167" start="16902">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-168" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-169" type="identity">
+      <class id="may_be" label=""/>
+      <span end="16965" id="PMC6022422.nxml.gz-169" start="16959">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-17" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1478" id="PMC6022422.nxml.gz-17" start="1468">predictors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-170" type="identity">
+      <class id="due_to" label=""/>
+      <span end="16972" id="PMC6022422.nxml.gz-170" start="16966">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-171" type="identity">
+      <class id="differences" label=""/>
+      <span end="16984" id="PMC6022422.nxml.gz-171" start="16973">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-172" type="identity">
+      <class id="unknown" label=""/>
+      <span end="17119" id="PMC6022422.nxml.gz-172" start="17112">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-173" type="identity">
+      <class id="require" label=""/>
+      <span end="17142" id="PMC6022422.nxml.gz-173" start="17135">require</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-174" type="identity">
+      <class id="further_studies" label=""/>
+      <span end="17158" id="PMC6022422.nxml.gz-174" start="17143">further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-175" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17264" id="PMC6022422.nxml.gz-175" start="17160">It is likely that visfatin can be used in the future as a biomarker predicting fetal and neonatal growth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-176" type="identity">
+      <class id="likely" label=""/>
+      <span end="17172" id="PMC6022422.nxml.gz-176" start="17166">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-177" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17190" id="PMC6022422.nxml.gz-177" start="17187">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-178" type="identity">
+      <class id="future" label=""/>
+      <span end="17212" id="PMC6022422.nxml.gz-178" start="17206">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-179" type="identity">
+      <class id="this_study" label=""/>
+      <span end="17295" id="PMC6022422.nxml.gz-179" start="17285">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1631" id="PMC6022422.nxml.gz-18" start="1545">Second trimester visfatin level was a significant predictor of birth height in group B</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17426" id="PMC6022422.nxml.gz-180" start="17285">This study provides useful data of the relationship between serum visfatin and the children’s anthropometric markers up to a year after birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-181" type="identity">
+      <class id="relationship" label=""/>
+      <span end="17336" id="PMC6022422.nxml.gz-181" start="17324">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-182" type="identity">
+      <class id="however" label=""/>
+      <span end="17435" id="PMC6022422.nxml.gz-182" start="17428">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17475" id="PMC6022422.nxml.gz-183" start="17428">However, the present study has some limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-184" type="identity">
+      <class id="present_study" label=""/>
+      <span end="17454" id="PMC6022422.nxml.gz-184" start="17441">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-185" type="identity">
+      <class id="limitations" label=""/>
+      <span end="17475" id="PMC6022422.nxml.gz-185" start="17464">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-186" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17688" id="PMC6022422.nxml.gz-186" start="17477">First, we know that it would be better to evaluate levels of cord plasma and breast milk concentrations of visfatin and assess their correlation with the children’s anthropometric in order to support our results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-187" type="identity">
+      <class id="would_be" label=""/>
+      <span end="17508" id="PMC6022422.nxml.gz-187" start="17500">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-188" type="identity">
+      <class id="correlation" label=""/>
+      <span end="17621" id="PMC6022422.nxml.gz-188" start="17610">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-189" type="identity">
+      <class id="in_order_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-19" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1604" id="PMC6022422.nxml.gz-19" start="1595">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-190" type="identity">
+      <class id="support" label=""/>
+      <span end="17676" id="PMC6022422.nxml.gz-190" start="17669">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-191" type="identity">
+      <class id="however" label=""/>
+      <span end="17697" id="PMC6022422.nxml.gz-191" start="17690">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17753" id="PMC6022422.nxml.gz-192" start="17690">However, we could not do it, which is a limitation of our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-193" type="identity">
+      <class id="could_not" label=""/>
+      <span end="17711" id="PMC6022422.nxml.gz-193" start="17702">could not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-194" type="identity">
+      <class id="limitation" label=""/>
+      <span end="17740" id="PMC6022422.nxml.gz-194" start="17730">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17899" id="PMC6022422.nxml.gz-195" start="17816">We suggest the long-term fallow up of mothers and infants with more abundant sample</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-196" type="identity">
+      <class id="suggest" label=""/>
+      <span end="17826" id="PMC6022422.nxml.gz-196" start="17819">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-197" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18179" id="PMC6022422.nxml.gz-197" start="17913">After a careful review of previous studies on visfatin and pregnancy, we can claim the present study is the first in Iran to have specifically addressed the relationship between maternal visfatin levels and infant’s anthropometric indicators up to a year after birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-198" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="17955" id="PMC6022422.nxml.gz-198" start="17939">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-199" type="identity">
+      <class id="0_claim" label=""/>
+      <span end="17995" id="PMC6022422.nxml.gz-199" start="17990">claim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-2" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="23" id="PMC6022422.nxml.gz-2" start="14">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1860" id="PMC6022422.nxml.gz-20" start="1646">Maternal serum visfatin level shows a relationship with fetal and infant anthropometric indicators, with different effects in the two groups, suggesting visfatin dysfunction in the overweight group before pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-200" type="identity">
+      <class id="present_study" label=""/>
+      <span end="18013" id="PMC6022422.nxml.gz-200" start="18000">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-201" type="identity">
+      <class id="first" label=""/>
+      <span end="18026" id="PMC6022422.nxml.gz-201" start="18021">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-202" type="identity">
+      <class id="relationship" label=""/>
+      <span end="18082" id="PMC6022422.nxml.gz-202" start="18070">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-203" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18244" id="PMC6022422.nxml.gz-203" start="18181">Our study can be the basis for further and more precise studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-204" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-205" type="identity">
+      <class id="future_work" label=""/>
+      <span end="18219" id="PMC6022422.nxml.gz-205" start="18212">further</span>
+      <span end="18244" id="PMC6022422.nxml.gz-206" start="18237">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-207" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-208" type="identity">
+      <class id="present_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18723" id="PMC6022422.nxml.gz-209" start="18563">In the present study, the relationship between prenatal visfatin level and infant’s anthropometric indicators in the two years following childbirth was assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-21" type="identity">
+      <class id="relationship" label=""/>
+      <span end="1696" id="PMC6022422.nxml.gz-21" start="1684">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-210" type="identity">
+      <class id="present_study" label=""/>
+      <span end="18583" id="PMC6022422.nxml.gz-210" start="18570">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-211" type="identity">
+      <class id="relationship" label=""/>
+      <span end="18601" id="PMC6022422.nxml.gz-211" start="18589">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-212" type="identity">
+      <class id="assessed" label=""/>
+      <span end="18723" id="PMC6022422.nxml.gz-212" start="18715">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-213" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18861" id="PMC6022422.nxml.gz-213" start="18725">Serum visfatin level appears to be related to the fetus and infant’s anthropometric indicators (infant’s weight, height and birth height</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-214" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="18759" id="PMC6022422.nxml.gz-214" start="18746">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-215" type="identity">
+      <class id="related" label=""/>
+      <span end="18767" id="PMC6022422.nxml.gz-215" start="18760">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19010" id="PMC6022422.nxml.gz-216" start="18863">First and second trimester visfatin levels were significant independent predictors of infant’s weight in group B and infant’s height in both groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-217" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="18945" id="PMC6022422.nxml.gz-217" start="18935">predictors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-218" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19102" id="PMC6022422.nxml.gz-218" start="19012">The second trimester visfatin level was a significant predictor of birth height in group B</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-219" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="19075" id="PMC6022422.nxml.gz-219" start="19066">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-22" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19282" id="PMC6022422.nxml.gz-220" start="19104">Visfatin has extensive effects on pregnancy physiology and pathology, maternal and especially neonatal outcomes, and its effect is different in normal weight and overweight women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-221" type="identity">
+      <class id="effects" label=""/>
+      <span end="19134" id="PMC6022422.nxml.gz-221" start="19127">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-222" type="identity">
+      <class id="effect" label=""/>
+      <span end="19231" id="PMC6022422.nxml.gz-222" start="19225">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-223" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19508" id="PMC6022422.nxml.gz-223" start="19284">Hence, pre-pregnancy BMI appears to be a determining factor in creating the difference and the amount of maternal plasma visfatin during pregnancy, which can predict maternal serum visfatin and neonatal and maternal outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-224" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="19322" id="PMC6022422.nxml.gz-224" start="19309">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-225" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19614" id="PMC6022422.nxml.gz-225" start="19510">It is recommended that future studies be conducted with larger sample sizes and longer follow-up periods</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-226" type="identity">
+      <class id="recommended" label=""/>
+      <span end="19527" id="PMC6022422.nxml.gz-226" start="19516">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-227" type="identity">
+      <class id="future_studies" label=""/>
+      <span end="19547" id="PMC6022422.nxml.gz-227" start="19533">future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-23" type="identity">
+      <class id="effects" label=""/>
+      <span end="1768" id="PMC6022422.nxml.gz-23" start="1761">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-24" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="1798" id="PMC6022422.nxml.gz-24" start="1788">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2036" id="PMC6022422.nxml.gz-25" start="1870">We measured the serum visfatin level in pregnancy, and assess its relationship with the children’s anthropometric markers, to determine if it can be used as biomarker</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-26" type="identity">
+      <class id="relationship" label=""/>
+      <span end="1948" id="PMC6022422.nxml.gz-26" start="1936">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-27" type="identity">
+      <class id="to_determine" label=""/>
+      <span end="2005" id="PMC6022422.nxml.gz-27" start="1993">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-28" type="identity">
+      <class id="if" label=""/>
+      <span end="2008" id="PMC6022422.nxml.gz-28" start="2006">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-29" type="identity">
+      <class id="can" label=""/>
+      <span end="2015" id="PMC6022422.nxml.gz-29" start="2012">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="272" id="PMC6022422.nxml.gz-3" start="77">Visfatin is an adipocytokine that functions as an enzyme and a growth factor to investigate the relationship between serum visfatin and the fetus’s anthropometric markers up to a year after birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2160" id="PMC6022422.nxml.gz-30" start="2052">By releasing adipokines, adipose tissue has a major role in fertility, and physical and sexual maturation(1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-31" type="identity">
+      <class id="role" label=""/>
+      <span end="2108" id="PMC6022422.nxml.gz-31" start="2104">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2540" id="PMC6022422.nxml.gz-32" start="2162">Visfatin, a new 52KDa adipokine(2), was renamed to nicotinamide phosphoribosyl transferase (Nampt) in 2002 after it was shown that it encodes an enzyme called Nampt, which is involved in the conversion of nicotinamide into nicotinamide adenine dinucleotide (NAD)(3). Intercellular Nampt is substantially released by embryonic, amniotic, and placental membrane and adipose tissue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-33" type="identity">
+      <class id="new" label=""/>
+      <span end="2177" id="PMC6022422.nxml.gz-33" start="2174">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-34" type="identity">
+      <class id="involved" label=""/>
+      <span end="2345" id="PMC6022422.nxml.gz-34" start="2337">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-35" type="identity">
+      <class id="yet" label=""/>
+      <span end="2632" id="PMC6022422.nxml.gz-35" start="2629">Yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2724" id="PMC6022422.nxml.gz-36" start="2629">Yet, visfatin’s regulatory and release mechanisms in the fetus and neonate are still unclear(5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-37" type="identity">
+      <class id="still" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-38" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="2721" id="PMC6022422.nxml.gz-38" start="2708">still unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-39" type="identity">
+      <class id="unclear" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-4" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="168" id="PMC6022422.nxml.gz-4" start="154">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2884" id="PMC6022422.nxml.gz-40" start="2726">It is probably regulated by glucose and insulin(6), and increases with gradual degradation of B-cell and progress of insulin-resistance and maternal weight(7)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-41" type="identity">
+      <class id="probably" label=""/>
+      <span end="2740" id="PMC6022422.nxml.gz-41" start="2732">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-42" type="identity">
+      <class id="many_studies" label=""/>
+      <span end="2898" id="PMC6022422.nxml.gz-42" start="2886">Many studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3054" id="PMC6022422.nxml.gz-43" start="2886">Many studies have shown that increased visfatin levels in maternal plasma are associated with small-for-gestantional-age births(8)and intrauterine growth restriction(9)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-44" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="2909" id="PMC6022422.nxml.gz-44" start="2899">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-45" type="identity">
+      <class id="associated" label=""/>
+      <span end="2974" id="PMC6022422.nxml.gz-45" start="2964">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3399" id="PMC6022422.nxml.gz-46" start="3115">Strong relationships have recently been reported between serum visfatin levels in the first trimester of pregnancy and insulin secretion in the fetus and final birth weight, which shows the role of visfatin secretion in early pregnancy in the later metabolic modeling of the fetus(11)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-47" type="identity">
+      <class id="relationships" label=""/>
+      <span end="3135" id="PMC6022422.nxml.gz-47" start="3122">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-48" type="identity">
+      <class id="have...been" label=""/>
+      <span end="3140" id="PMC6022422.nxml.gz-48" start="3136">have</span>
+      <span end="3154" id="PMC6022422.nxml.gz-49" start="3150">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-5" type="identity">
+      <class id="relationship" label=""/>
+      <span end="185" id="PMC6022422.nxml.gz-5" start="173">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-50" type="identity">
+      <class id="role" label=""/>
+      <span end="3309" id="PMC6022422.nxml.gz-50" start="3305">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3503" id="PMC6022422.nxml.gz-51" start="3401">These results suggest that visfatin may play an important role in maternal-fetal metabolic interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-52" type="identity">
+      <class id="suggest" label=""/>
+      <span end="3422" id="PMC6022422.nxml.gz-52" start="3415">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-53" type="identity">
+      <class id="may" label=""/>
+      <span end="3440" id="PMC6022422.nxml.gz-53" start="3437">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-54" type="identity">
+      <class id="important" label=""/>
+      <span end="3458" id="PMC6022422.nxml.gz-54" start="3449">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-55" type="identity">
+      <class id="role" label=""/>
+      <span end="3463" id="PMC6022422.nxml.gz-55" start="3459">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-56" type="identity">
+      <class id="interaction" label=""/>
+      <span end="3503" id="PMC6022422.nxml.gz-56" start="3492">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-57" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3698" id="PMC6022422.nxml.gz-57" start="3505">However, due to the lack of sufficient information about the physiologic role of visfatin in adults, its source and regulation mechanism in fetal and neonatal stages cannot be argued absolutely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-58" type="identity">
+      <class id="however" label=""/>
+      <span end="3512" id="PMC6022422.nxml.gz-58" start="3505">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-59" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="838" id="PMC6022422.nxml.gz-6" start="660">In group A, there was a strong positive relationship between birth head circumference and the first (p1=0.054, r1=0.580) and second trimester visfatin levels (p2=0.051, r2=0.530)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-60" type="identity">
+      <class id="due_to" label=""/>
+      <span end="3520" id="PMC6022422.nxml.gz-60" start="3514">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-61" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="3532" id="PMC6022422.nxml.gz-61" start="3525">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-62" type="identity">
+      <class id="role" label=""/>
+      <span end="3582" id="PMC6022422.nxml.gz-62" start="3578">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-65" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="3714" id="PMC6022422.nxml.gz-65" start="3700">To investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-66" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3892" id="PMC6022422.nxml.gz-66" start="3700">To investigate the role of visfatin in the growth of the fetus and up to a year after birth, we measured serum visfatin levels during 6-12 and 15-20 weeks of gestation in an Iranian population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-67" type="identity">
+      <class id="role" label=""/>
+      <span end="3723" id="PMC6022422.nxml.gz-67" start="3719">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-7" type="identity">
+      <class id="relationship" label=""/>
+      <span end="712" id="PMC6022422.nxml.gz-7" start="700">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9665" id="PMC6022422.nxml.gz-70" start="9485">In group A, a strong positive relationship was observed between birth head circumference and the first (p1=0.05, r1=0.580) and second trimester visfatin levels (p2=0.051, r2=0.530)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-71" type="identity">
+      <class id="relationship" label=""/>
+      <span end="9527" id="PMC6022422.nxml.gz-71" start="9515">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9838" id="PMC6022422.nxml.gz-72" start="9667">Spearman Rank correlation test showed a negative significant relationship between second trimester visfatin level and birth height (p=0.015, r=-0.523) in group B (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-74" type="identity">
+      <class id="relationship" label=""/>
+      <span end="9740" id="PMC6022422.nxml.gz-74" start="9728">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9981" id="PMC6022422.nxml.gz-75" start="9840">Linear regression analysis revealed that the second trimester visfatin level was a significant predictor of birth height in group B (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-76" type="identity">
+      <class id="revealed" label=""/>
+      <span end="9875" id="PMC6022422.nxml.gz-76" start="9867">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-77" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="9944" id="PMC6022422.nxml.gz-77" start="9935">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-79" type="identity">
+      <class id="relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="998" id="PMC6022422.nxml.gz-8" start="840">In group B, second trimester visfatin levels correlated negatively with birth length (p=0.015, r=-0.523) and infant’s head circumference (p2=0.050, r2=-0.392)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10415" id="PMC6022422.nxml.gz-80" start="10126">Significant correlations were observed in both groups between first trimester visfatin (pa=0.002, ra=0.713, pb=0.005, rb=-0.540, in A and B group, respectively) and second trimester visfatin (pa=0.009, ra=0.628 and pb=0.008, rb=-0.518, in groups A and B, respectively) with infant’s height</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-81" type="identity">
+      <class id="correlations" label=""/>
+      <span end="10150" id="PMC6022422.nxml.gz-81" start="10138">correlations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-8162" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="1760" id="PMC6022422.nxml.gz-8163" start="1751">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-8164" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="3698" id="PMC6022422.nxml.gz-8165" start="3671">cannot be argued absolutely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-8166" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="11542" id="PMC6022422.nxml.gz-8167" start="11535">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-82" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10481" id="PMC6022422.nxml.gz-82" start="10417">This correlation was positive in group A and negative in group B</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-83" type="identity">
+      <class id="correlation" label=""/>
+      <span end="10433" id="PMC6022422.nxml.gz-83" start="10422">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10591" id="PMC6022422.nxml.gz-84" start="10483">According to the Lambda test, this correlation was significantly greater in group A than in group B (p&lt;0.05)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-85" type="identity">
+      <class id="correlation" label=""/>
+      <span end="10529" id="PMC6022422.nxml.gz-85" start="10518">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10782" id="PMC6022422.nxml.gz-86" start="10593">A negative and significant correlation was separately found between infant’s weight and the first (p1=0.024, r1=-0.450) and second trimester visfatin levels (p2=0.005, r2=-0.540) in group B</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-87" type="identity">
+      <class id="correlation" label=""/>
+      <span end="10631" id="PMC6022422.nxml.gz-87" start="10620">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-88" type="identity">
+      <class id="generally" label=""/>
+      <span end="10793" id="PMC6022422.nxml.gz-88" start="10784">Generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10912" id="PMC6022422.nxml.gz-89" start="10784">Generally, the relationship between visfatin and the infants’s growth indicators was positive in group A and negative in group B</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-9" type="identity">
+      <class id="correlated" label=""/>
+      <span end="895" id="PMC6022422.nxml.gz-9" start="885">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-90" type="identity">
+      <class id="relationship" label=""/>
+      <span end="10811" id="PMC6022422.nxml.gz-90" start="10799">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11082" id="PMC6022422.nxml.gz-91" start="10914">A strong negative correlation was separately found between the second trimester visfatin level and infant’s head circumference (p2=0.05, r2=-0.392) in group B (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-92" type="identity">
+      <class id="correlation" label=""/>
+      <span end="10943" id="PMC6022422.nxml.gz-92" start="10932">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11270" id="PMC6022422.nxml.gz-93" start="11084">Linear regression analysis revealed that first and second trimester visfatin levels were significant predictors of infant’s weight in group B and infant’s height in both groups (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-94" type="identity">
+      <class id="revealed" label=""/>
+      <span end="11119" id="PMC6022422.nxml.gz-94" start="11111">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-95" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="11195" id="PMC6022422.nxml.gz-95" start="11185">predictors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11450" id="PMC6022422.nxml.gz-96" start="11284">No study has yet been conducted to assess the relationship between maternal serum visfatin and neonatal anthropometric indicators by categorizing mothers based on BMI</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6022422.nxml.gz-97" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="11292" id="PMC6022422.nxml.gz-97" start="11284">No study</span>
+      <span end="11300" id="PMC6022422.nxml.gz-98" start="11297">yet</span>
+    </annotation>
+  </document>
+</knowtator-project>

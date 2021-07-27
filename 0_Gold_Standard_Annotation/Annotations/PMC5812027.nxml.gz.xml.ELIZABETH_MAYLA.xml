@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5812027.nxml.gz" text-file="PMC5812027.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="129" id="PMC5812027.nxml.gz-1" start="0">Trajectory of vitamin D status during pregnancy in relation to neonatal birth size and fetal survival: a prospective cohort study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-10" type="identity">
+      <class id="associated" label=""/>
+      <span end="1346" id="PMC5812027.nxml.gz-10" start="1336">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-100" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4812" id="PMC5812027.nxml.gz-100" start="4803">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4977" id="PMC5812027.nxml.gz-101" start="4803">Therefore, it has not been possible to ascertain whether the associations at implantation in early pregnancy differ from those during the fetal growth spurt in late pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-102" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-104" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="4824" id="PMC5812027.nxml.gz-104" start="4821">not</span>
+      <span end="4838" id="PMC5812027.nxml.gz-105" start="4830">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-106" type="identity">
+      <class id="possible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-107" type="identity">
+      <class id="whether" label=""/>
+      <span end="4859" id="PMC5812027.nxml.gz-107" start="4852">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-108" type="identity">
+      <class id="associations" label=""/>
+      <span end="4876" id="PMC5812027.nxml.gz-108" start="4864">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-109" type="identity">
+      <class id="differ" label=""/>
+      <span end="4918" id="PMC5812027.nxml.gz-109" start="4912">differ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1603" id="PMC5812027.nxml.gz-11" start="1407">T3 25OHD ≥ 100 nmol/L (equal to 40 ng/ml) was associated with lower odds of SGA (OR 0.3, p  = 0.031) and LBW (OR 0.2, p  = 0.046), compared to vitamin D deficiency (25OHD &lt; 30 nmol/L, or 12 ng/ml)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5182" id="PMC5812027.nxml.gz-110" start="4979">Our objectives were to study the associations between vitamin D status in both early and late pregnancy, as well as change in vitamin D status during pregnancy with neonatal SGA, LBW and preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-111" type="identity">
+      <class id="objectives" label=""/>
+      <span end="4993" id="PMC5812027.nxml.gz-111" start="4983">objectives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-112" type="identity">
+      <class id="associations" label=""/>
+      <span end="5024" id="PMC5812027.nxml.gz-112" start="5012">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-113" type="identity">
+      <class id="associations" label=""/>
+      <span end="5196" id="PMC5812027.nxml.gz-113" start="5184">Associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5277" id="PMC5812027.nxml.gz-114" start="5184">Associations between vitamin D status in early pregnancy and pregnancy loss were also studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-115" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="5264" id="PMC5812027.nxml.gz-115" start="5260">were</span>
+      <span end="5277" id="PMC5812027.nxml.gz-116" start="5270">studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7126" id="PMC5812027.nxml.gz-117" start="6994">Pregnancy loss before gestational week 22 was based on self-report data and medical records to verify miscarriage were not available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-118" type="identity">
+      <class id="not_available" label=""/>
+      <span end="7126" id="PMC5812027.nxml.gz-118" start="7113">not available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8648" id="PMC5812027.nxml.gz-119" start="8501">Season was coded as a binary variable, since this explained 30% of vitamin D status in a previous study in pregnant women at the same latitude [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-120" type="identity">
+      <class id="since" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-121" type="identity">
+      <class id="explained" label=""/>
+      <span end="8560" id="PMC5812027.nxml.gz-121" start="8551">explained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-122" type="identity">
+      <class id="previous_study" label=""/>
+      <span end="8604" id="PMC5812027.nxml.gz-122" start="8590">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9289" id="PMC5812027.nxml.gz-123" start="9055">These groups were chosen to study whether vitamin D insufficiency (30–50 nmol/L), sufficiency (≥ 50 nmol/L) or high status (≥ 75 or ≥ 100 nmol/L) was associated with the outcomes studied, compared to vitamin D deficiency (&lt; 30 nmol/L)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-124" type="identity">
+      <class id="whether...compared" label=""/>
+      <span end="9096" id="PMC5812027.nxml.gz-124" start="9089">whether</span>
+      <span end="9251" id="PMC5812027.nxml.gz-125" start="9243">compared</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-126" type="identity">
+      <class id="associated" label=""/>
+      <span end="9215" id="PMC5812027.nxml.gz-126" start="9205">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-127" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10389" id="PMC5812027.nxml.gz-127" start="10214">Tobacco use and vitamin D supplement use were also investigated as potential confounders but did not show any confounding effect and were thus not included in the final models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-128" type="identity">
+      <class id="investigated" label=""/>
+      <span end="10277" id="PMC5812027.nxml.gz-128" start="10265">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-129" type="identity">
+      <class id="potential" label=""/>
+      <span end="10290" id="PMC5812027.nxml.gz-129" start="10281">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-130" type="identity">
+      <class id="confounders" label=""/>
+      <span end="10302" id="PMC5812027.nxml.gz-130" start="10291">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-131" type="identity">
+      <class id="but" label=""/>
+      <span end="10306" id="PMC5812027.nxml.gz-131" start="10303">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-132" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-133" type="identity">
+      <class id="confounding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-134" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-135" type="identity">
+      <class id="thus" label=""/>
+      <span end="10356" id="PMC5812027.nxml.gz-135" start="10352">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-136" type="identity">
+      <class id="models" label=""/>
+      <span end="10389" id="PMC5812027.nxml.gz-136" start="10383">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-137" type="identity">
+      <class id="correlation" label=""/>
+      <span end="10526" id="PMC5812027.nxml.gz-137" start="10515">Correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-138" type="identity">
+      <class id="identified" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-139" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10707" id="PMC5812027.nxml.gz-139" start="10515">Correlation between continuous T1 25OHD and continuous change in 25OHD was low ( r  = − 0.22, p  &lt; 0.001) and it was therefore considered acceptable to include both variables in the same model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1815" id="PMC5812027.nxml.gz-14" start="1730">Vitamin D deficiency in late pregnancy was associated with higher odds of SGA and LBW</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-140" type="identity">
+      <class id="therefore" label=""/>
+      <span end="10641" id="PMC5812027.nxml.gz-140" start="10632">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-141" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10652" id="PMC5812027.nxml.gz-141" start="10642">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-142" type="identity">
+      <class id="0_model" label=""/>
+      <span end="10707" id="PMC5812027.nxml.gz-142" start="10702">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-143" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11040" id="PMC5812027.nxml.gz-143" start="10872">These models were adjusted for BMI, season of conception, education level, origin and gestational age at registration to antenatal care (based on last menstrual period)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-144" type="identity">
+      <class id="models" label=""/>
+      <span end="10884" id="PMC5812027.nxml.gz-144" start="10878">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-145" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11243" id="PMC5812027.nxml.gz-145" start="11166">Here, no confounders were included due to the small number of cases ( N  = 9)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-146" type="identity">
+      <class id="confounders" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-147" type="identity">
+      <class id="due...to" label=""/>
+      <span end="11207" id="PMC5812027.nxml.gz-147" start="11201">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-148" type="identity">
+      <class id="small" label=""/>
+      <span end="11217" id="PMC5812027.nxml.gz-148" start="11212">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14154" id="PMC5812027.nxml.gz-149" start="14040">There were no associations between the predictor T1 25OHD and the outcomes SGA, LBW and preterm delivery (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-15" type="identity">
+      <class id="associated" label=""/>
+      <span end="1783" id="PMC5812027.nxml.gz-15" start="1773">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-150" type="identity">
+      <class id="predictor" label=""/>
+      <span end="14088" id="PMC5812027.nxml.gz-150" start="14079">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-151" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="14487" id="PMC5812027.nxml.gz-151" start="14480">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14552" id="PMC5812027.nxml.gz-152" start="14480">However, T3 25OHD was not significantly associated with preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-153" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-155" type="identity">
+      <class id="related" label=""/>
+      <span end="16513" id="PMC5812027.nxml.gz-155" start="16506">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16833" id="PMC5812027.nxml.gz-156" start="16548">Compared to women with a large increase in 25OHD (≥30 nmol/L), women with a decrease in 25OHD had significantly higher OR of having a child born SGA (OR = 3.7, p  = 0.002), with LBW (OR = 4.7, p  = 0.014) as well as a trend toward higher odds of preterm delivery (OR = 2.9, p  = 0.061)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-157" type="identity">
+      <class id="trend" label=""/>
+      <span end="16771" id="PMC5812027.nxml.gz-157" start="16766">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-158" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17098" id="PMC5812027.nxml.gz-159" start="16835">Women with a small increase in 25OHD (0–30 nmol/L) had significantly higher OR of SGA (OR = 2.6, p  = 0.019) and preterm delivery (OR = 2.9, p  = 0.047) as well as a trend toward significance for LBW (OR = 3.1, p  = 0.056), compared to women with a large increase</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1887" id="PMC5812027.nxml.gz-16" start="1817">Lower 25OHD in early pregnancy was only associated with pregnancy loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-160" type="identity">
+      <class id="trend" label=""/>
+      <span end="17006" id="PMC5812027.nxml.gz-160" start="17001">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-161" type="identity">
+      <class id="significance" label=""/>
+      <span end="17026" id="PMC5812027.nxml.gz-161" start="17014">significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17559" id="PMC5812027.nxml.gz-162" start="17445">Overall, lower T1 25OHD (as a continuous but not categorical variable) was associated with pregnancy loss (Table3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-163" type="identity">
+      <class id="associated" label=""/>
+      <span end="17530" id="PMC5812027.nxml.gz-163" start="17520">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17724" id="PMC5812027.nxml.gz-164" start="17561">In unadjusted analysis, T1 25OHD was associated with IUFD and women with 25OHD &lt; 30 nmol/L at T1 had more than fourfold higher odds of IUFD (OR = 4.52, p  = 0.034)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-165" type="identity">
+      <class id="associated" label=""/>
+      <span end="17608" id="PMC5812027.nxml.gz-165" start="17598">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17874" id="PMC5812027.nxml.gz-166" start="17738">We found that higher vitamin D status among women in late, but not early, pregnancy was associated with lower probability of SGA and LBW</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-167" type="identity">
+      <class id="found" label=""/>
+      <span end="17746" id="PMC5812027.nxml.gz-167" start="17741">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-168" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="17804" id="PMC5812027.nxml.gz-168" start="17797">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-169" type="identity">
+      <class id="associated" label=""/>
+      <span end="17836" id="PMC5812027.nxml.gz-169" start="17826">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-17" type="identity">
+      <class id="only" label=""/>
+      <span end="1856" id="PMC5812027.nxml.gz-17" start="1852">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-170" type="identity">
+      <class id="probability" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-171" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17980" id="PMC5812027.nxml.gz-171" start="17876">Vitamin D status trajectory during pregnancy was inversely associated with SGA, LBW and preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-172" type="identity">
+      <class id="associated" label=""/>
+      <span end="17945" id="PMC5812027.nxml.gz-172" start="17935">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18183" id="PMC5812027.nxml.gz-173" start="18093">We also found that lower vitamin D status in early pregnancy was related to pregnancy loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-174" type="identity">
+      <class id="found" label=""/>
+      <span end="18106" id="PMC5812027.nxml.gz-174" start="18101">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-175" type="identity">
+      <class id="related" label=""/>
+      <span end="18165" id="PMC5812027.nxml.gz-175" start="18158">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-176" type="identity">
+      <class id="previous" label=""/>
+      <span end="18193" id="PMC5812027.nxml.gz-176" start="18185">Previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18317" id="PMC5812027.nxml.gz-177" start="18185">Previous findings from the GraviD study show lower odds of preeclampsia among women with a large increase (≥ 30 nmol/L) in 25OHD [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-178" type="identity">
+      <class id="findings" label=""/>
+      <span end="18202" id="PMC5812027.nxml.gz-178" start="18194">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-179" type="identity">
+      <class id="show" label=""/>
+      <span end="18229" id="PMC5812027.nxml.gz-179" start="18225">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-18" type="identity">
+      <class id="associated" label=""/>
+      <span end="1867" id="PMC5812027.nxml.gz-18" start="1857">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-180" type="identity">
+      <class id="as" label=""/>
+      <span end="18321" id="PMC5812027.nxml.gz-180" start="18319">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18435" id="PMC5812027.nxml.gz-181" start="18319">As SGA, LBW and preterm delivery are related to preeclampsia; these results are consistent with the current findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-182" type="identity">
+      <class id="related" label=""/>
+      <span end="18363" id="PMC5812027.nxml.gz-182" start="18356">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-183" type="identity">
+      <class id="consistent" label=""/>
+      <span end="18409" id="PMC5812027.nxml.gz-183" start="18399">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-184" type="identity">
+      <class id="findings" label=""/>
+      <span end="18435" id="PMC5812027.nxml.gz-184" start="18427">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-185" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18519" id="PMC5812027.nxml.gz-185" start="18437">However, excluding preeclampsia cases from the analysis did not change the results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-186" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-187" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18444" id="PMC5812027.nxml.gz-187" start="18437">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-189" type="identity">
+      <class id="thus" label=""/>
+      <span end="18525" id="PMC5812027.nxml.gz-189" start="18521">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2074" id="PMC5812027.nxml.gz-19" start="1889">Vitamin D status trajectory from early to late pregnancy was inversely associated with SGA, LBW and preterm delivery with the lowest odds among women with the highest increment in 25OHD</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18658" id="PMC5812027.nxml.gz-190" start="18521">Thus, preeclampsia does not seem to mediate the associations between vitamin D status trajectory and neonatal birth size or preterm birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-192" type="identity">
+      <class id="seem" label=""/>
+      <span end="18553" id="PMC5812027.nxml.gz-192" start="18549">seem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-193" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="18564" id="PMC5812027.nxml.gz-193" start="18557">mediate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-194" type="identity">
+      <class id="associations" label=""/>
+      <span end="18581" id="PMC5812027.nxml.gz-194" start="18569">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18847" id="PMC5812027.nxml.gz-195" start="18660">We have previously shown that the determinants of season-corrected change in 25OHD during pregnancy include origin, sun-exposure and dietary as well as supplementary vitamin D intake [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-196" type="identity">
+      <class id="previously_shown" label=""/>
+      <span end="18684" id="PMC5812027.nxml.gz-196" start="18668">previously shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-197" type="identity">
+      <class id="determinants" label=""/>
+      <span end="18706" id="PMC5812027.nxml.gz-197" start="18694">determinants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-198" type="identity">
+      <class id="as" label=""/>
+      <span end="18949" id="PMC5812027.nxml.gz-198" start="18947">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19201" id="PMC5812027.nxml.gz-199" start="18947">As the results between change in 25OHD and neonatal birth size and preterm delivery remained after adjustment for season of conception, origin and vitamin D supplementation, vitamin D status trajectory can be suspected to play a role in healthy pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-2" type="identity">
+      <class id="relation" label=""/>
+      <span end="59" id="PMC5812027.nxml.gz-2" start="51">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-20" type="identity">
+      <class id="associated" label=""/>
+      <span end="1970" id="PMC5812027.nxml.gz-20" start="1960">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-200" type="identity">
+      <class id="remained" label=""/>
+      <span end="19039" id="PMC5812027.nxml.gz-200" start="19031">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-201" type="identity">
+      <class id="can" label=""/>
+      <span end="19152" id="PMC5812027.nxml.gz-201" start="19149">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-202" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="19165" id="PMC5812027.nxml.gz-202" start="19156">suspected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-203" type="identity">
+      <class id="role" label=""/>
+      <span end="19180" id="PMC5812027.nxml.gz-203" start="19176">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19341" id="PMC5812027.nxml.gz-204" start="19203">Vitamin D has been shown to facilitate the transport of nutrients across the placenta [20,21], which could contribute to fetal growth [22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-205" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="19227" id="PMC5812027.nxml.gz-205" start="19213">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-206" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-207" type="identity">
+      <class id="could" label=""/>
+      <span end="19309" id="PMC5812027.nxml.gz-207" start="19304">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-208" type="identity">
+      <class id="contribute" label=""/>
+      <span end="19320" id="PMC5812027.nxml.gz-208" start="19310">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19441" id="PMC5812027.nxml.gz-209" start="19343">Vitamin D status could also facilitate fetal development by regulating placental inflammation [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-21" type="identity">
+      <class id="thus" label=""/>
+      <span end="2080" id="PMC5812027.nxml.gz-21" start="2076">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-210" type="identity">
+      <class id="could" label=""/>
+      <span end="19365" id="PMC5812027.nxml.gz-210" start="19360">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-211" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19588" id="PMC5812027.nxml.gz-211" start="19443">It is also possible that the associations between fetal growth and maternal vitamin D status are due to residual confounding or reverse causation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-212" type="identity">
+      <class id="possible" label=""/>
+      <span end="19462" id="PMC5812027.nxml.gz-212" start="19454">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-213" type="identity">
+      <class id="associations" label=""/>
+      <span end="19484" id="PMC5812027.nxml.gz-213" start="19472">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-214" type="identity">
+      <class id="due...to" label=""/>
+      <span end="19546" id="PMC5812027.nxml.gz-214" start="19540">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-215" type="identity">
+      <class id="confounding" label=""/>
+      <span end="19567" id="PMC5812027.nxml.gz-215" start="19556">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-216" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="19588" id="PMC5812027.nxml.gz-216" start="19571">reverse causation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-217" type="identity">
+      <class id="whether" label=""/>
+      <span end="19597" id="PMC5812027.nxml.gz-217" start="19590">Whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-218" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19700" id="PMC5812027.nxml.gz-218" start="19590">Whether vitamin D metabolism is altered in placental dysfunction in unclear and warrants further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-219" type="identity">
+      <class id="unclear" label=""/>
+      <span end="19665" id="PMC5812027.nxml.gz-219" start="19658">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2225" id="PMC5812027.nxml.gz-22" start="2076">Thus, both higher vitamin D status in late pregnancy and gestational vitamin D status trajectory can be suspected to play a role in healthy pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-220" type="identity">
+      <class id="warrants_further_investigation" label=""/>
+      <span end="19700" id="PMC5812027.nxml.gz-220" start="19670">warrants further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19909" id="PMC5812027.nxml.gz-221" start="19702">Our results indicates that 25OHD at T3 but not at T1 is associated with SGA and LBW, despite better statistical power at T1 due to more 25OHD samples and subsequently more cases of SGA, LBW and preterm birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-222" type="identity">
+      <class id="indicates" label=""/>
+      <span end="19723" id="PMC5812027.nxml.gz-222" start="19714">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-223" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="19748" id="PMC5812027.nxml.gz-223" start="19741">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-224" type="identity">
+      <class id="associated" label=""/>
+      <span end="19768" id="PMC5812027.nxml.gz-224" start="19758">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-225" type="identity">
+      <class id="despite" label=""/>
+      <span end="19794" id="PMC5812027.nxml.gz-225" start="19787">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-226" type="identity">
+      <class id="better" label=""/>
+      <span end="19801" id="PMC5812027.nxml.gz-226" start="19795">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22642" type="identity">
+      <class id="associated" label=""/>
+      <span end="1463" id="PMC5812027.nxml.gz-22643" start="1453">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22645" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3525" id="PMC5812027.nxml.gz-22646" start="3342">Also, maternal 25OHD &lt; 28 nmol/L in late, but not early, pregnancy have been associated with lower infant birth size and shorter gestational length in a smaller longitudinal study [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22647" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16546" id="PMC5812027.nxml.gz-22648" start="16446">Vitamin D status trajectory between T1 and T3 was inversely related to SGA, preterm and LBW (Table3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22649" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20878" id="PMC5812027.nxml.gz-22650" start="20782">We found the lowest odds of SGA among women with the highest T3 25OHD concentration, ≥100 nmol/L</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22651" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="23359" id="PMC5812027.nxml.gz-22652" start="23354">could</span>
+      <span end="23373" id="PMC5812027.nxml.gz-22653" start="23370">not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-22654" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23422" id="PMC5812027.nxml.gz-22655" start="23336">Survival analysis could therefore not be performed, as time to event data were missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-227" type="identity">
+      <class id="due_to" label=""/>
+      <span end="19832" id="PMC5812027.nxml.gz-227" start="19826">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-228" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20062" id="PMC5812027.nxml.gz-228" start="19911">This finding is partly consistent with previous studies where 25OHD concentrations of 25–30 nmol/L were associated with higher probability of SGA [5–7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-229" type="identity">
+      <class id="partly" label=""/>
+      <span end="19933" id="PMC5812027.nxml.gz-229" start="19927">partly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-23" type="identity">
+      <class id="can" label=""/>
+      <span end="2176" id="PMC5812027.nxml.gz-23" start="2173">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-230" type="identity">
+      <class id="consistent" label=""/>
+      <span end="19944" id="PMC5812027.nxml.gz-230" start="19934">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-231" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="19966" id="PMC5812027.nxml.gz-231" start="19950">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-232" type="identity">
+      <class id="associated" label=""/>
+      <span end="20025" id="PMC5812027.nxml.gz-232" start="20015">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-233" type="identity">
+      <class id="probability" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-234" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20211" id="PMC5812027.nxml.gz-234" start="20064">The study by Burris et al. [6] sampled women in gestational week 26–28, and found a higher OR for SGA than the two studies that sampled women in T1</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-235" type="identity">
+      <class id="found" label=""/>
+      <span end="20145" id="PMC5812027.nxml.gz-235" start="20140">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20373" id="PMC5812027.nxml.gz-236" start="20213">This could be interpreted as support of our finding that late rather than early pregnancy vitamin D status is the stronger predictor of fetal growth restriction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-237" type="identity">
+      <class id="could_be" label=""/>
+      <span end="20226" id="PMC5812027.nxml.gz-237" start="20218">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-238" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="20241" id="PMC5812027.nxml.gz-238" start="20227">interpreted as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-239" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-24" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2189" id="PMC5812027.nxml.gz-24" start="2180">suspected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-240" type="identity">
+      <class id="support" label=""/>
+      <span end="20249" id="PMC5812027.nxml.gz-240" start="20242">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-241" type="identity">
+      <class id="rather" label=""/>
+      <span end="20281" id="PMC5812027.nxml.gz-241" start="20275">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-242" type="identity">
+      <class id="predictor" label=""/>
+      <span end="20345" id="PMC5812027.nxml.gz-242" start="20336">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-243" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20531" id="PMC5812027.nxml.gz-243" start="20375">Our results also concur with findings by Morley et al. that late but not early pregnancy 25OHD was related to gestational length and neonatal birth size [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-244" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="20398" id="PMC5812027.nxml.gz-244" start="20392">concur</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-245" type="identity">
+      <class id="findings" label=""/>
+      <span end="20412" id="PMC5812027.nxml.gz-245" start="20404">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-246" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="20447" id="PMC5812027.nxml.gz-246" start="20440">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-247" type="identity">
+      <class id="related" label=""/>
+      <span end="20481" id="PMC5812027.nxml.gz-247" start="20474">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20663" id="PMC5812027.nxml.gz-248" start="20533">Our results could also indicate that it takes time for changes in vitamin D metabolism to manifest as changes in circulating 25OHD</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-249" type="identity">
+      <class id="could" label=""/>
+      <span end="20550" id="PMC5812027.nxml.gz-249" start="20545">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-25" type="identity">
+      <class id="role" label=""/>
+      <span end="2204" id="PMC5812027.nxml.gz-25" start="2200">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-250" type="identity">
+      <class id="indicate" label=""/>
+      <span end="20564" id="PMC5812027.nxml.gz-250" start="20556">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20780" id="PMC5812027.nxml.gz-251" start="20665">We did not see a U-shaped association between early pregnancy vitamin D status and SGA, as previously indicated [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-253" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="20679" id="PMC5812027.nxml.gz-253" start="20668">did not see</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-254" type="identity">
+      <class id="association" label=""/>
+      <span end="20702" id="PMC5812027.nxml.gz-254" start="20691">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-256" type="identity">
+      <class id="previously" label=""/>
+      <span end="20766" id="PMC5812027.nxml.gz-256" start="20756">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-257" type="identity">
+      <class id="indicated" label=""/>
+      <span end="20776" id="PMC5812027.nxml.gz-257" start="20767">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-259" type="identity">
+      <class id="found" label=""/>
+      <span end="20790" id="PMC5812027.nxml.gz-259" start="20785">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2377" id="PMC5812027.nxml.gz-26" start="2239">Placental pathology is often found in pregnancies complicated by intrauterine growth restriction, preeclampsia or intrauterine fetal death</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-260" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21085" id="PMC5812027.nxml.gz-260" start="20952">Sampling was evenly distributed across the seasons and time of year cannot explain the high proportion with high 25OHD concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-261" type="identity">
+      <class id="cannot" label=""/>
+      <span end="21026" id="PMC5812027.nxml.gz-261" start="21020">cannot</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21423" id="PMC5812027.nxml.gz-263" start="21221">Supplementation can therefore only partly explain the large proportion with high vitamin D status, and other likely contributors are pregnancy associated endocrine changes and possibly lifestyle factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-264" type="identity">
+      <class id="can" label=""/>
+      <span end="21240" id="PMC5812027.nxml.gz-264" start="21237">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-265" type="identity">
+      <class id="therefore" label=""/>
+      <span end="21250" id="PMC5812027.nxml.gz-265" start="21241">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-266" type="identity">
+      <class id="only" label=""/>
+      <span end="21255" id="PMC5812027.nxml.gz-266" start="21251">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-267" type="identity">
+      <class id="partly" label=""/>
+      <span end="21262" id="PMC5812027.nxml.gz-267" start="21256">partly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-268" type="identity">
+      <class id="explain" label=""/>
+      <span end="21270" id="PMC5812027.nxml.gz-268" start="21263">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-269" type="identity">
+      <class id="other" label=""/>
+      <span end="21329" id="PMC5812027.nxml.gz-269" start="21324">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-27" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2267" id="PMC5812027.nxml.gz-27" start="2262">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-270" type="identity">
+      <class id="likely" label=""/>
+      <span end="21336" id="PMC5812027.nxml.gz-270" start="21330">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-271" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="21349" id="PMC5812027.nxml.gz-271" start="21337">contributors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-272" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-273" type="identity">
+      <class id="possibly" label=""/>
+      <span end="21405" id="PMC5812027.nxml.gz-273" start="21397">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-274" type="identity">
+      <class id="factors" label=""/>
+      <span end="21423" id="PMC5812027.nxml.gz-274" start="21416">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-275" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21540" id="PMC5812027.nxml.gz-275" start="21425">To our knowledge, ours is one of the first studies to find associations between vitamin D status and pregnancy loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-276" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-277" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="21441" id="PMC5812027.nxml.gz-277" start="21425">To our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-278" type="identity">
+      <class id="first" label=""/>
+      <span end="21467" id="PMC5812027.nxml.gz-278" start="21462">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-279" type="identity">
+      <class id="associations" label=""/>
+      <span end="21496" id="PMC5812027.nxml.gz-279" start="21484">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-28" type="identity">
+      <class id="found" label=""/>
+      <span end="2273" id="PMC5812027.nxml.gz-28" start="2268">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-280" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21667" id="PMC5812027.nxml.gz-280" start="21542">The 25OHD concentration has been shown to have immunological effects in women with a history of recurrent pregnancy loss [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-281" type="identity">
+      <class id="has_been_shown" label=""/>
+      <span end="21580" id="PMC5812027.nxml.gz-281" start="21566">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-282" type="identity">
+      <class id="effects" label=""/>
+      <span end="21610" id="PMC5812027.nxml.gz-282" start="21603">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-283" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21774" id="PMC5812027.nxml.gz-283" start="21669">Two previous studies have investigated but not found any association between 25OHD and miscarriage [5,13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-284" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="21689" id="PMC5812027.nxml.gz-284" start="21673">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-285" type="identity">
+      <class id="investigated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-286" type="identity">
+      <class id="but_not" label=""/>
+      <span end="21715" id="PMC5812027.nxml.gz-286" start="21708">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-287" type="identity">
+      <class id="found" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-288" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-289" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21984" id="PMC5812027.nxml.gz-289" start="21836">One earlier study, from Denmark, found that lower vitamin D status in early pregnancy was associated with pregnancy loss in the first trimester [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-29" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2300" id="PMC5812027.nxml.gz-29" start="2289">complicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-290" type="identity">
+      <class id="found" label=""/>
+      <span end="21874" id="PMC5812027.nxml.gz-290" start="21869">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-291" type="identity">
+      <class id="associated" label=""/>
+      <span end="21936" id="PMC5812027.nxml.gz-291" start="21926">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-292" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22103" id="PMC5812027.nxml.gz-292" start="21986">We found that pregnancy loss was associated with lower 25OHD when expressed on a continuous but not categorical scale</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-293" type="identity">
+      <class id="found" label=""/>
+      <span end="21994" id="PMC5812027.nxml.gz-293" start="21989">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-294" type="identity">
+      <class id="associated" label=""/>
+      <span end="22029" id="PMC5812027.nxml.gz-294" start="22019">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-295" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="22085" id="PMC5812027.nxml.gz-295" start="22078">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-296" type="identity">
+      <class id="as" label=""/>
+      <span end="22107" id="PMC5812027.nxml.gz-296" start="22105">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-297" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22347" id="PMC5812027.nxml.gz-297" start="22105">As most women with high vitamin D status were born in Sweden and thus more likely to be familiar with the Swedish health-care system, it is possible that they registered earlier for antenatal care and were more likely to report pregnancy loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-298" type="identity">
+      <class id="thus" label=""/>
+      <span end="22174" id="PMC5812027.nxml.gz-298" start="22170">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-299" type="identity">
+      <class id="likely" label=""/>
+      <span end="22186" id="PMC5812027.nxml.gz-299" start="22180">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="328" id="PMC5812027.nxml.gz-3" start="152">We investigated the associations between vitamin D status in early and late pregnancy with neonatal small for gestational age (SGA), low birth weight (LBW) and preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2554" id="PMC5812027.nxml.gz-30" start="2379">It is associated with inadequate invasion of extravillous trophoblasts and inadequate angiogenesis, with insufficient conversion of arterial spiral arteries in the decidua [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-300" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="22253" id="PMC5812027.nxml.gz-300" start="22239">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-301" type="identity">
+      <class id="likely" label=""/>
+      <span end="22322" id="PMC5812027.nxml.gz-301" start="22316">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-302" type="identity">
+      <class id="however" label=""/>
+      <span end="22356" id="PMC5812027.nxml.gz-302" start="22349">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-303" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22437" id="PMC5812027.nxml.gz-303" start="22349">However, the models were adjusted for gestational age at registration for antenatal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-304" type="identity">
+      <class id="models" label=""/>
+      <span end="22368" id="PMC5812027.nxml.gz-304" start="22362">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-305" type="identity">
+      <class id="despite" label=""/>
+      <span end="22446" id="PMC5812027.nxml.gz-305" start="22439">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-306" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22573" id="PMC5812027.nxml.gz-306" start="22439">Despite few cases of IUFD in the GraviD cohort, our results suggest that vitamin D deficiency in early pregnancy may be linked to IUFD</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-307" type="identity">
+      <class id="few" label=""/>
+      <span end="22450" id="PMC5812027.nxml.gz-307" start="22447">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-308" type="identity">
+      <class id="suggest" label=""/>
+      <span end="22506" id="PMC5812027.nxml.gz-308" start="22499">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-309" type="identity">
+      <class id="may_be" label=""/>
+      <span end="22558" id="PMC5812027.nxml.gz-309" start="22552">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-31" type="identity">
+      <class id="associated" label=""/>
+      <span end="2395" id="PMC5812027.nxml.gz-31" start="2385">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-310" type="identity">
+      <class id="linked" label=""/>
+      <span end="22565" id="PMC5812027.nxml.gz-310" start="22559">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-311" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22744" id="PMC5812027.nxml.gz-311" start="22575">These results need confirmation, preferably by adjusted statistical analysis as confounding can be expected, which was not possible in our present study due to few cases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-312" type="identity">
+      <class id="need" label=""/>
+      <span end="22593" id="PMC5812027.nxml.gz-312" start="22589">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-313" type="identity">
+      <class id="confirmation" label=""/>
+      <span end="22606" id="PMC5812027.nxml.gz-313" start="22594">confirmation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-314" type="identity">
+      <class id="preferably" label=""/>
+      <span end="22618" id="PMC5812027.nxml.gz-314" start="22608">preferably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-315" type="identity">
+      <class id="as" label=""/>
+      <span end="22654" id="PMC5812027.nxml.gz-315" start="22652">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-316" type="identity">
+      <class id="confounding" label=""/>
+      <span end="22666" id="PMC5812027.nxml.gz-316" start="22655">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-317" type="identity">
+      <class id="can" label=""/>
+      <span end="22670" id="PMC5812027.nxml.gz-317" start="22667">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-318" type="identity">
+      <class id="expected" label=""/>
+      <span end="22682" id="PMC5812027.nxml.gz-318" start="22674">expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-319" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2638" id="PMC5812027.nxml.gz-32" start="2556">These processes are complex and normal development is dependent on several factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-320" type="identity">
+      <class id="not_possible" label=""/>
+      <span end="22706" id="PMC5812027.nxml.gz-320" start="22694">not possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-321" type="identity">
+      <class id="present_study" label=""/>
+      <span end="22727" id="PMC5812027.nxml.gz-321" start="22714">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-322" type="identity">
+      <class id="due_to" label=""/>
+      <span end="22734" id="PMC5812027.nxml.gz-322" start="22728">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-323" type="identity">
+      <class id="few" label=""/>
+      <span end="22738" id="PMC5812027.nxml.gz-323" start="22735">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-324" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22968" id="PMC5812027.nxml.gz-324" start="22746">Strengths of this study are that the GraviD cohort is representative of the general pregnant population in terms of origin, education, parity, BMI and tobacco use [25], which increases the external validity of the findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-325" type="identity">
+      <class id="this...study" label=""/>
+      <span end="22769" id="PMC5812027.nxml.gz-325" start="22759">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-326" type="identity">
+      <class id="validity" label=""/>
+      <span end="22952" id="PMC5812027.nxml.gz-326" start="22944">validity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-327" type="identity">
+      <class id="findings" label=""/>
+      <span end="22968" id="PMC5812027.nxml.gz-327" start="22960">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-328" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23116" id="PMC5812027.nxml.gz-328" start="22970">Also, gestational age at delivery was estimated by routine ultrasound, which is considered more accurate than dating by last menstrual period [26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-329" type="identity">
+      <class id="estimated" label=""/>
+      <span end="23017" id="PMC5812027.nxml.gz-329" start="23008">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-33" type="identity">
+      <class id="complex" label=""/>
+      <span end="2583" id="PMC5812027.nxml.gz-33" start="2576">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-330" type="identity">
+      <class id="is_considered" label=""/>
+      <span end="23060" id="PMC5812027.nxml.gz-330" start="23047">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-331" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23214" id="PMC5812027.nxml.gz-331" start="23118">A limitation of this study is that information on pregnancy loss, except IUFD, was self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-332" type="identity">
+      <class id="limitation" label=""/>
+      <span end="23130" id="PMC5812027.nxml.gz-332" start="23120">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-333" type="identity">
+      <class id="information" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-334" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23334" id="PMC5812027.nxml.gz-334" start="23216">The information on pregnancy loss is likely correct, albeit without conclusive information on the time of fetal demise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-335" type="identity">
+      <class id="information" label=""/>
+      <span end="23231" id="PMC5812027.nxml.gz-335" start="23220">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-336" type="identity">
+      <class id="likely" label=""/>
+      <span end="23259" id="PMC5812027.nxml.gz-336" start="23253">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-337" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="23275" id="PMC5812027.nxml.gz-337" start="23269">albeit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-338" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="23294" id="PMC5812027.nxml.gz-338" start="23276">without conclusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-339" type="identity">
+      <class id="information" label=""/>
+      <span end="23306" id="PMC5812027.nxml.gz-339" start="23295">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-34" type="identity">
+      <class id="dependent" label=""/>
+      <span end="2619" id="PMC5812027.nxml.gz-34" start="2610">dependent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-340" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-341" type="identity">
+      <class id="could" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-342" type="identity">
+      <class id="therefore" label=""/>
+      <span end="23369" id="PMC5812027.nxml.gz-342" start="23360">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-343" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-344" type="identity">
+      <class id="as" label=""/>
+      <span end="23390" id="PMC5812027.nxml.gz-344" start="23388">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-345" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="23422" id="PMC5812027.nxml.gz-345" start="23415">missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-346" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23511" id="PMC5812027.nxml.gz-346" start="23424">In addition, vitamin D status among women who terminated the pregnancy was not assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-347" type="identity">
+      <class id="was_not" label=""/>
+      <span end="23502" id="PMC5812027.nxml.gz-347" start="23495">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-348" type="identity">
+      <class id="assessed" label=""/>
+      <span end="23511" id="PMC5812027.nxml.gz-348" start="23503">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-349" type="identity">
+      <class id="since" label=""/>
+      <span end="23626" id="PMC5812027.nxml.gz-349" start="23621">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-35" type="identity">
+      <class id="factors" label=""/>
+      <span end="2638" id="PMC5812027.nxml.gz-35" start="2631">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-350" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23764" id="PMC5812027.nxml.gz-350" start="23621">Since there were few cases of SGA based on birth weight alone, the definition of SGA used in this study was based on birth weight and/or length</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-351" type="identity">
+      <class id="few" label=""/>
+      <span end="23641" id="PMC5812027.nxml.gz-351" start="23638">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-352" type="identity">
+      <class id="based_on" label=""/>
+      <span end="23663" id="PMC5812027.nxml.gz-352" start="23655">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-353" type="identity">
+      <class id="this_study" label=""/>
+      <span end="23724" id="PMC5812027.nxml.gz-353" start="23714">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-354" type="identity">
+      <class id="based_on" label=""/>
+      <span end="23737" id="PMC5812027.nxml.gz-354" start="23729">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-355" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-356" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-357" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-359" type="identity">
+      <class id="therefore" label=""/>
+      <span end="23888" id="PMC5812027.nxml.gz-359" start="23879">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2831" id="PMC5812027.nxml.gz-36" start="2640">Vitamin D status (measured as 25-hydroxyvitamin D (25OHD)) of pregnant women has been inversely associated with adverse gestational outcomes and associated with uteroplacental dysfunction [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-360" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23948" id="PMC5812027.nxml.gz-360" start="23879">Therefore, the definition used in this study is likely to be relevant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-361" type="identity">
+      <class id="likely" label=""/>
+      <span end="23933" id="PMC5812027.nxml.gz-361" start="23927">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-362" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="23948" id="PMC5812027.nxml.gz-362" start="23940">relevant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-363" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24091" id="PMC5812027.nxml.gz-363" start="23950">Another limitation is that data on physical activity during pregnancy was only available for a subset of the women and was therefore not used</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-364" type="identity">
+      <class id="limitation" label=""/>
+      <span end="23968" id="PMC5812027.nxml.gz-364" start="23958">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-365" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-366" type="identity">
+      <class id="only" label=""/>
+      <span end="24028" id="PMC5812027.nxml.gz-366" start="24024">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-367" type="identity">
+      <class id="therefore" label=""/>
+      <span end="24082" id="PMC5812027.nxml.gz-367" start="24073">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-368" type="identity">
+      <class id="while" label=""/>
+      <span end="24098" id="PMC5812027.nxml.gz-368" start="24093">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-369" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24346" id="PMC5812027.nxml.gz-369" start="24093">While the GraviD study indicates an association between T3 25OHD and consequences of placental insufficiency, change in 25OHD during pregnancy might be a stronger predictor of placental dysfunction, as it is associated with SGA, LBW and preterm delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-37" type="identity">
+      <class id="associated" label=""/>
+      <span end="2746" id="PMC5812027.nxml.gz-37" start="2736">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-370" type="identity">
+      <class id="indicates" label=""/>
+      <span end="24125" id="PMC5812027.nxml.gz-370" start="24116">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-371" type="identity">
+      <class id="association" label=""/>
+      <span end="24140" id="PMC5812027.nxml.gz-371" start="24129">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-372" type="identity">
+      <class id="consequences" label=""/>
+      <span end="24174" id="PMC5812027.nxml.gz-372" start="24162">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-373" type="identity">
+      <class id="insufficiency" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-374" type="identity">
+      <class id="might" label=""/>
+      <span end="24241" id="PMC5812027.nxml.gz-374" start="24236">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-375" type="identity">
+      <class id="predictor" label=""/>
+      <span end="24265" id="PMC5812027.nxml.gz-375" start="24256">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-376" type="identity">
+      <class id="as" label=""/>
+      <span end="24294" id="PMC5812027.nxml.gz-376" start="24292">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-377" type="identity">
+      <class id="associated" label=""/>
+      <span end="24311" id="PMC5812027.nxml.gz-377" start="24301">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-378" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24451" id="PMC5812027.nxml.gz-378" start="24348">The lowest odds of SGA and LBW are found among women with the largest increments in 25OHD (≥ 30 nmol/L)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-379" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-38" type="identity">
+      <class id="associated" label=""/>
+      <span end="2795" id="PMC5812027.nxml.gz-38" start="2785">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-380" type="identity">
+      <class id="found" label=""/>
+      <span end="24388" id="PMC5812027.nxml.gz-380" start="24383">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-381" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="24466" id="PMC5812027.nxml.gz-381" start="24453">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-382" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24601" id="PMC5812027.nxml.gz-382" start="24453">Interestingly, vitamin D status at T1- around the time the maternal blood flow of the placenta is fully developed- is only related to pregnancy loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-383" type="identity">
+      <class id="only" label=""/>
+      <span end="24575" id="PMC5812027.nxml.gz-383" start="24571">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-384" type="identity">
+      <class id="related" label=""/>
+      <span end="24583" id="PMC5812027.nxml.gz-384" start="24576">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-385" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24692" id="PMC5812027.nxml.gz-385" start="24615">In conclusion, lower early pregnancy 25OHD was associated with pregnancy loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-386" type="identity">
+      <class id="conclusion" label=""/>
+      <span end="24628" id="PMC5812027.nxml.gz-386" start="24618">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-387" type="identity">
+      <class id="associated" label=""/>
+      <span end="24672" id="PMC5812027.nxml.gz-387" start="24662">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-388" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24795" id="PMC5812027.nxml.gz-388" start="24694">High vitamin D status in late, but not early, pregnancy was associated with lower odds of SGA and LBW</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-389" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="24732" id="PMC5812027.nxml.gz-389" start="24725">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3011" id="PMC5812027.nxml.gz-39" start="2833">We have previously shown that higher vitamin D status in late pregnancy and larger increase in vitamin D status during pregnancy is associated with lower risk of preeclampsia [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-390" type="identity">
+      <class id="associated" label=""/>
+      <span end="24764" id="PMC5812027.nxml.gz-390" start="24754">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-391" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24950" id="PMC5812027.nxml.gz-391" start="24797">Change in 25OHD during pregnancy was associated with SGA, LBW and preterm delivery, with the lowest odds for women with an increment in 25OHD ≥ 30 nmol/L</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-392" type="identity">
+      <class id="associated" label=""/>
+      <span end="24844" id="PMC5812027.nxml.gz-392" start="24834">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-393" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-394" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25092" id="PMC5812027.nxml.gz-394" start="24952">Both higher late pregnancy vitamin D status and gestational vitamin D status trajectory can be suspected to play a role in healthy pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-395" type="identity">
+      <class id="can" label=""/>
+      <span end="25043" id="PMC5812027.nxml.gz-395" start="25040">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-396" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="25056" id="PMC5812027.nxml.gz-396" start="25047">suspected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-397" type="identity">
+      <class id="role" label=""/>
+      <span end="25071" id="PMC5812027.nxml.gz-397" start="25067">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-4" type="identity">
+      <class id="investigated" label=""/>
+      <span end="167" id="PMC5812027.nxml.gz-4" start="155">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-40" type="identity">
+      <class id="previously_shown" label=""/>
+      <span end="2857" id="PMC5812027.nxml.gz-40" start="2841">previously shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-41" type="identity">
+      <class id="associated" label=""/>
+      <span end="2975" id="PMC5812027.nxml.gz-41" start="2965">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-42" type="identity">
+      <class id="associations" label=""/>
+      <span end="3025" id="PMC5812027.nxml.gz-42" start="3013">Associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3184" id="PMC5812027.nxml.gz-43" start="3013">Associations have also been shown between vitamin D insufficiency (&lt; 50 nmol/L) and increased risk of infant small for gestational age (SGA) and low birth weight (LBW) [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-44" type="identity">
+      <class id="have...been" label=""/>
+      <span end="3030" id="PMC5812027.nxml.gz-44" start="3026">have</span>
+      <span end="3040" id="PMC5812027.nxml.gz-45" start="3036">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-46" type="identity">
+      <class id="shown" label=""/>
+      <span end="3046" id="PMC5812027.nxml.gz-46" start="3041">shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3340" id="PMC5812027.nxml.gz-47" start="3186">Circulating concentrations of 25OHD below 25 or 30 nmol/L have been associated with 50–300% increased odds of SGA, compared to higher concentrations [5–7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-48" type="identity">
+      <class id="have...been" label=""/>
+      <span end="3253" id="PMC5812027.nxml.gz-48" start="3244">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-49" type="identity">
+      <class id="associated" label=""/>
+      <span end="3264" id="PMC5812027.nxml.gz-49" start="3254">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-5" type="identity">
+      <class id="associations" label=""/>
+      <span end="184" id="PMC5812027.nxml.gz-5" start="172">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-51" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="3391" id="PMC5812027.nxml.gz-51" start="3384">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-52" type="identity">
+      <class id="have...been" label=""/>
+      <span end="3418" id="PMC5812027.nxml.gz-52" start="3409">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-53" type="identity">
+      <class id="associated" label=""/>
+      <span end="3429" id="PMC5812027.nxml.gz-53" start="3419">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-54" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3502" id="PMC5812027.nxml.gz-54" start="3495">smaller</span>
+      <span end="3521" id="PMC5812027.nxml.gz-22644" start="3516">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-55" type="identity">
+      <class id="however" label=""/>
+      <span end="3534" id="PMC5812027.nxml.gz-55" start="3527">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3680" id="PMC5812027.nxml.gz-56" start="3527">However, there is also limited evidence for a U-shaped association where high 25OHD concentrations (&gt; 80 nmol/L) may be related to higher risk of SGA [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-57" type="identity">
+      <class id="limited_evidence" label=""/>
+      <span end="3566" id="PMC5812027.nxml.gz-57" start="3550">limited evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-58" type="identity">
+      <class id="association" label=""/>
+      <span end="3593" id="PMC5812027.nxml.gz-58" start="3582">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-59" type="identity">
+      <class id="may_be" label=""/>
+      <span end="3646" id="PMC5812027.nxml.gz-59" start="3640">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="412" id="PMC5812027.nxml.gz-6" start="330">Furthermore, associations between vitamin D status and pregnancy loss were studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-60" type="identity">
+      <class id="related" label=""/>
+      <span end="3654" id="PMC5812027.nxml.gz-60" start="3647">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-61" type="identity">
+      <class id="thus" label=""/>
+      <span end="3686" id="PMC5812027.nxml.gz-61" start="3682">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3800" id="PMC5812027.nxml.gz-62" start="3682">Thus, the association between vitamin D status and neonatal birth size is not clear and warrants further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-63" type="identity">
+      <class id="association" label=""/>
+      <span end="3703" id="PMC5812027.nxml.gz-63" start="3692">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-64" type="identity">
+      <class id="not_clear" label=""/>
+      <span end="3765" id="PMC5812027.nxml.gz-64" start="3756">not clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-65" type="identity">
+      <class id="warrants_further_investigation" label=""/>
+      <span end="3800" id="PMC5812027.nxml.gz-65" start="3770">warrants further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-66" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3968" id="PMC5812027.nxml.gz-66" start="3802">A recent meta-analysis of 10 studies concluded that 25OHD concentrations &lt; 50 nmol/L were associated with an approximately 30% increased risk of preterm delivery [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-67" type="identity">
+      <class id="concluded" label=""/>
+      <span end="3848" id="PMC5812027.nxml.gz-67" start="3839">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-68" type="identity">
+      <class id="associated" label=""/>
+      <span end="3902" id="PMC5812027.nxml.gz-68" start="3892">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-69" type="identity">
+      <class id="approximately" label=""/>
+      <span end="3924" id="PMC5812027.nxml.gz-69" start="3911">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-7" type="identity">
+      <class id="associations" label=""/>
+      <span end="355" id="PMC5812027.nxml.gz-7" start="343">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4142" id="PMC5812027.nxml.gz-70" start="3970">Bodnar et al. found that early pregnancy 25OHD concentrations &lt; 75 nmol/L were associated with higher risk of both medically indicated and spontaneous preterm delivery [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-71" type="identity">
+      <class id="found" label=""/>
+      <span end="3989" id="PMC5812027.nxml.gz-71" start="3984">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-72" type="identity">
+      <class id="associated" label=""/>
+      <span end="4059" id="PMC5812027.nxml.gz-72" start="4049">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-73" type="identity">
+      <class id="indicated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-74" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4393" id="PMC5812027.nxml.gz-74" start="4144">Lower vitamin D status has also been associated with a medical history of recurrent miscarriage [12] but only two prospective studies have investigated this, without finding that lower 25OHD concentrations increases the risk of pregnancy loss [5,13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-75" type="identity">
+      <class id="has...been" label=""/>
+      <span end="4170" id="PMC5812027.nxml.gz-75" start="4167">has</span>
+      <span end="4180" id="PMC5812027.nxml.gz-76" start="4176">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-77" type="identity">
+      <class id="associated" label=""/>
+      <span end="4191" id="PMC5812027.nxml.gz-77" start="4181">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-78" type="identity">
+      <class id="but_only" label=""/>
+      <span end="4253" id="PMC5812027.nxml.gz-78" start="4245">but only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-79" type="identity">
+      <class id="investigated" label=""/>
+      <span end="4295" id="PMC5812027.nxml.gz-79" start="4283">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1405" id="PMC5812027.nxml.gz-8" start="1246">T1 25OHD was negatively associated with pregnancy loss and 1 nmol/L increase in 25OHD was associated with 1% lower odds of pregnancy loss (OR 0.99, p  = 0.046)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-80" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4545" id="PMC5812027.nxml.gz-81" start="4395">Both these prospective studies had relatively few cases of pregnancy loss and may therefore have been insufficiently powered to study this association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-82" type="identity">
+      <class id="relatively_few" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-83" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4444" id="PMC5812027.nxml.gz-83" start="4430">relatively few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-84" type="identity">
+      <class id="may" label=""/>
+      <span end="4476" id="PMC5812027.nxml.gz-84" start="4473">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-85" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4486" id="PMC5812027.nxml.gz-85" start="4477">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-86" type="identity">
+      <class id="have_been" label=""/>
+      <span end="4496" id="PMC5812027.nxml.gz-86" start="4487">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-87" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4511" id="PMC5812027.nxml.gz-87" start="4497">insufficiently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-88" type="identity">
+      <class id="association" label=""/>
+      <span end="4545" id="PMC5812027.nxml.gz-88" start="4534">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-89" type="identity">
+      <class id="thus" label=""/>
+      <span end="4551" id="PMC5812027.nxml.gz-89" start="4547">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-9" type="identity">
+      <class id="associated" label=""/>
+      <span end="1280" id="PMC5812027.nxml.gz-9" start="1270">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4645" id="PMC5812027.nxml.gz-90" start="4547">Thus, the association between vitamin D status and risk of miscarriage needs further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-91" type="identity">
+      <class id="association" label=""/>
+      <span end="4568" id="PMC5812027.nxml.gz-91" start="4557">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-92" type="identity">
+      <class id="needs" label=""/>
+      <span end="4623" id="PMC5812027.nxml.gz-92" start="4618">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-93" type="identity">
+      <class id="further_investigation" label=""/>
+      <span end="4645" id="PMC5812027.nxml.gz-93" start="4624">further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4801" id="PMC5812027.nxml.gz-94" start="4647">To our knowledge, no previous study has related 25OHD concentration in both early and late pregnancy to neonatal outcomes related to placental dysfunction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-95" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-96" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4663" id="PMC5812027.nxml.gz-96" start="4647">To our knowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-97" type="identity">
+      <class id="no_previous_study" label=""/>
+      <span end="4682" id="PMC5812027.nxml.gz-97" start="4665">no previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-98" type="identity">
+      <class id="related" label=""/>
+      <span end="4694" id="PMC5812027.nxml.gz-98" start="4687">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5812027.nxml.gz-99" type="identity">
+      <class id="related" label=""/>
+      <span end="4776" id="PMC5812027.nxml.gz-99" start="4769">related</span>
+    </annotation>
+  </document>
+</knowtator-project>

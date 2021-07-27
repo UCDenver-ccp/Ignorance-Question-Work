@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2898025.nxml.gz" text-file="PMC2898025.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="182" id="PMC2898025.nxml.gz-1" start="58">Adult onset glioma is a rare cancer which occurs more frequently in Caucasians than African Americans, and in men than women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="470" id="PMC2898025.nxml.gz-10" start="379">Several recent studies have reported an association between season of birth and glioma risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-100" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7658" id="PMC2898025.nxml.gz-100" start="7503">Dryness, rashes, and related skin conditions, to which infants may be particularly susceptible, serve to disrupt the protective barrier of the skin [36,38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-101" type="identity">
+      <class id="may_be" label=""/>
+      <span end="7572" id="PMC2898025.nxml.gz-101" start="7566">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8859" id="PMC2898025.nxml.gz-104" start="8625">Pesticides also are used outside the farm in urban schools, homes, and day-care centers for control of roaches, rats, and other vermin, and conceivably their peak period of application may differ seasonally from that on farms [33,40].</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-105" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="8776" id="PMC2898025.nxml.gz-105" start="8765">conceivably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-106" type="identity">
+      <class id="may" label=""/>
+      <span end="8813" id="PMC2898025.nxml.gz-106" start="8810">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-107" type="identity">
+      <class id="controversy" label=""/>
+      <span end="8866" id="PMC2898025.nxml.gz-107" start="8861">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9072" id="PMC2898025.nxml.gz-108" start="8861">While farmers live longer than the population-at-large [41], and die less frequently from cancer in general [42], several epidemiologic studies have found an increased risk for brain cancer in this group [43–50]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-109" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9364" id="PMC2898025.nxml.gz-109" start="9074">Farmers represent a diverse group (e.g., with dairy, field crop, hog, beef cattle, poultry, fish, marijuana, cotton, and organic), and the heterogeneity of brain cancer risk for farmers could reflect differences in activities, as well as in the type, magnitude, and seasonality of exposures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-11" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="401" id="PMC2898025.nxml.gz-11" start="387">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-110" type="identity">
+      <class id="heterogeneity" label=""/>
+      <span end="9226" id="PMC2898025.nxml.gz-110" start="9213">heterogeneity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-111" type="identity">
+      <class id="could" label=""/>
+      <span end="9265" id="PMC2898025.nxml.gz-111" start="9260">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9640" id="PMC2898025.nxml.gz-112" start="9491">Within this window the peak for immune system priming or susceptibility is believed to vary differentially in response to presenting antigens [53,54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-113" type="identity">
+      <class id="believed" label=""/>
+      <span end="9574" id="PMC2898025.nxml.gz-113" start="9566">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9838" id="PMC2898025.nxml.gz-114" start="9642">Contact with allergens during early childhood may enhance the risk of developing allergies later in life, especially in individuals with a predisposition for atopic and allergic conditions [51,55]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-115" type="identity">
+      <class id="may" label=""/>
+      <span end="9691" id="PMC2898025.nxml.gz-115" start="9688">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10035" id="PMC2898025.nxml.gz-116" start="9840">Efforts to reduce allergen exposure immediately after birth often only delay the onset of allergic conditions, rather than preventing it, suggesting that immunologic memory may predate birth [15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-117" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="9988" id="PMC2898025.nxml.gz-117" start="9978">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-118" type="identity">
+      <class id="may" label=""/>
+      <span end="10016" id="PMC2898025.nxml.gz-118" start="10013">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-119" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10465" id="PMC2898025.nxml.gz-119" start="10037">While genetics constitute a key determinant of immunologic memory and immune system maturation [56–58], environmental factors also are believed to play an important role in the development of allergies, as illustrated by the discordance of allergies in twin studies [59], the increasing prevalence of atopic diseases over time [15,60], and the different incidence of allergies in immigrant and country of origin populations [61]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-12" type="identity">
+      <class id="association" label=""/>
+      <span end="430" id="PMC2898025.nxml.gz-12" start="419">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-120" type="identity">
+      <class id="while" label=""/>
+      <span end="10042" id="PMC2898025.nxml.gz-120" start="10037">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-122" type="identity">
+      <class id="believed" label=""/>
+      <span end="10180" id="PMC2898025.nxml.gz-122" start="10172">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-123" type="identity">
+      <class id="important" label=""/>
+      <span end="10201" id="PMC2898025.nxml.gz-123" start="10192">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-124" type="identity">
+      <class id="role" label=""/>
+      <span end="10206" id="PMC2898025.nxml.gz-124" start="10202">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-125" type="identity">
+      <class id="controversy" label=""/>
+      <span end="10273" id="PMC2898025.nxml.gz-125" start="10262">discordance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10915" id="PMC2898025.nxml.gz-126" start="10467">In a number of studies, season of birth has been associated with the development of allergic conditions later in life, such as asthma [61–65], atopic dermatitis [66], house dust mite allergy [60,61,65,67–69], cockroach allergy [70,71], grass/birch/hay and other pollen allergy [51,60,63,67,68,72–76], animal dander allergy [51,67], mold allergy [74], food allergy [51,55,67], allergic rhinitis [62,77], and otherwise unspecified atopy (NOS) [55,78]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-127" type="identity">
+      <class id="number_of_studies" label=""/>
+      <span end="10489" id="PMC2898025.nxml.gz-127" start="10472">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-128" type="identity">
+      <class id="has_been" label=""/>
+      <span end="10515" id="PMC2898025.nxml.gz-128" start="10507">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-129" type="identity">
+      <class id="associated" label=""/>
+      <span end="10526" id="PMC2898025.nxml.gz-129" start="10516">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-13" type="identity">
+      <class id="this_paper" label=""/>
+      <span end="482" id="PMC2898025.nxml.gz-13" start="472">This paper</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-131" type="identity">
+      <class id="most_likely" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11553" id="PMC2898025.nxml.gz-132" start="11294">Factors known to influence the development of asthma include race [80,81], low yearly family income [81], less than a high school education [81], residence in high poverty areas [81], exposure to urban air pollution [64] and childhood viral infections [64,82]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-133" type="identity">
+      <class id="influence" label=""/>
+      <span end="11320" id="PMC2898025.nxml.gz-133" start="11311">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11943" id="PMC2898025.nxml.gz-134" start="11724">Asthma, allergies, and other atopic diseases have been inversely associated with adult glioma risk in several epidemiologic studies and meta-analyses [83–93], although some reports do not support this conclusion [94–98]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-135" type="identity">
+      <class id="have_been" label=""/>
+      <span end="11778" id="PMC2898025.nxml.gz-135" start="11769">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-136" type="identity">
+      <class id="associated" label=""/>
+      <span end="11799" id="PMC2898025.nxml.gz-136" start="11789">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-137" type="identity">
+      <class id="although" label=""/>
+      <span end="11891" id="PMC2898025.nxml.gz-137" start="11883">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-138" type="identity">
+      <class id="some" label=""/>
+      <span end="11896" id="PMC2898025.nxml.gz-138" start="11892">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-139" type="identity">
+      <class id="do_not_support" label=""/>
+      <span end="11919" id="PMC2898025.nxml.gz-139" start="11905">do not support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="636" id="PMC2898025.nxml.gz-14" start="472">This paper reviews the plausibility of evidence focusing on the seasonal interrelation of farming, allergies, viruses, vitamin D, diet, birth weight, and handedness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12032" id="PMC2898025.nxml.gz-140" start="11945">The exact biologic mechanisms underlying a protective effect are not clearly understood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-141" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-142" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="12032" id="PMC2898025.nxml.gz-142" start="12010">not clearly understood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-143" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12171" id="PMC2898025.nxml.gz-144" start="12034">It has been suggested that the inverse association may reflect increased immune surveillance on the part of the atopic individual [91,93]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-145" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="12055" id="PMC2898025.nxml.gz-145" start="12037">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-146" type="identity">
+      <class id="association" label=""/>
+      <span end="12084" id="PMC2898025.nxml.gz-146" start="12073">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-147" type="identity">
+      <class id="may" label=""/>
+      <span end="12088" id="PMC2898025.nxml.gz-147" start="12085">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12390" id="PMC2898025.nxml.gz-148" start="12173">Glioma patients are known to suffer from an impaired immune system [99], and the reduced association with allergies alternatively could be due to immunosuppression induced by the tumor ( i.e ., reverse causality) [84]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-149" type="identity">
+      <class id="association" label=""/>
+      <span end="12273" id="PMC2898025.nxml.gz-149" start="12262">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-15" type="identity">
+      <class id="plausibility" label=""/>
+      <span end="507" id="PMC2898025.nxml.gz-15" start="495">plausibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-150" type="identity">
+      <class id="alternatively" label=""/>
+      <span end="12302" id="PMC2898025.nxml.gz-150" start="12289">alternatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-151" type="identity">
+      <class id="could_be" label=""/>
+      <span end="12311" id="PMC2898025.nxml.gz-151" start="12303">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12452" id="PMC2898025.nxml.gz-152" start="12392">Inflammatory responses also may favor tumor development [93]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-153" type="identity">
+      <class id="may" label=""/>
+      <span end="12423" id="PMC2898025.nxml.gz-153" start="12420">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-155" type="identity">
+      <class id="has_been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12773" id="PMC2898025.nxml.gz-156" start="12622">Being raised on a farm [102–114] or in a rural area [115] has been shown in some studies to protect against asthma, hay fever, and atopic sensitization</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-157" type="identity">
+      <class id="has_been" label=""/>
+      <span end="12688" id="PMC2898025.nxml.gz-157" start="12680">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-158" type="identity">
+      <class id="some" label=""/>
+      <span end="12702" id="PMC2898025.nxml.gz-158" start="12698">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-159" type="identity">
+      <class id="although" label=""/>
+      <span end="12783" id="PMC2898025.nxml.gz-159" start="12775">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-16" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="528" id="PMC2898025.nxml.gz-16" start="520">focusing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12979" id="PMC2898025.nxml.gz-160" start="12775">Although farm children are exposed to higher concentrations of airborne allergens, paradoxically they become sensitized less often and manifest a weaker sensitization response than non-farm controls [113]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-161" type="identity">
+      <class id="paradoxically" label=""/>
+      <span end="12871" id="PMC2898025.nxml.gz-161" start="12858">paradoxically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-162" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-163" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-164" type="identity">
+      <class id="some" label=""/>
+      <span end="12985" id="PMC2898025.nxml.gz-164" start="12981">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13085" id="PMC2898025.nxml.gz-165" start="12981">Some researchers have hypothesized that the protective effect may be attributed to a form of “tolerance”</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-166" type="identity">
+      <class id="hypothesized" label=""/>
+      <span end="13015" id="PMC2898025.nxml.gz-166" start="13003">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-167" type="identity">
+      <class id="effect" label=""/>
+      <span end="13042" id="PMC2898025.nxml.gz-167" start="13036">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-168" type="identity">
+      <class id="may_be" label=""/>
+      <span end="13049" id="PMC2898025.nxml.gz-168" start="13043">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-169" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13406" id="PMC2898025.nxml.gz-169" start="13087">Such tolerance could conceivably develop early in life, following repeated exposure to high levels of allergens such as organic dusts, fungi, and endotoxins; this is perhaps the result of component lipopolysaccharides that excite Th1 responses and suppress the development of immunoglobulin-E (IgE)-antibodies [109,116]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-17" type="identity">
+      <class id="relation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-170" type="identity">
+      <class id="could" label=""/>
+      <span end="13107" id="PMC2898025.nxml.gz-170" start="13102">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-171" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13119" id="PMC2898025.nxml.gz-171" start="13108">conceivably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-172" type="identity">
+      <class id="perhaps" label=""/>
+      <span end="13260" id="PMC2898025.nxml.gz-172" start="13253">perhaps</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13491" id="PMC2898025.nxml.gz-173" start="13408">Little is known about specific determinants of asthma and atopy in the farm setting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-174" type="identity">
+      <class id="little...is_known" label=""/>
+      <span end="13423" id="PMC2898025.nxml.gz-174" start="13408">Little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-175" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13728" id="PMC2898025.nxml.gz-175" start="13493">Any relationship with glioma risk is probably complex and must be interpreted in light of differences in farming practices and the protective ability of farming environments, especially with respect to microbial exposures [102,103,114]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-176" type="identity">
+      <class id="relationship" label=""/>
+      <span end="13509" id="PMC2898025.nxml.gz-176" start="13497">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-177" type="identity">
+      <class id="probably" label=""/>
+      <span end="13538" id="PMC2898025.nxml.gz-177" start="13530">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-178" type="identity">
+      <class id="complex" label=""/>
+      <span end="13546" id="PMC2898025.nxml.gz-178" start="13539">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-179" type="identity">
+      <class id="must...be" label=""/>
+      <span end="13558" id="PMC2898025.nxml.gz-179" start="13551">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="766" id="PMC2898025.nxml.gz-18" start="638">To date, a convincing explanation for the occurrence of adult gliomas decades after a seasonal exposure at birth remains elusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-180" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="13570" id="PMC2898025.nxml.gz-180" start="13559">interpreted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-181" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="13594" id="PMC2898025.nxml.gz-181" start="13583">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-182" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13894" id="PMC2898025.nxml.gz-182" start="13730">While farmers and their families have greater contact with seasonal elements, they may be less prone to “sick building syndrome” than residents of urban areas [117]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-184" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="13735" id="PMC2898025.nxml.gz-184" start="13730">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-185" type="identity">
+      <class id="may_be" label=""/>
+      <span end="13819" id="PMC2898025.nxml.gz-185" start="13813">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14293" id="PMC2898025.nxml.gz-188" start="14098">Other mitigating factors may include a greater intake of saturated fat in the form of milk and butter, as well as a greater number of older siblings living at home in rural/farm communities [116]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-189" type="identity">
+      <class id="may" label=""/>
+      <span end="14126" id="PMC2898025.nxml.gz-189" start="14123">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-19" type="identity">
+      <class id="remains_elusive" label=""/>
+      <span end="766" id="PMC2898025.nxml.gz-19" start="751">remains elusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14399" id="PMC2898025.nxml.gz-190" start="14295">Furthermore, farmers usually are non-smokers and healthier than the population-at-large [43,116,118–120]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-191" type="identity">
+      <class id="usually" label=""/>
+      <span end="14323" id="PMC2898025.nxml.gz-191" start="14316">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14537" id="PMC2898025.nxml.gz-193" start="14401">By self-selection, those who manifest seasonal allergies may choose a career path other than farming (i.e., healthy worker effect) [116]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-194" type="identity">
+      <class id="may" label=""/>
+      <span end="14461" id="PMC2898025.nxml.gz-194" start="14458">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-195" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-196" type="identity">
+      <class id="effect" label=""/>
+      <span end="14530" id="PMC2898025.nxml.gz-196" start="14524">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-197" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14767" id="PMC2898025.nxml.gz-197" start="14539">Differences in the definition of atopy, a lack of objective measures of atopy, residual confounding, and bias (e.g., detection, selection, interview, recall) are important to consider when interpreting the above studies [92,121]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-198" type="identity">
+      <class id="controversy" label=""/>
+      <span end="14550" id="PMC2898025.nxml.gz-198" start="14539">Differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-199" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="14588" id="PMC2898025.nxml.gz-199" start="14581">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-2" type="identity">
+      <class id="rare" label=""/>
+      <span end="86" id="PMC2898025.nxml.gz-2" start="82">rare</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-20" type="identity">
+      <class id="despite" label=""/>
+      <span end="937" id="PMC2898025.nxml.gz-20" start="930">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-200" type="identity">
+      <class id="bias" label=""/>
+      <span end="14648" id="PMC2898025.nxml.gz-200" start="14644">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-201" type="identity">
+      <class id="important" label=""/>
+      <span end="14710" id="PMC2898025.nxml.gz-201" start="14701">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-202" type="identity">
+      <class id="consider" label=""/>
+      <span end="14722" id="PMC2898025.nxml.gz-202" start="14714">consider</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-203" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14946" id="PMC2898025.nxml.gz-203" start="14769">Furthermore, regarding the role of allergies and immunity, there is no clear trend toward a decreasing risk for glioma with younger ages at onset of the allergic condition [121]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-204" type="identity">
+      <class id="role" label=""/>
+      <span end="14800" id="PMC2898025.nxml.gz-204" start="14796">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-205" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="14845" id="PMC2898025.nxml.gz-205" start="14837">no clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-206" type="identity">
+      <class id="trend" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-207" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="14961" id="PMC2898025.nxml.gz-207" start="14948">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-208" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15124" id="PMC2898025.nxml.gz-208" start="14948">Interestingly, increased risk for glioma has been observed in patients with AIDS-related immuno-suppression [122–124], but not in those with iatrogenic immuno-suppression [125]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-209" type="identity">
+      <class id="has...been" label=""/>
+      <span end="14997" id="PMC2898025.nxml.gz-209" start="14989">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1081" id="PMC2898025.nxml.gz-21" start="930">Despite considerable efforts to unravel the etiologic basis for this cancer and attempts to find a cure, gliomas largely remain refractory to treatment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15269" id="PMC2898025.nxml.gz-210" start="15135">Environmental exposures to viruses, microbes and other pathogens generally tend to occur more often in particular seasons [25,126,127]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-211" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="15214" id="PMC2898025.nxml.gz-211" start="15210">tend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15391" id="PMC2898025.nxml.gz-212" start="15271">Polyomaviruses have been shown to induce brain tumors in animals [128–131] and have been detected in human gliomas [132]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-213" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="15301" id="PMC2898025.nxml.gz-213" start="15286">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-214" type="identity">
+      <class id="have...been" label=""/>
+      <span end="15359" id="PMC2898025.nxml.gz-214" start="15350">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-215" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15534" id="PMC2898025.nxml.gz-215" start="15393">Other neuro-oncogenic viruses implicated in gliomas under laboratory conditions include human adenovirus type 12 and Rous sarcoma virus [133]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-216" type="identity">
+      <class id="implicated" label=""/>
+      <span end="15433" id="PMC2898025.nxml.gz-216" start="15423">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-217" type="identity">
+      <class id="some" label=""/>
+      <span end="15540" id="PMC2898025.nxml.gz-217" start="15536">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-218" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15681" id="PMC2898025.nxml.gz-218" start="15536">Some tumor viruses must be injected in animals on the first day of life to be effective, although they may not cause cancer until years later [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-219" type="identity">
+      <class id="although" label=""/>
+      <span end="15633" id="PMC2898025.nxml.gz-219" start="15625">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-22" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="958" id="PMC2898025.nxml.gz-22" start="938">considerable efforts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-220" type="identity">
+      <class id="may" label=""/>
+      <span end="15642" id="PMC2898025.nxml.gz-220" start="15639">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15879" id="PMC2898025.nxml.gz-221" start="15683">Epidemiologic evidence in support of a viral or pathogenic etiology for adult brain tumors remains controversial and the windows of interest of these studies have been outside the perinatal period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-222" type="identity">
+      <class id="support" label=""/>
+      <span end="15716" id="PMC2898025.nxml.gz-222" start="15709">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-223" type="identity">
+      <class id="remains" label=""/>
+      <span end="15781" id="PMC2898025.nxml.gz-223" start="15774">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-224" type="identity">
+      <class id="controversial" label=""/>
+      <span end="15795" id="PMC2898025.nxml.gz-224" start="15782">controversial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-225" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-226" type="identity">
+      <class id="have_been" label=""/>
+      <span end="15850" id="PMC2898025.nxml.gz-226" start="15841">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-227" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16103" id="PMC2898025.nxml.gz-227" start="15881">In adults, Toxoplasma gondii infection has been associated with a greater prevalence of astrocytomas [134], while decreased glioma risk has been associated with a history of infections/colds [88], and chicken pox [135,136]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-228" type="identity">
+      <class id="has...been" label=""/>
+      <span end="15928" id="PMC2898025.nxml.gz-228" start="15920">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-229" type="identity">
+      <class id="associated" label=""/>
+      <span end="15939" id="PMC2898025.nxml.gz-229" start="15929">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-23" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="969" id="PMC2898025.nxml.gz-23" start="962">unravel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-230" type="identity">
+      <class id="while" label=""/>
+      <span end="15994" id="PMC2898025.nxml.gz-230" start="15989">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-231" type="identity">
+      <class id="has_been" label=""/>
+      <span end="16025" id="PMC2898025.nxml.gz-231" start="16017">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-232" type="identity">
+      <class id="associated" label=""/>
+      <span end="16036" id="PMC2898025.nxml.gz-232" start="16026">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-233" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16354" id="PMC2898025.nxml.gz-233" start="16105">On the other hand, increased risk for childhood brain tumors has been associated in some studies with a history of chicken pox [137], influenza [138,139], measles [138], general viral infections [140,141], and neonatal urinary tract infections [141]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-234" type="identity">
+      <class id="alternative_options" label=""/>
+      <span end="16122" id="PMC2898025.nxml.gz-234" start="16105">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-235" type="identity">
+      <class id="has...been" label=""/>
+      <span end="16174" id="PMC2898025.nxml.gz-235" start="16166">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-236" type="identity">
+      <class id="associated" label=""/>
+      <span end="16185" id="PMC2898025.nxml.gz-236" start="16175">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-237" type="identity">
+      <class id="some" label=""/>
+      <span end="16193" id="PMC2898025.nxml.gz-237" start="16189">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-24" type="identity">
+      <class id="remain" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-240" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16614" id="PMC2898025.nxml.gz-240" start="16494">Bacterial urinary tract infections have been shown to follow a well defined seasonal pattern with a peak in August [127]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-241" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="16544" id="PMC2898025.nxml.gz-241" start="16529">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16760" id="PMC2898025.nxml.gz-242" start="16616">Similarly, seasonal occurrence has been observed for chicken pox, measles, influenza and many other common childhood infectious diseases [7,142]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-243" type="identity">
+      <class id="has_been" label=""/>
+      <span end="16655" id="PMC2898025.nxml.gz-243" start="16647">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-244" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16841" id="PMC2898025.nxml.gz-244" start="16762">A seasonal infectious etiology for disease is complicated by many factors [126]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-246" type="identity">
+      <class id="complicated" label=""/>
+      <span end="16819" id="PMC2898025.nxml.gz-246" start="16808">complicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-247" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16944" id="PMC2898025.nxml.gz-247" start="16843">The same infectious agent may present a different pattern of incidence depending on the host location</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-248" type="identity">
+      <class id="may" label=""/>
+      <span end="16872" id="PMC2898025.nxml.gz-248" start="16869">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-249" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17050" id="PMC2898025.nxml.gz-249" start="16946">A seasonal peak evident in the general population may not behave uniformly within certain subpopulations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-250" type="identity">
+      <class id="may" label=""/>
+      <span end="16999" id="PMC2898025.nxml.gz-250" start="16996">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17281" id="PMC2898025.nxml.gz-251" start="17052">Temperature, humidity, precipitation, and indoor air quality are among the mitigating factors that may affect the survival and transmissibility of a pathogen and explain different seasonal peaks for a disease in different studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-252" type="identity">
+      <class id="may" label=""/>
+      <span end="17154" id="PMC2898025.nxml.gz-252" start="17151">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-253" type="identity">
+      <class id="affect" label=""/>
+      <span end="17161" id="PMC2898025.nxml.gz-253" start="17155">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17629" id="PMC2898025.nxml.gz-254" start="17493">Furthermore, seasonal variation in immune function may increase host susceptibility to infections at certain times of the year [143,144]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-256" type="identity">
+      <class id="may" label=""/>
+      <span end="17547" id="PMC2898025.nxml.gz-256" start="17544">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17812" id="PMC2898025.nxml.gz-257" start="17631">Given the rarity of some infections and brain tumors, the interpretability of seasonal patterns, or the lack thereof, may be confounded by time- and/or space-dependent factors [126]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-258" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="17647" id="PMC2898025.nxml.gz-258" start="17641">rarity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-26" type="identity">
+      <class id="few" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-260" type="identity">
+      <class id="some" label=""/>
+      <span end="17655" id="PMC2898025.nxml.gz-260" start="17651">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-262" type="identity">
+      <class id="lack" label=""/>
+      <span end="17739" id="PMC2898025.nxml.gz-262" start="17735">lack</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-263" type="identity">
+      <class id="may_be" label=""/>
+      <span end="17755" id="PMC2898025.nxml.gz-263" start="17749">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18009" id="PMC2898025.nxml.gz-264" start="17908">Maternal serum vitamin D levels tend to be closely correlated with infant cord serum levels [146,147]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-265" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="17944" id="PMC2898025.nxml.gz-265" start="17940">tend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-266" type="identity">
+      <class id="correlated" label=""/>
+      <span end="17969" id="PMC2898025.nxml.gz-266" start="17959">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-267" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18265" id="PMC2898025.nxml.gz-267" start="18011">This light synthesized steroid, resulting from the absorption of ultraviolet B photons by 7-dehydrocholesterol in the skin [148], has been suggested as a possible factor underlying the season of birth risk for adult gliomas observed in some studies [145]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-268" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="18159" id="PMC2898025.nxml.gz-268" start="18141">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-269" type="identity">
+      <class id="possible" label=""/>
+      <span end="18173" id="PMC2898025.nxml.gz-269" start="18165">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1364" id="PMC2898025.nxml.gz-27" start="1275">the attributable risk for these factors is small and can only explain a fraction of cases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-270" type="identity">
+      <class id="some" label=""/>
+      <span end="18251" id="PMC2898025.nxml.gz-270" start="18247">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-271" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18469" id="PMC2898025.nxml.gz-271" start="18267">Levels of vitamin D are known to fluctuate depending on sunlight exposure, which is highest in the summer for the northern hemisphere and tends to increase for latitudes nearer the equator [145,148–150]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-272" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="18410" id="PMC2898025.nxml.gz-272" start="18405">tends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-273" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18635" id="PMC2898025.nxml.gz-273" start="18471">Antiproliferative and proapoptotic activity of vitamin D3 has been noted in model glioma cell lines and a primary culture, as well as tumor tissue experiments [145]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-274" type="identity">
+      <class id="has...been" label=""/>
+      <span end="18537" id="PMC2898025.nxml.gz-274" start="18529">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-275" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18750" id="PMC2898025.nxml.gz-275" start="18637">Further, prenatal vitamin D3 depletion has been associated with altered brain development in rodent studies [151]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-276" type="identity">
+      <class id="has_been" label=""/>
+      <span end="18684" id="PMC2898025.nxml.gz-276" start="18676">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-277" type="identity">
+      <class id="associated" label=""/>
+      <span end="18695" id="PMC2898025.nxml.gz-277" start="18685">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19008" id="PMC2898025.nxml.gz-278" start="18752">Vitamin D receptors are present in most cells and tissues in the body [152], including the brain [148], so this hormone is believed to play an important role in disease management and cancer prevention as a modulator of immune system activity [148,153–155]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-279" type="identity">
+      <class id="believed" label=""/>
+      <span end="18883" id="PMC2898025.nxml.gz-279" start="18875">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-28" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-280" type="identity">
+      <class id="important" label=""/>
+      <span end="18904" id="PMC2898025.nxml.gz-280" start="18895">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-281" type="identity">
+      <class id="role" label=""/>
+      <span end="18909" id="PMC2898025.nxml.gz-281" start="18905">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-282" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19236" id="PMC2898025.nxml.gz-282" start="19010">Children who live in polluted, inner city environments and who are deprived of regular sunlight exposure have been shown to suffer a higher prevalence of rickets (due to vitamin D deficiency) than children in rural areas [148]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-283" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="19130" id="PMC2898025.nxml.gz-283" start="19115">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-284" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-285" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19499" id="PMC2898025.nxml.gz-285" start="19238">Seasonal variation in vitamin D levels also has been suggested as a factor differentially affecting newborn growth plate width, and this may explain why babies born in Australia around October (spring) are relatively heavier than those born at other times [156]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-286" type="identity">
+      <class id="variation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-287" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="19300" id="PMC2898025.nxml.gz-287" start="19282">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-288" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="19337" id="PMC2898025.nxml.gz-288" start="19328">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-289" type="identity">
+      <class id="may" label=""/>
+      <span end="19378" id="PMC2898025.nxml.gz-289" start="19375">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-29" type="identity">
+      <class id="only" label=""/>
+      <span end="1336" id="PMC2898025.nxml.gz-29" start="1332">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-290" type="identity">
+      <class id="why" label=""/>
+      <span end="19390" id="PMC2898025.nxml.gz-290" start="19387">why</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-291" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19670" id="PMC2898025.nxml.gz-291" start="19507">The “developmental plasticity hypothesis” refers to the critical developmental period in utero when the fetus is plastic and adaptively imprints to its environment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-292" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="19547" id="PMC2898025.nxml.gz-292" start="19537">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-293" type="identity">
+      <class id="when" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-294" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19825" id="PMC2898025.nxml.gz-294" start="19672">In utero adaptation may lead to lifelong changes in the body’s metabolism, hormone regulation, and the number of cells present in key organs [14,157,158]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-295" type="identity">
+      <class id="may" label=""/>
+      <span end="19695" id="PMC2898025.nxml.gz-295" start="19692">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-296" type="identity">
+      <class id="if" label=""/>
+      <span end="19829" id="PMC2898025.nxml.gz-296" start="19827">If</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-297" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19989" id="PMC2898025.nxml.gz-297" start="19827">If this is the case, adult health outcomes may reflect season of birth if food intake is seasonal, and if exposure occurs at a critical stage of fetal development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-298" type="identity">
+      <class id="may" label=""/>
+      <span end="19873" id="PMC2898025.nxml.gz-298" start="19870">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-299" type="identity">
+      <class id="if" label=""/>
+      <span end="19900" id="PMC2898025.nxml.gz-299" start="19898">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-3" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1559" id="PMC2898025.nxml.gz-30" start="1366">Evidence of an association between adult-onset glioma and date of birth suggests an etiologic role for a seasonally variable environmental exposure occurring prenatally around the time of birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-300" type="identity">
+      <class id="if" label=""/>
+      <span end="19932" id="PMC2898025.nxml.gz-300" start="19930">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-302" type="identity">
+      <class id="may_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-303" type="identity">
+      <class id="may" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-304" type="identity">
+      <class id="vary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20544" id="PMC2898025.nxml.gz-305" start="20424">Foods high in N-nitroso compounds have been associated with an increased risk for brain tumors in some studies [162–165]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-306" type="identity">
+      <class id="have_been" label=""/>
+      <span end="20467" id="PMC2898025.nxml.gz-306" start="20458">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-307" type="identity">
+      <class id="associated" label=""/>
+      <span end="20478" id="PMC2898025.nxml.gz-307" start="20468">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-308" type="identity">
+      <class id="some" label=""/>
+      <span end="20526" id="PMC2898025.nxml.gz-308" start="20522">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-309" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20644" id="PMC2898025.nxml.gz-309" start="20546">These compounds may be present in foods through their use as preservatives or in fertilizers [166]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-31" type="identity">
+      <class id="association" label=""/>
+      <span end="1392" id="PMC2898025.nxml.gz-31" start="1381">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-310" type="identity">
+      <class id="may_be" label=""/>
+      <span end="20568" id="PMC2898025.nxml.gz-310" start="20562">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-311" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-312" type="identity">
+      <class id="mostly" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-313" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-314" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21105" id="PMC2898025.nxml.gz-314" start="20787">An 18-fold greater risk of primary adult brain tumors has been found among individuals who consumed large amounts of processed meats (high in N-nitroso content) and drank orange/grapefruit juice once per week or less, than among those who consumed less processed meat and drank orange/grapefruit juice more often [164]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-315" type="identity">
+      <class id="has_been_found" label=""/>
+      <span end="20855" id="PMC2898025.nxml.gz-315" start="20841">has been found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-316" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21411" id="PMC2898025.nxml.gz-316" start="21107">However, a recent multi-centered international case-control study of adult diet and brain tumor risk found no evidence of confounding or effect modification by vitamin supplementation, especially in the association between consumption of cured meats (containing high levels of nitrates) and gliomas [167]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-317" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-318" type="identity">
+      <class id="controversy" label=""/>
+      <span end="21114" id="PMC2898025.nxml.gz-318" start="21107">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-319" type="identity">
+      <class id="no_evidence" label=""/>
+      <span end="21225" id="PMC2898025.nxml.gz-319" start="21214">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-32" type="identity">
+      <class id="suggests" label=""/>
+      <span end="1446" id="PMC2898025.nxml.gz-32" start="1438">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-320" type="identity">
+      <class id="effect" label=""/>
+      <span end="21250" id="PMC2898025.nxml.gz-320" start="21244">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-321" type="identity">
+      <class id="association" label=""/>
+      <span end="21321" id="PMC2898025.nxml.gz-321" start="21310">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-322" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-323" type="identity">
+      <class id="has_been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-324" type="identity">
+      <class id="vary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-325" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21659" id="PMC2898025.nxml.gz-325" start="21496">High birth weight is an important predictor of adult obesity [171], and a higher body mass index (BMI) has been linked to greater risk for adult-onset glioma [172]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-326" type="identity">
+      <class id="important" label=""/>
+      <span end="21529" id="PMC2898025.nxml.gz-326" start="21520">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-327" type="identity">
+      <class id="has_been" label=""/>
+      <span end="21607" id="PMC2898025.nxml.gz-327" start="21599">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-328" type="identity">
+      <class id="linked" label=""/>
+      <span end="21614" id="PMC2898025.nxml.gz-328" start="21608">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-329" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21813" id="PMC2898025.nxml.gz-329" start="21661">In children, high birth weight has been associated with increased risk for astrocytoma and medulloblastoma/primitive neuroectodermal tumors (PNET) [173]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-33" type="identity">
+      <class id="role" label=""/>
+      <span end="1464" id="PMC2898025.nxml.gz-33" start="1460">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-330" type="identity">
+      <class id="has_been" label=""/>
+      <span end="21700" id="PMC2898025.nxml.gz-330" start="21692">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-331" type="identity">
+      <class id="associated" label=""/>
+      <span end="21711" id="PMC2898025.nxml.gz-331" start="21701">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-332" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21905" id="PMC2898025.nxml.gz-332" start="21815">Temporal patterns in birth weight may result from seasonal variations in food availability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-333" type="identity">
+      <class id="may" label=""/>
+      <span end="21852" id="PMC2898025.nxml.gz-333" start="21849">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-334" type="identity">
+      <class id="variation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-335" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="22094" id="PMC2898025.nxml.gz-335" start="22081">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-336" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22270" id="PMC2898025.nxml.gz-336" start="22081">Interestingly, very low birth weight has been associated with left- or mix-handedness [175,176], a factor associated in some studies with season of birth [177] and reduced glioma risk [178]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-337" type="identity">
+      <class id="has...been" label=""/>
+      <span end="22126" id="PMC2898025.nxml.gz-337" start="22118">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-338" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-339" type="identity">
+      <class id="associated...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1953" id="PMC2898025.nxml.gz-34" start="1794">Similarly, exposure to asbestos 70 years prior to the development of mesothelioma [4], suggests a “one insult, co-carcinogenic model” of cancer development [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-341" type="identity">
+      <class id="associated" label=""/>
+      <span end="22197" id="PMC2898025.nxml.gz-341" start="22187">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-342" type="identity">
+      <class id="some" label=""/>
+      <span end="22205" id="PMC2898025.nxml.gz-342" start="22201">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-343" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22574" id="PMC2898025.nxml.gz-343" start="22284">Handedness is believed to be determined in utero [179], possibly through hormonal influences [180–183], and has been linked with immune disease [184,185], various developmental learning disorders [184], epilepsy [186], and breast cancer risk in both pre- and post-menopausal women [187–190]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-344" type="identity">
+      <class id="believed" label=""/>
+      <span end="22306" id="PMC2898025.nxml.gz-344" start="22298">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-345" type="identity">
+      <class id="possibly" label=""/>
+      <span end="22348" id="PMC2898025.nxml.gz-345" start="22340">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-346" type="identity">
+      <class id="influences" label=""/>
+      <span end="22376" id="PMC2898025.nxml.gz-346" start="22366">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-347" type="identity">
+      <class id="has...been" label=""/>
+      <span end="22400" id="PMC2898025.nxml.gz-347" start="22392">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-348" type="identity">
+      <class id="linked" label=""/>
+      <span end="22407" id="PMC2898025.nxml.gz-348" start="22401">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-349" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22805" id="PMC2898025.nxml.gz-349" start="22576">Exposure to a high level of testosterone during the earlier part of pregnancy is thought to promote right brain development and influence hand preference, although the evidence in support of a relationship is not conclusive [191]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-35" type="identity">
+      <class id="suggests" label=""/>
+      <span end="1889" id="PMC2898025.nxml.gz-35" start="1881">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-350" type="identity">
+      <class id="is_thought" label=""/>
+      <span end="22664" id="PMC2898025.nxml.gz-350" start="22654">is thought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-351" type="identity">
+      <class id="thought_to" label=""/>
+      <span end="22667" id="PMC2898025.nxml.gz-351" start="22657">thought to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-352" type="identity">
+      <class id="influence" label=""/>
+      <span end="22713" id="PMC2898025.nxml.gz-352" start="22704">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-353" type="identity">
+      <class id="although" label=""/>
+      <span end="22739" id="PMC2898025.nxml.gz-353" start="22731">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-354" type="identity">
+      <class id="support" label=""/>
+      <span end="22763" id="PMC2898025.nxml.gz-354" start="22756">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-355" type="identity">
+      <class id="relationship" label=""/>
+      <span end="22781" id="PMC2898025.nxml.gz-355" start="22769">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-356" type="identity">
+      <class id="not...conclusive" label=""/>
+      <span end="22799" id="PMC2898025.nxml.gz-356" start="22785">not conclusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-357" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22952" id="PMC2898025.nxml.gz-357" start="22807">Testosterone, progesterone, oestradiol, and lutenising hormone levels in women have been reported to be higher in spring than in autumn [192–194]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-358" type="identity">
+      <class id="have_been_reported" label=""/>
+      <span end="22904" id="PMC2898025.nxml.gz-358" start="22886">have been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-359" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23074" id="PMC2898025.nxml.gz-359" start="22954">Results from several studies hint that non-genetic factors may play an important role in the determination of handedness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-36" type="identity">
+      <class id="0_model" label=""/>
+      <span end="1926" id="PMC2898025.nxml.gz-36" start="1921">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-360" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="22982" id="PMC2898025.nxml.gz-360" start="22967">several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-361" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22987" id="PMC2898025.nxml.gz-361" start="22983">hint</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-362" type="identity">
+      <class id="may" label=""/>
+      <span end="23016" id="PMC2898025.nxml.gz-362" start="23013">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-363" type="identity">
+      <class id="important" label=""/>
+      <span end="23034" id="PMC2898025.nxml.gz-363" start="23025">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-364" type="identity">
+      <class id="role" label=""/>
+      <span end="23039" id="PMC2898025.nxml.gz-364" start="23035">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-365" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23347" id="PMC2898025.nxml.gz-365" start="23189">Similarly, left-handedness has been linked to congenital adrenal hyperplasia, a condition characterized by high in utero levels of androgeizing hormones [197]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-366" type="identity">
+      <class id="has_been" label=""/>
+      <span end="23224" id="PMC2898025.nxml.gz-366" start="23216">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-367" type="identity">
+      <class id="linked" label=""/>
+      <span end="23231" id="PMC2898025.nxml.gz-367" start="23225">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-368" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23543" id="PMC2898025.nxml.gz-368" start="23349">Of note, brain tumors are known to contain sex steroid receptors (e.g., estrogen, androgen, progestin) [198], and sex hormones have been shown to promote brain tumors in animal studies [199,200]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-369" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="23356" id="PMC2898025.nxml.gz-369" start="23349">Of note</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2225" id="PMC2898025.nxml.gz-37" start="1955">Risk factors that may exhibit seasonal epidemicity include exposure to infectious agents, allergens, pesticides, indoor environmental tobacco smoke, and other sources of polycyclic aromatic hydrocarbons (e.g., soot from fires for home heating), and use of antihistamines</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-370" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="23491" id="PMC2898025.nxml.gz-370" start="23476">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-371" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23719" id="PMC2898025.nxml.gz-371" start="23545">Mice reared under conditions favoring the right limb develop a right-limb preference, and vice versa [201], further suggesting that environmental factors influence handedness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-372" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="23671" id="PMC2898025.nxml.gz-372" start="23661">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-373" type="identity">
+      <class id="influence" label=""/>
+      <span end="23708" id="PMC2898025.nxml.gz-373" start="23699">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-374" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23867" id="PMC2898025.nxml.gz-374" start="23721">Additionally, the discordance of handedness in twin studies illustrates that genetics alone cannot explain the development of handedness [202–207]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-375" type="identity">
+      <class id="controversy" label=""/>
+      <span end="23750" id="PMC2898025.nxml.gz-375" start="23739">discordance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-376" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23819" id="PMC2898025.nxml.gz-376" start="23807">alone cannot</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-377" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-378" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-379" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-38" type="identity">
+      <class id="may" label=""/>
+      <span end="1976" id="PMC2898025.nxml.gz-38" start="1973">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-380" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-381" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24137" id="PMC2898025.nxml.gz-381" start="24023">Being right-handed has been associated with a greater risk for glioma than being left-handed or ambidextrous [178]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-382" type="identity">
+      <class id="associated" label=""/>
+      <span end="24061" id="PMC2898025.nxml.gz-382" start="24051">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-383" type="identity">
+      <class id="however" label=""/>
+      <span end="24146" id="PMC2898025.nxml.gz-383" start="24139">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-384" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24332" id="PMC2898025.nxml.gz-384" start="24139">However, for left-handed and ambidextrous participants born from late fall through early spring, glioma risk also has been shown to be higher than for those born at other times of the year [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-385" type="identity">
+      <class id="has...been" label=""/>
+      <span end="24261" id="PMC2898025.nxml.gz-385" start="24253">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-386" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24459" id="PMC2898025.nxml.gz-386" start="24334">A study of 15,390 Brazilian students was unable to detect a difference in the season of birth between right- and left-handers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-387" type="identity">
+      <class id="unable_to" label=""/>
+      <span end="24384" id="PMC2898025.nxml.gz-387" start="24375">unable to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-388" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-389" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2404" id="PMC2898025.nxml.gz-39" start="2227">Other putative candidates include harmonic variation in population mixing, diet, temperature, humidity, sunlight/photoperiod, levels of vitamin D3, and endogenous hormones [6,7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-390" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24704" id="PMC2898025.nxml.gz-390" start="24597">The putative connection between handedness, season of birth, and glioma risk remains difficult to interpret</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-391" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="24609" id="PMC2898025.nxml.gz-391" start="24601">putative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-392" type="identity">
+      <class id="connection" label=""/>
+      <span end="24620" id="PMC2898025.nxml.gz-392" start="24610">connection</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-393" type="identity">
+      <class id="remains" label=""/>
+      <span end="24681" id="PMC2898025.nxml.gz-393" start="24674">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-394" type="identity">
+      <class id="difficult" label=""/>
+      <span end="24691" id="PMC2898025.nxml.gz-394" start="24682">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-395" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-396" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24883" id="PMC2898025.nxml.gz-396" start="24706">For example, glioma risk is greater for males than females [2], yet the pattern of seasonal influence upon handedness does not vary significantly between females and males [177]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-397" type="identity">
+      <class id="yet" label=""/>
+      <span end="24773" id="PMC2898025.nxml.gz-397" start="24770">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-398" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-399" type="identity">
+      <class id="influence" label=""/>
+      <span end="24807" id="PMC2898025.nxml.gz-399" start="24798">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-4" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-40" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2241" id="PMC2898025.nxml.gz-40" start="2233">putative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-400" type="identity">
+      <class id="vary" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-401" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25023" id="PMC2898025.nxml.gz-401" start="24885">A higher incidence of sinistrality has been observed for individuals born in winter and autumn than for those born summer and spring [191]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-402" type="identity">
+      <class id="has_been" label=""/>
+      <span end="24928" id="PMC2898025.nxml.gz-402" start="24920">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-403" type="identity">
+      <class id="than" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-404" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25175" id="PMC2898025.nxml.gz-404" start="25025">The incidence of left-handedness is disproportionately higher among males [202], a finding which is consistently observed across species [201,209–212]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-405" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="25079" id="PMC2898025.nxml.gz-405" start="25061">disproportionately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-406" type="identity">
+      <class id="consistently" label=""/>
+      <span end="25137" id="PMC2898025.nxml.gz-406" start="25125">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-407" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25470" id="PMC2898025.nxml.gz-407" start="25289">Overall, handedness appears to be a surrogate marker for an underlying but unidentified risk factor that interacts with seasonality and other factors to possibly explain glioma risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-408" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="25322" id="PMC2898025.nxml.gz-408" start="25309">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-409" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="25376" id="PMC2898025.nxml.gz-409" start="25364">unidentified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-41" type="identity">
+      <class id="candidate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-410" type="identity">
+      <class id="interacts" label=""/>
+      <span end="25403" id="PMC2898025.nxml.gz-410" start="25394">interacts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-411" type="identity">
+      <class id="possibly" label=""/>
+      <span end="25450" id="PMC2898025.nxml.gz-411" start="25442">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-412" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25552" id="PMC2898025.nxml.gz-412" start="25484">Season of birth in its own right cannot be deemed a cause for glioma</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-413" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="25533" id="PMC2898025.nxml.gz-413" start="25517">cannot be deemed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-414" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25697" id="PMC2898025.nxml.gz-414" start="25554">Rather, it is a surrogate marker for underlying risk factors that may offer subtle clues about the possible perinatal etiology of adult gliomas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-415" type="identity">
+      <class id="rather" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-416" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="25579" id="PMC2898025.nxml.gz-416" start="25570">surrogate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-417" type="identity">
+      <class id="may" label=""/>
+      <span end="25623" id="PMC2898025.nxml.gz-417" start="25620">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-418" type="identity">
+      <class id="clues" label=""/>
+      <span end="25642" id="PMC2898025.nxml.gz-418" start="25637">clues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-419" type="identity">
+      <class id="possible" label=""/>
+      <span end="25661" id="PMC2898025.nxml.gz-419" start="25653">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-42" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2252" id="PMC2898025.nxml.gz-42" start="2242">candidates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-420" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25842" id="PMC2898025.nxml.gz-420" start="25699">There is probably no specific etiologic agent acting in isolation that completely explains a season of birth association with adult glioma risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-421" type="identity">
+      <class id="probably" label=""/>
+      <span end="25716" id="PMC2898025.nxml.gz-421" start="25708">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-422" type="identity">
+      <class id="association" label=""/>
+      <span end="25819" id="PMC2898025.nxml.gz-422" start="25808">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-423" type="identity">
+      <class id="if" label=""/>
+      <span end="25846" id="PMC2898025.nxml.gz-423" start="25844">If</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-424" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26062" id="PMC2898025.nxml.gz-424" start="25844">If an association exists the effect probably represents the interplay between various environmental, genetic, lifestyle, and socioeconomic factors, operating on mother and child within a precise window of vulnerability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-425" type="identity">
+      <class id="association" label=""/>
+      <span end="25861" id="PMC2898025.nxml.gz-425" start="25850">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-426" type="identity">
+      <class id="effect" label=""/>
+      <span end="25879" id="PMC2898025.nxml.gz-426" start="25873">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-427" type="identity">
+      <class id="probably" label=""/>
+      <span end="25888" id="PMC2898025.nxml.gz-427" start="25880">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-428" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26219" id="PMC2898025.nxml.gz-428" start="26064">The mechanism of action may involve epigenetic processes or DNA changes with the capacity to modulate or influence oncogenic outcomes in the distant future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-429" type="identity">
+      <class id="may" label=""/>
+      <span end="26091" id="PMC2898025.nxml.gz-429" start="26088">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2521" id="PMC2898025.nxml.gz-43" start="2406">The origins of many childhood and adult malignancies are believed to be determined during a finite perinatal window</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-430" type="identity">
+      <class id="influence" label=""/>
+      <span end="26178" id="PMC2898025.nxml.gz-430" start="26169">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-432" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26478" id="PMC2898025.nxml.gz-432" start="26221">A patient’s innate and adaptive immune response and a host of hormonal and metabolic factors, likely play important and closely interrelated roles in understanding the complex biologic and etiologic mechanisms in the season of birth effect for adult gliomas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-433" type="identity">
+      <class id="likely" label=""/>
+      <span end="26321" id="PMC2898025.nxml.gz-433" start="26315">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-434" type="identity">
+      <class id="important" label=""/>
+      <span end="26336" id="PMC2898025.nxml.gz-434" start="26327">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-435" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="26361" id="PMC2898025.nxml.gz-435" start="26349">interrelated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-436" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="26367" id="PMC2898025.nxml.gz-436" start="26362">roles</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-437" type="identity">
+      <class id="complex" label=""/>
+      <span end="26396" id="PMC2898025.nxml.gz-437" start="26389">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-438" type="identity">
+      <class id="effect" label=""/>
+      <span end="26460" id="PMC2898025.nxml.gz-438" start="26454">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-439" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26645" id="PMC2898025.nxml.gz-439" start="26480">In the studies conducted to date, risk estimates and p-values for the association between season of birth and glioma risk have been nominal to borderline in strength</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-44" type="identity">
+      <class id="believed" label=""/>
+      <span end="2471" id="PMC2898025.nxml.gz-44" start="2463">believed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-440" type="identity">
+      <class id="association" label=""/>
+      <span end="26561" id="PMC2898025.nxml.gz-440" start="26550">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-441" type="identity">
+      <class id="have...been" label=""/>
+      <span end="26611" id="PMC2898025.nxml.gz-441" start="26602">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-442" type="identity">
+      <class id="however" label=""/>
+      <span end="26654" id="PMC2898025.nxml.gz-442" start="26647">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-443" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26803" id="PMC2898025.nxml.gz-443" start="26647">However, a weak association does not necessarily imply the absence of causality, nor is a strong association necessary or sufficient for causality [213,214]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-445" type="identity">
+      <class id="does" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-446" type="identity">
+      <class id="is" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-447" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-448" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27046" id="PMC2898025.nxml.gz-448" start="26805">The ability to find associations between specific seasonal risk factors occurring around the time of birth and adult glioma incidence is limited by the rarity of this cancer in the population and the vast time period from exposure to disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-449" type="identity">
+      <class id="associations" label=""/>
+      <span end="26837" id="PMC2898025.nxml.gz-449" start="26825">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2771" id="PMC2898025.nxml.gz-45" start="2523">During this period the brain and immune systems are less developed, undergoing greater cell growth and differentiation, and possibly more susceptible to DNA and epigenetic changes underlying cancer development in the near or distant future [5,8–13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-451" type="identity">
+      <class id="limited" label=""/>
+      <span end="26949" id="PMC2898025.nxml.gz-451" start="26942">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-453" type="identity">
+      <class id="while" label=""/>
+      <span end="27053" id="PMC2898025.nxml.gz-453" start="27048">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-454" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27271" id="PMC2898025.nxml.gz-454" start="27048">While the risk factors outlined in this review do not conflict with our current understanding of the natural history of cancer or glioma specifically, the evidence in support of a causal relationship has not been consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-455" type="identity">
+      <class id="conflict" label=""/>
+      <span end="27110" id="PMC2898025.nxml.gz-455" start="27102">conflict</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-456" type="identity">
+      <class id="support" label=""/>
+      <span end="27222" id="PMC2898025.nxml.gz-456" start="27215">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-457" type="identity">
+      <class id="relationship" label=""/>
+      <span end="27247" id="PMC2898025.nxml.gz-457" start="27235">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-458" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-46" type="identity">
+      <class id="possibly" label=""/>
+      <span end="2655" id="PMC2898025.nxml.gz-46" start="2647">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-460" type="identity">
+      <class id="controversy" label=""/>
+      <span end="27255" id="PMC2898025.nxml.gz-460" start="27252">not</span>
+      <span end="27271" id="PMC2898025.nxml.gz-461" start="27261">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-463" type="identity">
+      <class id="some" label=""/>
+      <span end="27280" id="PMC2898025.nxml.gz-463" start="27276">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-464" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-465" type="identity">
+      <class id="bias" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-466" type="identity">
+      <class id="may" label=""/>
+      <span end="27332" id="PMC2898025.nxml.gz-466" start="27329">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-467" type="identity">
+      <class id="controversy" label=""/>
+      <span end="27360" id="PMC2898025.nxml.gz-467" start="27345">inconsistencies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-468" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27524" id="PMC2898025.nxml.gz-468" start="27362">At minimum, if a causal relationship exists, season of birth meets the criteria of temporality as the period surrounding birth clearly predates disease occurrence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-469" type="identity">
+      <class id="if" label=""/>
+      <span end="27376" id="PMC2898025.nxml.gz-469" start="27374">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2975" id="PMC2898025.nxml.gz-47" start="2773">In this model, environmental exposures and lifestyle changes that occur afterwards play a mainly secondary role to the programming or imprinting that occurs during pregnancy and/or early infancy [14,15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-470" type="identity">
+      <class id="relationship" label=""/>
+      <span end="27398" id="PMC2898025.nxml.gz-470" start="27386">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-471" type="identity">
+      <class id="however" label=""/>
+      <span end="27533" id="PMC2898025.nxml.gz-471" start="27526">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-472" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27637" id="PMC2898025.nxml.gz-472" start="27526">However, the exact window of exposure when the underlying risk factor(s) most occur to cause disease is unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-473" type="identity">
+      <class id="when" label=""/>
+      <span end="27568" id="PMC2898025.nxml.gz-473" start="27564">when</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-474" type="identity">
+      <class id="is" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-475" type="identity">
+      <class id="unknown" label=""/>
+      <span end="27637" id="PMC2898025.nxml.gz-475" start="27630">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-476" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27801" id="PMC2898025.nxml.gz-476" start="27639">On the present evidence, it is not possible to definitively answer the question of how season of birth influences glioma risk, or to favor any specific hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-477" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="27682" id="PMC2898025.nxml.gz-477" start="27670">not possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-478" type="identity">
+      <class id="possible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-479" type="identity">
+      <class id="question" label=""/>
+      <span end="27718" id="PMC2898025.nxml.gz-479" start="27710">question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-48" type="identity">
+      <class id="0_model" label=""/>
+      <span end="2786" id="PMC2898025.nxml.gz-48" start="2781">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-480" type="identity">
+      <class id="how" label=""/>
+      <span end="27725" id="PMC2898025.nxml.gz-480" start="27722">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-481" type="identity">
+      <class id="influences" label=""/>
+      <span end="27752" id="PMC2898025.nxml.gz-481" start="27742">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-482" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="27801" id="PMC2898025.nxml.gz-482" start="27791">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-483" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27985" id="PMC2898025.nxml.gz-483" start="27803">Many questions remain and future research will benefit from focused studies aimed at specific exposures and subpopulations, allowing for more detailed analyses by histologic subtypes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-484" type="identity">
+      <class id="questions" label=""/>
+      <span end="27817" id="PMC2898025.nxml.gz-484" start="27808">questions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-485" type="identity">
+      <class id="remain" label=""/>
+      <span end="27824" id="PMC2898025.nxml.gz-485" start="27818">remain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-486" type="identity">
+      <class id="future...research" label=""/>
+      <span end="27844" id="PMC2898025.nxml.gz-486" start="27829">future research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-487" type="identity">
+      <class id="will" label=""/>
+      <span end="27849" id="PMC2898025.nxml.gz-487" start="27845">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-49" type="identity">
+      <class id="mainly" label=""/>
+      <span end="2869" id="PMC2898025.nxml.gz-49" start="2863">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="231" id="PMC2898025.nxml.gz-5" start="184">The etiology of this disease is largely unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-50" type="identity">
+      <class id="role" label=""/>
+      <span end="2884" id="PMC2898025.nxml.gz-50" start="2880">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-52" type="identity">
+      <class id="examined" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-53" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-54" type="identity">
+      <class id="to...identify" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-55" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4436" id="PMC2898025.nxml.gz-56" start="4311">Several recent studies have explored season of birth as a risk factor for adult glioma, but results have been mixed (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5603" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="558" id="PMC2898025.nxml.gz-5604" start="545">interrelation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5605" type="identity">
+      <class id="probable_understanding"/>
+      <span end="15209" id="PMC2898025.nxml.gz-5606" start="15200">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5607" type="identity">
+      <class id="difficult_task"/>
+      <span end="17766" id="PMC2898025.nxml.gz-5608" start="17756">confounded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5609" type="identity">
+      <class id="associated"/>
+      <span end="22137" id="PMC2898025.nxml.gz-5610" start="22127">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5611" type="identity">
+      <class id="has_been"/>
+      <span end="24050" id="PMC2898025.nxml.gz-5612" start="24042">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5613" type="identity">
+      <class id="alternative_options"/>
+      <span end="25560" id="PMC2898025.nxml.gz-5614" start="25554">Rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5615" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="26701" id="PMC2898025.nxml.gz-5616" start="26696">imply</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5617" type="identity">
+      <class id="difficult_task"/>
+      <span end="26963" id="PMC2898025.nxml.gz-5618" start="26957">rarity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5619" type="identity">
+      <class id="problem_complication"/>
+      <span end="27328" id="PMC2898025.nxml.gz-5620" start="27312">publication bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-5621" type="identity">
+      <class id="subject_scope"/>
+      <span end="27360" id="PMC2898025.nxml.gz-5622" start="27273">To some degree, effect modification or publication bias may explain the inconsistencies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-57" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="4333" id="PMC2898025.nxml.gz-57" start="4319">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-58" type="identity">
+      <class id="have_been" label=""/>
+      <span end="4420" id="PMC2898025.nxml.gz-58" start="4411">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-59" type="identity">
+      <class id="mixed" label=""/>
+      <span end="4426" id="PMC2898025.nxml.gz-59" start="4421">mixed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-6" type="identity">
+      <class id="unknown" label=""/>
+      <span end="231" id="PMC2898025.nxml.gz-6" start="224">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4607" id="PMC2898025.nxml.gz-60" start="4438">Three independent reports have observed a peak risk for winter births [16–18], while no seasonal variation for risk was noted in two other epidemiologic studies [19,20].</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-61" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-62" type="identity">
+      <class id="controversy" label=""/>
+      <span end="4522" id="PMC2898025.nxml.gz-62" start="4517">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-63" type="identity">
+      <class id="variation" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-64" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4824" id="PMC2898025.nxml.gz-64" start="4608">A multi-centered study of four Midwest states examining rural and farm exposures observed a statistically significant increased risk of adult gliomas for springtime births, but only among those born “off” a farm [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-65" type="identity">
+      <class id="but_only" label=""/>
+      <span end="4789" id="PMC2898025.nxml.gz-65" start="4781">but only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-66" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4931" id="PMC2898025.nxml.gz-66" start="4826">Similarly, the study of childhood brain tumors and season of birth have yielded equivocal results [22–26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-67" type="identity">
+      <class id="controversy" label=""/>
+      <span end="4915" id="PMC2898025.nxml.gz-67" start="4906">equivocal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-69" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="377" id="PMC2898025.nxml.gz-7" start="233">Exposure to ionizing radiation is the only well established environmental risk factor, and this factor explains only a small percentage of cases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5079" id="PMC2898025.nxml.gz-70" start="4974">The underlying rationale for the occurrence of a glioma decades after a seasonal exposure remains elusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-71" type="identity">
+      <class id="rationale" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-72" type="identity">
+      <class id="remains_elusive" label=""/>
+      <span end="5079" id="PMC2898025.nxml.gz-72" start="5064">remains elusive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5192" id="PMC2898025.nxml.gz-73" start="5081">No specific etiologic agent to date has been identified to support such a long induction period for this cancer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-74" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="5083" id="PMC2898025.nxml.gz-74" start="5081">No</span>
+      <span end="5136" id="PMC2898025.nxml.gz-75" start="5126">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-76" type="identity">
+      <class id="support" label=""/>
+      <span end="5147" id="PMC2898025.nxml.gz-76" start="5140">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-77" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5334" id="PMC2898025.nxml.gz-77" start="5194">Several hypothetical arguments have been offered in explanation of a season of birth effect for adult gliomas, if such an association exists</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-78" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="5224" id="PMC2898025.nxml.gz-78" start="5202">hypothetical arguments</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-79" type="identity">
+      <class id="effect" label=""/>
+      <span end="5285" id="PMC2898025.nxml.gz-79" start="5279">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-8" type="identity">
+      <class id="only" label=""/>
+      <span end="275" id="PMC2898025.nxml.gz-8" start="271">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-80" type="identity">
+      <class id="if" label=""/>
+      <span end="5307" id="PMC2898025.nxml.gz-80" start="5305">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-81" type="identity">
+      <class id="association" label=""/>
+      <span end="5327" id="PMC2898025.nxml.gz-81" start="5316">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-82" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5457" id="PMC2898025.nxml.gz-82" start="5336">Thus far, the major evidence in support of a seasonal effect involves farming, allergies/immunity, viruses, and vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-83" type="identity">
+      <class id="support" label=""/>
+      <span end="5375" id="PMC2898025.nxml.gz-83" start="5368">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-84" type="identity">
+      <class id="effect" label=""/>
+      <span end="5396" id="PMC2898025.nxml.gz-84" start="5390">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5546" id="PMC2898025.nxml.gz-85" start="5459">Other possible factors related to seasonal birth are diet, birth weight, and handedness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-86" type="identity">
+      <class id="possible" label=""/>
+      <span end="5473" id="PMC2898025.nxml.gz-86" start="5465">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-87" type="identity">
+      <class id="related" label=""/>
+      <span end="5489" id="PMC2898025.nxml.gz-87" start="5482">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6113" id="PMC2898025.nxml.gz-88" start="5887">Many farm chemicals are classified as probable or likely human carcinogens by the US Environmental Protection Agency (EPA), most notably acephate, dichlorvos, dimethoate, lindane, parathion, phosmet, and tetrachlorvinphos [28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-89" type="identity">
+      <class id="probable" label=""/>
+      <span end="5933" id="PMC2898025.nxml.gz-89" start="5925">probable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-9" type="identity">
+      <class id="only" label=""/>
+      <span end="349" id="PMC2898025.nxml.gz-9" start="345">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-90" type="identity">
+      <class id="likely" label=""/>
+      <span end="5943" id="PMC2898025.nxml.gz-90" start="5937">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-91" type="identity">
+      <class id="notably" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6474" id="PMC2898025.nxml.gz-92" start="6288">Household dust concentrations of azinphosmethyl, chlorpyrifos, parathion, and phosmet have been found to be significantly higher in farmer or farmworker homes than in referent homes [29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-93" type="identity">
+      <class id="have_been" label=""/>
+      <span end="6383" id="PMC2898025.nxml.gz-93" start="6374">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6811" id="PMC2898025.nxml.gz-94" start="6654">Homes with high pet activities have been shown to have greater levels of pesticide residues in sampled carpet dust than homes with low pet activities [31,32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-95" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="6700" id="PMC2898025.nxml.gz-95" start="6685">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-97" type="identity">
+      <class id="may" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-98" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7294" id="PMC2898025.nxml.gz-98" start="7142">In tandem with living on a farm, infants have unique vulnerabilities that may lead to higher levels of exposures in the same environment than adults [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2898025.nxml.gz-99" type="identity">
+      <class id="may" label=""/>
+      <span end="7219" id="PMC2898025.nxml.gz-99" start="7216">may</span>
+    </annotation>
+  </document>
+</knowtator-project>

@@ -1,0 +1,2899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2672462.nxml.gz" text-file="PMC2672462.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-1" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="104" id="PMC2672462.nxml.gz-1" start="102">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-10" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="420" id="PMC2672462.nxml.gz-10" start="404">the evidence for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-100" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4007" id="PMC2672462.nxml.gz-100" start="3996">responsible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4206" id="PMC2672462.nxml.gz-101" start="4050">Since then, numerous other observational studies have shown that the offspring of diabetic pregnancies have a higher risk of developing a diabetes phenotype</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-102" type="identity">
+      <class id="other" label=""/>
+      <span end="4076" id="PMC2672462.nxml.gz-102" start="4071">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-103" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="4109" id="PMC2672462.nxml.gz-103" start="4099">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4482" id="PMC2672462.nxml.gz-104" start="4212">There is also concern that this leads to an intergenerational effect, with GDM promoting diabetes in the offspring, with perpetuation of the vicious cycle when the offspring herself develops GDM, thereby predisposing the grandchild to the development of diabetes as well</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-105" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4233" id="PMC2672462.nxml.gz-105" start="4226">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-107" type="identity">
+      <class id="effect" label=""/>
+      <span end="4280" id="PMC2672462.nxml.gz-107" start="4274">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4642" id="PMC2672462.nxml.gz-108" start="4485">It is unknown however, what degree of hyperglycemia, or indeed if it is related metabolic disturbances, which increases the risk of diabetes to the offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-109" type="identity">
+      <class id="unknown" label=""/>
+      <span end="4498" id="PMC2672462.nxml.gz-109" start="4491">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="636" id="PMC2672462.nxml.gz-11" start="477">The medical management of gestational diabetes is still evolving, and recent randomized controlled trials have added considerably to our knowledge in this area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-110" type="identity">
+      <class id="however" label=""/>
+      <span end="4506" id="PMC2672462.nxml.gz-110" start="4499">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-111" type="identity">
+      <class id="what" label=""/>
+      <span end="4512" id="PMC2672462.nxml.gz-111" start="4508">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-112" type="identity">
+      <class id="or" label=""/>
+      <span end="4540" id="PMC2672462.nxml.gz-112" start="4538">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-113" type="identity">
+      <class id="if" label=""/>
+      <span end="4550" id="PMC2672462.nxml.gz-113" start="4548">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-114" type="identity">
+      <class id="related" label=""/>
+      <span end="4564" id="PMC2672462.nxml.gz-114" start="4557">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-115" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-117" type="identity">
+      <class id="indicates" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5093" id="PMC2672462.nxml.gz-118" start="4976">Evidence from more contemporary populations is that the likelihood of subsequent diabetes may be substantially higher</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-119" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="5042" id="PMC2672462.nxml.gz-119" start="5032">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-12" type="identity">
+      <class id="still_evolving" label=""/>
+      <span end="541" id="PMC2672462.nxml.gz-12" start="527">still evolving</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-120" type="identity">
+      <class id="may_be" label=""/>
+      <span end="5072" id="PMC2672462.nxml.gz-120" start="5066">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-121" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5192" id="PMC2672462.nxml.gz-121" start="5096">Women who have had GDM account for a significant burden of the population prevalence of diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-122" type="identity">
+      <class id="burden" label=""/>
+      <span end="5151" id="PMC2672462.nxml.gz-122" start="5145">burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5380" id="PMC2672462.nxml.gz-123" start="5194">It has been estimated that up to one third of women with diabetes, had a GDM pregnancy earlier in their life,2though this was not evident in a recent survey of women with type 2 diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-124" type="identity">
+      <class id="has_been" label=""/>
+      <span end="5205" id="PMC2672462.nxml.gz-124" start="5197">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-125" type="identity">
+      <class id="estimated" label=""/>
+      <span end="5215" id="PMC2672462.nxml.gz-125" start="5206">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-127" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="5310" id="PMC2672462.nxml.gz-127" start="5304">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-128" type="identity">
+      <class id="was_not" label=""/>
+      <span end="5323" id="PMC2672462.nxml.gz-128" start="5316">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-129" type="identity">
+      <class id="this_review" label=""/>
+      <span end="5395" id="PMC2672462.nxml.gz-129" start="5384">This review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-13" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5594" id="PMC2672462.nxml.gz-130" start="5384">This review will focus on the medical management of GDM, in particular self monitoring of blood glucose and diabetes education, dietary therapy and physical activity, pharmacotherapy, and post-partum management</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-131" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-132" type="identity">
+      <class id="focus" label=""/>
+      <span end="5406" id="PMC2672462.nxml.gz-132" start="5401">focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5856" id="PMC2672462.nxml.gz-133" start="5796">Self-care is an important component of the management of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-134" type="identity">
+      <class id="important" label=""/>
+      <span end="5821" id="PMC2672462.nxml.gz-134" start="5812">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-135" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6282" id="PMC2672462.nxml.gz-137" start="6146">The involvement of a dietician and diabetes educator experienced in the care of women with GDM will facilitate these areas of management</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-138" type="identity">
+      <class id="will" label=""/>
+      <span end="6245" id="PMC2672462.nxml.gz-138" start="6241">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-139" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6369" id="PMC2672462.nxml.gz-139" start="6310">Women with GDM should perform home blood glucose monitoring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-14" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="606" id="PMC2672462.nxml.gz-14" start="594">considerably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-140" type="identity">
+      <class id="should" label=""/>
+      <span end="6331" id="PMC2672462.nxml.gz-140" start="6325">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6643" id="PMC2672462.nxml.gz-141" start="6571">The recommended treatment targets vary from country to country (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-142" type="identity">
+      <class id="recommended" label=""/>
+      <span end="6586" id="PMC2672462.nxml.gz-142" start="6575">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-143" type="identity">
+      <class id="targets" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-144" type="identity">
+      <class id="vary" label=""/>
+      <span end="6609" id="PMC2672462.nxml.gz-144" start="6605">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-145" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6797" id="PMC2672462.nxml.gz-145" start="6645">These are largely consensus-based as the risk of complications is continuous and there are no obvious thresholds above which the risk markedly increases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-146" type="identity">
+      <class id="consensus" label=""/>
+      <span end="6672" id="PMC2672462.nxml.gz-146" start="6663">consensus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-147" type="identity">
+      <class id="as" label=""/>
+      <span end="6681" id="PMC2672462.nxml.gz-147" start="6679">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-148" type="identity">
+      <class id="complications" label=""/>
+      <span end="6707" id="PMC2672462.nxml.gz-148" start="6694">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-149" type="identity">
+      <class id="there_are_no" label=""/>
+      <span end="6738" id="PMC2672462.nxml.gz-149" start="6726">there are no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="809" id="PMC2672462.nxml.gz-15" start="638">As insulin therapy is effective and safe, it is considered the gold standard of pharmacotherapy for gestational diabetes, against which other treatments have been compared</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-150" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-151" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-152" type="identity">
+      <class id="usually" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-153" type="identity">
+      <class id="if" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-154" type="identity">
+      <class id="possible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6982" id="PMC2672462.nxml.gz-155" start="6910">Lifestyle measures can provide adequate control in the majority of cases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-156" type="identity">
+      <class id="can" label=""/>
+      <span end="6932" id="PMC2672462.nxml.gz-156" start="6929">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-157" type="identity">
+      <class id="if" label=""/>
+      <span end="6986" id="PMC2672462.nxml.gz-157" start="6984">If</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-158" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7130" id="PMC2672462.nxml.gz-158" start="6984">If glucose targets are not adequately met by lifestyle measures, and perhaps a review of dietary intake, then pharmacotherapy should be introduced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-159" type="identity">
+      <class id="not...adequately" label=""/>
+      <span end="7021" id="PMC2672462.nxml.gz-159" start="7007">not adequately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-16" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="640" id="PMC2672462.nxml.gz-16" start="638">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-160" type="identity">
+      <class id="perhaps" label=""/>
+      <span end="7060" id="PMC2672462.nxml.gz-160" start="7053">perhaps</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-161" type="identity">
+      <class id="should_be" label=""/>
+      <span end="7119" id="PMC2672462.nxml.gz-161" start="7110">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-163" type="identity">
+      <class id="usually" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-164" type="identity">
+      <class id="rather" label=""/>
+      <span end="7186" id="PMC2672462.nxml.gz-164" start="7180">Rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7385" id="PMC2672462.nxml.gz-165" start="7180">Rather than basing the need for insulin on glycemic parameters alone, some have advocated the combined use of ultrasound assessment of fetal abdominal circumference in combination with blood glucose levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-166" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-167" type="identity">
+      <class id="some" label=""/>
+      <span end="7254" id="PMC2672462.nxml.gz-167" start="7250">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-168" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-169" type="identity">
+      <class id="future_work" label=""/>
+      <span end="7269" id="PMC2672462.nxml.gz-169" start="7260">advocated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-17" type="identity">
+      <class id="is_considered" label=""/>
+      <span end="696" id="PMC2672462.nxml.gz-17" start="683">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-171" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7731" id="PMC2672462.nxml.gz-172" start="7647">It is generally accepted that dietary therapy is the cornerstone of treatment of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-173" type="identity">
+      <class id="generally" label=""/>
+      <span end="7662" id="PMC2672462.nxml.gz-173" start="7653">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-174" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="7671" id="PMC2672462.nxml.gz-174" start="7663">accepted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-175" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="7711" id="PMC2672462.nxml.gz-175" start="7700">cornerstone</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-176" type="identity">
+      <class id="therefore" label=""/>
+      <span end="7742" id="PMC2672462.nxml.gz-176" start="7733">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7815" id="PMC2672462.nxml.gz-177" start="7733">Therefore all women with GDM should receive counseling from a specialist dietitian</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-178" type="identity">
+      <class id="should" label=""/>
+      <span end="7768" id="PMC2672462.nxml.gz-178" start="7762">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-179" type="identity">
+      <class id="recommendations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-18" type="identity">
+      <class id="other" label=""/>
+      <span end="779" id="PMC2672462.nxml.gz-18" start="774">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8015" id="PMC2672462.nxml.gz-181" start="7896">The aim is to achieve normoglycemia whilst providing the required nutrients for normal fetal growth and maternal health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-183" type="identity">
+      <class id="whilst" label=""/>
+      <span end="7938" id="PMC2672462.nxml.gz-183" start="7932">whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-184" type="identity">
+      <class id="required" label=""/>
+      <span end="7961" id="PMC2672462.nxml.gz-184" start="7953">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-187" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8412" id="PMC2672462.nxml.gz-187" start="8163">There are few trials examining the efficacy of dietary therapy for GDM, However, a cluster randomized controlled study has provided support for Medical Nutrition Therapy (MNT) for GDM, as recommended by the American Diabetes Association (ADA) (2004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-188" type="identity">
+      <class id="few" label=""/>
+      <span end="8176" id="PMC2672462.nxml.gz-188" start="8173">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-189" type="identity">
+      <class id="however" label=""/>
+      <span end="8242" id="PMC2672462.nxml.gz-189" start="8235">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-19" type="identity">
+      <class id="have...been" label=""/>
+      <span end="800" id="PMC2672462.nxml.gz-19" start="791">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-190" type="identity">
+      <class id="support" label=""/>
+      <span end="8302" id="PMC2672462.nxml.gz-190" start="8295">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-191" type="identity">
+      <class id="as" label=""/>
+      <span end="8350" id="PMC2672462.nxml.gz-191" start="8348">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-192" type="identity">
+      <class id="recommended" label=""/>
+      <span end="8362" id="PMC2672462.nxml.gz-192" start="8351">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-193" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-194" type="identity">
+      <class id="either" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-195" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8698" id="PMC2672462.nxml.gz-196" start="8519">Fewer subjects in the MNT group required insulin (24.6% vs 31.7%, p = 0.05) and there was a trend to fewer women having a glycated hemoglobin (HbA1c) &gt;6% (8.1% vs 13.6%, p = 0.25)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-197" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-198" type="identity">
+      <class id="trend" label=""/>
+      <span end="8616" id="PMC2672462.nxml.gz-198" start="8611">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8987" id="PMC2672462.nxml.gz-199" start="8700">The ADA states that all women should receive individualized counseling to provide adequate calories and nutrients to meet the needs of pregnancy and consistent with the blood glucose goals (fasting ≤105 mg/dl [5.8 mmol/L], 1 hr ≤155 mg/dl [8.6 mmol/L], and 2 hrs ≤130 mg/dl [7.2 mmol/L])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-2" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="294" id="PMC2672462.nxml.gz-2" start="102">As gestational diabetes is associated with adverse pregnancy outcomes, and has long-term implications for both mother and child, it is important that it is recognized and appropriately managed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="984" id="PMC2672462.nxml.gz-20" start="811">The current experience is that the short acting insulin analogs lispro and aspart are safe, but there are only limited data to support the use of long acting insulin analogs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-200" type="identity">
+      <class id="should" label=""/>
+      <span end="8736" id="PMC2672462.nxml.gz-200" start="8730">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-201" type="identity">
+      <class id="the_need" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-202" type="identity">
+      <class id="needs" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-203" type="identity">
+      <class id="consistent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20334" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3995" id="PMC2672462.nxml.gz-20335" start="3978">not predominantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20336" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="14703" id="PMC2672462.nxml.gz-20337" start="14700">not</span>
+      <span end="14718" id="PMC2672462.nxml.gz-20338" start="14709">borne out</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20339" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14740" id="PMC2672462.nxml.gz-20340" start="14537">Although there was an initial small uncontrolled report which suggested that Lispro may have teratogenic effects when used in type 1 diabetic pregnancy,37this has not been borne out in subsequent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20341" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16036" id="PMC2672462.nxml.gz-20342" start="16027">number of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20343" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16336" id="PMC2672462.nxml.gz-20344" start="16276">To date no randomized controlled studies have been published</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20345" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="21698" id="PMC2672462.nxml.gz-20346" start="21691">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20347" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26925" id="PMC2672462.nxml.gz-20348" start="26875">There are no studies using glitazones in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20349" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27052" id="PMC2672462.nxml.gz-20350" start="26927">Transplacental transfer occurs,67,81and until studies demonstrating safety are performed, they should be avoided in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20351" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="28740" id="PMC2672462.nxml.gz-20352" start="28728">unrandomized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20353" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-20355" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="28726" id="PMC2672462.nxml.gz-20356" start="28713">retrospective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-204" type="identity">
+      <class id="goals" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9100" id="PMC2672462.nxml.gz-205" start="8989">For obese women, a 30%–33% calorie restriction to approximately 25 kcal/kg actual weight per day is recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-206" type="identity">
+      <class id="approximately" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-207" type="identity">
+      <class id="recommended" label=""/>
+      <span end="9100" id="PMC2672462.nxml.gz-207" start="9089">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-208" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9158" id="PMC2672462.nxml.gz-208" start="9102">Carbohydrate should be restricted to 35%–40% of calories</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-209" type="identity">
+      <class id="should_be" label=""/>
+      <span end="9124" id="PMC2672462.nxml.gz-209" start="9115">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-21" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="833" id="PMC2672462.nxml.gz-21" start="815">current experience</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-210" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9280" id="PMC2672462.nxml.gz-210" start="9160">There are also data to support low carbohydrate diets in pregnancy, and for the carbohydrate to be of low glycemic index</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-211" type="identity">
+      <class id="support" label=""/>
+      <span end="9190" id="PMC2672462.nxml.gz-211" start="9183">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9503" id="PMC2672462.nxml.gz-212" start="9282">In a nonrandomized study, women with GDM on a diet comprising less than 42% carbohydrate, had lower post-prandial glucose levels, were less likely to require insulin, and had a lower incidence of large for gestational age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-213" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-214" type="identity">
+      <class id="likely" label=""/>
+      <span end="9428" id="PMC2672462.nxml.gz-214" start="9422">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-215" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9740" id="PMC2672462.nxml.gz-216" start="9506">A small study which randomized pregnant women to low glycemic index (GI) or high GI diets found that the former resulted in lower glucose levels, a blunting of the pregnancy associated rise in insulin resistance, and lower birthweight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-217" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="9519" id="PMC2672462.nxml.gz-217" start="9508">small study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-218" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-219" type="identity">
+      <class id="found" label=""/>
+      <span end="9601" id="PMC2672462.nxml.gz-219" start="9596">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-22" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="901" id="PMC2672462.nxml.gz-22" start="897">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-220" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-221" type="identity">
+      <class id="associated" label=""/>
+      <span end="9690" id="PMC2672462.nxml.gz-221" start="9680">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-222" type="identity">
+      <class id="whilst" label=""/>
+      <span end="10026" id="PMC2672462.nxml.gz-222" start="10020">Whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-223" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10234" id="PMC2672462.nxml.gz-223" start="10020">Whilst the latter studies were not specifically performed in women with GDM, they suggest that the concept of GI is valid in pregnancy, and it would be appropriate to recommend low GI carbohydrate to women with GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-224" type="identity">
+      <class id="not_specifically" label=""/>
+      <span end="10067" id="PMC2672462.nxml.gz-224" start="10051">not specifically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-225" type="identity">
+      <class id="suggest" label=""/>
+      <span end="10109" id="PMC2672462.nxml.gz-225" start="10102">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-226" type="identity">
+      <class id="the_concept" label=""/>
+      <span end="10126" id="PMC2672462.nxml.gz-226" start="10115">the concept</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-227" type="identity">
+      <class id="would_be" label=""/>
+      <span end="10171" id="PMC2672462.nxml.gz-227" start="10163">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-228" type="identity">
+      <class id="recommend" label=""/>
+      <span end="10196" id="PMC2672462.nxml.gz-228" start="10187">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-229" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10336" id="PMC2672462.nxml.gz-229" start="10236">Additional dietary measures are usually based upon the general recommendations for diabetes mellitus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-23" type="identity">
+      <class id="only" label=""/>
+      <span end="921" id="PMC2672462.nxml.gz-23" start="917">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-230" type="identity">
+      <class id="usually" label=""/>
+      <span end="10275" id="PMC2672462.nxml.gz-230" start="10268">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-231" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10286" id="PMC2672462.nxml.gz-231" start="10276">based upon</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-232" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="10314" id="PMC2672462.nxml.gz-232" start="10299">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-233" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10401" id="PMC2672462.nxml.gz-233" start="10338">A reduction in simple carbohydrates and fat intake is advisable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-234" type="identity">
+      <class id="future_work" label=""/>
+      <span end="10401" id="PMC2672462.nxml.gz-234" start="10392">advisable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-235" type="identity">
+      <class id="emphasis" label=""/>
+      <span end="10411" id="PMC2672462.nxml.gz-235" start="10403">Emphasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10569" id="PMC2672462.nxml.gz-236" start="10403">Emphasis is given to spreading the dietary intake over six meals daily, with three main meals and three snacks, in order to avoid large carbohydrate loads at any time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-237" type="identity">
+      <class id="given" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-238" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10709" id="PMC2672462.nxml.gz-238" start="10571">Except for saccharin, which can cross the placenta and is therefore not recommended, other noncaloric sweeteners may be used in moderation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-239" type="identity">
+      <class id="therefore" label=""/>
+      <span end="10638" id="PMC2672462.nxml.gz-239" start="10629">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-24" type="identity">
+      <class id="limited...data" label=""/>
+      <span end="934" id="PMC2672462.nxml.gz-24" start="922">limited data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-240" type="identity">
+      <class id="recommended" label=""/>
+      <span end="10654" id="PMC2672462.nxml.gz-240" start="10643">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-241" type="identity">
+      <class id="other" label=""/>
+      <span end="10661" id="PMC2672462.nxml.gz-241" start="10656">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-242" type="identity">
+      <class id="may_be" label=""/>
+      <span end="10690" id="PMC2672462.nxml.gz-242" start="10684">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-243" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10908" id="PMC2672462.nxml.gz-243" start="10730">In people with type 2 diabetes, there is ample evidence that regular physical activity enhances insulin sensitivity, facilitates weight loss, and thereby improves glucose control</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-244" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10785" id="PMC2672462.nxml.gz-244" start="10771">ample evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-245" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-246" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-247" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11178" id="PMC2672462.nxml.gz-248" start="10910">Several small studies have examined whether regular exercise is also beneficial in the management of GDM Jovanavic-Petersen randomized 19 women with GDM to a regime of diet alone, or diet with 20 minutes of supervised aerobic training three days per week for six weeks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-249" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="10931" id="PMC2672462.nxml.gz-249" start="10918">small studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-25" type="identity">
+      <class id="support" label=""/>
+      <span end="945" id="PMC2672462.nxml.gz-25" start="938">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-251" type="identity">
+      <class id="whether" label=""/>
+      <span end="10953" id="PMC2672462.nxml.gz-251" start="10946">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-252" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11570" id="PMC2672462.nxml.gz-252" start="11469">There was a trend to improved glucose levels in those who exercised, which did not reach significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-253" type="identity">
+      <class id="trend" label=""/>
+      <span end="11486" id="PMC2672462.nxml.gz-253" start="11481">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-254" type="identity">
+      <class id="did_not" label=""/>
+      <span end="11551" id="PMC2672462.nxml.gz-254" start="11544">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-258" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11675" id="PMC2672462.nxml.gz-258" start="11620">Measures of cardiorespiratory fitness however, improved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1100" id="PMC2672462.nxml.gz-26" start="986">There are randomized controlled trials which have demonstrated efficacy of the oral agents glyburide and metformin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-260" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="11665" id="PMC2672462.nxml.gz-260" start="11658">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-261" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11883" id="PMC2672462.nxml.gz-261" start="11677">A study of 32 women randomized to circuit type exercise three times a week or control, found that resistance training resulted in lower postprandial glucose levels, and a delay in the requirement of insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-263" type="identity">
+      <class id="found" label=""/>
+      <span end="11769" id="PMC2672462.nxml.gz-263" start="11764">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-265" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12000" id="PMC2672462.nxml.gz-265" start="11886">Amongst women with a prepregnancy BMI &gt; 25, those who were in the exercise arm were less likely to require insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-266" type="identity">
+      <class id="less" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-267" type="identity">
+      <class id="likely" label=""/>
+      <span end="11981" id="PMC2672462.nxml.gz-267" start="11975">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-268" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-269" type="identity">
+      <class id="therefore" label=""/>
+      <span end="12011" id="PMC2672462.nxml.gz-269" start="12002">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-27" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="1048" id="PMC2672462.nxml.gz-27" start="1036">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-270" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12245" id="PMC2672462.nxml.gz-270" start="12002">Therefore, it seems reasonable to recommend that when there is no medical or obstetric contraindication, women with GDM should maintain a sensible level of light and moderate intensity physical activity until the latter stages of the pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-271" type="identity">
+      <class id="seems" label=""/>
+      <span end="12021" id="PMC2672462.nxml.gz-271" start="12016">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-272" type="identity">
+      <class id="reasonable" label=""/>
+      <span end="12032" id="PMC2672462.nxml.gz-272" start="12022">reasonable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-273" type="identity">
+      <class id="recommend" label=""/>
+      <span end="12045" id="PMC2672462.nxml.gz-273" start="12036">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-276" type="identity">
+      <class id="should" label=""/>
+      <span end="12128" id="PMC2672462.nxml.gz-276" start="12122">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-277" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12501" id="PMC2672462.nxml.gz-277" start="12247">The above studies provide reassurance that moderate intensity activities such as walking for 20–30 minutes each day, and attendance at antenatal exercise classes can be safely encouraged, and that modest improvements in glycemic control might be achieved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-278" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="12284" id="PMC2672462.nxml.gz-278" start="12273">reassurance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-279" type="identity">
+      <class id="can" label=""/>
+      <span end="12412" id="PMC2672462.nxml.gz-279" start="12409">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-28" type="identity">
+      <class id="whilst" label=""/>
+      <span end="1108" id="PMC2672462.nxml.gz-28" start="1102">Whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-280" type="identity">
+      <class id="encouraged" label=""/>
+      <span end="12433" id="PMC2672462.nxml.gz-280" start="12423">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-281" type="identity">
+      <class id="might" label=""/>
+      <span end="12489" id="PMC2672462.nxml.gz-281" start="12484">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-282" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12627" id="PMC2672462.nxml.gz-282" start="12545">When treatment targets are not achieved by dietary means, then insulin is required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-283" type="identity">
+      <class id="when" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-284" type="identity">
+      <class id="required" label=""/>
+      <span end="12627" id="PMC2672462.nxml.gz-284" start="12619">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-285" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13022" id="PMC2672462.nxml.gz-285" start="12922">In some cases, an additional morning injection of basal insulin may further improve glycemic control</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-286" type="identity">
+      <class id="some" label=""/>
+      <span end="12929" id="PMC2672462.nxml.gz-286" start="12925">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-287" type="identity">
+      <class id="may" label=""/>
+      <span end="12989" id="PMC2672462.nxml.gz-287" start="12986">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-288" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-289" type="identity">
+      <class id="as" label=""/>
+      <span end="13026" id="PMC2672462.nxml.gz-289" start="13024">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1321" id="PMC2672462.nxml.gz-29" start="1102">Whilst short-term data have not demonstrated adverse effects of glyburide and metformin on the fetus, and they are increasingly being used in pregnancy, there remain long-term concerns regarding their potential for harm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-290" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13253" id="PMC2672462.nxml.gz-290" start="13024">As the level of insulin resistance varies from person to person, it is common practice to commence the woman on small doses of insulin, and then to increase the doses at frequent intervals until target glucose levels are attained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-291" type="identity">
+      <class id="varies" label=""/>
+      <span end="13065" id="PMC2672462.nxml.gz-291" start="13059">varies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-292" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13110" id="PMC2672462.nxml.gz-292" start="13095">common practice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-293" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13351" id="PMC2672462.nxml.gz-293" start="13255">The required dosage of insulin usually increases gradually over the third trimester of pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-294" type="identity">
+      <class id="required" label=""/>
+      <span end="13267" id="PMC2672462.nxml.gz-294" start="13259">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-295" type="identity">
+      <class id="usually" label=""/>
+      <span end="13293" id="PMC2672462.nxml.gz-295" start="13286">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-296" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-297" type="identity">
+      <class id="problem_complication" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-298" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-299" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13475" id="PMC2672462.nxml.gz-299" start="13418">This may be an early indicator of placental insufficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-3" type="identity">
+      <class id="associated" label=""/>
+      <span end="139" id="PMC2672462.nxml.gz-3" start="129">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-30" type="identity">
+      <class id="demonstrated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-300" type="identity">
+      <class id="may_be" label=""/>
+      <span end="13429" id="PMC2672462.nxml.gz-300" start="13423">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-301" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="13475" id="PMC2672462.nxml.gz-301" start="13462">insufficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-302" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13543" id="PMC2672462.nxml.gz-302" start="13477">Frequent review and titration of the insulin dosage is recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-303" type="identity">
+      <class id="recommended" label=""/>
+      <span end="13543" id="PMC2672462.nxml.gz-303" start="13532">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-304" type="identity">
+      <class id="unlike" label=""/>
+      <span end="13551" id="PMC2672462.nxml.gz-304" start="13545">Unlike</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13689" id="PMC2672462.nxml.gz-305" start="13545">Unlike the situation for women with pre-existing type 1 diabetes however, significant hypoglycemia is uncommon in women with insulin-treated GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-306" type="identity">
+      <class id="however" label=""/>
+      <span end="13617" id="PMC2672462.nxml.gz-306" start="13610">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-307" type="identity">
+      <class id="uncommon" label=""/>
+      <span end="13655" id="PMC2672462.nxml.gz-307" start="13647">uncommon</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-308" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13800" id="PMC2672462.nxml.gz-308" start="13691">Nonetheless the woman should be advised regarding appropriate hypoglycemia prevention and management measures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-309" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="13702" id="PMC2672462.nxml.gz-309" start="13691">Nonetheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-31" type="identity">
+      <class id="effects" label=""/>
+      <span end="1162" id="PMC2672462.nxml.gz-31" start="1155">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-310" type="identity">
+      <class id="should_be" label=""/>
+      <span end="13722" id="PMC2672462.nxml.gz-310" start="13713">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-311" type="identity">
+      <class id="future_work" label=""/>
+      <span end="13730" id="PMC2672462.nxml.gz-311" start="13723">advised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-312" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13949" id="PMC2672462.nxml.gz-312" start="13802">For many years, fast-acting (regular) insulin, and intermediate-acting (isophane) insulin have been the preferred insulins for the treatment of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-313" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="13816" id="PMC2672462.nxml.gz-313" start="13802">For many years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-314" type="identity">
+      <class id="preferred" label=""/>
+      <span end="13915" id="PMC2672462.nxml.gz-314" start="13906">preferred</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-315" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14066" id="PMC2672462.nxml.gz-315" start="13951">Human insulin does not normally cross the placenta, though antibody bound animal insulin has been reported to do so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-316" type="identity">
+      <class id="does" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-317" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="13982" id="PMC2672462.nxml.gz-317" start="13974">normally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-318" type="identity">
+      <class id="though" label=""/>
+      <span end="14009" id="PMC2672462.nxml.gz-318" start="14003">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-319" type="identity">
+      <class id="has...been" label=""/>
+      <span end="14048" id="PMC2672462.nxml.gz-319" start="14040">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-32" type="identity">
+      <class id="remain" label=""/>
+      <span end="1267" id="PMC2672462.nxml.gz-32" start="1261">remain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-320" type="identity">
+      <class id="reported" label=""/>
+      <span end="14057" id="PMC2672462.nxml.gz-320" start="14049">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-321" type="identity">
+      <class id="however" label=""/>
+      <span end="14076" id="PMC2672462.nxml.gz-321" start="14069">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-322" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14224" id="PMC2672462.nxml.gz-322" start="14069">However, it has been shown by36Jovanovic that it is maternal glucose control, rather than maternal anti-insulin antibody levels which influence birthweight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-323" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="14095" id="PMC2672462.nxml.gz-323" start="14081">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-324" type="identity">
+      <class id="has_been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-325" type="identity">
+      <class id="rather" label=""/>
+      <span end="14153" id="PMC2672462.nxml.gz-325" start="14147">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-326" type="identity">
+      <class id="influence" label=""/>
+      <span end="14212" id="PMC2672462.nxml.gz-326" start="14203">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-327" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14376" id="PMC2672462.nxml.gz-327" start="14227">Human insulin is considered safe in pregnancy as years of experience has not suggested an increase in fetal complications as a consequence of its use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-328" type="identity">
+      <class id="is_considered" label=""/>
+      <span end="14254" id="PMC2672462.nxml.gz-328" start="14241">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-329" type="identity">
+      <class id="as" label=""/>
+      <span end="14275" id="PMC2672462.nxml.gz-329" start="14273">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-33" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-330" type="identity">
+      <class id="suggested" label=""/>
+      <span end="14313" id="PMC2672462.nxml.gz-330" start="14304">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-331" type="identity">
+      <class id="complications" label=""/>
+      <span end="14348" id="PMC2672462.nxml.gz-331" start="14335">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-332" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14535" id="PMC2672462.nxml.gz-332" start="14378">There is now increasing evidence that the newer rapid acting insulin analogs lispro and aspart are also safe in pregnancy, and indeed, they are commonly used</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-333" type="identity">
+      <class id="increasing...evidence" label=""/>
+      <span end="14410" id="PMC2672462.nxml.gz-333" start="14391">increasing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-334" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="14486" id="PMC2672462.nxml.gz-334" start="14482">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-335" type="identity">
+      <class id="although" label=""/>
+      <span end="14545" id="PMC2672462.nxml.gz-335" start="14537">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-336" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-337" type="identity">
+      <class id="uncontrolled" label=""/>
+      <span end="14585" id="PMC2672462.nxml.gz-337" start="14573">uncontrolled</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-338" type="identity">
+      <class id="suggested" label=""/>
+      <span end="14608" id="PMC2672462.nxml.gz-338" start="14599">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-339" type="identity">
+      <class id="may" label=""/>
+      <span end="14624" id="PMC2672462.nxml.gz-339" start="14621">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-34" type="identity">
+      <class id="concerns" label=""/>
+      <span end="1286" id="PMC2672462.nxml.gz-34" start="1278">concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-340" type="identity">
+      <class id="effects" label=""/>
+      <span end="14649" id="PMC2672462.nxml.gz-340" start="14642">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-341" type="identity">
+      <class id="has...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-343" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-344" type="identity">
+      <class id="subsequent_studies" label=""/>
+      <span end="14740" id="PMC2672462.nxml.gz-344" start="14722">subsequent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-345" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14898" id="PMC2672462.nxml.gz-345" start="14742">No increase in pregnancy complications have been found in observational studies where lispro was used, in either women with GDM38,43or pre-existing diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-346" type="identity">
+      <class id="complications" label=""/>
+      <span end="14780" id="PMC2672462.nxml.gz-346" start="14767">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-347" type="identity">
+      <class id="have...been" label=""/>
+      <span end="14790" id="PMC2672462.nxml.gz-347" start="14781">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-348" type="identity">
+      <class id="found" label=""/>
+      <span end="14796" id="PMC2672462.nxml.gz-348" start="14791">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-349" type="identity">
+      <class id="either" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-35" type="identity">
+      <class id="potential" label=""/>
+      <span end="1312" id="PMC2672462.nxml.gz-35" start="1303">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-350" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-351" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14966" id="PMC2672462.nxml.gz-351" start="14904">There are few reports regarding the use of aspart in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-352" type="identity">
+      <class id="few" label=""/>
+      <span end="14917" id="PMC2672462.nxml.gz-352" start="14914">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-353" type="identity">
+      <class id="however" label=""/>
+      <span end="14975" id="PMC2672462.nxml.gz-353" start="14968">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-354" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15118" id="PMC2672462.nxml.gz-354" start="14968">However, a large randomized controlled trial comparing aspart with regular human insulin in 322 pregnant women with type 1 diabetes has been performed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-355" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="14984" id="PMC2672462.nxml.gz-355" start="14979">large</span>
+      <span end="15012" id="PMC2672462.nxml.gz-356" start="15007">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-357" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15244" id="PMC2672462.nxml.gz-357" start="15121">Comparable birth outcomes were found between the two arms, suggesting that aspart is as safe and effective as human insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-358" type="identity">
+      <class id="found" label=""/>
+      <span end="15157" id="PMC2672462.nxml.gz-358" start="15152">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-359" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="15190" id="PMC2672462.nxml.gz-359" start="15180">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-36" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1604" id="PMC2672462.nxml.gz-36" start="1453">Large studies have found that GDM occurs in 2.2%–8.8% of pregnancies, depending on the ethnic mix of the population and the criteria used for diagnosis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-360" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15563" id="PMC2672462.nxml.gz-360" start="15390">They have all demonstrated that the rapid acting analogues are as effective as regular insulin in the treatment of GDM, with comparable, if not favorable, outcomes (Table 3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-361" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="15416" id="PMC2672462.nxml.gz-361" start="15404">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-362" type="identity">
+      <class id="if" label=""/>
+      <span end="15529" id="PMC2672462.nxml.gz-362" start="15527">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-363" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15632" id="PMC2672462.nxml.gz-363" start="15565">In one study, aspart was detected in the cord blood for one subject</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-364" type="identity">
+      <class id="one_study" label=""/>
+      <span end="15577" id="PMC2672462.nxml.gz-364" start="15568">one study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-365" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15598" id="PMC2672462.nxml.gz-365" start="15590">detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-366" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15848" id="PMC2672462.nxml.gz-366" start="15632">.45However, as it was not detected in other subjects, the authors postulated that this was due to the disruption of the uterine-placental barrier during delivery, when the mother had been receiving an aspart infusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-367" type="identity">
+      <class id="however" label=""/>
+      <span end="15642" id="PMC2672462.nxml.gz-367" start="15635">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-368" type="identity">
+      <class id="as" label=""/>
+      <span end="15646" id="PMC2672462.nxml.gz-368" start="15644">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-369" type="identity">
+      <class id="was_not" label=""/>
+      <span end="15657" id="PMC2672462.nxml.gz-369" start="15650">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-37" type="identity">
+      <class id="found" label=""/>
+      <span end="1477" id="PMC2672462.nxml.gz-37" start="1472">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-370" type="identity">
+      <class id="other" label=""/>
+      <span end="15675" id="PMC2672462.nxml.gz-370" start="15670">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-371" type="identity">
+      <class id="postulated" label=""/>
+      <span end="15708" id="PMC2672462.nxml.gz-371" start="15698">postulated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-372" type="identity">
+      <class id="due...to" label=""/>
+      <span end="15729" id="PMC2672462.nxml.gz-372" start="15723">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-373" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15920" id="PMC2672462.nxml.gz-373" start="15850">As yet there have been no reports of the use of glulisine in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-374" type="identity">
+      <class id="yet" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-375" type="identity">
+      <class id="have_been" label=""/>
+      <span end="15872" id="PMC2672462.nxml.gz-375" start="15863">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-376" type="identity">
+      <class id="no_reports" label=""/>
+      <span end="15883" id="PMC2672462.nxml.gz-376" start="15873">no reports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-377" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16013" id="PMC2672462.nxml.gz-377" start="15922">Data regarding the long-acting insulin analogs are less clear than for rapid-acting analogs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-378" type="identity">
+      <class id="less_clear" label=""/>
+      <span end="15983" id="PMC2672462.nxml.gz-378" start="15973">less clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-379" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16149" id="PMC2672462.nxml.gz-379" start="16015">There are a number of case reports and small case series of glargine being utilized without the development of pregnancy complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-38" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="1535" id="PMC2672462.nxml.gz-38" start="1523">depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-380" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-382" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="16059" id="PMC2672462.nxml.gz-382" start="16054">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-383" type="identity">
+      <class id="complications" label=""/>
+      <span end="16149" id="PMC2672462.nxml.gz-383" start="16136">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-384" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16215" id="PMC2672462.nxml.gz-384" start="16151">The majority of these have been in patients with type 1 diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-385" type="identity">
+      <class id="have_been" label=""/>
+      <span end="16182" id="PMC2672462.nxml.gz-385" start="16173">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-386" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-387" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-389" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="16286" id="PMC2672462.nxml.gz-389" start="16284">no</span>
+      <span end="16316" id="PMC2672462.nxml.gz-390" start="16309">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1684" id="PMC2672462.nxml.gz-39" start="1606">In some specific populations however, the incidence can be considerably higher</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-391" type="identity">
+      <class id="have...been" label=""/>
+      <span end="16326" id="PMC2672462.nxml.gz-391" start="16317">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-392" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16550" id="PMC2672462.nxml.gz-392" start="16338">Concerns have been expressed about the use of glargine in pregnancy, because of its potential effect on mitogenesis, mediated by its high affinity to the IGF-1 receptor, which is six times that of natural insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-393" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-394" type="identity">
+      <class id="concerns" label=""/>
+      <span end="16346" id="PMC2672462.nxml.gz-394" start="16338">Concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-395" type="identity">
+      <class id="have...been" label=""/>
+      <span end="16356" id="PMC2672462.nxml.gz-395" start="16347">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-396" type="identity">
+      <class id="because" label=""/>
+      <span end="16414" id="PMC2672462.nxml.gz-396" start="16407">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-397" type="identity">
+      <class id="potential" label=""/>
+      <span end="16431" id="PMC2672462.nxml.gz-397" start="16422">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-398" type="identity">
+      <class id="effect" label=""/>
+      <span end="16438" id="PMC2672462.nxml.gz-398" start="16432">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-399" type="identity">
+      <class id="mediated" label=""/>
+      <span end="16463" id="PMC2672462.nxml.gz-399" start="16455">mediated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-4" type="identity">
+      <class id="implications" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-40" type="identity">
+      <class id="some" label=""/>
+      <span end="1613" id="PMC2672462.nxml.gz-40" start="1609">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-400" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16712" id="PMC2672462.nxml.gz-400" start="16555">Whilst insulin detemir has a lower binding affinity to the IGF-1 receptor than natural insulin, there is even less information regarding its use in pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-401" type="identity">
+      <class id="whilst" label=""/>
+      <span end="16561" id="PMC2672462.nxml.gz-401" start="16555">Whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-402" type="identity">
+      <class id="even" label=""/>
+      <span end="16664" id="PMC2672462.nxml.gz-402" start="16660">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-403" type="identity">
+      <class id="less" label=""/>
+      <span end="16669" id="PMC2672462.nxml.gz-403" start="16665">less</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-404" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-405" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17120" id="PMC2672462.nxml.gz-405" start="16877">Although their safety has not been proven, it is often rationalized that a change in the basal insulin will result in deterioration in glycemic control, and therefore the risk of continuing glargine is less than the risk from changing insulins</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-406" type="identity">
+      <class id="although" label=""/>
+      <span end="16885" id="PMC2672462.nxml.gz-406" start="16877">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-407" type="identity">
+      <class id="has...been" label=""/>
+      <span end="16902" id="PMC2672462.nxml.gz-407" start="16899">has</span>
+      <span end="16911" id="PMC2672462.nxml.gz-408" start="16907">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-409" type="identity">
+      <class id="not...proven" label=""/>
+      <span end="16906" id="PMC2672462.nxml.gz-409" start="16903">not</span>
+      <span end="16918" id="PMC2672462.nxml.gz-410" start="16912">proven</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-41" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-411" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="16944" id="PMC2672462.nxml.gz-411" start="16932">rationalized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-412" type="identity">
+      <class id="will" label=""/>
+      <span end="16984" id="PMC2672462.nxml.gz-412" start="16980">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-413" type="identity">
+      <class id="therefore" label=""/>
+      <span end="17043" id="PMC2672462.nxml.gz-413" start="17034">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-414" type="identity">
+      <class id="however" label=""/>
+      <span end="17129" id="PMC2672462.nxml.gz-414" start="17122">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-415" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17283" id="PMC2672462.nxml.gz-415" start="17122">However, until their safety in pregnancy can be clearly established, the initiation of long-acting insulin analog therapy in women with GDM cannot be recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-416" type="identity">
+      <class id="until" label=""/>
+      <span end="17136" id="PMC2672462.nxml.gz-416" start="17131">until</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-417" type="identity">
+      <class id="can" label=""/>
+      <span end="17166" id="PMC2672462.nxml.gz-417" start="17163">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-418" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-419" type="identity">
+      <class id="cannot_be" label=""/>
+      <span end="17271" id="PMC2672462.nxml.gz-419" start="17262">cannot be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-42" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1642" id="PMC2672462.nxml.gz-42" start="1635">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-420" type="identity">
+      <class id="recommended" label=""/>
+      <span end="17283" id="PMC2672462.nxml.gz-420" start="17272">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-421" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17418" id="PMC2672462.nxml.gz-421" start="17335">There is controversy regarding the use of oral hypoglycemic agents during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-422" type="identity">
+      <class id="controversy" label=""/>
+      <span end="17355" id="PMC2672462.nxml.gz-422" start="17344">controversy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-423" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17619" id="PMC2672462.nxml.gz-423" start="17420">Most government drug agencies have not approved their use in pregnancy, and major specialty diabetes organizations recommend that oral agents be ceased if the woman had been taking them pre-pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-424" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="17467" id="PMC2672462.nxml.gz-424" start="17455">not approved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-425" type="identity">
+      <class id="recommend" label=""/>
+      <span end="17544" id="PMC2672462.nxml.gz-425" start="17535">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-426" type="identity">
+      <class id="if" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-427" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17775" id="PMC2672462.nxml.gz-427" start="17624">There have now however, been randomized trials conducted with both glyburide and metformin which have not demonstrated short term harm to the pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-428" type="identity">
+      <class id="however" label=""/>
+      <span end="17646" id="PMC2672462.nxml.gz-428" start="17639">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-429" type="identity">
+      <class id="demonstrated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-43" type="identity">
+      <class id="can" label=""/>
+      <span end="1661" id="PMC2672462.nxml.gz-43" start="1658">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-430" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17933" id="PMC2672462.nxml.gz-430" start="17804">American authors have stated that glyburide has replaced insulin as first line pharmacological treatment of GDM in many practices</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-431" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="17832" id="PMC2672462.nxml.gz-431" start="17826">stated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-432" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="17882" id="PMC2672462.nxml.gz-432" start="17872">first line</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-433" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18089" id="PMC2672462.nxml.gz-433" start="17936">This has largely occurred on the basis of a randomized controlled trial where 404 women with GDM were treated with glyburide (up to 20 mg/day) or insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-434" type="identity">
+      <class id="on_the_basis_of" label=""/>
+      <span end="17977" id="PMC2672462.nxml.gz-434" start="17962">on the basis of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-436" type="identity">
+      <class id="only" label=""/>
+      <span end="18302" id="PMC2672462.nxml.gz-436" start="18298">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-437" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18398" id="PMC2672462.nxml.gz-437" start="18298">Only 4% of women treated with glyburide achieved inadequate control and required a switch to insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-438" type="identity">
+      <class id="inadequate" label=""/>
+      <span end="18357" id="PMC2672462.nxml.gz-438" start="18347">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-439" type="identity">
+      <class id="required" label=""/>
+      <span end="18378" id="PMC2672462.nxml.gz-439" start="18370">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-44" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-444" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18776" id="PMC2672462.nxml.gz-444" start="18637">Additionally, a number of nonrandomized or retrospective studies examining the treatment of GDM with glyburide have been reported (Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-445" type="identity">
+      <class id="have_been_reported" label=""/>
+      <span end="18766" id="PMC2672462.nxml.gz-445" start="18748">have been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-446" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18890" id="PMC2672462.nxml.gz-446" start="18778">In general, these indicate that glyburide is effective in achieving glycemic control in the majority of patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-447" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="18788" id="PMC2672462.nxml.gz-447" start="18778">In general</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-448" type="identity">
+      <class id="indicate" label=""/>
+      <span end="18804" id="PMC2672462.nxml.gz-448" start="18796">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-449" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18969" id="PMC2672462.nxml.gz-449" start="18892">Most, but not all, suggest that glyburide is as safe as insulin for the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-45" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1677" id="PMC2672462.nxml.gz-45" start="1665">considerably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-451" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="18909" id="PMC2672462.nxml.gz-451" start="18898">but not all</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-452" type="identity">
+      <class id="suggest" label=""/>
+      <span end="18918" id="PMC2672462.nxml.gz-452" start="18911">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-453" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="18944" id="PMC2672462.nxml.gz-453" start="18940">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-454" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19169" id="PMC2672462.nxml.gz-454" start="18971">A meta-analysis which included the above studies as well as others examining women with pre-existing diabetes, with 745 glyburide exposed pregnancies and 637 treated with insulin, has been performed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-455" type="identity">
+      <class id="has...been" label=""/>
+      <span end="19159" id="PMC2672462.nxml.gz-455" start="19151">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-456" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19395" id="PMC2672462.nxml.gz-456" start="19172">This study found that glyburide did not increase the risk of macrosomia, large for gestational age, or neonatal hypoglycemia, but did not examine more serious consequences such as perinatal mortality or congenital anomalies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-457" type="identity">
+      <class id="found" label=""/>
+      <span end="19188" id="PMC2672462.nxml.gz-457" start="19183">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-458" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-46" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1834" id="PMC2672462.nxml.gz-46" start="1770">Essentially, women at risk of type 2 diabetes are at risk of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-460" type="identity">
+      <class id="did_not" label=""/>
+      <span end="19309" id="PMC2672462.nxml.gz-460" start="19302">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-461" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="19330" id="PMC2672462.nxml.gz-461" start="19323">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-462" type="identity">
+      <class id="consequences" label=""/>
+      <span end="19343" id="PMC2672462.nxml.gz-462" start="19331">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-463" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-464" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-465" type="identity">
+      <class id="several_studies" label=""/>
+      <span end="19412" id="PMC2672462.nxml.gz-465" start="19397">Several studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-466" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19506" id="PMC2672462.nxml.gz-466" start="19397">Several studies have examined factors which predict failure of glyburide to achieve adequate glycemic control</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-467" type="identity">
+      <class id="examined" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-468" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="19434" id="PMC2672462.nxml.gz-468" start="19427">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-469" type="identity">
+      <class id="predict" label=""/>
+      <span end="19448" id="PMC2672462.nxml.gz-469" start="19441">predict</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-47" type="identity">
+      <class id="at_risk" label=""/>
+      <span end="1796" id="PMC2672462.nxml.gz-47" start="1789">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-470" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19702" id="PMC2672462.nxml.gz-470" start="19508">Higher glucose levels, either in the glucose tolerance test upon which GDM was diagnosed, or on self-monitoring, and early dietary failure have been found to be associated with glyburide failure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-473" type="identity">
+      <class id="have_been" label=""/>
+      <span end="19656" id="PMC2672462.nxml.gz-473" start="19647">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-474" type="identity">
+      <class id="found_to_be" label=""/>
+      <span end="19668" id="PMC2672462.nxml.gz-474" start="19657">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-475" type="identity">
+      <class id="associated" label=""/>
+      <span end="19679" id="PMC2672462.nxml.gz-475" start="19669">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-476" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19823" id="PMC2672462.nxml.gz-476" start="19708">These findings lead to the logical conclusion that subjects with more severe GDM are more likely to require insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-477" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="19722" id="PMC2672462.nxml.gz-477" start="19708">These findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-478" type="identity">
+      <class id="conclusion" label=""/>
+      <span end="19753" id="PMC2672462.nxml.gz-478" start="19743">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-479" type="identity">
+      <class id="severe" label=""/>
+      <span end="19784" id="PMC2672462.nxml.gz-479" start="19778">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-48" type="identity">
+      <class id="at_risk" label=""/>
+      <span end="1827" id="PMC2672462.nxml.gz-48" start="1820">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-480" type="identity">
+      <class id="likely" label=""/>
+      <span end="19804" id="PMC2672462.nxml.gz-480" start="19798">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-481" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="19815" id="PMC2672462.nxml.gz-481" start="19808">require</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-482" type="identity">
+      <class id="require" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-483" type="identity">
+      <class id="further_evidence" label=""/>
+      <span end="19841" id="PMC2672462.nxml.gz-483" start="19825">Further evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-484" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20006" id="PMC2672462.nxml.gz-484" start="19825">Further evidence supporting the safety of glyburide for the fetus comes from a study using an in vitro perfusion, where it was not found to cross the placenta in significant amounts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-485" type="identity">
+      <class id="supporting" label=""/>
+      <span end="19852" id="PMC2672462.nxml.gz-485" start="19842">supporting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-486" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="19863" id="PMC2672462.nxml.gz-486" start="19857">safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-487" type="identity">
+      <class id="was_not" label=""/>
+      <span end="19955" id="PMC2672462.nxml.gz-487" start="19948">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-488" type="identity">
+      <class id="found" label=""/>
+      <span end="19961" id="PMC2672462.nxml.gz-488" start="19956">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-489" type="identity">
+      <class id="however" label=""/>
+      <span end="20016" id="PMC2672462.nxml.gz-489" start="20009">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2117" id="PMC2672462.nxml.gz-49" start="1975">The key factor which results in the development of gestational diabetes appears to be a failure to compensate with increased insulin secretion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-490" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20087" id="PMC2672462.nxml.gz-490" start="20009">However, another in vitro study has found transplacental transfer of glyburide</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-491" type="identity">
+      <class id="found" label=""/>
+      <span end="20050" id="PMC2672462.nxml.gz-491" start="20045">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-492" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20392" id="PMC2672462.nxml.gz-492" start="20268">A number of studies have provided conflicting information regarding the safety of metformin use in type 2 diabetic pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-493" type="identity">
+      <class id="number_of_studies" label=""/>
+      <span end="20287" id="PMC2672462.nxml.gz-493" start="20270">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-494" type="identity">
+      <class id="conflicting" label=""/>
+      <span end="20313" id="PMC2672462.nxml.gz-494" start="20302">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-495" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20551" id="PMC2672462.nxml.gz-495" start="20398">There are studies which have used metformin during pregnancy in women with polycystic ovary syndrome, without any noticeable adverse effects on the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-496" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="20511" id="PMC2672462.nxml.gz-496" start="20500">without any</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-497" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-498" type="identity">
+      <class id="effects" label=""/>
+      <span end="20538" id="PMC2672462.nxml.gz-498" start="20531">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-499" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20676" id="PMC2672462.nxml.gz-499" start="20554">There are few publications of its use in GDM, and these are dominated by the Metformin in Gestational Diabetes (MiG) Study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-5" type="identity">
+      <class id="important" label=""/>
+      <span end="246" id="PMC2672462.nxml.gz-5" start="237">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-50" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1989" id="PMC2672462.nxml.gz-50" start="1979">key factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-500" type="identity">
+      <class id="few" label=""/>
+      <span end="20567" id="PMC2672462.nxml.gz-500" start="20564">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-501" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="21258" id="PMC2672462.nxml.gz-501" start="21245">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-502" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21568" id="PMC2672462.nxml.gz-502" start="21245">Interestingly fetal death and malformations were not a component of the primary outcome; however, 19 events in the metformin group were classified as serious fetal or neonatal adverse events (including 11 congenital anomalies) compared to 23 events in the insulin arm (including 18 congenital anomalies and one fetal death)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-503" type="identity">
+      <class id="however" label=""/>
+      <span end="21341" id="PMC2672462.nxml.gz-503" start="21334">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-505" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="21402" id="PMC2672462.nxml.gz-505" start="21395">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-507" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21750" id="PMC2672462.nxml.gz-507" start="21570">None of these events were adjudged by the data and safety monitoring committee to be treatment related and there were no serious adverse events associated with the use of metformin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-508" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-509" type="identity">
+      <class id="associated" label=""/>
+      <span end="21724" id="PMC2672462.nxml.gz-509" start="21714">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-51" type="identity">
+      <class id="appears_to_be" label=""/>
+      <span end="2060" id="PMC2672462.nxml.gz-51" start="2047">appears to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-510" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21867" id="PMC2672462.nxml.gz-510" start="21752">Additionally, more women using metformin indicated that their treatment was acceptable compared to those on insulin</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-511" type="identity">
+      <class id="indicated" label=""/>
+      <span end="21802" id="PMC2672462.nxml.gz-511" start="21793">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-512" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21972" id="PMC2672462.nxml.gz-512" start="21869">From these results, the authors have suggested that metformin is a safe and effective treatment for GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-513" type="identity">
+      <class id="suggested" label=""/>
+      <span end="21915" id="PMC2672462.nxml.gz-513" start="21906">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-514" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22086" id="PMC2672462.nxml.gz-514" start="21974">Several small studies comparing metformin to insulin for the treatment of GDM have also been performed (Table 5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-515" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="21995" id="PMC2672462.nxml.gz-515" start="21982">small studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-516" type="identity">
+      <class id="have...been" label=""/>
+      <span end="22056" id="PMC2672462.nxml.gz-516" start="22052">have</span>
+      <span end="22066" id="PMC2672462.nxml.gz-517" start="22062">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-518" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22197" id="PMC2672462.nxml.gz-518" start="22088">Two have concluded that metformin is as effective as insulin for glycemic control in GDM, and that it is safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-519" type="identity">
+      <class id="concluded" label=""/>
+      <span end="22106" id="PMC2672462.nxml.gz-519" start="22097">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2236" id="PMC2672462.nxml.gz-52" start="2119">As the increase in insulin resistance is greatest in the third trimester, GDM usually develops going into this period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-520" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="22197" id="PMC2672462.nxml.gz-520" start="22193">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-521" type="identity">
+      <class id="however" label=""/>
+      <span end="22206" id="PMC2672462.nxml.gz-521" start="22199">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-522" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22340" id="PMC2672462.nxml.gz-522" start="22199">However, one study, a randomised controlled trial, was underpowered to realistically address the effectiveness and safety of metformin in GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-523" type="identity">
+      <class id="one_study" label=""/>
+      <span end="22217" id="PMC2672462.nxml.gz-523" start="22208">one study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-524" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-525" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="22266" id="PMC2672462.nxml.gz-525" start="22254">underpowered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-526" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="22320" id="PMC2672462.nxml.gz-526" start="22314">safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-527" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22521" id="PMC2672462.nxml.gz-527" start="22343">In another study, a retrospective case control study, subjects treated with insulin had a greater degree of initial glucose intolerance, so the comparison was of limited validity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-528" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22359" id="PMC2672462.nxml.gz-528" start="22346">another study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-529" type="identity">
+      <class id="limited" label=""/>
+      <span end="22512" id="PMC2672462.nxml.gz-529" start="22505">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-53" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-530" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="22521" id="PMC2672462.nxml.gz-530" start="22513">validity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-531" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22839" id="PMC2672462.nxml.gz-531" start="22660">It found an increase in stillbirth and perinatal mortality, as well as pre-eclampsia amongst those treated with metformin, compared to women treated with insulin or sulphonylureas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-532" type="identity">
+      <class id="found" label=""/>
+      <span end="22668" id="PMC2672462.nxml.gz-532" start="22663">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-533" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-534" type="identity">
+      <class id="however" label=""/>
+      <span end="22848" id="PMC2672462.nxml.gz-534" start="22841">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-535" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23022" id="PMC2672462.nxml.gz-535" start="22841">However, as there was no evaluation of glycemic control early in pregnancy, and more women on metformin had pre-existing type 2 diabetes, the groups do not appear to be well matched</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-536" type="identity">
+      <class id="as" label=""/>
+      <span end="22852" id="PMC2672462.nxml.gz-536" start="22850">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-537" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="22865" id="PMC2672462.nxml.gz-537" start="22853">there was no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-538" type="identity">
+      <class id="appear_to_be" label=""/>
+      <span end="23009" id="PMC2672462.nxml.gz-538" start="22997">appear to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-539" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23195" id="PMC2672462.nxml.gz-539" start="23024">It is quite possible that the adverse findings in this study are due to more women in the metformin group having a greater severity of hyperglycemia early in the pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-54" type="identity">
+      <class id="usually" label=""/>
+      <span end="2204" id="PMC2672462.nxml.gz-54" start="2197">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-540" type="identity">
+      <class id="possible" label=""/>
+      <span end="23044" id="PMC2672462.nxml.gz-540" start="23036">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-541" type="identity">
+      <class id="due_to" label=""/>
+      <span end="23095" id="PMC2672462.nxml.gz-541" start="23089">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-542" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-543" type="identity">
+      <class id="concerns" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-544" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23525" id="PMC2672462.nxml.gz-544" start="23267">Although the above randomized trials have demonstrated non-inferiority of glyburide and metformin in achieving glycemic control, and satisfactory birth outcomes compared to insulin therapy, concerns must remain as long-term issues have not yet been addressed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-545" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-546" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="23275" id="PMC2672462.nxml.gz-546" start="23267">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-547" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="23321" id="PMC2672462.nxml.gz-547" start="23309">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-548" type="identity">
+      <class id="concerns" label=""/>
+      <span end="23465" id="PMC2672462.nxml.gz-548" start="23457">concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-549" type="identity">
+      <class id="must" label=""/>
+      <span end="23470" id="PMC2672462.nxml.gz-549" start="23466">must</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-55" type="identity">
+      <class id="therefore" label=""/>
+      <span end="2247" id="PMC2672462.nxml.gz-55" start="2238">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-550" type="identity">
+      <class id="remain" label=""/>
+      <span end="23477" id="PMC2672462.nxml.gz-550" start="23471">remain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-551" type="identity">
+      <class id="as" label=""/>
+      <span end="23480" id="PMC2672462.nxml.gz-551" start="23478">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-552" type="identity">
+      <class id="issues" label=""/>
+      <span end="23497" id="PMC2672462.nxml.gz-552" start="23491">issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-553" type="identity">
+      <class id="have...been" label=""/>
+      <span end="23502" id="PMC2672462.nxml.gz-553" start="23498">have</span>
+      <span end="23515" id="PMC2672462.nxml.gz-554" start="23511">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-555" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="23510" id="PMC2672462.nxml.gz-555" start="23503">not yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-556" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23723" id="PMC2672462.nxml.gz-556" start="23527">Repeated episodes of GDM are associated with the earlier development of diabetes, and this has been postulated to be due to the increased stress that the β-cells are exposed to with each pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-557" type="identity">
+      <class id="associated" label=""/>
+      <span end="23566" id="PMC2672462.nxml.gz-557" start="23556">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-558" type="identity">
+      <class id="postulated" label=""/>
+      <span end="23637" id="PMC2672462.nxml.gz-558" start="23627">postulated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-559" type="identity">
+      <class id="due_to" label=""/>
+      <span end="23650" id="PMC2672462.nxml.gz-559" start="23644">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2319" id="PMC2672462.nxml.gz-56" start="2238">Therefore, screening for GDM usually occurs around 24–28 weeks into the pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-560" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23929" id="PMC2672462.nxml.gz-560" start="23726">By treating the mother with glyburide, it is possible that this accentuates β-cell stress and accelerates their decline, whereas insulin therapy would conversely provide a degree of relief to the β-cells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-561" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="23779" id="PMC2672462.nxml.gz-561" start="23765">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-562" type="identity">
+      <class id="whereas" label=""/>
+      <span end="23854" id="PMC2672462.nxml.gz-562" start="23847">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-563" type="identity">
+      <class id="would" label=""/>
+      <span end="23876" id="PMC2672462.nxml.gz-563" start="23871">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-564" type="identity">
+      <class id="conversely" label=""/>
+      <span end="23887" id="PMC2672462.nxml.gz-564" start="23877">conversely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-565" type="identity">
+      <class id="therefore" label=""/>
+      <span end="23940" id="PMC2672462.nxml.gz-565" start="23931">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-566" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24099" id="PMC2672462.nxml.gz-566" start="23931">Therefore glyburide has the potential to result in earlier development of maternal diabetes, and long-term follow-up of the mothers are needed to alleviate this concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-567" type="identity">
+      <class id="potential" label=""/>
+      <span end="23968" id="PMC2672462.nxml.gz-567" start="23959">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-568" type="identity">
+      <class id="are_needed" label=""/>
+      <span end="24073" id="PMC2672462.nxml.gz-568" start="24063">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-569" type="identity">
+      <class id="concern" label=""/>
+      <span end="24099" id="PMC2672462.nxml.gz-569" start="24092">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-57" type="identity">
+      <class id="usually" label=""/>
+      <span end="2274" id="PMC2672462.nxml.gz-57" start="2267">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-570" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24268" id="PMC2672462.nxml.gz-570" start="24101">In contradistinction, metformin reduces insulin resistance and hepatic gluconeogenesis, which theoretically would be beneficial for the preservation of β-cell function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-571" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="24121" id="PMC2672462.nxml.gz-571" start="24101">In contradistinction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-572" type="identity">
+      <class id="theoretically" label=""/>
+      <span end="24208" id="PMC2672462.nxml.gz-572" start="24195">theoretically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-573" type="identity">
+      <class id="would_be" label=""/>
+      <span end="24217" id="PMC2672462.nxml.gz-573" start="24209">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-574" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24391" id="PMC2672462.nxml.gz-574" start="24270">In subjects with type 2 diabetes, the ADOPT Study has demonstrated that metformin is superior to glyburide in this regard</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-575" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="24336" id="PMC2672462.nxml.gz-575" start="24324">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-576" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="24363" id="PMC2672462.nxml.gz-576" start="24355">superior</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-577" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24626" id="PMC2672462.nxml.gz-577" start="24394">As there is transplacental passage of metformin,77,78its effect on fetal insulin resistance might even provide further benefit in light of data of insulin resistance and insulin secretory defects in offspring of diabetic pregnancies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-578" type="identity">
+      <class id="as" label=""/>
+      <span end="24396" id="PMC2672462.nxml.gz-578" start="24394">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-579" type="identity">
+      <class id="effect" label=""/>
+      <span end="24457" id="PMC2672462.nxml.gz-579" start="24451">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-58" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2431" id="PMC2672462.nxml.gz-58" start="2321">The diagnosis is made with an oral glucose tolerance test, though the criteria vary around the world (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-580" type="identity">
+      <class id="might" label=""/>
+      <span end="24491" id="PMC2672462.nxml.gz-580" start="24486">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-581" type="identity">
+      <class id="even" label=""/>
+      <span end="24496" id="PMC2672462.nxml.gz-581" start="24492">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-582" type="identity">
+      <class id="in_light_of" label=""/>
+      <span end="24532" id="PMC2672462.nxml.gz-582" start="24521">in light of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-583" type="identity">
+      <class id="however" label=""/>
+      <span end="24636" id="PMC2672462.nxml.gz-583" start="24629">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-584" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24790" id="PMC2672462.nxml.gz-584" start="24629">However, any pharmacological agent which crosses the placenta must be viewed with caution as there always remains the possibility of unexpected long-term effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-585" type="identity">
+      <class id="must...be" label=""/>
+      <span end="24698" id="PMC2672462.nxml.gz-585" start="24691">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-586" type="identity">
+      <class id="caution" label=""/>
+      <span end="24718" id="PMC2672462.nxml.gz-586" start="24711">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-587" type="identity">
+      <class id="as" label=""/>
+      <span end="24721" id="PMC2672462.nxml.gz-587" start="24719">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-588" type="identity">
+      <class id="remains" label=""/>
+      <span end="24742" id="PMC2672462.nxml.gz-588" start="24735">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-589" type="identity">
+      <class id="possibility" label=""/>
+      <span end="24758" id="PMC2672462.nxml.gz-589" start="24747">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-59" type="identity">
+      <class id="though" label=""/>
+      <span end="2386" id="PMC2672462.nxml.gz-59" start="2380">though</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-590" type="identity">
+      <class id="unexpected" label=""/>
+      <span end="24772" id="PMC2672462.nxml.gz-590" start="24762">unexpected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-591" type="identity">
+      <class id="effects" label=""/>
+      <span end="24790" id="PMC2672462.nxml.gz-591" start="24783">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-592" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24962" id="PMC2672462.nxml.gz-592" start="24792">Metformin alters gene expression in mice livers and has been demonstrated to have an antiproliferative effect through reductions in cyclin D1 and activation of AMP kinase</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-593" type="identity">
+      <class id="has_been_demonstrated" label=""/>
+      <span end="24865" id="PMC2672462.nxml.gz-593" start="24844">has been demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-594" type="identity">
+      <class id="effect" label=""/>
+      <span end="24901" id="PMC2672462.nxml.gz-594" start="24895">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-595" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25038" id="PMC2672462.nxml.gz-595" start="24965">The programming and developmental effects of these on a fetus are unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-596" type="identity">
+      <class id="effects" label=""/>
+      <span end="25006" id="PMC2672462.nxml.gz-596" start="24999">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-597" type="identity">
+      <class id="unknown" label=""/>
+      <span end="25038" id="PMC2672462.nxml.gz-597" start="25031">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-598" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25173" id="PMC2672462.nxml.gz-598" start="25040">Furthermore, metformin can promote the development of lactic acidosis, which surely must be a concern in situations of fetal distress</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-599" type="identity">
+      <class id="can" label=""/>
+      <span end="25066" id="PMC2672462.nxml.gz-599" start="25063">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-6" type="identity">
+      <class id="this_review" label=""/>
+      <span end="307" id="PMC2672462.nxml.gz-6" start="296">This review</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-60" type="identity">
+      <class id="vary" label=""/>
+      <span end="2404" id="PMC2672462.nxml.gz-60" start="2400">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-600" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="25123" id="PMC2672462.nxml.gz-600" start="25117">surely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-601" type="identity">
+      <class id="must...be" label=""/>
+      <span end="25131" id="PMC2672462.nxml.gz-601" start="25124">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-602" type="identity">
+      <class id="concern" label=""/>
+      <span end="25141" id="PMC2672462.nxml.gz-602" start="25134">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-603" type="identity">
+      <class id="whilst" label=""/>
+      <span end="25181" id="PMC2672462.nxml.gz-603" start="25175">Whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-604" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25476" id="PMC2672462.nxml.gz-604" start="25175">Whilst 18-month follow-up data on 126 offspring of women with polycystic ovary syndrome treated with metformin during pregnancy have not revealed any deficiencies in growth or motor-social development, this may be too short a time frame for potential programming effects of metformin to become evident</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-607" type="identity">
+      <class id="may_be" label=""/>
+      <span end="25388" id="PMC2672462.nxml.gz-607" start="25382">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-608" type="identity">
+      <class id="potential" label=""/>
+      <span end="25425" id="PMC2672462.nxml.gz-608" start="25416">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-609" type="identity">
+      <class id="effects" label=""/>
+      <span end="25445" id="PMC2672462.nxml.gz-609" start="25438">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-61" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2646" id="PMC2672462.nxml.gz-61" start="2433">Risk factors for the development of GDM include obesity, older age, family history, previous history of GDM or poor obstetric outcomes, ethnicity, polycystic ovary syndrome and as more recently noted, hypertension</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-610" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="25476" id="PMC2672462.nxml.gz-610" start="25469">evident</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-611" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25676" id="PMC2672462.nxml.gz-611" start="25480">In view of the above concerns regarding the potential of glyburide and metformin to have long-term effects on the mother and child, I would recommend caution with their use in the treatment of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-612" type="identity">
+      <class id="view" label=""/>
+      <span end="25487" id="PMC2672462.nxml.gz-612" start="25483">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-613" type="identity">
+      <class id="concerns" label=""/>
+      <span end="25509" id="PMC2672462.nxml.gz-613" start="25501">concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-614" type="identity">
+      <class id="potential" label=""/>
+      <span end="25533" id="PMC2672462.nxml.gz-614" start="25524">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-615" type="identity">
+      <class id="effects" label=""/>
+      <span end="25586" id="PMC2672462.nxml.gz-615" start="25579">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-616" type="identity">
+      <class id="would" label=""/>
+      <span end="25619" id="PMC2672462.nxml.gz-616" start="25614">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-617" type="identity">
+      <class id="recommend" label=""/>
+      <span end="25629" id="PMC2672462.nxml.gz-617" start="25620">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-618" type="identity">
+      <class id="caution" label=""/>
+      <span end="25637" id="PMC2672462.nxml.gz-618" start="25630">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-619" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25895" id="PMC2672462.nxml.gz-619" start="25753">It may be circumspect to await the findings from this follow-up study before metformin can be considered safe for the routine treatment of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-62" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2445" id="PMC2672462.nxml.gz-62" start="2433">Risk factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-620" type="identity">
+      <class id="may_be" label=""/>
+      <span end="25762" id="PMC2672462.nxml.gz-620" start="25756">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-621" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="25774" id="PMC2672462.nxml.gz-621" start="25763">circumspect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-624" type="identity">
+      <class id="can" label=""/>
+      <span end="25843" id="PMC2672462.nxml.gz-624" start="25840">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-625" type="identity">
+      <class id="considered" label=""/>
+      <span end="25857" id="PMC2672462.nxml.gz-625" start="25847">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-626" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26054" id="PMC2672462.nxml.gz-626" start="25954">There is one study which randomized women with GDM to treatment with insulin, glyburide, or acarbose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-627" type="identity">
+      <class id="one_study" label=""/>
+      <span end="25972" id="PMC2672462.nxml.gz-627" start="25963">one study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-628" type="identity">
+      <class id="whilst" label=""/>
+      <span end="26424" id="PMC2672462.nxml.gz-628" start="26418">Whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-629" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26579" id="PMC2672462.nxml.gz-629" start="26418">Whilst this study is inadequately powered to demonstrate safety of acarbose, it is not absorbed from the gut, and therefore would be unlikely to affect the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-63" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-630" type="identity">
+      <class id="inadequately" label=""/>
+      <span end="26451" id="PMC2672462.nxml.gz-630" start="26439">inadequately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-632" type="identity">
+      <class id="therefore" label=""/>
+      <span end="26541" id="PMC2672462.nxml.gz-632" start="26532">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-633" type="identity">
+      <class id="would_be" label=""/>
+      <span end="26550" id="PMC2672462.nxml.gz-633" start="26542">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-634" type="identity">
+      <class id="unlikely" label=""/>
+      <span end="26559" id="PMC2672462.nxml.gz-634" start="26551">unlikely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-635" type="identity">
+      <class id="affect" label=""/>
+      <span end="26569" id="PMC2672462.nxml.gz-635" start="26563">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-636" type="identity">
+      <class id="however" label=""/>
+      <span end="26588" id="PMC2672462.nxml.gz-636" start="26581">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-637" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26662" id="PMC2672462.nxml.gz-637" start="26581">However it is of low potency and insulin therapy will often need to be introduced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-638" type="identity">
+      <class id="will" label=""/>
+      <span end="26634" id="PMC2672462.nxml.gz-638" start="26630">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-64" type="identity">
+      <class id="poor" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-640" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26873" id="PMC2672462.nxml.gz-640" start="26664">Furthermore, the high frequency of gastrointestinal side effects experienced by people with type 2 diabetes suggests that any future role of acarbose, even if subsequent studies confirm safety, will be limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-641" type="identity">
+      <class id="effects" label=""/>
+      <span end="26728" id="PMC2672462.nxml.gz-641" start="26721">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-642" type="identity">
+      <class id="suggests" label=""/>
+      <span end="26780" id="PMC2672462.nxml.gz-642" start="26772">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-643" type="identity">
+      <class id="future" label=""/>
+      <span end="26796" id="PMC2672462.nxml.gz-643" start="26790">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-644" type="identity">
+      <class id="role" label=""/>
+      <span end="26801" id="PMC2672462.nxml.gz-644" start="26797">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-645" type="identity">
+      <class id="even" label=""/>
+      <span end="26819" id="PMC2672462.nxml.gz-645" start="26815">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-646" type="identity">
+      <class id="if" label=""/>
+      <span end="26822" id="PMC2672462.nxml.gz-646" start="26820">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-647" type="identity">
+      <class id="subsequent_studies" label=""/>
+      <span end="26841" id="PMC2672462.nxml.gz-647" start="26823">subsequent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-648" type="identity">
+      <class id="confirm" label=""/>
+      <span end="26849" id="PMC2672462.nxml.gz-648" start="26842">confirm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-649" type="identity">
+      <class id="will" label=""/>
+      <span end="26862" id="PMC2672462.nxml.gz-649" start="26858">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-65" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-650" type="identity">
+      <class id="limited" label=""/>
+      <span end="26873" id="PMC2672462.nxml.gz-650" start="26866">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-651" type="identity">
+      <class id="there_are_no" label=""/>
+      <span end="26887" id="PMC2672462.nxml.gz-651" start="26875">There are no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-653" type="identity">
+      <class id="no_studies" label=""/>
+      <span end="26895" id="PMC2672462.nxml.gz-653" start="26885">no studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-654" type="identity">
+      <class id="until" label=""/>
+      <span end="26972" id="PMC2672462.nxml.gz-654" start="26967">until</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-655" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="27001" id="PMC2672462.nxml.gz-655" start="26995">safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-656" type="identity">
+      <class id="should_be" label=""/>
+      <span end="27031" id="PMC2672462.nxml.gz-656" start="27022">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-659" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27273" id="PMC2672462.nxml.gz-659" start="27131">The strongest evidence that treatment of GDM is of benefit comes from the Australian Carbohydrate Intolerance Study (ACHOIS) in Pregnant Women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-66" type="identity">
+      <class id="recently" label=""/>
+      <span end="2626" id="PMC2672462.nxml.gz-66" start="2618">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-660" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="27153" id="PMC2672462.nxml.gz-660" start="27135">strongest evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-661" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28568" id="PMC2672462.nxml.gz-661" start="28435">One other important finding of this study was that intensively treated women had better quality of life and lower rates of depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-663" type="identity">
+      <class id="important" label=""/>
+      <span end="28454" id="PMC2672462.nxml.gz-663" start="28445">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-664" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28684" id="PMC2672462.nxml.gz-664" start="28570">Prior to ACHOIS, a large number of other studies had been performed to ascertain if treatment of GDM is of benefit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-665" type="identity">
+      <class id="other" label=""/>
+      <span end="28610" id="PMC2672462.nxml.gz-665" start="28605">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-666" type="identity">
+      <class id="if" label=""/>
+      <span end="28653" id="PMC2672462.nxml.gz-666" start="28651">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-667" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28845" id="PMC2672462.nxml.gz-667" start="28686">These studies were largely retrospective, unrandomized, or lacked power to detect differences in serious adverse perinatal outcomes and will not be listed here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-668" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="28757" id="PMC2672462.nxml.gz-668" start="28745">lacked power</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-67" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-670" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="28779" id="PMC2672462.nxml.gz-670" start="28768">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-671" type="identity">
+      <class id="however" label=""/>
+      <span end="28854" id="PMC2672462.nxml.gz-671" start="28847">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-672" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28934" id="PMC2672462.nxml.gz-672" start="28847">However, one large retrospective cohort study of 116,303 pregnancies, merits discussion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-673" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="28923" id="PMC2672462.nxml.gz-673" start="28917">merits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-679" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29800" id="PMC2672462.nxml.gz-679" start="29625">It therefore seems likely that the decreased mortality rate was at least in part a consequence of treatment of GDM, rather than only to other improvements in obstetric outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-68" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="2632" id="PMC2672462.nxml.gz-68" start="2627">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-680" type="identity">
+      <class id="therefore" label=""/>
+      <span end="29637" id="PMC2672462.nxml.gz-680" start="29628">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-681" type="identity">
+      <class id="seems" label=""/>
+      <span end="29643" id="PMC2672462.nxml.gz-681" start="29638">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-682" type="identity">
+      <class id="likely" label=""/>
+      <span end="29650" id="PMC2672462.nxml.gz-682" start="29644">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-683" type="identity">
+      <class id="at_least" label=""/>
+      <span end="29697" id="PMC2672462.nxml.gz-683" start="29689">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-684" type="identity">
+      <class id="in_part" label=""/>
+      <span end="29705" id="PMC2672462.nxml.gz-684" start="29698">in part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-685" type="identity">
+      <class id="rather" label=""/>
+      <span end="29747" id="PMC2672462.nxml.gz-685" start="29741">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-686" type="identity">
+      <class id="only" label=""/>
+      <span end="29757" id="PMC2672462.nxml.gz-686" start="29753">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-687" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-688" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29947" id="PMC2672462.nxml.gz-688" start="29850">The medical management of gestational diabetes should not conclude with the delivery of the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-689" type="identity">
+      <class id="should" label=""/>
+      <span end="29903" id="PMC2672462.nxml.gz-689" start="29897">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-69" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2737" id="PMC2672462.nxml.gz-69" start="2651">The major significance of GDM is that it is associated with adverse pregnancy outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-690" type="identity">
+      <class id="although" label=""/>
+      <span end="29957" id="PMC2672462.nxml.gz-690" start="29949">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-691" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30103" id="PMC2672462.nxml.gz-691" start="29949">Although hyperglycemia usually resolves with the conclusion of the pregnancy, women who have had GDM are at high risk of developing diabetes later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-692" type="identity">
+      <class id="usually" label=""/>
+      <span end="29979" id="PMC2672462.nxml.gz-692" start="29972">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-693" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30404" id="PMC2672462.nxml.gz-693" start="30244">A higher prevalence of cardiovascular disease that occurs at a younger age, independent of the metabolic syndrome and type 2 diabetes has also been demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-694" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="30331" id="PMC2672462.nxml.gz-694" start="30320">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-695" type="identity">
+      <class id="has...been" label=""/>
+      <span end="30381" id="PMC2672462.nxml.gz-695" start="30378">has</span>
+      <span end="30391" id="PMC2672462.nxml.gz-696" start="30387">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-697" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="30404" id="PMC2672462.nxml.gz-697" start="30392">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-698" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30548" id="PMC2672462.nxml.gz-698" start="30408">In view of the above, it is important that the woman who has had GDM receive counseling and support to reduce her long-term risk of diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-699" type="identity">
+      <class id="view" label=""/>
+      <span end="30415" id="PMC2672462.nxml.gz-699" start="30411">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="475" id="PMC2672462.nxml.gz-7" start="296">This review will examine the pharmacological options for the management of gestational diabetes, as well as the evidence for blood glucose monitoring, dietary and exercise therapy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-70" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2673" id="PMC2672462.nxml.gz-70" start="2661">significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-700" type="identity">
+      <class id="important" label=""/>
+      <span end="30445" id="PMC2672462.nxml.gz-700" start="30436">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-701" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30644" id="PMC2672462.nxml.gz-701" start="30550">Screening for diabetes, at regular intervals, is recommended by a number of diabetes societies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-702" type="identity">
+      <class id="recommended" label=""/>
+      <span end="30610" id="PMC2672462.nxml.gz-702" start="30599">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-703" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30749" id="PMC2672462.nxml.gz-703" start="30649">This is important for the early diagnosis of diabetes, to facilitate the prevention of complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-704" type="identity">
+      <class id="important" label=""/>
+      <span end="30666" id="PMC2672462.nxml.gz-704" start="30657">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-705" type="identity">
+      <class id="complications" label=""/>
+      <span end="30749" id="PMC2672462.nxml.gz-705" start="30736">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-706" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30933" id="PMC2672462.nxml.gz-706" start="30751">Furthermore, if the woman is of reproductive age, the pre-pregnancy recognition of diabetes is vital so that early pregnancy conditions can be optimized to prevent diabetes fetopathy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-707" type="identity">
+      <class id="if" label=""/>
+      <span end="30766" id="PMC2672462.nxml.gz-707" start="30764">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-708" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-709" type="identity">
+      <class id="vital" label=""/>
+      <span end="30851" id="PMC2672462.nxml.gz-709" start="30846">vital</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-71" type="identity">
+      <class id="associated" label=""/>
+      <span end="2705" id="PMC2672462.nxml.gz-71" start="2695">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-710" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-711" type="identity">
+      <class id="issues" label=""/>
+      <span end="30941" id="PMC2672462.nxml.gz-711" start="30935">Issues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-712" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31055" id="PMC2672462.nxml.gz-712" start="30935">Issues specific to pre-existing diabetes in pregnancy include tight glycemic control and adequate folate supplementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-713" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31234" id="PMC2672462.nxml.gz-713" start="31061">Additionally, post partum evaluation and management of reversible cardiovascular risk factors such as smoking, obesity, hypertension, and hyperlipidemia should be undertaken</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-714" type="identity">
+      <class id="should_be" label=""/>
+      <span end="31223" id="PMC2672462.nxml.gz-714" start="31214">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-715" type="identity">
+      <class id="there_is_evidence" label=""/>
+      <span end="31253" id="PMC2672462.nxml.gz-715" start="31236">There is evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-716" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31436" id="PMC2672462.nxml.gz-716" start="31236">There is evidence that lifestyle modification, aiming for a 5%–7% reduction in body weight, is effective in preventing or delaying the development of diabetes in people with impaired glucose tolerance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-717" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31656" id="PMC2672462.nxml.gz-717" start="31438">Both the Diabetes Prevention Program86and the Finnish Diabetes Prevention Study87demonstrated this, with an intensive intervention including lifestyle coaches, strict supervised exercise regimes and caloric restriction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-718" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="31531" id="PMC2672462.nxml.gz-718" start="31519">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-719" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31823" id="PMC2672462.nxml.gz-719" start="31658">As 15% of the women in the Diabetes Prevention Program and Diabetes Prevention Study had GDM, similar measures should be recommended to women after they have had GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2924" id="PMC2672462.nxml.gz-72" start="2739">Macrosomia, shoulder dystocia with its attendant risks of brachial plexus injury and clavicle fracture, and neonatal hypoglycemia are the serious complications which most commonly occur</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-720" type="identity">
+      <class id="as" label=""/>
+      <span end="31660" id="PMC2672462.nxml.gz-720" start="31658">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-721" type="identity">
+      <class id="should_be" label=""/>
+      <span end="31778" id="PMC2672462.nxml.gz-721" start="31769">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-722" type="identity">
+      <class id="recommended" label=""/>
+      <span end="31790" id="PMC2672462.nxml.gz-722" start="31779">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-723" type="identity">
+      <class id="however" label=""/>
+      <span end="31832" id="PMC2672462.nxml.gz-723" start="31825">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-724" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31915" id="PMC2672462.nxml.gz-724" start="31825">However, it is unclear if less intensive interventions can be effective in this population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-725" type="identity">
+      <class id="unclear" label=""/>
+      <span end="31847" id="PMC2672462.nxml.gz-725" start="31840">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-726" type="identity">
+      <class id="if" label=""/>
+      <span end="31850" id="PMC2672462.nxml.gz-726" start="31848">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-727" type="identity">
+      <class id="can" label=""/>
+      <span end="31883" id="PMC2672462.nxml.gz-727" start="31880">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-728" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32118" id="PMC2672462.nxml.gz-728" start="31917">To date, small short-term studies focusing on dietary counseling alone, or a combination of behavioral strategies with weekly exercise classes, have not demonstrated an improvement in glucose tolerance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-729" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="31931" id="PMC2672462.nxml.gz-729" start="31926">small</span>
+      <span end="31950" id="PMC2672462.nxml.gz-730" start="31943">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-73" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2884" id="PMC2672462.nxml.gz-73" start="2877">serious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-731" type="identity">
+      <class id="or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-732" type="identity">
+      <class id="strategies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-733" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="32082" id="PMC2672462.nxml.gz-733" start="32070">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-734" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32354" id="PMC2672462.nxml.gz-734" start="32124">In part, this is probably due to the real life challenges of maintaining motivation for healthy lifestyle change amongst young women at a time that they are having to deal with young children, return to work, and further education</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-735" type="identity">
+      <class id="in_part" label=""/>
+      <span end="32131" id="PMC2672462.nxml.gz-735" start="32124">In part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-736" type="identity">
+      <class id="probably" label=""/>
+      <span end="32149" id="PMC2672462.nxml.gz-736" start="32141">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-737" type="identity">
+      <class id="due...to" label=""/>
+      <span end="32156" id="PMC2672462.nxml.gz-737" start="32150">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-738" type="identity">
+      <class id="challenges" label=""/>
+      <span end="32181" id="PMC2672462.nxml.gz-738" start="32171">challenges</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-739" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32487" id="PMC2672462.nxml.gz-739" start="32356">Nonetheless, there are undisputed benefits to healthy eating and regular physical activity so these activities should be encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-74" type="identity">
+      <class id="complications" label=""/>
+      <span end="2898" id="PMC2672462.nxml.gz-74" start="2885">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-740" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="32367" id="PMC2672462.nxml.gz-740" start="32356">Nonetheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-741" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="32389" id="PMC2672462.nxml.gz-741" start="32379">undisputed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-742" type="identity">
+      <class id="should_be" label=""/>
+      <span end="32476" id="PMC2672462.nxml.gz-742" start="32467">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-743" type="identity">
+      <class id="encouraged" label=""/>
+      <span end="32487" id="PMC2672462.nxml.gz-743" start="32477">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-744" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32635" id="PMC2672462.nxml.gz-744" start="32514">Gestational diabetes is a common disorder which in the majority of cases, should initially be managed by dietary measures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-745" type="identity">
+      <class id="should" label=""/>
+      <span end="32594" id="PMC2672462.nxml.gz-745" start="32588">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-746" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32890" id="PMC2672462.nxml.gz-746" start="32843">Moderate physical activity should be encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-747" type="identity">
+      <class id="should_be" label=""/>
+      <span end="32879" id="PMC2672462.nxml.gz-747" start="32870">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-748" type="identity">
+      <class id="encouraged" label=""/>
+      <span end="32890" id="PMC2672462.nxml.gz-748" start="32880">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-749" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32985" id="PMC2672462.nxml.gz-749" start="32892">Fasting and post-prandial glucose testing is necessary for monitoring and guidance of therapy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-75" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2918" id="PMC2672462.nxml.gz-75" start="2905">most commonly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-750" type="identity">
+      <class id="necessary" label=""/>
+      <span end="32946" id="PMC2672462.nxml.gz-750" start="32937">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-751" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33082" id="PMC2672462.nxml.gz-751" start="32987">Where dietary measures are inadequate to achieve glycemic targets, insulin should be introduced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-752" type="identity">
+      <class id="inadequate" label=""/>
+      <span end="33024" id="PMC2672462.nxml.gz-752" start="33014">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-753" type="identity">
+      <class id="should_be" label=""/>
+      <span end="33071" id="PMC2672462.nxml.gz-753" start="33062">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-754" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33208" id="PMC2672462.nxml.gz-754" start="33084">Insulin is still the mainstay of pharmacological treatment of GDM, and this is ideally administered in a basal bolus regimen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-755" type="identity">
+      <class id="still" label=""/>
+      <span end="33100" id="PMC2672462.nxml.gz-755" start="33095">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-756" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="33113" id="PMC2672462.nxml.gz-756" start="33105">mainstay</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-757" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="33170" id="PMC2672462.nxml.gz-757" start="33163">ideally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-758" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33340" id="PMC2672462.nxml.gz-758" start="33210">The rapid acting analogs lispro and aspart are considered safe, but the safety of the long-acting analogs are yet to be determined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-759" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33267" id="PMC2672462.nxml.gz-759" start="33257">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3015" id="PMC2672462.nxml.gz-76" start="2929">Jaundice, polycythemia, respiratory distress, and hypocalcemia have also been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-761" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="33272" id="PMC2672462.nxml.gz-761" start="33268">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-763" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="33340" id="PMC2672462.nxml.gz-763" start="33320">yet to be determined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-764" type="identity">
+      <class id="whilst" label=""/>
+      <span end="33348" id="PMC2672462.nxml.gz-764" start="33342">Whilst</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-765" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33561" id="PMC2672462.nxml.gz-765" start="33342">Whilst there are studies demonstrating short-term safety of glyburide and metformin during pregnancy, I suggest that they be reserved for situations where implementation of insulin therapy is impractical or not possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-766" type="identity">
+      <class id="suggest" label=""/>
+      <span end="33453" id="PMC2672462.nxml.gz-766" start="33446">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-767" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33632" id="PMC2672462.nxml.gz-767" start="33563">After all, we know that insulin therapy is safe and usually effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-768" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33581" id="PMC2672462.nxml.gz-768" start="33577">know</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-769" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="33610" id="PMC2672462.nxml.gz-769" start="33606">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-77" type="identity">
+      <class id="have...been" label=""/>
+      <span end="2996" id="PMC2672462.nxml.gz-77" start="2992">have</span>
+      <span end="3006" id="PMC2672462.nxml.gz-78" start="3002">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-770" type="identity">
+      <class id="usually" label=""/>
+      <span end="33622" id="PMC2672462.nxml.gz-770" start="33615">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-771" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33697" id="PMC2672462.nxml.gz-771" start="33634">ACHOIS has shown that it is acceptable to the majority of women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-772" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="33650" id="PMC2672462.nxml.gz-772" start="33641">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-773" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33847" id="PMC2672462.nxml.gz-773" start="33699">By eschewing insulin, doctors may actually be treating their own perceived fear of injections, rather than providing the best therapy to the patient</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-774" type="identity">
+      <class id="may" label=""/>
+      <span end="33732" id="PMC2672462.nxml.gz-774" start="33729">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-775" type="identity">
+      <class id="rather" label=""/>
+      <span end="33800" id="PMC2672462.nxml.gz-775" start="33794">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-776" type="identity">
+      <class id="based_on" label=""/>
+      <span end="33857" id="PMC2672462.nxml.gz-776" start="33849">Based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-777" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33984" id="PMC2672462.nxml.gz-777" start="33849">Based on our current information, insulin is still the best option, with the least potential for long-term risk to the mother and child</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-778" type="identity">
+      <class id="still" label=""/>
+      <span end="33899" id="PMC2672462.nxml.gz-778" start="33894">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-779" type="identity">
+      <class id="potential" label=""/>
+      <span end="33941" id="PMC2672462.nxml.gz-779" start="33932">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-780" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34068" id="PMC2672462.nxml.gz-780" start="33986">With good medical and obstetric care, the risks to the pregnancy should be minimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-781" type="identity">
+      <class id="should_be" label=""/>
+      <span end="34060" id="PMC2672462.nxml.gz-781" start="34051">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-782" type="identity">
+      <class id="however" label=""/>
+      <span end="34077" id="PMC2672462.nxml.gz-782" start="34070">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-783" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34138" id="PMC2672462.nxml.gz-783" start="34070">However, a woman with GDM is a woman at high risk of future diabetes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-785" type="identity">
+      <class id="therefore" label=""/>
+      <span end="34149" id="PMC2672462.nxml.gz-785" start="34140">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-786" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34325" id="PMC2672462.nxml.gz-786" start="34140">Therefore after the pregnancy, healthy lifestyle measures should be encouraged to minimize the likelihood of developing diabetes, and regular screening for diabetes should be undertaken</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-787" type="identity">
+      <class id="should_be" label=""/>
+      <span end="34207" id="PMC2672462.nxml.gz-787" start="34198">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-788" type="identity">
+      <class id="encouraged" label=""/>
+      <span end="34218" id="PMC2672462.nxml.gz-788" start="34208">encouraged</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-789" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="34245" id="PMC2672462.nxml.gz-789" start="34235">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-79" type="identity">
+      <class id="reported" label=""/>
+      <span end="3015" id="PMC2672462.nxml.gz-79" start="3007">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-790" type="identity">
+      <class id="should_be" label=""/>
+      <span end="34314" id="PMC2672462.nxml.gz-790" start="34305">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-8" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3121" id="PMC2672462.nxml.gz-80" start="3017">Additionally, there are some data that suggest an increase in fetal malformation and perinatal mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-81" type="identity">
+      <class id="some" label=""/>
+      <span end="3045" id="PMC2672462.nxml.gz-81" start="3041">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-82" type="identity">
+      <class id="suggest" label=""/>
+      <span end="3063" id="PMC2672462.nxml.gz-82" start="3056">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-84" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3316" id="PMC2672462.nxml.gz-85" start="3219">Cesarean sections are also more common, and GDM is associated with a higher risk of pre-eclampsia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-86" type="identity">
+      <class id="associated" label=""/>
+      <span end="3280" id="PMC2672462.nxml.gz-86" start="3270">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3428" id="PMC2672462.nxml.gz-87" start="3322">Exposure of the fetus to hyperglycemia may also predispose the child to a diabetes phenotype in later life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-88" type="identity">
+      <class id="may" label=""/>
+      <span end="3364" id="PMC2672462.nxml.gz-88" start="3361">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3533" id="PMC2672462.nxml.gz-89" start="3430">This has been elegantly demonstrated by the long-term follow-up of the offspring of Pima Indian mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-9" type="identity">
+      <class id="examine" label=""/>
+      <span end="320" id="PMC2672462.nxml.gz-9" start="313">examine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-90" type="identity">
+      <class id="has_been" label=""/>
+      <span end="3443" id="PMC2672462.nxml.gz-90" start="3435">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-91" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="3466" id="PMC2672462.nxml.gz-91" start="3454">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3788" id="PMC2672462.nxml.gz-92" start="3539">Offspring who were born to mothers who were already diabetic when pregnant had a 45% likelihood of type 2 diabetes by the age of 20–24, whereas it was 8.6% amongst those with mothers who only developed diabetes after pregnancy (ie, were prediabetic)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-93" type="identity">
+      <class id="likelihood" label=""/>
+      <span end="3634" id="PMC2672462.nxml.gz-93" start="3624">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-94" type="identity">
+      <class id="whereas" label=""/>
+      <span end="3682" id="PMC2672462.nxml.gz-94" start="3675">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-95" type="identity">
+      <class id="only" label=""/>
+      <span end="3730" id="PMC2672462.nxml.gz-95" start="3726">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4048" id="PMC2672462.nxml.gz-96" start="3790">Amongst sibships discordant for exposure to hyperglycemia, the sibling exposed to hyperglycemia had a considerably higher risk of subsequent diabetes, suggesting that genetic factors were not predominantly responsible for the difference in diabetes incidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-97" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-98" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="3904" id="PMC2672462.nxml.gz-98" start="3892">considerably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2672462.nxml.gz-99" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="3951" id="PMC2672462.nxml.gz-99" start="3941">suggesting</span>
+    </annotation>
+  </document>
+</knowtator-project>

@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3342123.nxml.gz" text-file="PMC3342123.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="155" id="PMC3342123.nxml.gz-1" start="0">A low protein diet during pregnancy provokes a lasting shift of hepatic expression of genes related to cell cycle throughout ontogenesis in a porcine model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-10" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="610" id="PMC3342123.nxml.gz-10" start="600">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-11" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="732" id="PMC3342123.nxml.gz-11" start="721">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21582" id="PMC3342123.nxml.gz-114" start="21531">This suggests that our microarray data are reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-115" type="identity">
+      <class id="suggests" label=""/>
+      <span end="21544" id="PMC3342123.nxml.gz-115" start="21536">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-117" type="identity">
+      <class id="indicate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-119" type="identity">
+      <class id="indicate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1065" id="PMC3342123.nxml.gz-12" start="721">In order to contribute to a comprehensive inventory of genes and functional networks that are targets of nutritional programming initiated during fetal life, we applied whole-genome microarrays for expression profiling in a longitudinal experimental design covering prenatal, perinatal, juvenile, and adult ontogenetic stages in a porcine model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22215" id="PMC3342123.nxml.gz-120" start="22064">The differences in gene regulation dependent on diet and ontogenetic stage indicate fetal programming in terms of developmental and metabolic disorders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-121" type="identity">
+      <class id="indicate" label=""/>
+      <span end="22147" id="PMC3342123.nxml.gz-121" start="22139">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-122" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23957" id="PMC3342123.nxml.gz-122" start="23756">We applied whole-genome microarrays to evaluate hepatic gene expression profiles of offspring from sows fed either an isocaloric maternal low protein or adequate protein diet throughout their pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-123" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="23803" id="PMC3342123.nxml.gz-123" start="23792">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-124" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24183" id="PMC3342123.nxml.gz-124" start="23959">In order to investigate transcriptional features of developmental nutritional programming we conducted a longitudinal experimental design covering prenatal, perinatal, juvenile and adult ontogenetic stages in a porcine model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-126" type="identity">
+      <class id="0_model" label=""/>
+      <span end="24183" id="PMC3342123.nxml.gz-126" start="24178">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-127" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24351" id="PMC3342123.nxml.gz-127" start="24185">The comparisons of the relative mRNA abundances depending on dietary group and ontogenetic stages provide an overall view of the developmental plasticity of the liver</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-128" type="identity">
+      <class id="view" label=""/>
+      <span end="24306" id="PMC3342123.nxml.gz-128" start="24302">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2022" id="PMC3342123.nxml.gz-13" start="1678">We observed differential expression of genes related to lipid metabolism (e.g. Fatty acid metabolism, Biosynthesis of steroids, Synthesis and degradation of ketone bodies, FA elongation in mitochondria, Bile acid synthesis) and cell cycle regulation (e.g. Mitotic roles of PLK, G1/S checkpoint regulation, G2/M DNA damage checkpoint regulation)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25595" id="PMC3342123.nxml.gz-131" start="25454">Due to the normal dietary conditions at juvenile and adult stages the alterations found here can be regarded as fetal nutritional programming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-132" type="identity">
+      <class id="here" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25765" id="PMC3342123.nxml.gz-133" start="25597">Our model indicates that gestational LP diets affected the hepatic expression profiles in an acute, short-term as well as in a delayed, long-term manner in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-134" type="identity">
+      <class id="0_model" label=""/>
+      <span end="25606" id="PMC3342123.nxml.gz-134" start="25601">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-135" type="identity">
+      <class id="indicates" label=""/>
+      <span end="25616" id="PMC3342123.nxml.gz-135" start="25607">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-136" type="identity">
+      <class id="affected" label=""/>
+      <span end="25651" id="PMC3342123.nxml.gz-136" start="25643">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-138" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-139" type="identity">
+      <class id="influence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-14" type="identity">
+      <class id="related" label=""/>
+      <span end="1730" id="PMC3342123.nxml.gz-14" start="1723">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-140" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-141" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26609" id="PMC3342123.nxml.gz-142" start="26324">Together with the observation that the offspring of both groups did not differ in bodyweight but in body composition and fat content [17], the data indicate that the activity of different genes led to different partitioning of nutrients among peripheral and visceral organs and tissues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-143" type="identity">
+      <class id="indicate" label=""/>
+      <span end="26480" id="PMC3342123.nxml.gz-143" start="26472">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-145" type="identity">
+      <class id="interact" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27734" id="PMC3342123.nxml.gz-146" start="27571">It has been shown that fetal growth retardation is accompanied by alterations in cell cycle regulating molecules at both transcriptome [25] and proteome level [26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-147" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-148" type="identity">
+      <class id="accompanied" label=""/>
+      <span end="27633" id="PMC3342123.nxml.gz-148" start="27622">accompanied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27840" id="PMC3342123.nxml.gz-149" start="27736">However, longitudinal studies focussed on diet-dependent alterations of cell cycle regulators are scarce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-15" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-150" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-151" type="identity">
+      <class id="controversy" label=""/>
+      <span end="27743" id="PMC3342123.nxml.gz-151" start="27736">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-152" type="identity">
+      <class id="scarce" label=""/>
+      <span end="27840" id="PMC3342123.nxml.gz-152" start="27834">scarce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-153" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-154" type="identity">
+      <class id="this_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-155" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28146" id="PMC3342123.nxml.gz-156" start="28039">These regulations may indicate an impaired fetal growth performance due to the gestational low protein diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-157" type="identity">
+      <class id="may" label=""/>
+      <span end="28060" id="PMC3342123.nxml.gz-157" start="28057">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-158" type="identity">
+      <class id="indicate" label=""/>
+      <span end="28069" id="PMC3342123.nxml.gz-158" start="28061">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-159" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28332" id="PMC3342123.nxml.gz-159" start="28148">Therefore, the down-regulation of cell cycle regulating pathways might lead to a lengthened cell cycle in LP fetuses and offspring [27] and cumulate in growth retardation in LP fetuses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-16" type="identity">
+      <class id="notably" label=""/>
+      <span end="2031" id="PMC3342123.nxml.gz-16" start="2024">Notably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-160" type="identity">
+      <class id="might" label=""/>
+      <span end="28218" id="PMC3342123.nxml.gz-160" start="28213">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-161" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-162" type="identity">
+      <class id="indicates" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-164" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-165" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28862" id="PMC3342123.nxml.gz-165" start="28633">Obviously, the increased mRNA expression of genes related to cell cycle regulators within developmental period I in LP offspring accounts for compensatory regulations regarding the lowered fetal weight due to the gestational diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-166" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-167" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-168" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-169" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="29005" id="PMC3342123.nxml.gz-169" start="28993">in line with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2109" id="PMC3342123.nxml.gz-17" start="2024">Notably, at stage 1 dpn no regulation of a distinct pathway was found in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-170" type="identity">
+      <class id="assumption" label=""/>
+      <span end="29020" id="PMC3342123.nxml.gz-170" start="29010">assumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-171" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-172" type="identity">
+      <class id="potentially" label=""/>
+      <span end="29228" id="PMC3342123.nxml.gz-172" start="29217">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29517" id="PMC3342123.nxml.gz-173" start="29331">The expression level of NCAPG (non-structural maintenance of chromosomes (SMC) condensin I complex subunit G) was highlighted as strongly associated with fetal growth retardation [28,29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-174" type="identity">
+      <class id="associated" label=""/>
+      <span end="29479" id="PMC3342123.nxml.gz-174" start="29469">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-175" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29594" id="PMC3342123.nxml.gz-175" start="29519">According to recent studies NCAPG is important during mitotic cell division</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-176" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="29546" id="PMC3342123.nxml.gz-176" start="29532">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-177" type="identity">
+      <class id="important" label=""/>
+      <span end="29565" id="PMC3342123.nxml.gz-177" start="29556">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-179" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2375" id="PMC3342123.nxml.gz-18" start="2124">The transcriptomic modulations point to persistent functional demand on the liver towards cell proliferation in the LP group but not in the AP group at identical nutritional conditions during postnatal life due to divergent 'programming' of the genome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-181" type="identity">
+      <class id="suggest" label=""/>
+      <span end="30192" id="PMC3342123.nxml.gz-181" start="30185">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-182" type="identity">
+      <class id="effect" label=""/>
+      <span end="30209" id="PMC3342123.nxml.gz-182" start="30203">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-183" type="identity">
+      <class id="might" label=""/>
+      <span end="30244" id="PMC3342123.nxml.gz-183" start="30239">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30427" id="PMC3342123.nxml.gz-184" start="30320">Therefore, a diet-dependent tissue remodelling might take place in LP offspring as observed previously [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-185" type="identity">
+      <class id="might" label=""/>
+      <span end="30372" id="PMC3342123.nxml.gz-185" start="30367">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-186" type="identity">
+      <class id="previously" label=""/>
+      <span end="30422" id="PMC3342123.nxml.gz-186" start="30412">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-187" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30579" id="PMC3342123.nxml.gz-187" start="30429">The 'mTOR signaling' acts as an important nutrient sensing pathway that controls protein synthesis in mammalian cells at the level of translation [31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-188" type="identity">
+      <class id="important" label=""/>
+      <span end="30470" id="PMC3342123.nxml.gz-188" start="30461">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30855" id="PMC3342123.nxml.gz-189" start="30727">Thus, 'mTOR signaling' is involved in regulating individual cell growth, growth performance, and developmental processes [33,34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-19" type="identity">
+      <class id="point" label=""/>
+      <span end="2160" id="PMC3342123.nxml.gz-19" start="2155">point</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-190" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-191" type="identity">
+      <class id="involved" label=""/>
+      <span end="30761" id="PMC3342123.nxml.gz-191" start="30753">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31043" id="PMC3342123.nxml.gz-192" start="30975">This may account for improper protein synthesis [35] in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-193" type="identity">
+      <class id="may" label=""/>
+      <span end="30983" id="PMC3342123.nxml.gz-193" start="30980">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-194" type="identity">
+      <class id="however" label=""/>
+      <span end="31052" id="PMC3342123.nxml.gz-194" start="31045">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31209" id="PMC3342123.nxml.gz-195" start="31045">However, at adult stage a diet-dependent up-regulation of 'mTOR signaling' in LP offspring suggests a transcriptional priority for cellular growth and proliferation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-196" type="identity">
+      <class id="suggests" label=""/>
+      <span end="31144" id="PMC3342123.nxml.gz-196" start="31136">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-197" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31320" id="PMC3342123.nxml.gz-197" start="31211">Therefore, 'mTOR signaling' might be involved in compensatory growth processes at adult stage in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-198" type="identity">
+      <class id="might" label=""/>
+      <span end="31244" id="PMC3342123.nxml.gz-198" start="31239">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-199" type="identity">
+      <class id="involved" label=""/>
+      <span end="31256" id="PMC3342123.nxml.gz-199" start="31248">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-2" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="44" id="PMC3342123.nxml.gz-2" start="36">provokes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2654" id="PMC3342123.nxml.gz-20" start="2377">Together with the observation that the offspring of both groups did not differ in body weight but in body composition and fat content, the data indicate that the activity of various genes led to diverse partitioning of nutrients among peripheral and visceral organs and tissues</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-200" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-201" type="identity">
+      <class id="involved" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32162" id="PMC3342123.nxml.gz-202" start="32045">Therefore, the observed mRNA expression patterns might contribute to an impaired developmental growth in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-203" type="identity">
+      <class id="might" label=""/>
+      <span end="32099" id="PMC3342123.nxml.gz-203" start="32094">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-204" type="identity">
+      <class id="impaired" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-205" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32355" id="PMC3342123.nxml.gz-205" start="32164">Regarding the LP model used in rodents, it has been suggested that the maternal LP diet had an impact on 'insulin signaling' as well as on 'IGF1 signaling' and its binding proteins [30,39-43]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-206" type="identity">
+      <class id="0_model" label=""/>
+      <span end="32186" id="PMC3342123.nxml.gz-206" start="32181">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-207" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="32225" id="PMC3342123.nxml.gz-207" start="32207">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-208" type="identity">
+      <class id="impact" label=""/>
+      <span end="32265" id="PMC3342123.nxml.gz-208" start="32259">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32580" id="PMC3342123.nxml.gz-209" start="32357">However, in this study no regulation of both 'insulin signaling' and 'IGF1 signaling' was observed in liver tissue of LP porcine offspring, possibly due to maturation-, species-, tissue-, sex- and time-dependent regulations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-21" type="identity">
+      <class id="indicate" label=""/>
+      <span end="2529" id="PMC3342123.nxml.gz-21" start="2521">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-210" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-211" type="identity">
+      <class id="controversy" label=""/>
+      <span end="32364" id="PMC3342123.nxml.gz-211" start="32357">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-212" type="identity">
+      <class id="possibly" label=""/>
+      <span end="32505" id="PMC3342123.nxml.gz-212" start="32497">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-213" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-215" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="32694" id="PMC3342123.nxml.gz-215" start="32684">remarkable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-216" type="identity">
+      <class id="related" label=""/>
+      <span end="32780" id="PMC3342123.nxml.gz-216" start="32773">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-217" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33142" id="PMC3342123.nxml.gz-217" start="32978">These findings suggest that pathways associated to lipid metabolism are part of postnatal adaptive responses to the prenatal nutritional environment in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-218" type="identity">
+      <class id="suggest" label=""/>
+      <span end="33000" id="PMC3342123.nxml.gz-218" start="32993">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-219" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3092" id="PMC3342123.nxml.gz-22" start="2824">Adverse environmental conditions during fetal development provoke an intrauterine adaptive response termed 'fetal programming', which may lead to both persistently biased responsiveness to extrinsic factors and permanent consequences for the organismal phenotype [1-6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-220" type="identity">
+      <class id="consistent" label=""/>
+      <span end="33154" id="PMC3342123.nxml.gz-220" start="33144">Consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-221" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33335" id="PMC3342123.nxml.gz-221" start="33144">Consistent with these observations, genes associated with lipid metabolism were found to be altered at pre- and postnatal stages in rodents, where the LP model was studied intensively [44-49]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-222" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-223" type="identity">
+      <class id="0_model" label=""/>
+      <span end="33303" id="PMC3342123.nxml.gz-223" start="33298">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33538" id="PMC3342123.nxml.gz-224" start="33337">Furthermore, the transcriptional adaptations may have consequences for the offspring's phenotype, including alterations of plasma parameters [44-46,50], hepatic histology [46] and body composition [47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-225" type="identity">
+      <class id="may" label=""/>
+      <span end="33385" id="PMC3342123.nxml.gz-225" start="33382">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-226" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-227" type="identity">
+      <class id="involved" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-228" type="identity">
+      <class id="may_be" label=""/>
+      <span end="34191" id="PMC3342123.nxml.gz-228" start="34185">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-229" type="identity">
+      <class id="related" label=""/>
+      <span end="34199" id="PMC3342123.nxml.gz-229" start="34192">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-23" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2889" id="PMC3342123.nxml.gz-23" start="2882">provoke</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-230" type="identity">
+      <class id="may" label=""/>
+      <span end="34238" id="PMC3342123.nxml.gz-230" start="34235">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-231" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="34287" id="PMC3342123.nxml.gz-231" start="34269">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-232" type="identity">
+      <class id="previously" label=""/>
+      <span end="34298" id="PMC3342123.nxml.gz-232" start="34288">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-233" type="identity">
+      <class id="alternative_options" label=""/>
+      <span end="34325" id="PMC3342123.nxml.gz-233" start="34308">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-234" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34427" id="PMC3342123.nxml.gz-234" start="34308">On the other hand, it might be associated to the transcriptional excursions within the lipid metabolism in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-235" type="identity">
+      <class id="might" label=""/>
+      <span end="34335" id="PMC3342123.nxml.gz-235" start="34330">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-236" type="identity">
+      <class id="associated" label=""/>
+      <span end="34349" id="PMC3342123.nxml.gz-236" start="34339">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-237" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34649" id="PMC3342123.nxml.gz-237" start="34429">Moreover, the expression of the catalytic subunits of AMPK, PRKAA1 and PRKAA2 was found to be decreased in LP offspring compared to AP offspring at stage 188 dpn, which may contribute to an imbalanced cellular metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-238" type="identity">
+      <class id="which" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-239" type="identity">
+      <class id="may" label=""/>
+      <span end="34601" id="PMC3342123.nxml.gz-239" start="34598">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-24" type="identity">
+      <class id="may" label=""/>
+      <span end="2961" id="PMC3342123.nxml.gz-24" start="2958">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-240" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34783" id="PMC3342123.nxml.gz-240" start="34651">Taken together, the observed regulations were seen as a clue for impairments in energy metabolism in LP offspring during ontogenesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-241" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="34711" id="PMC3342123.nxml.gz-241" start="34707">clue</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34878" id="PMC3342123.nxml.gz-242" start="34785">Furthermore, the diet-dependent transcriptional excursions revealed an impact on N-metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-243" type="identity">
+      <class id="revealed" label=""/>
+      <span end="34852" id="PMC3342123.nxml.gz-243" start="34844">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-244" type="identity">
+      <class id="impact" label=""/>
+      <span end="34862" id="PMC3342123.nxml.gz-244" start="34856">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-245" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35181" id="PMC3342123.nxml.gz-245" start="34880">In particular, the degradation of essential, branch-chained amino acids like valine, leucine and isoleucine was found to be regulated, which may illustrate the LP offspring's efforts to mimic prenatal experiences in terms of dietary supply during postnatal development in the face of richer conditions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-246" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="35003" id="PMC3342123.nxml.gz-246" start="34992">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-247" type="identity">
+      <class id="may" label=""/>
+      <span end="35024" id="PMC3342123.nxml.gz-247" start="35021">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-249" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3478" id="PMC3342123.nxml.gz-25" start="3242">In various human and animal studies a gestational low protein intake during pregnancy was accompanied by low birth weight offspring, which was subsequently predisposed for metabolic disorders and alterations in body composition [6,8-10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-250" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-251" type="identity">
+      <class id="interactions" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-252" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35926" id="PMC3342123.nxml.gz-252" start="35754">In rodents, many studies reported an impact of maternal low protein diets on expression and affinity of the glucocorticoid receptor and its signaling molecules [8,48,59-61]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-253" type="identity">
+      <class id="many_studies" label=""/>
+      <span end="35778" id="PMC3342123.nxml.gz-253" start="35766">many studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-254" type="identity">
+      <class id="impact" label=""/>
+      <span end="35797" id="PMC3342123.nxml.gz-254" start="35791">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-255" type="identity">
+      <class id="consistently" label=""/>
+      <span end="35940" id="PMC3342123.nxml.gz-255" start="35928">Consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-256" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36044" id="PMC3342123.nxml.gz-256" start="35928">Consistently, in porcine offspring a diet-dependent regulation of 'glucocorticoid receptor signaling' was also found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36164" id="PMC3342123.nxml.gz-257" start="36046">Therefore, expression profiles at weaning and adult stages point to an alarm alert (activated defence) in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-258" type="identity">
+      <class id="point" label=""/>
+      <span end="36110" id="PMC3342123.nxml.gz-258" start="36105">point</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-259" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-26" type="identity">
+      <class id="accompanied" label=""/>
+      <span end="3343" id="PMC3342123.nxml.gz-26" start="3332">accompanied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-260" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-261" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36427" id="PMC3342123.nxml.gz-261" start="36294">Obviously, at least a part of the innate immune system is impaired when LP offspring is faced with a pre-biotical stress like weaning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-262" type="identity">
+      <class id="at_least" label=""/>
+      <span end="36313" id="PMC3342123.nxml.gz-262" start="36305">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-263" type="identity">
+      <class id="consistent" label=""/>
+      <span end="36439" id="PMC3342123.nxml.gz-263" start="36429">Consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-264" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36590" id="PMC3342123.nxml.gz-264" start="36429">Consistent with this finding, expression of genes associated with an impaired immunity were found to be altered in offspring of protein malnourished dams [62,63]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-265" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-266" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="36956" id="PMC3342123.nxml.gz-266" start="36605">In conclusion, the longitudinal survey of the hepatic transcriptomic response in offspring of dams fed either a gestational low protein diet (LP, 6% CP) or an adequate protein diet (AP, 12% CP) at prenatal (94 dpc), perinatal (1 dpn), juvenile(28 dpn), and adult (188 dpn) ontogenetic stages revealed acute short-term and delayed long-term modulations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-267" type="identity">
+      <class id="revealed" label=""/>
+      <span end="36905" id="PMC3342123.nxml.gz-267" start="36897">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-268" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-269" type="identity">
+      <class id="consistent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-27" type="identity">
+      <class id="interestingly" label=""/>
+      <span end="3493" id="PMC3342123.nxml.gz-27" start="3480">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-270" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-271" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-272" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-273" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37270" id="PMC3342123.nxml.gz-273" start="37203">This stage appeared as a phase of recovery of the activity of genes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-274" type="identity">
+      <class id="appeared" label=""/>
+      <span end="37222" id="PMC3342123.nxml.gz-274" start="37214">appeared</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-275" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="37509" id="PMC3342123.nxml.gz-275" start="37272">Differential expression of genes related to lipid, ketone body, and amino acid metabolism indicate that the offspring of both groups uses different metabolic directions in response to identical nutritional condition during postnatal life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-276" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-277" type="identity">
+      <class id="indicate" label=""/>
+      <span end="37370" id="PMC3342123.nxml.gz-277" start="37362">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="44083" id="PMC3342123.nxml.gz-278" start="43959">Probe-sets with a low standard deviation ( s ≤ 0.25) were discarded, because such transcripts are not likely to be regulated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-279" type="identity">
+      <class id="likely" label=""/>
+      <span end="44067" id="PMC3342123.nxml.gz-279" start="44061">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3625" id="PMC3342123.nxml.gz-28" start="3480">Interestingly, epidemiological studies in women showed that maternal malnutrition during pregnancy can result in fetal growth retardation [11,12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-280" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-281" type="identity">
+      <class id="indicates" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-282" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-283" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-284" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="45705" id="PMC3342123.nxml.gz-284" start="45520">It should be noted here that the interactions presented in the networks are not specific for porcine liver tissue, as the database contains literature from many different research areas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-285" type="identity">
+      <class id="should_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-286" type="identity">
+      <class id="here" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-287" type="identity">
+      <class id="interactions" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-29" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-3" type="identity">
+      <class id="related" label=""/>
+      <span end="99" id="PMC3342123.nxml.gz-3" start="92">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-30" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="3638" id="PMC3342123.nxml.gz-30" start="3627">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3970" id="PMC3342123.nxml.gz-31" start="3627">In order to contribute to a comprehensive inventory of genes and functional networks that are targets of nutritional programming initiated during fetal life, we applied whole-genome microarrays for expression profiling in a longitudinal experimental design covering prenatal, perinatal, juvenile and adult ontogenetic stages in a porcine model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4196" id="PMC3342123.nxml.gz-32" start="3972">On an isoenergetic basis, pregnant sows were fed either a gestational low protein diet (LP, 6% CP) or an adequate protein diet (AP, 12% CP) to investigate the effects on hepatic gene expression in their fetuses and offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-33" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="4126" id="PMC3342123.nxml.gz-33" start="4112">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-34" type="identity">
+      <class id="effects" label=""/>
+      <span end="4138" id="PMC3342123.nxml.gz-34" start="4131">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4369" id="PMC3342123.nxml.gz-35" start="4198">The experiment comprises a valuable model especially for 'fetal' programming, because cross-fostering enabled assessment of solely the nutritional effects during gestation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-36" type="identity">
+      <class id="0_model" label=""/>
+      <span end="4239" id="PMC3342123.nxml.gz-36" start="4234">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-37" type="identity">
+      <class id="effects" label=""/>
+      <span end="4352" id="PMC3342123.nxml.gz-37" start="4345">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-38" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4531" id="PMC3342123.nxml.gz-38" start="4371">Moreover, due to the similarity in metabolism, physiology, anatomy and genome the study is also a beneficial model for nutritional programming in humans [13,14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-39" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="316" id="PMC3342123.nxml.gz-4" start="178">In rodent models and in humans the impact of gestational diets on the offspring's phenotype was shown experimentally and epidemiologically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-40" type="identity">
+      <class id="similarity" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-41" type="identity">
+      <class id="0_model" label=""/>
+      <span end="4485" id="PMC3342123.nxml.gz-41" start="4480">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-42" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4643" id="PMC3342123.nxml.gz-42" start="4533">Thus the experimental data will complement previous findings from rodent models and epidemiological human data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-43" type="identity">
+      <class id="will" label=""/>
+      <span end="4564" id="PMC3342123.nxml.gz-43" start="4560">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4834" id="PMC3342123.nxml.gz-44" start="4645">In particular, the low protein diet provides a model for prenatal dietary undersupply and exposure to famine that regrettably still burdens a considerable proportion of the human population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-45" type="identity">
+      <class id="0_model" label=""/>
+      <span end="4697" id="PMC3342123.nxml.gz-45" start="4692">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-46" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="4770" id="PMC3342123.nxml.gz-46" start="4759">regrettably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-47" type="identity">
+      <class id="still" label=""/>
+      <span end="4776" id="PMC3342123.nxml.gz-47" start="4771">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-48" type="identity">
+      <class id="burdens" label=""/>
+      <span end="4784" id="PMC3342123.nxml.gz-48" start="4777">burdens</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5445" id="PMC3342123.nxml.gz-49" start="5294">At weaning (28 dpn) offspring of the LP group showed slight but significant higher fat content and adipocyte size, and still lower muscle fibre numbers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5" type="identity">
+      <class id="impact" label=""/>
+      <span end="219" id="PMC3342123.nxml.gz-5" start="213">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-50" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="5418" id="PMC3342123.nxml.gz-50" start="5413">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-51" type="identity">
+      <class id="here" label=""/>
+      <span end="5690" id="PMC3342123.nxml.gz-51" start="5686">Here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5742" id="PMC3342123.nxml.gz-52" start="5686">Here the focus is on the hepatic transcriptomic response</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-53" type="identity">
+      <class id="focus" label=""/>
+      <span end="5700" id="PMC3342123.nxml.gz-53" start="5695">focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-54" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5923" id="PMC3342123.nxml.gz-54" start="5744">We present that the hepatic expression profiles showed considerable modulation during prenatal and postnatal stages, i.e. in acute and delayed response to the nutritional stimulus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-55" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-56" type="identity">
+      <class id="consider" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5635" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="5811" id="PMC3342123.nxml.gz-5636" start="5799">considerable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5637" type="identity">
+      <class id="subject_scope"/>
+      <span end="6609" id="PMC3342123.nxml.gz-5638" start="6263">We performed a longitudinal holistic study of the hepatic transcriptome of offspring of dams fed either an experimental low protein diet (LP) or an adequate protein diet (AP) throughout gestation, in order to obtain a comprehensive picture of genes and functional networks that are sensitive to fetal nutritional programming using a porcine model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5639" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="7207" id="PMC3342123.nxml.gz-5640" start="7196">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5641" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="23970" id="PMC3342123.nxml.gz-5642" start="23959">In order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5643" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25565" id="PMC3342123.nxml.gz-5644" start="25547">can be regarded as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5645" type="identity">
+      <class id="has...been"/>
+      <span end="27582" id="PMC3342123.nxml.gz-5646" start="27574">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5647" type="identity">
+      <class id="controversy"/>
+      <span end="28642" id="PMC3342123.nxml.gz-5648" start="28633">Obviously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5649" type="identity">
+      <class id="subject_scope"/>
+      <span end="29329" id="PMC3342123.nxml.gz-5650" start="28864">Within developmental period III, AP offspring showed a decreased expression of genes associated with Polo-like kinases, which is in line with the assumption that LP pigs have not terminated their growth at stage 188 dpn; in particular their liver has not attained a steady-state and that there is persistent functional demand towards cell proliferation potentially to respond to an elevated metabolic burden, including a higher turn over of lipids and ketone bodies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5651" type="identity">
+      <class id="subject_scope"/>
+      <span end="30318" id="PMC3342123.nxml.gz-5652" start="30159">These expression patterns suggest a dietary effect on cellular turn-over, which might be increased at early stages but decreased at adult stage in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5653" type="identity">
+      <class id="probable_understanding"/>
+      <span end="28157" id="PMC3342123.nxml.gz-5654" start="28148">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5655" type="identity">
+      <class id="probable_understanding"/>
+      <span end="30329" id="PMC3342123.nxml.gz-5656" start="30320">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5657" type="identity">
+      <class id="probable_understanding"/>
+      <span end="30731" id="PMC3342123.nxml.gz-5658" start="30727">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5659" type="identity">
+      <class id="probable_understanding"/>
+      <span end="31220" id="PMC3342123.nxml.gz-5660" start="31211">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5661" type="identity">
+      <class id="probable_understanding"/>
+      <span end="32054" id="PMC3342123.nxml.gz-5662" start="32045">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5663" type="identity">
+      <class id="subject_scope"/>
+      <span end="32976" id="PMC3342123.nxml.gz-5664" start="32653">During postnatal development a remarkable number of diet- and stage-dependent transcriptionally regulated pathways were related to lipid metabolism, including 'fatty acid metabolism', 'fatty acid elongation in mitochondria', 'synthesis and degradation of ketone bodies', 'bile acid synthesis' and 'biosynthesis of steroids'</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5665" type="identity">
+      <class id="subject_scope"/>
+      <span end="34306" id="PMC3342123.nxml.gz-5666" start="34156">On the one hand, this matter may be related to mitochondrial impairments which may happen due to the LP diet, as has been suggested previously [57,58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5667" type="identity">
+      <class id="probable_understanding"/>
+      <span end="36055" id="PMC3342123.nxml.gz-5668" start="36046">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5669" type="identity">
+      <class id="controversy"/>
+      <span end="36303" id="PMC3342123.nxml.gz-5670" start="36294">Obviously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-5671" type="identity">
+      <class id="difficult_task"/>
+      <span end="45608" id="PMC3342123.nxml.gz-5672" start="45596">not specific</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-57" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6251" id="PMC3342123.nxml.gz-57" start="5925">Nutritional fetal programming becomes apparent as an altered hepatic expression of genes related to cell cycle and cell maintenance, and lipid, ketone body, and amino acid metabolism, indicating different functional demands and replies of the liver in both experimental groups under identical nutritional conditions post natum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-58" type="identity">
+      <class id="apparent" label=""/>
+      <span end="5971" id="PMC3342123.nxml.gz-58" start="5963">apparent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-59" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-6" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="580" id="PMC3342123.nxml.gz-6" start="318">Adverse environmental conditions during fetal development provoke an intrauterine adaptive response termed 'fetal programming', which may lead to both persistently biased responsiveness to extrinsic factors and permanent consequences for the organismal phenotype</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-60" type="identity">
+      <class id="indicating" label=""/>
+      <span end="6119" id="PMC3342123.nxml.gz-60" start="6109">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-61" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="6471" id="PMC3342123.nxml.gz-61" start="6460">in order to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-63" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-64" type="identity">
+      <class id="investigated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-66" type="identity">
+      <class id="revealed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-67" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7367" id="PMC3342123.nxml.gz-68" start="7196">In order to identify molecular pathways affected by the gestational diets we first analysed differential expression between the dietary groups within each stage separately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-69" type="identity">
+      <class id="to_identify" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-7" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="383" id="PMC3342123.nxml.gz-7" start="376">provoke</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-70" type="identity">
+      <class id="affected" label=""/>
+      <span end="7244" id="PMC3342123.nxml.gz-70" start="7236">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-71" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7691" id="PMC3342123.nxml.gz-71" start="7369">The different dietary exposure of the offspring during prenatal development can be expected to cause slight shifts of the developmental age of the offspring that may be reflected by subtle changes of the transcriptome and could hamper the identification of direct effects of the gestational diets on the hepatic expression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-72" type="identity">
+      <class id="can" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-73" type="identity">
+      <class id="expected" label=""/>
+      <span end="7460" id="PMC3342123.nxml.gz-73" start="7452">expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-74" type="identity">
+      <class id="may_be" label=""/>
+      <span end="7537" id="PMC3342123.nxml.gz-74" start="7531">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-75" type="identity">
+      <class id="could" label=""/>
+      <span end="7596" id="PMC3342123.nxml.gz-75" start="7591">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-76" type="identity">
+      <class id="effects" label=""/>
+      <span end="7640" id="PMC3342123.nxml.gz-76" start="7633">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-77" type="identity">
+      <class id="notably" label=""/>
+      <span end="8311" id="PMC3342123.nxml.gz-77" start="8304">Notably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-78" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8438" id="PMC3342123.nxml.gz-78" start="8304">Notably, q-values between ontogenetic stages within diet were remarkable lower ( q ≤ 0.05) than between diets within stage ( q ≤ 0.25)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-79" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="8376" id="PMC3342123.nxml.gz-79" start="8366">remarkable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-8" type="identity">
+      <class id="may" label=""/>
+      <span end="455" id="PMC3342123.nxml.gz-8" start="452">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10313" id="PMC3342123.nxml.gz-80" start="10059">Ingenuity Pathway Analysis indicates enrichment of molecular routes related to genetic information and nucleic acid processing and cell cycle that were found to be diminished, whereas the 'Wnt signaling' was found to be increased in LP offspring (Table2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-81" type="identity">
+      <class id="indicates" label=""/>
+      <span end="10095" id="PMC3342123.nxml.gz-81" start="10086">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-82" type="identity">
+      <class id="related" label=""/>
+      <span end="10134" id="PMC3342123.nxml.gz-82" start="10127">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-84" type="identity">
+      <class id="role" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-85" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13213" id="PMC3342123.nxml.gz-85" start="13026">Genes associated with the 'complement system' showed increased mRNA expression levels, whereas the canonical pathway 'G1/S checkpoint regulation' was found to be decreased in LP offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-86" type="identity">
+      <class id="associated" label=""/>
+      <span end="13042" id="PMC3342123.nxml.gz-86" start="13032">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13794" id="PMC3342123.nxml.gz-87" start="13442">The mRNA expression levels of genes associated with metabolic processing of ketones, fatty acids, bile acids, and hydrophobic amino acids (Val, Ile, Leu) as well as 'mTOR signaling', 'VEGF signaling', and 'glucocorticoid receptor signaling', were increased in LP offspring at stage 188 dpn, whereas 'biosynthesis of steroids' was found to be diminished</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-88" type="identity">
+      <class id="associated" label=""/>
+      <span end="13488" id="PMC3342123.nxml.gz-88" start="13478">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-89" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="719" id="PMC3342123.nxml.gz-9" start="582">This leads to the hypothesis that the offspring's transcriptome exhibits short-term and long-term changes, depending on the maternal diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14498" id="PMC3342123.nxml.gz-92" start="14322">The intersection of commonly regulated genes between those comparisons was discarded because regulation of these genes was likely due to physiologically developmental processes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-93" type="identity">
+      <class id="likely" label=""/>
+      <span end="14451" id="PMC3342123.nxml.gz-93" start="14445">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-94" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-95" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-97" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-98" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3342123.nxml.gz-99" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

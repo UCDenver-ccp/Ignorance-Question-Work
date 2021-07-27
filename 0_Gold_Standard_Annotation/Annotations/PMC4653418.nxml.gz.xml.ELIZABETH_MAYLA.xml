@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4653418.nxml.gz" text-file="PMC4653418.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="704" id="PMC4653418.nxml.gz-1" start="647">the sedentary lifestyle may also be a risk factor for GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2598" id="PMC4653418.nxml.gz-10" start="2488">An adequate pre-pregnancy nutritional status was associated with gestational weight gain above recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-11" type="identity">
+      <class id="associated" label=""/>
+      <span end="2547" id="PMC4653418.nxml.gz-11" start="2537">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2729" id="PMC4653418.nxml.gz-12" start="2600">These Results emphasize the need for pregnant women to be professionally monitored so that modifiable risk factors can be managed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-1203" type="identity">
+      <class id="subject_scope"/>
+      <span end="2036" id="PMC4653418.nxml.gz-1204" start="1965">PPBMI &lt;25 kg/m2is associated with greater weight gain compared to obese</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-13" type="identity">
+      <class id="the_need" label=""/>
+      <span end="2632" id="PMC4653418.nxml.gz-13" start="2624">the need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-2" type="identity">
+      <class id="may" label=""/>
+      <span end="674" id="PMC4653418.nxml.gz-2" start="671">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="821" id="PMC4653418.nxml.gz-3" start="717">To identify the presence of GDM risk factors during pregnancy at the time of diagnosis of this pathology</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-5" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="728" id="PMC4653418.nxml.gz-5" start="717">To identify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-7" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="1859" id="PMC4653418.nxml.gz-7" start="1848">unfavorable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1915" id="PMC4653418.nxml.gz-8" start="1848">unfavorable pre-pregnancy nutritional status (overweight or obesity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4653418.nxml.gz-9" type="identity">
+      <class id="associated" label=""/>
+      <span end="1993" id="PMC4653418.nxml.gz-9" start="1983">associated</span>
+    </annotation>
+  </document>
+</knowtator-project>

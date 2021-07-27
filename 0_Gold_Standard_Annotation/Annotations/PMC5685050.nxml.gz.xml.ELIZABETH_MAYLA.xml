@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5685050.nxml.gz" text-file="PMC5685050.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="342" id="PMC5685050.nxml.gz-1" start="34">Vitamin D deficiency has received increased attention over the past several years since vitamin D may play an important role not only in bone metabolism but also in a variety of non-skeletal diseases such as diabetes mellitus, autoimmune diseases, infectious diseases, cardiovascular diseases and cancer1,2,3</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-10" type="identity">
+      <class id="important" label=""/>
+      <span end="1233" id="PMC5685050.nxml.gz-10" start="1224">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1644" id="PMC5685050.nxml.gz-12" start="1515">People residing near the equator should have lower prevalence of vitamin D deficiency compared to people living at high latitudes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-13" type="identity">
+      <class id="future_prediction" label=""/>
+      <span end="1554" id="PMC5685050.nxml.gz-13" start="1548">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-14" type="identity">
+      <class id="however" label=""/>
+      <span end="1653" id="PMC5685050.nxml.gz-14" start="1646">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1747" id="PMC5685050.nxml.gz-15" start="1646">However, according to the recent studies, vitamin D deficiency is also common in these countries10,11</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-16" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="1686" id="PMC5685050.nxml.gz-16" start="1672">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-18" type="identity">
+      <class id="recent_study" label=""/>
+      <span end="3971" id="PMC5685050.nxml.gz-18" start="3959">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5919" id="PMC5685050.nxml.gz-19" start="5765">Thai women are at risk for vitamin D insufficiency likely due to sunscreen usage and sun avoidant behavior due to the desire to maintain a fair complexion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-2" type="identity">
+      <class id="increased_attention" label=""/>
+      <span end="87" id="PMC5685050.nxml.gz-2" start="68">increased attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-20" type="identity">
+      <class id="likely" label=""/>
+      <span end="5822" id="PMC5685050.nxml.gz-20" start="5816">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-21" type="identity">
+      <class id="due_to" label=""/>
+      <span end="5829" id="PMC5685050.nxml.gz-21" start="5823">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-22" type="identity">
+      <class id="due_to" label=""/>
+      <span end="5878" id="PMC5685050.nxml.gz-22" start="5872">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6114" id="PMC5685050.nxml.gz-23" start="5921">Living in urban areas such as in Bangkok, increases the risk of vitamin D insufficiency due to increased pollution, which decreases the amount of UVB available for cutaneous vitamin D synthesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-24" type="identity">
+      <class id="due_to" label=""/>
+      <span end="6015" id="PMC5685050.nxml.gz-24" start="6009">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-25" type="identity">
+      <class id="thus" label=""/>
+      <span end="6425" id="PMC5685050.nxml.gz-25" start="6421">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6486" id="PMC5685050.nxml.gz-26" start="6421">Thus, dietary intake of vitamin D in Thai people is generally low</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-27" type="identity">
+      <class id="generally" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6689" id="PMC5685050.nxml.gz-28" start="6488">In summary, despite a location near the equator where sunlight is available year round, Thai people are at risk for vitamin D insufficiency due to environmental, cultural, lifestyle and dietary factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-29" type="identity">
+      <class id="despite" label=""/>
+      <span end="6507" id="PMC5685050.nxml.gz-29" start="6500">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-3" type="identity">
+      <class id="since" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-30" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-31" type="identity">
+      <class id="due_to" label=""/>
+      <span end="6634" id="PMC5685050.nxml.gz-31" start="6628">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6857" id="PMC5685050.nxml.gz-32" start="6691">The relatively high prevalence of vitamin D insufficiency may have important health implications for Thai people as the science of vitamin D continues to be unraveled</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-33" type="identity">
+      <class id="may" label=""/>
+      <span end="6752" id="PMC5685050.nxml.gz-33" start="6749">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-34" type="identity">
+      <class id="important" label=""/>
+      <span end="6767" id="PMC5685050.nxml.gz-34" start="6758">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-35" type="identity">
+      <class id="implications" label=""/>
+      <span end="6787" id="PMC5685050.nxml.gz-35" start="6775">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-36" type="identity">
+      <class id="full_unknown" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-37" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="6857" id="PMC5685050.nxml.gz-37" start="6848">unraveled</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-4" type="identity">
+      <class id="may" label=""/>
+      <span end="135" id="PMC5685050.nxml.gz-4" start="132">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-5" type="identity">
+      <class id="important" label=""/>
+      <span end="153" id="PMC5685050.nxml.gz-5" start="144">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-5900" type="identity">
+      <class id="subject_scope"/>
+      <span end="4077" id="PMC5685050.nxml.gz-5901" start="3920">Rojroongwasonkul et al.[18]showed in a recent study in Thai children that vitamin D deficiency was also highly prevalent in school children aged 3–12.9 years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-6" type="identity">
+      <class id="role" label=""/>
+      <span end="158" id="PMC5685050.nxml.gz-6" start="154">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-7" type="identity">
+      <class id="only" label=""/>
+      <span end="167" id="PMC5685050.nxml.gz-7" start="163">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-8" type="identity">
+      <class id="variety" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5685050.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1372" id="PMC5685050.nxml.gz-9" start="1209">Latitude is an important determinant of vitamin D status since the amount of UVB that penetrates the earth's surface decreases markedly with increasing latitude[8]</span>
+    </annotation>
+  </document>
+</knowtator-project>

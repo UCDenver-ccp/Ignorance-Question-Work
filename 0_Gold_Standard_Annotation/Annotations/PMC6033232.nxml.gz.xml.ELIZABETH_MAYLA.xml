@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6033232.nxml.gz" text-file="PMC6033232.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="110" id="PMC6033232.nxml.gz-1" start="0">Maternal diet during pregnancy is related with the infant stool microbiome in a delivery mode-dependent manner</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-10" type="identity">
+      <class id="influence" label=""/>
+      <span end="286" id="PMC6033232.nxml.gz-10" start="277">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-101" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="12285" id="PMC6033232.nxml.gz-101" start="12275">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-102" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13425" id="PMC6033232.nxml.gz-102" start="13118">To investigate the microbial taxa that may drive differences observed above, we measured associations between each maternal dietary factor and the relative abundance of individual infant stool operational taxonomic units (OTUs) with linear models adjusted for feeding method, maternal BMI, parity, and batch</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-103" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="13132" id="PMC6033232.nxml.gz-103" start="13118">To investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-104" type="identity">
+      <class id="may" label=""/>
+      <span end="13160" id="PMC6033232.nxml.gz-104" start="13157">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-105" type="identity">
+      <class id="associations" label=""/>
+      <span end="13219" id="PMC6033232.nxml.gz-105" start="13207">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-106" type="identity">
+      <class id="while" label=""/>
+      <span end="13432" id="PMC6033232.nxml.gz-106" start="13427">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-107" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13763" id="PMC6033232.nxml.gz-107" start="13427">While the microbiome-wide significance of maternal dietary factors after adjusting p values using the false discovery rate (FDR) method was not observed, OTUs with the same taxonomic assignment tended to appear together in the most significant results, supporting a true association of maternal dietary factors and infant gut microbiota</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-108" type="identity">
+      <class id="appear" label=""/>
+      <span end="13637" id="PMC6033232.nxml.gz-108" start="13631">appear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-109" type="identity">
+      <class id="supporting" label=""/>
+      <span end="13690" id="PMC6033232.nxml.gz-109" start="13680">supporting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="608" id="PMC6033232.nxml.gz-11" start="414">We aimed to examine the association of maternal diet during pregnancy with the infant gut microbiome 6 weeks post-delivery in mother-infant dyads enrolled in the New Hampshire Birth Cohort Study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-110" type="identity">
+      <class id="association" label=""/>
+      <span end="13709" id="PMC6033232.nxml.gz-110" start="13698">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-111" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14129" id="PMC6033232.nxml.gz-111" start="13765">Maternal aMED score was positively associated with OTUs classified to the family Enterobacteriaceae , the genus Streptococcus , and the family Clostridiaceae , and negatively with OTUs classified to the species Bacteroides uniformis , the Enterobacteriaceae family, and the species Escherichia coli and [Ruminococcus] gnavus (Fig. 1c; Additional file 1: Table S2a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-112" type="identity">
+      <class id="associated" label=""/>
+      <span end="13810" id="PMC6033232.nxml.gz-112" start="13800">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14387" id="PMC6033232.nxml.gz-113" start="14131">Maternal dairy intake was positively associated with OTUs classified to the species Clostridium neonatale and C. butyricum and the genus Staphylococcus , and negatively related to OTUs classified to the Lachnospiraceae family (Additional file 1: Table S2b)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-114" type="identity">
+      <class id="associated" label=""/>
+      <span end="14178" id="PMC6033232.nxml.gz-114" start="14168">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-115" type="identity">
+      <class id="related" label=""/>
+      <span end="14307" id="PMC6033232.nxml.gz-115" start="14300">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14661" id="PMC6033232.nxml.gz-116" start="14389">OTUs classified to the genus Streptococcus including the species Streptococcus agalactiae were positively associated with maternal fish and seafood intake, while OTUs classified to the species Bacteroides uniformis were negatively associated (Additional file 1: Table S2c)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-117" type="identity">
+      <class id="associated" label=""/>
+      <span end="14505" id="PMC6033232.nxml.gz-117" start="14495">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-118" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-119" type="identity">
+      <class id="associated" label=""/>
+      <span end="14630" id="PMC6033232.nxml.gz-119" start="14620">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-12" type="identity">
+      <class id="aimed" label=""/>
+      <span end="422" id="PMC6033232.nxml.gz-12" start="417">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14871" id="PMC6033232.nxml.gz-120" start="14663">We observed a negative association between fruit intake and OTUs of the genus Bifidobacterium and a positive association with OTUs in the Clostridiaceae family in the infant gut (Additional file 1: Table S2d)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-121" type="identity">
+      <class id="association" label=""/>
+      <span end="14697" id="PMC6033232.nxml.gz-121" start="14686">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-122" type="identity">
+      <class id="association" label=""/>
+      <span end="14783" id="PMC6033232.nxml.gz-122" start="14772">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15028" id="PMC6033232.nxml.gz-123" start="14873">We observed additional associations between these and other maternal dietary factors and infant stool OTUs, which are presented in the supplementary tables</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-124" type="identity">
+      <class id="associations" label=""/>
+      <span end="14908" id="PMC6033232.nxml.gz-124" start="14896">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-125" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-127" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15220" id="PMC6033232.nxml.gz-127" start="15085">We separately assessed the relation of maternal diet with the infant gut microbiome in infants delivered by Cesarean section ( n  = 48)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-128" type="identity">
+      <class id="assessed" label=""/>
+      <span end="15107" id="PMC6033232.nxml.gz-128" start="15099">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-129" type="identity">
+      <class id="relation" label=""/>
+      <span end="15120" id="PMC6033232.nxml.gz-129" start="15112">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-13" type="identity">
+      <class id="to_examine" label=""/>
+      <span end="433" id="PMC6033232.nxml.gz-13" start="423">to examine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-130" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15415" id="PMC6033232.nxml.gz-130" start="15222">In an adjusted analysis, maternal dairy intake was associated with infant stool microbiome composition (generalized UniFrac distance PERMANOVA, p  = 0.034; Fig. 2a; Additional file 1: Table S3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-131" type="identity">
+      <class id="associated" label=""/>
+      <span end="15283" id="PMC6033232.nxml.gz-131" start="15273">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-133" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-134" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16397" id="PMC6033232.nxml.gz-134" start="16095">Linear models indicated a positive association of maternal dairy intake with OTUs classified to the family Enterobacteriaceae and the species Escherichia coli and negative association with the OTUs that belong to the genera Bifidobacterium , Pseudomonas , and Bacteroides (Additional file 1: Table S5b)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-135" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-136" type="identity">
+      <class id="indicated" label=""/>
+      <span end="16118" id="PMC6033232.nxml.gz-136" start="16109">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-137" type="identity">
+      <class id="association" label=""/>
+      <span end="16141" id="PMC6033232.nxml.gz-137" start="16130">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-138" type="identity">
+      <class id="association" label=""/>
+      <span end="16278" id="PMC6033232.nxml.gz-138" start="16267">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-139" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16796" id="PMC6033232.nxml.gz-139" start="16399">One OTU classified to the genus Corynebacterium was negatively associated with maternal dairy intake ( p  = 0.0044), and one each OTU classified to the species Acinetobacter rhizosphaerae ( p  = 0.0040) and to the family Ruminococcaceae ( p  = 0.0061), respectively, were also positively associated with maternal dairy intake, but we did not observe multiple related OTUs with similar associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-14" type="identity">
+      <class id="association" label=""/>
+      <span end="449" id="PMC6033232.nxml.gz-14" start="438">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-140" type="identity">
+      <class id="associated" label=""/>
+      <span end="16472" id="PMC6033232.nxml.gz-140" start="16462">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-141" type="identity">
+      <class id="associated" label=""/>
+      <span end="16697" id="PMC6033232.nxml.gz-141" start="16687">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-142" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-143" type="identity">
+      <class id="associations" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17131" id="PMC6033232.nxml.gz-144" start="16798">OTUs classified to the genus Enterococcus (one q value &lt; 0.10) and the Lachnospiraceae family were positively related with and OTUs classified to the family Enterobacteriaceae , the species Escherichia coli and the genera Streptococcus and Blautia , were negatively related with the maternal aMED score (Additional file 1: Table S5a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-145" type="identity">
+      <class id="related" label=""/>
+      <span end="16915" id="PMC6033232.nxml.gz-145" start="16908">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-146" type="identity">
+      <class id="related" label=""/>
+      <span end="17071" id="PMC6033232.nxml.gz-146" start="17064">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-147" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17335" id="PMC6033232.nxml.gz-147" start="17133">As in vaginally delivered infants, maternal fish and seafood intake was positively associated with OTUs in the genus Streptococcus in infants delivered by Cesarean section (Additional file 1: Table S5c)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-148" type="identity">
+      <class id="associated" label=""/>
+      <span end="17226" id="PMC6033232.nxml.gz-148" start="17216">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17652" id="PMC6033232.nxml.gz-149" start="17337">In contrast to infants born vaginally, maternal dietary fish and seafood were positively associated with OTUs in the genus Bacteroides including the species B. uniformis and negatively associated with OTUs in the species Clostridium neonatale and other OTUs of the Streptococcus genus (Additional file 1: Table S5c)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1425" id="PMC6033232.nxml.gz-15" start="1221">In the analyses stratified to infants born vaginally and adjusted for other potential confounders, maternal fruit intake was associated with infant gut microbial community structure (PERMANOVA, p  &lt; 0.05)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-150" type="identity">
+      <class id="in_contrast_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-151" type="identity">
+      <class id="associated" label=""/>
+      <span end="17436" id="PMC6033232.nxml.gz-151" start="17426">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-152" type="identity">
+      <class id="associated" label=""/>
+      <span end="17532" id="PMC6033232.nxml.gz-152" start="17522">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-153" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17874" id="PMC6033232.nxml.gz-153" start="17654">Additionally, maternal red and processed meat was positively associated with OTUs in the genus Bifidobacterium among others including the species Escherichia coli and the genus Enterococcus (Additional file 1: Table S5e)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-154" type="identity">
+      <class id="associated" label=""/>
+      <span end="17725" id="PMC6033232.nxml.gz-154" start="17715">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-155" type="identity">
+      <class id="associations" label=""/>
+      <span end="18058" id="PMC6033232.nxml.gz-155" start="18046">Associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18148" id="PMC6033232.nxml.gz-156" start="18046">Associations between maternal diet and infant gut microbial communities in infants delivered vaginally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18836" id="PMC6033232.nxml.gz-157" start="18738">Linear model associations between maternal aMED score and relative abundance of infant stool OTUs.</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-158" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-159" type="identity">
+      <class id="associations" label=""/>
+      <span end="18763" id="PMC6033232.nxml.gz-159" start="18751">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-16" type="identity">
+      <class id="associated" label=""/>
+      <span end="1356" id="PMC6033232.nxml.gz-16" start="1346">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19384" id="PMC6033232.nxml.gz-160" start="19198">We observed differences in both overall infant gut microbial community structure and specific microbes in relation to maternal dietary factors, often in a delivery mode-dependent pattern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-161" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-162" type="identity">
+      <class id="relation" label=""/>
+      <span end="19312" id="PMC6033232.nxml.gz-162" start="19304">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19467" id="PMC6033232.nxml.gz-163" start="19386">Some effects of maternal diet were more apparent in exclusively breastfed infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-164" type="identity">
+      <class id="some" label=""/>
+      <span end="19390" id="PMC6033232.nxml.gz-164" start="19386">Some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-165" type="identity">
+      <class id="effects" label=""/>
+      <span end="19398" id="PMC6033232.nxml.gz-165" start="19391">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-166" type="identity">
+      <class id="apparent" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-167" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-168" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19583" id="PMC6033232.nxml.gz-168" start="19478">we were unable to compare to exclusively formula-fed infants since most infants received some breast milk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-169" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="19495" id="PMC6033232.nxml.gz-169" start="19486">unable to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-17" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1654" id="PMC6033232.nxml.gz-17" start="1427">In multinomial logistic regression analyses, increased fruit intake was associated with an increased odds of belonging to the high Streptococcus / Clostridium group among infants born vaginally (OR (95% CI) = 2.73 (1.36, 5.46))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-170" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="19544" id="PMC6033232.nxml.gz-170" start="19539">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-171" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19789" id="PMC6033232.nxml.gz-171" start="19585">We found maternal fish and seafood consumption to be positively related to OTUs in the genus Streptococcus in the infant gut, which included the species Streptococcus agalactiae , or Group B Streptococcus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-172" type="identity">
+      <class id="related" label=""/>
+      <span end="19656" id="PMC6033232.nxml.gz-172" start="19649">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-173" type="identity">
+      <class id="related" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-174" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20151" id="PMC6033232.nxml.gz-174" start="19967">Fish consumption is generally recommended as healthful due to its DHA and EPA content despite the exposure to heavy metals and other contaminants that may be detrimental to health [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-175" type="identity">
+      <class id="recommended" label=""/>
+      <span end="20008" id="PMC6033232.nxml.gz-175" start="19997">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-176" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-177" type="identity">
+      <class id="despite" label=""/>
+      <span end="20060" id="PMC6033232.nxml.gz-177" start="20053">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-178" type="identity">
+      <class id="may_be" label=""/>
+      <span end="20124" id="PMC6033232.nxml.gz-178" start="20118">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-179" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20303" id="PMC6033232.nxml.gz-179" start="20153">For instance, greater fish consumption is associated with child development outcomes including decreased risk of asthma and improved cognition [13,14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-18" type="identity">
+      <class id="associated" label=""/>
+      <span end="1509" id="PMC6033232.nxml.gz-18" start="1499">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-180" type="identity">
+      <class id="associated" label=""/>
+      <span end="20205" id="PMC6033232.nxml.gz-180" start="20195">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-181" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20532" id="PMC6033232.nxml.gz-181" start="20305">The decrease in OTUs classified to the species Clostridium neonatale with increased maternal fish and seafood intake in infants born by Cesarean section is a possibly beneficial change to infant intestinal microbial communities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-182" type="identity">
+      <class id="possibly" label=""/>
+      <span end="20471" id="PMC6033232.nxml.gz-182" start="20463">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20631" id="PMC6033232.nxml.gz-183" start="20534">We observed consistent associations between maternal DHA and EPA intake and infant gut microbiota</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-184" type="identity">
+      <class id="consistent" label=""/>
+      <span end="20556" id="PMC6033232.nxml.gz-184" start="20546">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-185" type="identity">
+      <class id="associations" label=""/>
+      <span end="20569" id="PMC6033232.nxml.gz-185" start="20557">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-186" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20808" id="PMC6033232.nxml.gz-186" start="20633">The associations of other maternal dietary factors with specific infant gut microbes were also somewhat unexpected, namely for red and processed meat and for fruit consumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-187" type="identity">
+      <class id="associations" label=""/>
+      <span end="20649" id="PMC6033232.nxml.gz-187" start="20637">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-188" type="identity">
+      <class id="unexpected" label=""/>
+      <span end="20747" id="PMC6033232.nxml.gz-188" start="20737">unexpected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21184" id="PMC6033232.nxml.gz-189" start="20810">While fruit is considered healthful and red and processed meat consumption is recommended to be limited, OTUs in the genus Bifidobacterium , generally recognized as a beneficial microbe, were decreased with increasing maternal fruit consumption in vaginally born infants yet increased with higher maternal red and processed meat consumption in those born by Cesarean section</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2150" id="PMC6033232.nxml.gz-19" start="1968">Maternal dairy intake was associated with an increased odds of infants belonging to the high Clostridium cluster in infants born by Cesarean section (OR (95% CI) = 2.36 (1.05, 5.30))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-190" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-191" type="identity">
+      <class id="controversy" label=""/>
+      <span end="20815" id="PMC6033232.nxml.gz-191" start="20810">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-192" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-193" type="identity">
+      <class id="recommended" label=""/>
+      <span end="20899" id="PMC6033232.nxml.gz-193" start="20888">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-194" type="identity">
+      <class id="yet" label=""/>
+      <span end="21084" id="PMC6033232.nxml.gz-194" start="21081">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-195" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21278" id="PMC6033232.nxml.gz-195" start="21186">The results from infant gut microbiome cluster analyses are consistent with this observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-196" type="identity">
+      <class id="consistent" label=""/>
+      <span end="21256" id="PMC6033232.nxml.gz-196" start="21246">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-197" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21601" id="PMC6033232.nxml.gz-197" start="21280">For example, it is surprising that higher maternal fruit intake is associated with an increased probability of an infant delivered vaginally belonging to cluster 2, in which the genera Bifidobacterium and Bacteroides are underrepresented and the family Clostridiaceae is overrepresented compared to the other two clusters</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-198" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="21309" id="PMC6033232.nxml.gz-198" start="21299">surprising</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-199" type="identity">
+      <class id="associated" label=""/>
+      <span end="21357" id="PMC6033232.nxml.gz-199" start="21347">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2" type="identity">
+      <class id="related" label=""/>
+      <span end="41" id="PMC6033232.nxml.gz-2" start="34">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-20" type="identity">
+      <class id="associated" label=""/>
+      <span end="2004" id="PMC6033232.nxml.gz-20" start="1994">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-200" type="identity">
+      <class id="probability" label=""/>
+      <span end="21387" id="PMC6033232.nxml.gz-200" start="21376">probability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-201" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21727" id="PMC6033232.nxml.gz-201" start="21603">The effect of maternal dairy intake on infant gut microbiota was primarily observed in infants delivered by Cesarean section</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-202" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="21613" id="PMC6033232.nxml.gz-202" start="21607">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-203" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22295" id="PMC6033232.nxml.gz-203" start="21951">One recent study suggests that both the microbial and fatty acid composition of breast milk may differ by delivery mode [18], so the differential effect of maternal dairy intake by delivery mode on the infant gut microbiome may be attributable to the differences in breast milk microbiota or lipids in relation to maternal diet by delivery mode</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-204" type="identity">
+      <class id="suggests" label=""/>
+      <span end="21976" id="PMC6033232.nxml.gz-204" start="21968">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-205" type="identity">
+      <class id="may" label=""/>
+      <span end="22046" id="PMC6033232.nxml.gz-205" start="22043">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-206" type="identity">
+      <class id="may_be" label=""/>
+      <span end="22181" id="PMC6033232.nxml.gz-206" start="22175">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-207" type="identity">
+      <class id="relation" label=""/>
+      <span end="22261" id="PMC6033232.nxml.gz-207" start="22253">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-208" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2281" id="PMC6033232.nxml.gz-21" start="2152">Linear models suggested additional associations between maternal diet and infant intestinal microbes in both delivery mode strata</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-210" type="identity">
+      <class id="interesting" label=""/>
+      <span end="22503" id="PMC6033232.nxml.gz-210" start="22492">interesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-211" type="identity">
+      <class id="associations" label=""/>
+      <span end="22549" id="PMC6033232.nxml.gz-211" start="22537">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-212" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-213" type="identity">
+      <class id="involved" label=""/>
+      <span end="22734" id="PMC6033232.nxml.gz-213" start="22726">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-214" type="identity">
+      <class id="affected" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-215" type="identity">
+      <class id="potential" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23179" id="PMC6033232.nxml.gz-216" start="22983">Thus, it will be important to investigate whether maternal dairy consumption fosters the growth of potentially pathogenic microbes in the infant gut, particularly for infants delivered operatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-217" type="identity">
+      <class id="will" label=""/>
+      <span end="22996" id="PMC6033232.nxml.gz-217" start="22992">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-218" type="identity">
+      <class id="important" label=""/>
+      <span end="23009" id="PMC6033232.nxml.gz-218" start="23000">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-219" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-22" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-220" type="identity">
+      <class id="whether" label=""/>
+      <span end="23032" id="PMC6033232.nxml.gz-220" start="23025">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-221" type="identity">
+      <class id="potentially" label=""/>
+      <span end="23093" id="PMC6033232.nxml.gz-221" start="23082">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-222" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23305" id="PMC6033232.nxml.gz-222" start="23181">In several cases, a maternal dietary factor was associated with a microbe in both delivery groups but in opposite directions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-223" type="identity">
+      <class id="associated" label=""/>
+      <span end="23239" id="PMC6033232.nxml.gz-223" start="23229">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-224" type="identity">
+      <class id="opposite" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-225" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23550" id="PMC6033232.nxml.gz-225" start="23307">Since Cesarean delivery results in differential microbial community structure of the infant gut [24], and the gut microbiome is a complex system, such differences are plausible; experimental studies will be required to confirm this observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-226" type="identity">
+      <class id="complex" label=""/>
+      <span end="23444" id="PMC6033232.nxml.gz-226" start="23437">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-227" type="identity">
+      <class id="plausible" label=""/>
+      <span end="23483" id="PMC6033232.nxml.gz-227" start="23474">plausible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-228" type="identity">
+      <class id="will" label=""/>
+      <span end="23510" id="PMC6033232.nxml.gz-228" start="23506">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-229" type="identity">
+      <class id="require" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-23" type="identity">
+      <class id="suggested" label=""/>
+      <span end="2175" id="PMC6033232.nxml.gz-23" start="2166">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-230" type="identity">
+      <class id="confirm" label=""/>
+      <span end="23533" id="PMC6033232.nxml.gz-230" start="23526">confirm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23675" id="PMC6033232.nxml.gz-231" start="23561">the associations between maternal diet and infant gut microbial communities did not always differ by delivery mode</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-232" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-233" type="identity">
+      <class id="associations" label=""/>
+      <span end="23577" id="PMC6033232.nxml.gz-233" start="23565">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-234" type="identity">
+      <class id="differ" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23907" id="PMC6033232.nxml.gz-235" start="23677">For example, the maternal aMED score was consistently positively and negatively associated with the Enterobacteriaceae family, and additionally negatively associated with the species Escherichia coli , in both delivery mode strata</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-236" type="identity">
+      <class id="consistently" label=""/>
+      <span end="23730" id="PMC6033232.nxml.gz-236" start="23718">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-237" type="identity">
+      <class id="associated" label=""/>
+      <span end="23767" id="PMC6033232.nxml.gz-237" start="23757">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-238" type="identity">
+      <class id="associated" label=""/>
+      <span end="23842" id="PMC6033232.nxml.gz-238" start="23832">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-239" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24059" id="PMC6033232.nxml.gz-239" start="23909">Our study sample was drawn from Northern New England, which has a relatively homogenous population; this could limit the generalizability of the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-24" type="identity">
+      <class id="associations" label=""/>
+      <span end="2199" id="PMC6033232.nxml.gz-24" start="2187">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-240" type="identity">
+      <class id="could" label=""/>
+      <span end="24019" id="PMC6033232.nxml.gz-240" start="24014">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-241" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24025" id="PMC6033232.nxml.gz-241" start="24020">limit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24282" id="PMC6033232.nxml.gz-242" start="24061">However, by limiting unmeasured confounding due to differences in human microbiomes between populations that may result in erroneous associations with dietary differences, our study also may have greater internal validity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-243" type="identity">
+      <class id="however" label=""/>
+      <span end="24068" id="PMC6033232.nxml.gz-243" start="24061">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-244" type="identity">
+      <class id="due_to" label=""/>
+      <span end="24111" id="PMC6033232.nxml.gz-244" start="24105">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-245" type="identity">
+      <class id="may" label=""/>
+      <span end="24173" id="PMC6033232.nxml.gz-245" start="24170">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-246" type="identity">
+      <class id="associations" label=""/>
+      <span end="24206" id="PMC6033232.nxml.gz-246" start="24194">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-247" type="identity">
+      <class id="may" label=""/>
+      <span end="24251" id="PMC6033232.nxml.gz-247" start="24248">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-248" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24457" id="PMC6033232.nxml.gz-248" start="24284">Maternal diet was assessed by self-report between 24 and 28 weeks of gestation, and it is possible that dietary patterns change near the end of pregnancy or during lactation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-249" type="identity">
+      <class id="assessed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2416" id="PMC6033232.nxml.gz-25" start="2296">Our data indicate that maternal diet influences the infant gut microbiome and that these effects differ by delivery mode</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-250" type="identity">
+      <class id="it_is_possible" label=""/>
+      <span end="24382" id="PMC6033232.nxml.gz-250" start="24368">it is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-251" type="identity">
+      <class id="however" label=""/>
+      <span end="24466" id="PMC6033232.nxml.gz-251" start="24459">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-252" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24682" id="PMC6033232.nxml.gz-252" start="24459">However, diets are often stable, and a mid-pregnancy food frequency questionnaire (FFQ)-assessment is likely to be sufficiently representative of late pregnancy and lactation diet in a high proportion of individuals [25,26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-253" type="identity">
+      <class id="likely" label=""/>
+      <span end="24567" id="PMC6033232.nxml.gz-253" start="24561">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24772" id="PMC6033232.nxml.gz-254" start="24684">Nonetheless, the effects we observe may be due in part to maternal diet during lactation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-255" type="identity">
+      <class id="effects" label=""/>
+      <span end="24708" id="PMC6033232.nxml.gz-255" start="24701">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-256" type="identity">
+      <class id="may_be" label=""/>
+      <span end="24726" id="PMC6033232.nxml.gz-256" start="24720">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-257" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="24738" id="PMC6033232.nxml.gz-257" start="24731">in part</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-258" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-26" type="identity">
+      <class id="indicate" label=""/>
+      <span end="2313" id="PMC6033232.nxml.gz-26" start="2305">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-260" type="identity">
+      <class id="alternative_options" label=""/>
+      <span end="24804" id="PMC6033232.nxml.gz-260" start="24802">if</span>
+      <span end="24868" id="PMC6033232.nxml.gz-261" start="24866">or</span>
+      <span end="24905" id="PMC6033232.nxml.gz-2611" start="24903">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2601" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="3251" id="PMC6033232.nxml.gz-2602" start="3244">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2603" type="identity">
+      <class id="subject_scope"/>
+      <span end="11836" id="PMC6033232.nxml.gz-2604" start="11743">To assess the relationship between maternal dietary factors and infant gut cluster membership</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2605" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="19434" id="PMC6033232.nxml.gz-2606" start="19426">apparent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2607" type="identity">
+      <class id="subject_scope"/>
+      <span end="22672" id="PMC6033232.nxml.gz-2608" start="22297">Our observation of increased colonization with the species Acinetobacter rhizosphaerae , a microbe that colonizes and promotes growth in plants [19], with maternal dairy in the Cesarean group is interesting in conjunction with the positive associations found between maternal dairy and the species Clostridium neonatale and Staphylococcus genus in vaginally delivered infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2609" type="identity">
+      <class id="subject_scope"/>
+      <span end="22981" id="PMC6033232.nxml.gz-2610" start="22674">Species of the genus Acinetobacter are increasingly involved in nosocomial infections [20], while the species Clostridium neonatale was initially isolated from infants affected by necrotizing enterocolitis [21], and the pathogenic potential of species in the genus Staphylococcus is well-established [22,23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2612" type="identity">
+      <class id="subject_scope"/>
+      <span end="24946" id="PMC6033232.nxml.gz-2613" start="24774">Further, we cannot conclude if the effects of maternal diet occur only in breastfed babies, or also in those mostly fed formula, or a combination of formula and breast milk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2614" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="34916" id="PMC6033232.nxml.gz-2615" start="34909">to test</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2616" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="34713" id="PMC6033232.nxml.gz-2617" start="34711">To</span>
+      <span end="34737" id="PMC6033232.nxml.gz-2618" start="34729">identify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-2619" type="identity">
+      <class id="problem_complication"/>
+      <span end="35959" id="PMC6033232.nxml.gz-2620" start="35950">imprecise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-262" type="identity">
+      <class id="effects" label=""/>
+      <span end="24816" id="PMC6033232.nxml.gz-262" start="24809">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-264" type="identity">
+      <class id="mostly" label=""/>
+      <span end="24889" id="PMC6033232.nxml.gz-264" start="24883">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-265" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25110" id="PMC6033232.nxml.gz-265" start="24948">It is also possible that associations between maternal exposures and infant microbiota at 6 weeks of life are influenced by factors not investigated in this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-266" type="identity">
+      <class id="possible" label=""/>
+      <span end="24967" id="PMC6033232.nxml.gz-266" start="24959">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-267" type="identity">
+      <class id="associations" label=""/>
+      <span end="24985" id="PMC6033232.nxml.gz-267" start="24973">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-268" type="identity">
+      <class id="influence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-269" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="25068" id="PMC6033232.nxml.gz-269" start="25058">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-27" type="identity">
+      <class id="influences" label=""/>
+      <span end="2343" id="PMC6033232.nxml.gz-27" start="2333">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-270" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="25096" id="PMC6033232.nxml.gz-270" start="25080">not investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-273" type="identity">
+      <class id="future_studies" label=""/>
+      <span end="25126" id="PMC6033232.nxml.gz-273" start="25112">Future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-274" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25426" id="PMC6033232.nxml.gz-274" start="25112">Future studies examining the relationship between maternal diet and components of breast milk including microbial and nutritional profiles, as well as the potential influence of maternal diet on the fetal microbiome, may offer insight into the mechanisms by which maternal diet influences the infant gut microbiome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-275" type="identity">
+      <class id="relationship" label=""/>
+      <span end="25153" id="PMC6033232.nxml.gz-275" start="25141">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-276" type="identity">
+      <class id="potential" label=""/>
+      <span end="25276" id="PMC6033232.nxml.gz-276" start="25267">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-277" type="identity">
+      <class id="influence" label=""/>
+      <span end="25286" id="PMC6033232.nxml.gz-277" start="25277">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-278" type="identity">
+      <class id="may" label=""/>
+      <span end="25332" id="PMC6033232.nxml.gz-278" start="25329">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-279" type="identity">
+      <class id="insight" label=""/>
+      <span end="25346" id="PMC6033232.nxml.gz-279" start="25339">insight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-28" type="identity">
+      <class id="effects" label=""/>
+      <span end="2392" id="PMC6033232.nxml.gz-28" start="2385">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-280" type="identity">
+      <class id="influences" label=""/>
+      <span end="25400" id="PMC6033232.nxml.gz-280" start="25390">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25658" id="PMC6033232.nxml.gz-281" start="25428">Determining the impact of changes in the gut microbiome of infants due to maternal diet on infant health and development is an opportunity to refine dietary recommendations for pregnant and lactating women to support infant health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-282" type="identity">
+      <class id="impact" label=""/>
+      <span end="25450" id="PMC6033232.nxml.gz-282" start="25444">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-283" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-284" type="identity">
+      <class id="opportunity" label=""/>
+      <span end="25566" id="PMC6033232.nxml.gz-284" start="25555">opportunity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-285" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="25600" id="PMC6033232.nxml.gz-285" start="25585">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-286" type="identity">
+      <class id="support" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-287" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25885" id="PMC6033232.nxml.gz-287" start="25673">In conclusion, we identified three clusters of infant gut microbial communities and observed effects of multiple maternal prenatal dietary factors on the infant gut microbiome that often varied by delivery mode.
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-288" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-289" type="identity">
+      <class id="effects" label=""/>
+      <span end="25773" id="PMC6033232.nxml.gz-289" start="25766">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2735" id="PMC6033232.nxml.gz-29" start="2601">Studies have examined the maternal contribution to infant health, including the effect of maternal diet during pregnancy and lactation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-293" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32747" id="PMC6033232.nxml.gz-293" start="32533">In preliminary analyses of all infants, delivery mode, feeding method, as previously shown in our cohort [24], and parity were significantly related to infant stool microbial community composition at 6 weeks of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-294" type="identity">
+      <class id="preliminary" label=""/>
+      <span end="32547" id="PMC6033232.nxml.gz-294" start="32536">preliminary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-295" type="identity">
+      <class id="previously_shown" label=""/>
+      <span end="32623" id="PMC6033232.nxml.gz-295" start="32607">previously shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-296" type="identity">
+      <class id="related" label=""/>
+      <span end="32681" id="PMC6033232.nxml.gz-296" start="32674">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-297" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33232" id="PMC6033232.nxml.gz-297" start="33020">Adjusted analyses included both variables known to be related to the infant gut microbiome by previous studies and variables significantly related to infant gut microbiota in our population to control confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-298" type="identity">
+      <class id="related" label=""/>
+      <span end="33081" id="PMC6033232.nxml.gz-298" start="33074">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-299" type="identity">
+      <class id="previous...studies" label=""/>
+      <span end="33130" id="PMC6033232.nxml.gz-299" start="33114">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="257" id="PMC6033232.nxml.gz-3" start="133">The gut microbiome has an important role in infant health and immune development and may be affected by early-life exposures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-30" type="identity">
+      <class id="examine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-300" type="identity">
+      <class id="related" label=""/>
+      <span end="33166" id="PMC6033232.nxml.gz-300" start="33159">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-301" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="34351" id="PMC6033232.nxml.gz-301" start="34342">To assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-302" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34450" id="PMC6033232.nxml.gz-302" start="34342">To assess the relationship between each maternal dietary factor and infant gut microbiome cluster membership</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-303" type="identity">
+      <class id="relationship" label=""/>
+      <span end="34368" id="PMC6033232.nxml.gz-303" start="34356">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-304" type="identity">
+      <class id="which" label=""/>
+      <span end="34743" id="PMC6033232.nxml.gz-304" start="34738">which</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34873" id="PMC6033232.nxml.gz-305" start="34711">To more precisely identify which microbial taxa contribute to the observed differences in infant stool microbial community composition by maternal dietary factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-306" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34984" id="PMC6033232.nxml.gz-306" start="34909">to test the relationships between each maternal dietary factor and each OTU</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-307" type="identity">
+      <class id="relationships" label=""/>
+      <span end="34934" id="PMC6033232.nxml.gz-307" start="34921">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-308" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35869" id="PMC6033232.nxml.gz-308" start="35731">in the Cesarean section group to assess if an effect of maternal diet on the infant gut microbiome exists in the case of surgical delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-309" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="35770" id="PMC6033232.nxml.gz-309" start="35761">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-31" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2648" id="PMC6033232.nxml.gz-31" start="2636">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-310" type="identity">
+      <class id="if" label=""/>
+      <span end="35773" id="PMC6033232.nxml.gz-310" start="35771">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-311" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="35986" id="PMC6033232.nxml.gz-311" start="35871">We were unable to adjust for antibiotic usage due to a paucity of exposure and imprecise data on timing of exposure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-312" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="35885" id="PMC6033232.nxml.gz-312" start="35879">unable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-313" type="identity">
+      <class id="due_to" label=""/>
+      <span end="35923" id="PMC6033232.nxml.gz-313" start="35917">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-314" type="identity">
+      <class id="paucity" label=""/>
+      <span end="35933" id="PMC6033232.nxml.gz-314" start="35926">paucity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2798" id="PMC6033232.nxml.gz-32" start="2737">Prenatal diet influences the risk of infant and child allergy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-33" type="identity">
+      <class id="influences" label=""/>
+      <span end="2761" id="PMC6033232.nxml.gz-33" start="2751">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2975" id="PMC6033232.nxml.gz-34" start="2800">For instance, the Mediterranean diet during pregnancy has been associated with a reduced risk of both persistent and atopic wheeze and atopy in children at 6.5 years old [1,2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-35" type="identity">
+      <class id="has...been" label=""/>
+      <span end="2862" id="PMC6033232.nxml.gz-35" start="2854">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-36" type="identity">
+      <class id="associated" label=""/>
+      <span end="2873" id="PMC6033232.nxml.gz-36" start="2863">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3175" id="PMC6033232.nxml.gz-37" start="2977">High meat consumption during pregnancy is associated with an increased risk of wheeze in the first year of life, while maternal dairy intake is associated with a reduced risk of infantile wheeze [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-38" type="identity">
+      <class id="associated" label=""/>
+      <span end="3029" id="PMC6033232.nxml.gz-38" start="3019">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-39" type="identity">
+      <class id="while" label=""/>
+      <span end="3095" id="PMC6033232.nxml.gz-39" start="3090">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-4" type="identity">
+      <class id="important" label=""/>
+      <span end="168" id="PMC6033232.nxml.gz-4" start="159">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-40" type="identity">
+      <class id="associated" label=""/>
+      <span end="3131" id="PMC6033232.nxml.gz-40" start="3121">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3269" id="PMC6033232.nxml.gz-41" start="3177">Little is known about the actual mechanisms by which maternal diet affects children’s health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-42" type="identity">
+      <class id="little...is_known" label=""/>
+      <span end="3192" id="PMC6033232.nxml.gz-42" start="3177">Little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-43" type="identity">
+      <class id="affect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3411" id="PMC6033232.nxml.gz-44" start="3271">we hypothesize that maternal diet impacts the development of the gut microbiome in infancy and subsequently influences child health outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-45" type="identity">
+      <class id="hypothesize" label=""/>
+      <span end="3285" id="PMC6033232.nxml.gz-45" start="3274">hypothesize</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-46" type="identity">
+      <class id="impacts" label=""/>
+      <span end="3312" id="PMC6033232.nxml.gz-46" start="3305">impacts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-47" type="identity">
+      <class id="influences" label=""/>
+      <span end="3389" id="PMC6033232.nxml.gz-47" start="3379">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3485" id="PMC6033232.nxml.gz-48" start="3413">It is established that diet is an important driver of the gut microbiome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-49" type="identity">
+      <class id="important" label=""/>
+      <span end="3456" id="PMC6033232.nxml.gz-49" start="3447">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-5" type="identity">
+      <class id="role" label=""/>
+      <span end="173" id="PMC6033232.nxml.gz-5" start="169">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-50" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3606" id="PMC6033232.nxml.gz-50" start="3487">Short-term diets comprised solely of either plant or animal foods have been shown to alter the human gut microbiome [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-51" type="identity">
+      <class id="have_been_shown" label=""/>
+      <span end="3568" id="PMC6033232.nxml.gz-51" start="3553">have been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-53" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3904" id="PMC6033232.nxml.gz-55" start="3784">To date, there has been limited investigation of the relation of maternal diet with the developing infant gut microbiome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-56" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3807" id="PMC6033232.nxml.gz-56" start="3799">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-57" type="identity">
+      <class id="limited" label=""/>
+      <span end="3815" id="PMC6033232.nxml.gz-57" start="3808">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-58" type="identity">
+      <class id="relation" label=""/>
+      <span end="3845" id="PMC6033232.nxml.gz-58" start="3837">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-59" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4059" id="PMC6033232.nxml.gz-59" start="3906">One study observed that maternal high-fat diet during pregnancy was associated with meconium microbial composition but had limited maternal diet data [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-6" type="identity">
+      <class id="may_be" label=""/>
+      <span end="224" id="PMC6033232.nxml.gz-6" start="218">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-60" type="identity">
+      <class id="associated" label=""/>
+      <span end="3984" id="PMC6033232.nxml.gz-60" start="3974">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-61" type="identity">
+      <class id="limited" label=""/>
+      <span end="4036" id="PMC6033232.nxml.gz-61" start="4029">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4202" id="PMC6033232.nxml.gz-62" start="4061">One mechanism the infant gut microbiome may be affected by maternal diet is via vertical transfer of maternal microbes to infants at delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-63" type="identity">
+      <class id="may_be" label=""/>
+      <span end="4107" id="PMC6033232.nxml.gz-63" start="4101">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-64" type="identity">
+      <class id="affected" label=""/>
+      <span end="4116" id="PMC6033232.nxml.gz-64" start="4108">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4383" id="PMC6033232.nxml.gz-65" start="4204">There is a well-established relation of the infant gut microbiome with delivery mode (Cesarean section versus vaginally born infants) [7,8] which may persist through adulthood [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-66" type="identity">
+      <class id="relation" label=""/>
+      <span end="4240" id="PMC6033232.nxml.gz-66" start="4232">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-67" type="identity">
+      <class id="may" label=""/>
+      <span end="4353" id="PMC6033232.nxml.gz-67" start="4350">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-68" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4515" id="PMC6033232.nxml.gz-68" start="4385">Alternatively, maternal diet may affect fetal development and subsequent host response to microbial populations at and after birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-69" type="identity">
+      <class id="alternative" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-7" type="identity">
+      <class id="affected" label=""/>
+      <span end="233" id="PMC6033232.nxml.gz-7" start="225">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-70" type="identity">
+      <class id="alternative_options" label=""/>
+      <span end="4398" id="PMC6033232.nxml.gz-70" start="4385">Alternatively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-71" type="identity">
+      <class id="may" label=""/>
+      <span end="4417" id="PMC6033232.nxml.gz-71" start="4414">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-72" type="identity">
+      <class id="affect" label=""/>
+      <span end="4424" id="PMC6033232.nxml.gz-72" start="4418">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4655" id="PMC6033232.nxml.gz-73" start="4517">Additionally, differences in breast milk composition due to maternal diet may contribute to the infant gut microbiome in breastfed infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-74" type="identity">
+      <class id="due_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-75" type="identity">
+      <class id="may" label=""/>
+      <span end="4594" id="PMC6033232.nxml.gz-75" start="4591">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-76" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4830" id="PMC6033232.nxml.gz-76" start="4657">We examined the relationship of maternal diet during pregnancy with the infant stool microbiome in 6-week-old infants and identified associations within delivery mode groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-77" type="identity">
+      <class id="examine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-78" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="4668" id="PMC6033232.nxml.gz-78" start="4660">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-79" type="identity">
+      <class id="relationship" label=""/>
+      <span end="4685" id="PMC6033232.nxml.gz-79" start="4673">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="412" id="PMC6033232.nxml.gz-8" start="259">Maternal diet may influence the infant gut microbiome through vertical transfer of maternal microbes to infants during vaginal delivery and breastfeeding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-80" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-81" type="identity">
+      <class id="associations" label=""/>
+      <span end="4802" id="PMC6033232.nxml.gz-81" start="4790">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-82" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-83" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9183" id="PMC6033232.nxml.gz-84" start="8960">Adjusting for infant feeding method, maternal BMI, parity, and batch, maternal fruit consumption was associated with infant stool microbiome composition (generalized UniFrac distance PERMANOVA, p  = 0.028; Table 2; Fig. 1a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-85" type="identity">
+      <class id="associated" label=""/>
+      <span end="9071" id="PMC6033232.nxml.gz-85" start="9061">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9437" id="PMC6033232.nxml.gz-86" start="9185">In a sensitivity analysis, the effect of maternal fruit consumption on the infant gut microbiome in babies born vaginally persisted when restricted to infants who were exclusively breastfed (generalized UniFrac distance PERMANOVA, p  = 0.022; Table 2 )</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-87" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="9222" id="PMC6033232.nxml.gz-87" start="9216">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-88" type="identity">
+      <class id="relation" label=""/>
+      <span end="9650" id="PMC6033232.nxml.gz-88" start="9642">Relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-89" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9746" id="PMC6033232.nxml.gz-89" start="9642">Relation of microbial community composition in vaginally delivered 6-week old infants with maternal diet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-9" type="identity">
+      <class id="may" label=""/>
+      <span end="276" id="PMC6033232.nxml.gz-9" start="273">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-90" type="identity">
+      <class id="associations" label=""/>
+      <span end="10275" id="PMC6033232.nxml.gz-90" start="10263">Associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10365" id="PMC6033232.nxml.gz-91" start="10263">Associations between maternal diet and infant gut microbial communities in infants delivered vaginally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-92" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-93" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-94" type="identity">
+      <class id="to_assess" label=""/>
+      <span end="11752" id="PMC6033232.nxml.gz-94" start="11743">To assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-95" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-96" type="identity">
+      <class id="relationship" label=""/>
+      <span end="11769" id="PMC6033232.nxml.gz-96" start="11757">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12208" id="PMC6033232.nxml.gz-97" start="12068">These results were consistent when infants delivered prematurely were not included in the analyses (Additional file 1: Table S9, Figure S6a)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-98" type="identity">
+      <class id="consistent" label=""/>
+      <span end="12097" id="PMC6033232.nxml.gz-98" start="12087">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6033232.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="12302" id="PMC6033232.nxml.gz-99" start="12242">Infant gut microbiome cluster is influenced by maternal diet</span>
+    </annotation>
+  </document>
+</knowtator-project>

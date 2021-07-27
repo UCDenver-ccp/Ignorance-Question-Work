@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC1626394.nxml.gz" text-file="PMC1626394.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="179" id="PMC1626394.nxml.gz-1" start="49">Pregnant women are famously exhorted to faithfully take their daily prenatal vitamins, which often contain iron and other minerals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-10" type="identity">
+      <class id="suggesting" label=""/>
+      <span end="1430" id="PMC1626394.nxml.gz-10" start="1420">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-11" type="identity">
+      <class id="ironically" label=""/>
+      <span end="2125" id="PMC1626394.nxml.gz-11" start="2115">Ironically</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2271" id="PMC1626394.nxml.gz-12" start="2115">Ironically, both early gestational iron-deficiency anemia and hemoconcentration later in pregnancy increase the risk of premature birth and low birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-13" type="identity">
+      <class id="thus" label=""/>
+      <span end="2277" id="PMC1626394.nxml.gz-13" start="2273">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2389" id="PMC1626394.nxml.gz-14" start="2273">Thus, the researchers suggest that excess iron supplementation can cause the same problems it is supposed to correct</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-15" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2302" id="PMC1626394.nxml.gz-15" start="2295">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-16" type="identity">
+      <class id="problems" label=""/>
+      <span end="2363" id="PMC1626394.nxml.gz-16" start="2355">problems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-17" type="identity">
+      <class id="supposed_to" label=""/>
+      <span end="2381" id="PMC1626394.nxml.gz-17" start="2370">supposed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2611" id="PMC1626394.nxml.gz-18" start="2391">Animal studies suggest that excess iron can also trigger formation of free radicals in the intestinal mucosa and other tissues, and that both iron deficiency and iron overload can damage nuclear DNA and mitochondrial DNA</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-19" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2413" id="PMC1626394.nxml.gz-19" start="2406">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-2" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="85" id="PMC1626394.nxml.gz-2" start="77">exhorted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-20" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2672" id="PMC1626394.nxml.gz-20" start="2613">This kind of damage has been implicated in cancer induction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-21" type="identity">
+      <class id="has_been" label=""/>
+      <span end="2641" id="PMC1626394.nxml.gz-21" start="2633">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-22" type="identity">
+      <class id="implicated" label=""/>
+      <span end="2652" id="PMC1626394.nxml.gz-22" start="2642">implicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-23" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2910" id="PMC1626394.nxml.gz-23" start="2793">however, mature cells will stop absorbing iron entirely if they are flooded with it, even if there is an iron deficit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-24" type="identity">
+      <class id="even" label=""/>
+      <span end="2882" id="PMC1626394.nxml.gz-24" start="2878">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-25" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3233" id="PMC1626394.nxml.gz-25" start="3091">A more subtly calibrated iron supplementation during pregnancy may be as effective as current public health recommendations, and perhaps safer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-26" type="identity">
+      <class id="may_be" label=""/>
+      <span end="3160" id="PMC1626394.nxml.gz-26" start="3154">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-27" type="identity">
+      <class id="recommendations" label=""/>
+      <span end="3214" id="PMC1626394.nxml.gz-27" start="3199">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-28" type="identity">
+      <class id="perhaps" label=""/>
+      <span end="3227" id="PMC1626394.nxml.gz-28" start="3220">perhaps</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="452" id="PMC1626394.nxml.gz-3" start="181">But new research suggests that a weekly iron supplement coinciding with the renewal of the small intestine’s mucosal lining cells (where nutrient absorption occurs) works better than a daily supplement and prevents problems resulting from too much iron at the wrong times</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-4" type="identity">
+      <class id="new" label=""/>
+      <span end="188" id="PMC1626394.nxml.gz-4" start="185">new</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-5" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="197" id="PMC1626394.nxml.gz-5" start="185">new research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-5888" type="identity">
+      <class id="explicit_question"/>
+      <span end="48" id="PMC1626394.nxml.gz-5889" start="47">?</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-5890" type="identity">
+      <class id="subject_scope"/>
+      <span end="49" id="PMC1626394.nxml.gz-5891" start="0">Reproductive Toxicity: Too Much of a Good Thing?
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-6" type="identity">
+      <class id="suggests" label=""/>
+      <span end="206" id="PMC1626394.nxml.gz-6" start="198">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-8" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC1626394.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1458" id="PMC1626394.nxml.gz-9" start="1303">None of the women were anemic at that point, but 66% had low levels of ferritin (the principal form of stored iron), suggesting low iron nutritional status</span>
+    </annotation>
+  </document>
+</knowtator-project>

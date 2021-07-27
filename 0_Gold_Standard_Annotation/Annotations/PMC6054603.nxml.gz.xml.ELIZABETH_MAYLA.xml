@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC6054603.nxml.gz" text-file="PMC6054603.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-1" type="identity">
+      <class id="effects" label=""/>
+      <span end="7" id="PMC6054603.nxml.gz-1" start="0">Effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-10" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="374" id="PMC6054603.nxml.gz-10" start="363">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-100" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24527" id="PMC6054603.nxml.gz-100" start="24357">Furthermore, percentage fat, as determined by skinfold thickness measurements has been validated against DXA calculations of fat mass in both infants and children [36,41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-102" type="identity">
+      <class id="has...been" label=""/>
+      <span end="24443" id="PMC6054603.nxml.gz-102" start="24435">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-103" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-104" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24852" id="PMC6054603.nxml.gz-104" start="24529">Although these more detailed body composition assessment tools may have yielded more accurate estimates of the relative proportions of adipose and lean tissue mass, they were not considered feasible for use in the large scale setting required for this follow-up study, and its associated practical and financial constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-105" type="identity">
+      <class id="may" label=""/>
+      <span end="24595" id="PMC6054603.nxml.gz-105" start="24592">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-106" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-107" type="identity">
+      <class id="feasible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-108" type="identity">
+      <class id="require" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-109" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-11" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2462" id="PMC6054603.nxml.gz-11" start="2259">It is well recognised that a woman’s nutrition during pregnancy impacts pregnancy and birth outcomes, with the intra-uterine environment playing a key role in an individual’s later health and disease [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-111" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-112" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-113" type="identity">
+      <class id="to_identify" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-114" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25234" id="PMC6054603.nxml.gz-114" start="25003">While the use of a more sensitive test would provide more detailed and accurate estimates of early neurodevelopmental achievement, the ASQ has been validated against robust assessment tools [32], and in a paediatric population [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-115" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-116" type="identity">
+      <class id="would" label=""/>
+      <span end="25047" id="PMC6054603.nxml.gz-116" start="25042">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-117" type="identity">
+      <class id="has...been" label=""/>
+      <span end="25150" id="PMC6054603.nxml.gz-117" start="25142">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25454" id="PMC6054603.nxml.gz-118" start="25236">Again, the resources and intensive psychology training required to administer, for example, the more complex Bayley Scale, while generating more detailed information, was not considered feasible in our study population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-119" type="identity">
+      <class id="require" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-12" type="identity">
+      <class id="impacts" label=""/>
+      <span end="2330" id="PMC6054603.nxml.gz-12" start="2323">impacts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-120" type="identity">
+      <class id="complex" label=""/>
+      <span end="25344" id="PMC6054603.nxml.gz-120" start="25337">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-121" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-122" type="identity">
+      <class id="feasible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25621" id="PMC6054603.nxml.gz-123" start="25456">A potential limitation of our follow-up study is the risk of selection bias, with only 82% of the available cohort contributing data at 6-month follow-up assessments</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-124" type="identity">
+      <class id="potential" label=""/>
+      <span end="25467" id="PMC6054603.nxml.gz-124" start="25458">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-125" type="identity">
+      <class id="limitation" label=""/>
+      <span end="25478" id="PMC6054603.nxml.gz-125" start="25468">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-126" type="identity">
+      <class id="bias" label=""/>
+      <span end="25531" id="PMC6054603.nxml.gz-126" start="25527">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-127" type="identity">
+      <class id="only" label=""/>
+      <span end="25542" id="PMC6054603.nxml.gz-127" start="25538">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-128" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25702" id="PMC6054603.nxml.gz-128" start="25623">We consider this risk, and the impact on the validity of our findings to be low</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-129" type="identity">
+      <class id="consider" label=""/>
+      <span end="25634" id="PMC6054603.nxml.gz-129" start="25626">consider</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-13" type="identity">
+      <class id="role" label=""/>
+      <span end="2414" id="PMC6054603.nxml.gz-13" start="2410">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-130" type="identity">
+      <class id="impact" label=""/>
+      <span end="25660" id="PMC6054603.nxml.gz-130" start="25654">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26381" id="PMC6054603.nxml.gz-131" start="26135">Our findings indicate no evidence of an effect of a comprehensive dietary and lifestyle intervention provided during pregnancy for women who are overweight or obese, on measures of infant growth, adiposity, and neurodevelopment at 6-months of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-132" type="identity">
+      <class id="indicate" label=""/>
+      <span end="26156" id="PMC6054603.nxml.gz-132" start="26148">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-133" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26644" id="PMC6054603.nxml.gz-133" start="26383">This is despite our previously published findings of significant but modest improvements in maternal diet and physical activity during pregnancy [21], and an 18 and 41% relative reduction in risk of infant birth weight above 4 [22] and 4.5 kg, respectively [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-134" type="identity">
+      <class id="despite" label=""/>
+      <span end="26398" id="PMC6054603.nxml.gz-134" start="26391">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-135" type="identity">
+      <class id="previously" label=""/>
+      <span end="26413" id="PMC6054603.nxml.gz-135" start="26403">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26933" id="PMC6054603.nxml.gz-136" start="26646">While this may reflect evidence of a true lack of persisting effect of maternal dietary modification and birth weight on weight at 6-months of age, it may also be indicative that other factors are of relatively greater importance in driving early, ex-utero, infant growth and development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-137" type="identity">
+      <class id="while" label=""/>
+      <span end="26651" id="PMC6054603.nxml.gz-137" start="26646">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-138" type="identity">
+      <class id="may" label=""/>
+      <span end="26660" id="PMC6054603.nxml.gz-138" start="26657">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-139" type="identity">
+      <class id="lack_of" label=""/>
+      <span end="26695" id="PMC6054603.nxml.gz-139" start="26688">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2681" id="PMC6054603.nxml.gz-14" start="2464">Maternal obesity significantly predicts child and adult obesity in her offspring [4,5], and associated cardio-metabolic risk factors, including hypertension, hyperlipidaemia, diabetes, and cardiovascular disease [6–8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-140" type="identity">
+      <class id="may" label=""/>
+      <span end="26800" id="PMC6054603.nxml.gz-140" start="26797">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-141" type="identity">
+      <class id="importance" label=""/>
+      <span end="26875" id="PMC6054603.nxml.gz-141" start="26865">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27039" id="PMC6054603.nxml.gz-142" start="26935">Previous evidence on the longer-term effects of antenatal dietary and lifestyle interventions is limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-143" type="identity">
+      <class id="evidence...limited" label=""/>
+      <span end="26952" id="PMC6054603.nxml.gz-143" start="26944">evidence</span>
+      <span end="27039" id="PMC6054603.nxml.gz-144" start="27032">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-145" type="identity">
+      <class id="although" label=""/>
+      <span end="27253" id="PMC6054603.nxml.gz-145" start="27245">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-146" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27399" id="PMC6054603.nxml.gz-146" start="27245">Although an assessment was conducted at 6 months post-partum involving 66% of participants [18], there have been no early infant outcomes reported to date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-147" type="identity">
+      <class id="have...been" label=""/>
+      <span end="27357" id="PMC6054603.nxml.gz-147" start="27348">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-148" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-149" type="identity">
+      <class id="impact" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-15" type="identity">
+      <class id="associated" label=""/>
+      <span end="2566" id="PMC6054603.nxml.gz-15" start="2556">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28576" id="PMC6054603.nxml.gz-150" start="28295">However, recently published findings from approximately 46% of eligible infants at 6 months of age (698 of 1522 eligible infants assessed) suggest a very small reduction in subscapular skinfold thickness measurement of ~0.4 mm following provision of the antenatal intervention [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-151" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-152" type="identity">
+      <class id="recently" label=""/>
+      <span end="28312" id="PMC6054603.nxml.gz-152" start="28304">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-153" type="identity">
+      <class id="assessed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-154" type="identity">
+      <class id="suggest" label=""/>
+      <span end="28441" id="PMC6054603.nxml.gz-154" start="28434">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-155" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28977" id="PMC6054603.nxml.gz-155" start="28578">While statistically significant, the clinical significance of such a small difference is questionable, the findings also consistent with a chance occurrence, particularly as this was a secondary outcome, and no other statistically significant differences were identified between the treatment groups in infant BMI, abdominal circumference, or the remainder of infant anthropometric measures obtained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-156" type="identity">
+      <class id="controversy" label=""/>
+      <span end="28583" id="PMC6054603.nxml.gz-156" start="28578">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-157" type="identity">
+      <class id="explicit_question" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-158" type="identity">
+      <class id="controversy" label=""/>
+      <span end="28679" id="PMC6054603.nxml.gz-158" start="28667">questionable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-159" type="identity">
+      <class id="consistent" label=""/>
+      <span end="28709" id="PMC6054603.nxml.gz-159" start="28699">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-16" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2950" id="PMC6054603.nxml.gz-16" start="2683">Kitsantas and colleagues [9] report that maternal pre-gravid obesity increases the odds of pre-school obesity by a factor of 1.6 (OR 1.60; 95% CI 1.26–2.03), while Rooney and colleagues [10] report a substantially greater increase in risk (RR 6.35; 95% CI 3.28–12.30)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29207" id="PMC6054603.nxml.gz-160" start="28979">There is emerging evidence, both from animal and human studies, of an association between maternal obesity and significantly higher risks of impaired offspring cognitive, motor and behavioural aspects of neurodevelopment [44–46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-161" type="identity">
+      <class id="emerging" label=""/>
+      <span end="28996" id="PMC6054603.nxml.gz-161" start="28988">emerging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-162" type="identity">
+      <class id="association" label=""/>
+      <span end="29060" id="PMC6054603.nxml.gz-162" start="29049">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-163" type="identity">
+      <class id="impaired" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-164" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29464" id="PMC6054603.nxml.gz-164" start="29209">Children born to women who are overweight or obese are more likely to be identified with moderate to severe cognitive, motor and global developmental delay at 3 years of age [46], as well as poorer academic achievement extending to 14 years of age [44,45]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-165" type="identity">
+      <class id="likely" label=""/>
+      <span end="29275" id="PMC6054603.nxml.gz-165" start="29269">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29678" id="PMC6054603.nxml.gz-166" start="29466">Autism spectrum disorders in childhood have also been observed and diagnosed more frequently among children born to women with metabolic conditions identified during pregnancy, including diabetes and obesity [47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-167" type="identity">
+      <class id="have...been" label=""/>
+      <span end="29509" id="PMC6054603.nxml.gz-167" start="29505">have</span>
+      <span end="29519" id="PMC6054603.nxml.gz-168" start="29515">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-169" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-17" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-170" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29839" id="PMC6054603.nxml.gz-170" start="29680">Our findings report, for the first time, the impact of an antenatal dietary intervention for women who are overweight or obese on early infant neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-171" type="identity">
+      <class id="first_time" label=""/>
+      <span end="29719" id="PMC6054603.nxml.gz-171" start="29709">first time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-172" type="identity">
+      <class id="impact" label=""/>
+      <span end="29731" id="PMC6054603.nxml.gz-172" start="29725">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30221" id="PMC6054603.nxml.gz-173" start="29841">While we did not identify statistically or clinically significant differences in neurodevelopment at 6-months of age using a reliable screening tool, ongoing follow-up of participants further into childhood will again be important to determine whether there are any potential benefits of improving maternal diet and physical activity during pregnancy on childhood neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-174" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-175" type="identity">
+      <class id="will" label=""/>
+      <span end="30052" id="PMC6054603.nxml.gz-175" start="30048">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-176" type="identity">
+      <class id="important" label=""/>
+      <span end="30071" id="PMC6054603.nxml.gz-176" start="30062">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-177" type="identity">
+      <class id="to_determine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-178" type="identity">
+      <class id="whether" label=""/>
+      <span end="30092" id="PMC6054603.nxml.gz-178" start="30085">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-179" type="identity">
+      <class id="whether...and" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-18" type="identity">
+      <class id="controversy" label=""/>
+      <span end="2846" id="PMC6054603.nxml.gz-18" start="2841">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-181" type="identity">
+      <class id="potential" label=""/>
+      <span end="30116" id="PMC6054603.nxml.gz-181" start="30107">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-182" type="identity">
+      <class id="despite" label=""/>
+      <span end="30344" id="PMC6054603.nxml.gz-182" start="30337">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-183" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30703" id="PMC6054603.nxml.gz-183" start="30337">Despite this, it remains important to continue to follow-up the children whose mothers participated in this intervention trial, particularly in view of the well recognised association between high-infant birth weight and subsequent childhood obesity [48], and the emerging associations between maternal obesity and impaired childhood neurodevelopmental function [46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-184" type="identity">
+      <class id="remains" label=""/>
+      <span end="30361" id="PMC6054603.nxml.gz-184" start="30354">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-185" type="identity">
+      <class id="important" label=""/>
+      <span end="30371" id="PMC6054603.nxml.gz-185" start="30362">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-186" type="identity">
+      <class id="view" label=""/>
+      <span end="30485" id="PMC6054603.nxml.gz-186" start="30481">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-187" type="identity">
+      <class id="association" label=""/>
+      <span end="30520" id="PMC6054603.nxml.gz-187" start="30509">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-188" type="identity">
+      <class id="emerging" label=""/>
+      <span end="30609" id="PMC6054603.nxml.gz-188" start="30601">emerging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-189" type="identity">
+      <class id="associations" label=""/>
+      <span end="30622" id="PMC6054603.nxml.gz-189" start="30610">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3202" id="PMC6054603.nxml.gz-19" start="2952">Exposure to such an intra-uterine environment potentially creates a vicious cycle in which the propensity to obesity is perpetuated, with major adverse public health implications [11,12], and implications for the health of successive generations [13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-190" type="identity">
+      <class id="impaired" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-191" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30911" id="PMC6054603.nxml.gz-191" start="30705">It will be valuable to utilise our clinical and biological databases to explore potential pathways whereby maternal obesity contributes to childhood outcomes, including obesity and impaired neurodevelopment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-192" type="identity">
+      <class id="will" label=""/>
+      <span end="30712" id="PMC6054603.nxml.gz-192" start="30708">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-193" type="identity">
+      <class id="potential" label=""/>
+      <span end="30794" id="PMC6054603.nxml.gz-193" start="30785">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-194" type="identity">
+      <class id="contributes" label=""/>
+      <span end="30840" id="PMC6054603.nxml.gz-194" start="30829">contributes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-195" type="identity">
+      <class id="impaired" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-20" type="identity">
+      <class id="potentially" label=""/>
+      <span end="3009" id="PMC6054603.nxml.gz-20" start="2998">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-21" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="3095" id="PMC6054603.nxml.gz-21" start="3090">major</span>
+      <span end="3130" id="PMC6054603.nxml.gz-22" start="3118">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-23" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-24" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-25" type="identity">
+      <class id="urgent_call_to_action" label=""/>
+      <span end="3156" id="PMC6054603.nxml.gz-25" start="3144">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2587" type="identity">
+      <class id="subject_scope"/>
+      <span end="101" id="PMC6054603.nxml.gz-2588" start="0">Effects of an antenatal dietary intervention in overweight and obese women on 6 month infant outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2589" type="identity">
+      <class id="urgent_call_to_action"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2591" type="identity">
+      <class id="urgent_call_to_action"/>
+      <span end="3724" id="PMC6054603.nxml.gz-2592" start="3708">directed towards</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2593" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="24214" id="PMC6054603.nxml.gz-2594" start="24195">considered reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2595" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="24727" id="PMC6054603.nxml.gz-2596" start="24704">not considered feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2597" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25430" id="PMC6054603.nxml.gz-2598" start="25407">not considered feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-2599" type="identity">
+      <class id="controversy"/>
+      <span end="28302" id="PMC6054603.nxml.gz-2600" start="28295">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-26" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3408" id="PMC6054603.nxml.gz-26" start="3204">There has been considerable research interest in the provision of antenatal dietary interventions during pregnancy to limit weight gain and improve pregnancy and birth outcomes for women and their infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-27" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3218" id="PMC6054603.nxml.gz-27" start="3210">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-28" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3249" id="PMC6054603.nxml.gz-28" start="3232">research interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-29" type="identity">
+      <class id="interest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="343" id="PMC6054603.nxml.gz-3" start="167">The immediate impact of providing an antenatal dietary intervention during pregnancy has been extensively studied, but little is known of the effects beyond the neonatal period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-30" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3601" id="PMC6054603.nxml.gz-30" start="3410">A comprehensive systematic review by Thangaratinam and colleagues [14] has identified numerous studies assessing dietary and lifestyle interventions in pregnancy, albeit mostly small in scope</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-31" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-32" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3512" id="PMC6054603.nxml.gz-32" start="3505">studies</span>
+      <span end="3601" id="PMC6054603.nxml.gz-33" start="3587">small in scope</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3825" id="PMC6054603.nxml.gz-34" start="3603">While the findings reveal a relatively modest impact on weight gain [14], very little attention has been directed towards the ongoing follow-up of women and infants beyond the neonatal period to assess longer term outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-35" type="identity">
+      <class id="controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-36" type="identity">
+      <class id="impact" label=""/>
+      <span end="3655" id="PMC6054603.nxml.gz-36" start="3649">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-37" type="identity">
+      <class id="very_little" label=""/>
+      <span end="3688" id="PMC6054603.nxml.gz-37" start="3677">very little</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-38" type="identity">
+      <class id="little_attention" label=""/>
+      <span end="3698" id="PMC6054603.nxml.gz-38" start="3682">little attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-39" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3707" id="PMC6054603.nxml.gz-39" start="3699">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-4" type="identity">
+      <class id="impact" label=""/>
+      <span end="187" id="PMC6054603.nxml.gz-4" start="181">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-40" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-41" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4024" id="PMC6054603.nxml.gz-41" start="3827">To our knowledge, only three randomised trials involving the provision of an antenatal dietary intervention [15–17] have conducted and reported findings of follow-up to 6 months after birth [18–20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-42" type="identity">
+      <class id="only" label=""/>
+      <span end="3849" id="PMC6054603.nxml.gz-42" start="3845">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-43" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-44" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4116" id="PMC6054603.nxml.gz-44" start="4035">these studies have been limited by the relatively low rates of assessment [18–20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-45" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-46" type="identity">
+      <class id="have...been" label=""/>
+      <span end="4058" id="PMC6054603.nxml.gz-46" start="4049">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-47" type="identity">
+      <class id="limited" label=""/>
+      <span end="4066" id="PMC6054603.nxml.gz-47" start="4059">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-48" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4351" id="PMC6054603.nxml.gz-48" start="4118">Furthermore, studies have focussed predominantly on measures of adiposity, and have not reported other clinically relevant infant outcomes [18,20], or specifically reported infant outcomes among women who are overweight or obese [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-5" type="identity">
+      <class id="has...been" label=""/>
+      <span end="260" id="PMC6054603.nxml.gz-5" start="252">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-50" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="4214" id="PMC6054603.nxml.gz-50" start="4202">not reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4720" id="PMC6054603.nxml.gz-51" start="4353">We have previously shown that a comprehensive dietary and lifestyle intervention during pregnancy, in women who are overweight or obese, significantly improves both maternal diet and physical activity [21], is associated with an 18 and 41% relative reduction in the risk of high infant birth weight above 4 and 4.5 kg [22,23], and was a cost neutral intervention [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-52" type="identity">
+      <class id="previously_shown" label=""/>
+      <span end="4377" id="PMC6054603.nxml.gz-52" start="4361">previously shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-53" type="identity">
+      <class id="associated" label=""/>
+      <span end="4573" id="PMC6054603.nxml.gz-53" start="4563">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-54" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4833" id="PMC6054603.nxml.gz-54" start="4722">On-going participant follow-up is required to assess the further impact of these findings on childhood outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-55" type="identity">
+      <class id="require" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-56" type="identity">
+      <class id="future_work" label=""/>
+      <span end="4764" id="PMC6054603.nxml.gz-56" start="4756">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-57" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-58" type="identity">
+      <class id="impact" label=""/>
+      <span end="4793" id="PMC6054603.nxml.gz-58" start="4787">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-59" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+      <span end="4850" id="PMC6054603.nxml.gz-59" start="4835">This manuscript</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-6" type="identity">
+      <class id="little...is_known" label=""/>
+      <span end="301" id="PMC6054603.nxml.gz-6" start="286">little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4941" id="PMC6054603.nxml.gz-60" start="4835">This manuscript reports the effect of the LIMIT antenatal dietary intervention, on 6-month infant outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-64" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-66" type="identity">
+      <class id="would" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-67" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-68" type="identity">
+      <class id="would" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-69" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-7" type="identity">
+      <class id="effects" label=""/>
+      <span end="316" id="PMC6054603.nxml.gz-7" start="309">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-70" type="identity">
+      <class id="could" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-71" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-73" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-74" type="identity">
+      <class id="assumption" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-76" type="identity">
+      <class id="assumption" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-77" type="identity">
+      <class id="plausible" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-78" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="491" id="PMC6054603.nxml.gz-8" start="345">Our objective was to evaluate the effect of an antenatal dietary intervention in overweight or obese women on infant outcomes 6 months after birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-80" type="identity">
+      <class id="assumption" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-81" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22622" id="PMC6054603.nxml.gz-81" start="22456">There was no evidence to suggest that the effect of the antenatal intervention was modified by maternal BMI category for any of the reported outcomes (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-82" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="22477" id="PMC6054603.nxml.gz-82" start="22466">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-83" type="identity">
+      <class id="suggest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22931" id="PMC6054603.nxml.gz-84" start="22822">The results, in terms of both direction and magnitude of effect, were consistent across all of these analyses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-85" type="identity">
+      <class id="consistent" label=""/>
+      <span end="22902" id="PMC6054603.nxml.gz-85" start="22892">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23172" id="PMC6054603.nxml.gz-86" start="22945">Our findings indicate that provision of an antenatal dietary intervention for overweight or obese women was not associated with effects on infant growth, measures of adiposity, and neurodevelopmental outcomes at 6 months of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-87" type="identity">
+      <class id="indicate" label=""/>
+      <span end="22966" id="PMC6054603.nxml.gz-87" start="22958">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-88" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-89" type="identity">
+      <class id="effects" label=""/>
+      <span end="23080" id="PMC6054603.nxml.gz-89" start="23073">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-9" type="identity">
+      <class id="objective" label=""/>
+      <span end="358" id="PMC6054603.nxml.gz-9" start="349">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23282" id="PMC6054603.nxml.gz-90" start="23174">There was no evidence to suggest that the effects of the intervention were modified by maternal BMI category</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-91" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="23195" id="PMC6054603.nxml.gz-91" start="23184">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-92" type="identity">
+      <class id="suggest" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-93" type="identity">
+      <class id="effects" label=""/>
+      <span end="23223" id="PMC6054603.nxml.gz-93" start="23216">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24122" id="PMC6054603.nxml.gz-94" start="24029">A number of techniques have been described in the assessment of early infant body composition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-95" type="identity">
+      <class id="have...been" label=""/>
+      <span end="24061" id="PMC6054603.nxml.gz-95" start="24052">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-96" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24355" id="PMC6054603.nxml.gz-96" start="24124">Measurement of infant skinfold thickness [36,37] and bio-impedance are considered reliable and relatively non-invasive methods of assessing fat distribution, both of which have been correlated with more invasive measures [36,38–40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-97" type="identity">
+      <class id="considered" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-98" type="identity">
+      <class id="have...been" label=""/>
+      <span end="24305" id="PMC6054603.nxml.gz-98" start="24296">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC6054603.nxml.gz-99" type="identity">
+      <class id="correlated" label=""/>
+      <span end="24316" id="PMC6054603.nxml.gz-99" start="24306">correlated</span>
+    </annotation>
+  </document>
+</knowtator-project>

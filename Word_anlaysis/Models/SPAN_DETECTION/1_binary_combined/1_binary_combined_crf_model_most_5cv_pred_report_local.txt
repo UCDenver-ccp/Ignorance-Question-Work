@@ -1,0 +1,73 @@
+CRF FILE
+sentence training length: 6573
+sentence testing length: 731
+              precision    recall  f1-score   support
+
+           B       0.73      0.62      0.67      9747
+           I       0.63      0.46      0.53      2684
+           O       0.97      0.99      0.98    211239
+          O-       0.38      0.12      0.18       557
+
+    accuracy                           0.96    224227
+   macro avg       0.68      0.55      0.59    224227
+weighted avg       0.96      0.96      0.96    224227
+
+
+TRAINING REPORT FOR CLASSIFICATION (TRAINING DATA ONLY)
+              precision    recall  f1-score   support
+
+         BEG       0.87      0.80      0.83      9747
+        DISC       0.82      0.71      0.76       180
+          IN       0.80      0.69      0.74      2162
+
+   micro avg       0.86      0.78      0.82     12089
+   macro avg       0.83      0.73      0.78     12089
+weighted avg       0.86      0.78      0.82     12089
+
+
+FULL REPORT FOR CLASSIFICATION (ALL DATA)
+              precision    recall  f1-score   support
+
+         BEG       0.86      0.80      0.82     10295
+        DISC       0.81      0.69      0.74       186
+          IN       0.78      0.67      0.72      2281
+
+   micro avg       0.84      0.77      0.81     12762
+   macro avg       0.81      0.72      0.76     12762
+weighted avg       0.84      0.77      0.81     12762
+
+
+TEST REPORT FOR CLASSIFICATION
+              precision    recall  f1-score   support
+
+         BEG       0.63      0.73      0.68       548
+        DISC       0.20      0.17      0.18         6
+          IN       0.46      0.46      0.46       119
+
+   micro avg       0.60      0.68      0.64       673
+   macro avg       0.43      0.45      0.44       673
+weighted avg       0.60      0.68      0.64       673
+
+
+TESTING INFORMATION
+              precision    recall  f1-score   support
+
+           B      0.633     0.732     0.679       548
+           I      0.545     0.586     0.565       145
+           O      0.991     0.988     0.989     24185
+          O-      0.062     0.036     0.045        28
+
+    accuracy                          0.979     24906
+   macro avg      0.558     0.585     0.570     24906
+weighted avg      0.980     0.979     0.979     24906
+
+
+FULL BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      0.934     0.779     0.849       456
+    ignorance      0.712     0.909     0.799       275
+
+     accuracy                          0.828       731
+    macro avg      0.823     0.844     0.824       731
+ weighted avg      0.851     0.828     0.830       731

@@ -12,7 +12,7 @@ from torch.utils.data import TensorDataset, DataLoader, RandomSampler, Sequentia
 from transformers import AdamW
 import argparse
 
-parser=argparse.ArgumentParser(description='Calc volume')
+parser=argparse.ArgumentParser(description='Classification')
 parser.add_argument('location',type=(str))
 args=parser.parse_args()
 

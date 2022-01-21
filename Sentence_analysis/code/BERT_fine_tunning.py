@@ -43,25 +43,6 @@ if __name__=='__main__':
     # Load the BERT tokenizer
     tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
     
-    
-    # sample data
-    text = ["this is a bert model tutorial", "we will fine-tune a bert model"]
-    
-    # encode text
-    sent_id = tokenizer.batch_encode_plus(text, padding=True)
-    
-    # output
-    print(sent_id)
-    
-    
-    
-    # get length of all the messages in the train set
-    seq_len = [len(i.split()) for i in train_text]
-    
-    pd.Series(seq_len).hist(bins = 30)
-    
-    
-    
     # tokenize and encode sequences in the training set
     tokens_train = tokenizer.batch_encode_plus(
         train_text.tolist(),

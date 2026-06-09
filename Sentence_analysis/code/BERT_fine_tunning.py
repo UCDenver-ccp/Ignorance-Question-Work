@@ -9,7 +9,7 @@ from transformers import AutoModel, BertTokenizerFast
 from ipywidgets import IntProgress
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
 # optimizer from hugging face transformers
-from transformers import AdamW
+from torch.optim import AdamW
 import argparse
 
 parser=argparse.ArgumentParser(description='Classification')
@@ -17,7 +17,8 @@ parser.add_argument('location',type=(str))
 args=parser.parse_args()
 
 # specify GPU
-device = torch.device("cuda")
+device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+
 
 if __name__=='__main__':
     # this is the training data path (make sure that caution marks around the path):

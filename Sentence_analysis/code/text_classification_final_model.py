@@ -4,8 +4,8 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
-from keras.models import Sequential
-from keras import callbacks, layers 
+from tf_keras.models import Sequential
+from tf_keras import callbacks, layers
 from sklearn.metrics import classification_report
 
 import argparse

@@ -1,7 +1,7 @@
 
-from keras.preprocessing.sequence import pad_sequences
+from tf_keras.preprocessing.sequence import pad_sequences
 import pandas as pd
-from keras.preprocessing.text import Tokenizer
+from tf_keras.preprocessing.text import Tokenizer
 import tensorflow as tf
 
 import argparse

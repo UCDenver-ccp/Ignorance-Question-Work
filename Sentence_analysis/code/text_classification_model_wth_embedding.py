@@ -1,11 +1,11 @@
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from keras.preprocessing.text import Tokenizer
-from keras.preprocessing.sequence import pad_sequences
-from keras.models import Sequential
-from keras import layers
-from keras import callbacks
+from tf_keras.preprocessing.text import Tokenizer
+from tf_keras.preprocessing.sequence import pad_sequences
+from tf_keras.models import Sequential
+from tf_keras import layers
+from tf_keras import callbacks
 from sklearn.metrics import classification_report
 import tensorflow as tf
 
